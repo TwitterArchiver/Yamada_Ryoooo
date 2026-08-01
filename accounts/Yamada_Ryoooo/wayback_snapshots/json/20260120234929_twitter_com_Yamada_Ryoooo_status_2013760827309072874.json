@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013413738859073779",
+    "created_at": "2026-01-20T23:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013760827309072874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        },
+        {
+          "end": 37,
+          "id": "1153970326604144640",
+          "start": 26,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013760827309072874",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013727619783528765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 虽然不起号，但我也想混个互fo🥺\n@Ruters0615 都回关我了你不点点吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013413738859073779",
+        "created_at": "2026-01-20T23:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T00:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013760827309072874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            },
+            {
+              "end": 37,
+              "id": "1153970326604144640",
+              "start": 26,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013760827309072874",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013727619783528765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 虽然不起号，但我也想混个互fo🥺\n@Ruters0615 都回关我了你不点点吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239457591417171973",
+        "conversation_id": "2013413738859073779",
+        "created_at": "2026-01-20T21:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T22:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013727619783528765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013727619783528765",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013413738859073779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回关数量达到上限了，可能要24小时后才能再加，我还没回关的起号蓝V们在这条推文里评论吧👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 1082,
+          "like_count": 15128,
+          "listed_count": 21,
+          "media_count": 1481,
+          "tweet_count": 8581
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/RDqRjAemGp 150岁爷习近平粉丝群：https://t.co/tzbqdA1pKg\n频道：https://t.co/Evu48wmwfT \n#大自爆运动 #大冲塔运动 #大传单运动 全中国🇨🇳 #遍地开花 进行中…\n🐸邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 98,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "大传单运动"
+              },
+              {
+                "end": 130,
+                "start": 125,
+                "tag": "遍地开花"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/laohuhaha_bot",
+                "end": 33,
+                "expanded_url": "http://t.me/laohuhaha_bot",
+                "start": 10,
+                "url": "https://t.co/RDqRjAemGp"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 69,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 46,
+                "url": "https://t.co/tzbqdA1pKg"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 96,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 73,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2013413738859073779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820777713221633/f9HElYyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259138,
+          "following_count": 2427,
+          "like_count": 118385,
+          "listed_count": 889,
+          "media_count": 6576,
+          "tweet_count": 12512
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1984884324806828349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295824,
+          "following_count": 2383,
+          "like_count": 2366,
+          "listed_count": 935,
+          "media_count": 2314,
+          "tweet_count": 3082
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

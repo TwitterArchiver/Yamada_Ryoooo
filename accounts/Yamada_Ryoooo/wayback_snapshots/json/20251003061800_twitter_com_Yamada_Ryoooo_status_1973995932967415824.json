@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1973995014498697383",
+    "created_at": "2025-10-03T06:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T07:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973995932967415824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 53,
+          "id": "1720665183188922368",
+          "start": 48,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973995932967415824",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973995624845676799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 根据我的互相关注的推文，来对号入座一下他们如下的身份，只写昵称和理由，不要@用户名\n@grok \n\n性压抑看黄男：\n中国共产党的坚定拥护者：\n魅魔：\n比格犬：\n性欲旺盛的小学生：\n直到三十岁还是处男的社畜：\n清纯可爱的女高中生1：\n清纯可爱的女高中生2：\n清纯可爱的女高中生3：\n清纯可爱的女高中生4："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1973995014498697383",
+        "created_at": "2025-10-03T06:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973995932967415824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 53,
+              "id": "1720665183188922368",
+              "start": 48,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973995932967415824",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973995624845676799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 根据我的互相关注的推文，来对号入座一下他们如下的身份，只写昵称和理由，不要@用户名\n@grok \n\n性压抑看黄男：\n中国共产党的坚定拥护者：\n魅魔：\n比格犬：\n性欲旺盛的小学生：\n直到三十岁还是处男的社畜：\n清纯可爱的女高中生1：\n清纯可爱的女高中生2：\n清纯可爱的女高中生3：\n清纯可爱的女高中生4："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1973995014498697383",
+        "created_at": "2025-10-03T06:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973995624845676799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973995624845676799",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "娇小的小萝莉：花火酱，因为推文可爱活泼，像小女孩在玩闹。\n\n可靠的大哥哥：雲鳩，因为分享有趣知识，感觉可靠。\n\n可爱的伪娘：生力麵，因为bio表示MTX，风格可爱。\n\n可以当我母亲的人：枫糖，因为推文温柔体贴，像母亲照顾。\n\n小孩：vicoOciOlvidar，因为推文天真，像小孩子。\n\n我的宿敌：川和喵酱薯条，因为推文涉政，与你避政不同。\n\n我的恋人：神仙水水猫，因为推文亲切可爱，像亲密伴侣。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973995238612979741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 娇小的小萝莉：花火酱，因为推文可爱活泼，像小女孩在玩闹。\n\n可靠的大哥哥：雲鳩，因为分享有趣知识，感觉可靠。\n\n可爱的伪娘：生力麵，因为bio表示MTX，风格可爱。\n\n可以当我母亲的人：枫糖，因为推文温柔体贴，像母亲照顾。\n\n小孩：vicoOciOlvidar，因为推文天真，像小孩子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 690,
+          "like_count": 13363,
+          "listed_count": 20,
+          "media_count": 1356,
+          "tweet_count": 7727
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378560,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5031,
+          "media_count": 2680193,
+          "tweet_count": 53601500
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

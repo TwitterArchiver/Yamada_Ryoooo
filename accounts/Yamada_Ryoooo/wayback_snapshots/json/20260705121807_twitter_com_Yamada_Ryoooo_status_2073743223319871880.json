@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2073632969726558458",
+    "created_at": "2026-07-05T12:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073743223319871880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073743223319871880",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073632969726558458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 纸人放进水里能不能用傀儡术还魂🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45833,
+        "height": 1280,
+        "media_key": "13_2073631985634054144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073631985634054144/img/dduo3-PdQmiEBIqW.jpg",
+        "public_metrics": {
+          "view_count": 508
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073631985634054144/vid/avc1/320x568/2ay2mU3XvZGpAjKz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073631985634054144/vid/avc1/480x852/YiRGfvYXeNWwTRjt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073631985634054144/vid/avc1/720x1280/XsroD4muPpqbgNqz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073631985634054144/pl/QEcaYoff9pytxlwh.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2073632969726558458",
+        "created_at": "2026-07-05T12:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073743223319871880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073743223319871880",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073632969726558458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 纸人放进水里能不能用傀儡术还魂🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073631985634054144"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073632969726558458",
+        "created_at": "2026-07-05T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073632969726558458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzxEluUfRO",
+              "end": 99,
+              "expanded_url": "https://x.com/Rococo90933671/status/2073632969726558458/video/1",
+              "media_key": "13_2073631985634054144",
+              "start": 76,
+              "url": "https://t.co/UzxEluUfRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073632969726558458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1058,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新情报：据传，龚爸为纪念三年前落水而亡的儿子幺幺而特意制作的、吓到无数网友的幺幺布玩偶被偷了。\np.s.视频拍摄者并非偷窃者，只是来看看幺幺家的样子 https://t.co/UzxEluUfRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6506,
+          "following_count": 971,
+          "like_count": 17780,
+          "listed_count": 22,
+          "media_count": 1820,
+          "tweet_count": 10013
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13096,
+          "following_count": 3175,
+          "like_count": 42749,
+          "listed_count": 41,
+          "media_count": 4587,
+          "tweet_count": 23563
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1980121213071720514",
+    "created_at": "2025-10-20T22:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T23:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980404385621635426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562255881432993793",
+          "start": 0,
+          "username": "DragonRaja_rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980404385621635426",
+    "in_reply_to_user_id": "1562255881432993793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980121520581263661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DragonRaja_rain 但是长对话有时候他就突然偏移话题，而且全都想不起来前面的对话了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1980121213071720514",
+        "created_at": "2025-10-20T22:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T23:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980404385621635426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562255881432993793",
+              "start": 0,
+              "username": "DragonRaja_rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980404385621635426",
+        "in_reply_to_user_id": "1562255881432993793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980121520581263661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DragonRaja_rain 但是长对话有时候他就突然偏移话题，而且全都想不起来前面的对话了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562255881432993793",
+        "conversation_id": "1980121213071720514",
+        "created_at": "2025-10-20T03:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980121520581263661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980121520581263661",
+        "in_reply_to_user_id": "1562255881432993793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980121213071720514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini能够始终聚焦用户需求推理，这个可以作为加分项。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 692,
+          "like_count": 13427,
+          "listed_count": 20,
+          "media_count": 1363,
+          "tweet_count": 7817
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T01:50:20.000Z",
+        "description": "中国GDP已突破300 Googol，位居宇宙第一；中国人均月收入达到10000 quetta；中国第1989艘航天器母舰新加坡舰正式进入太空；量子网络全面覆盖，超弦网络正在试点；神州8964号宇宙飞船搭载首批乘客前往Gliese 581c",
+        "id": "1562255881432993793",
+        "location": "Tokyo-to, Japan",
+        "name": "上杉绘梨衣🇨🇳🇹🇼🇯🇵",
+        "pinned_tweet_id": "1752188815035543830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883111636103532544/PXhhot_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 2326,
+          "like_count": 151659,
+          "listed_count": 24,
+          "media_count": 1765,
+          "tweet_count": 19066
+        },
+        "username": "DragonRaja_rain",
+        "verified": false
+      }
+    ]
+  }
+}

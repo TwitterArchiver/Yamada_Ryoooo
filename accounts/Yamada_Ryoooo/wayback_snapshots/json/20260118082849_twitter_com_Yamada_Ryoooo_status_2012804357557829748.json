@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012602714786771282",
+    "created_at": "2026-01-18T08:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012804357557829748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        },
+        {
+          "end": 26,
+          "id": "1884297199967952896",
+          "start": 13,
+          "username": "Vivian193299"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2012804357557829748",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012802793875075318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime @Vivian193299 🫡"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012602714786771282",
+        "created_at": "2026-01-18T08:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012804357557829748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 26,
+              "id": "1884297199967952896",
+              "start": 13,
+              "username": "Vivian193299"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2012804357557829748",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012802793875075318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime @Vivian193299 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165044876297134080",
+        "conversation_id": "2012602714786771282",
+        "created_at": "2026-01-18T08:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012802793875075318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 28,
+              "id": "1884297199967952896",
+              "start": 15,
+              "username": "Vivian193299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012802793875075318",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012715272797376663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @Vivian193299 好，速来！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5323,
+          "following_count": 813,
+          "like_count": 14479,
+          "listed_count": 21,
+          "media_count": 1452,
+          "tweet_count": 8461
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2012553157209927938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8064,
+          "following_count": 615,
+          "like_count": 9296,
+          "listed_count": 24,
+          "media_count": 741,
+          "tweet_count": 6214
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-28T17:47:25.000Z",
+        "description": "不构成投资建议，跳楼止损韭菜小V（💡 ISFP的追星和碎碎念投资日记本 （Patience, confidence, discipline and a winning attitude ）",
+        "id": "1884297199967952896",
+        "location": "Seattle, WA",
+        "name": "Vivian",
+        "pinned_tweet_id": "2012602714786771282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950314026317369344/SwC1Dr6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 1361,
+          "like_count": 17193,
+          "listed_count": 36,
+          "media_count": 132,
+          "tweet_count": 2033
+        },
+        "username": "Vivian193299",
+        "verified": true
+      }
+    ]
+  }
+}

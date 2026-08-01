@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202045",
+          "name": "Facebook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2022314789809291543",
+    "created_at": "2026-02-13T14:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022314789809291543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yeahwu404/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/yeahwu404/status/2022139580334715070",
+          "start": 43,
+          "url": "https://t.co/bToAJpfJcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022314789809291543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022139580334715070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这个和系统地区有关\n就算你是中国id，只要手机系统地区设置成美国这些app直接下 https://t.co/bToAJpfJcR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2022138043587850240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAT1j7bcAAdJ5Z.jpg",
+        "width": 750
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2022138052358086656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAT2EmaoAAmG9j.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2022314789809291543",
+        "created_at": "2026-02-13T14:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022314789809291543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeahwu404/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/yeahwu404/status/2022139580334715070",
+              "start": 43,
+              "url": "https://t.co/bToAJpfJcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022314789809291543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022139580334715070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这个和系统地区有关\n就算你是中国id，只要手机系统地区设置成美国这些app直接下 https://t.co/bToAJpfJcR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022138043587850240",
+            "3_2022138052358086656"
+          ]
+        },
+        "author_id": "3645622759",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2022139580334715070",
+        "created_at": "2026-02-13T02:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:37:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022138135489261699",
+          "2022139580334715070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg3uSt0OnE",
+              "end": 98,
+              "expanded_url": "https://x.com/yeahwu404/status/2022139580334715070/photo/1",
+              "media_key": "3_2022138043587850240",
+              "start": 75,
+              "url": "https://t.co/eg3uSt0OnE"
+            },
+            {
+              "display_url": "pic.x.com/eg3uSt0OnE",
+              "end": 98,
+              "expanded_url": "https://x.com/yeahwu404/status/2022139580334715070/photo/1",
+              "media_key": "3_2022138052358086656",
+              "start": 75,
+              "url": "https://t.co/eg3uSt0OnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022139580334715070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 845093,
+          "like_count": 638,
+          "quote_count": 7,
+          "reply_count": 265,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚测试，苹果国区App Store已经可以下载YouTube，X，Facebook等，对于以前禁止的VPN类应用，也能搜索到了。审核员都放假了？🎣 https://t.co/eg3uSt0OnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 1079,
+          "like_count": 15742,
+          "listed_count": 22,
+          "media_count": 1520,
+          "tweet_count": 8841
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-22T05:50:09.000Z",
+        "description": "TG频道：https://t.co/XecRtYVXfl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hello_1024",
+                "end": 28,
+                "expanded_url": "http://t.me/Hello_1024",
+                "start": 5,
+                "url": "https://t.co/XecRtYVXfl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1024.day",
+                "end": 23,
+                "expanded_url": "https://1024.day",
+                "start": 0,
+                "url": "https://t.co/CWwF31aaRR"
+              }
+            ]
+          }
+        },
+        "id": "3645622759",
+        "name": "七舅姥爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758615102564163584/BRWfouwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14787,
+          "following_count": 554,
+          "like_count": 1821,
+          "listed_count": 154,
+          "media_count": 302,
+          "tweet_count": 3653
+        },
+        "url": "https://t.co/CWwF31aaRR",
+        "username": "yeahwu404",
+        "verified": true
+      }
+    ]
+  }
+}

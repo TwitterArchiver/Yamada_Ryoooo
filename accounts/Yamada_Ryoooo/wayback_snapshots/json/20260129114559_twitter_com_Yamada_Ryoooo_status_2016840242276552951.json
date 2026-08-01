@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2016791424034075082",
+    "created_at": "2026-01-29T11:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016840242276552951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2870513395",
+          "start": 0,
+          "username": "DongBeiYuZaiLXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016840242276552951",
+    "in_reply_to_user_id": "2870513395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016791424034075082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DongBeiYuZaiLXF 要被管教打了😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016791419541917696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0VHFPaEAA_aiJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2016791424034075082",
+        "created_at": "2026-01-29T11:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016840242276552951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2870513395",
+              "start": 0,
+              "username": "DongBeiYuZaiLXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016840242276552951",
+        "in_reply_to_user_id": "2870513395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016791424034075082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DongBeiYuZaiLXF 要被管教打了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016791419541917696"
+          ]
+        },
+        "author_id": "2870513395",
+        "conversation_id": "2016791424034075082",
+        "created_at": "2026-01-29T08:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016791424034075082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Sj1EHDv7G",
+              "end": 40,
+              "expanded_url": "https://x.com/DongBeiYuZaiLXF/status/2016791424034075082/photo/1",
+              "media_key": "3_2016791419541917696",
+              "start": 17,
+              "url": "https://t.co/4Sj1EHDv7G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016791424034075082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2692,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个假冒维吾尔人的账号炸了🤭🤭🤭 https://t.co/4Sj1EHDv7G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5959,
+          "following_count": 1078,
+          "like_count": 15523,
+          "listed_count": 21,
+          "media_count": 1508,
+          "tweet_count": 8724
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-22T08:20:51.000Z",
+        "description": "精日流脱支派：以日本和日本人为参照物，认清反省并清除自身残留的支性，致力达成精神上同步现代文明社会价值观，现实中融入日本社会的老逼中自我改造。（精日：以日本为参照，向往并学习日本人的精神和行为方式。脱支：支性是对那些与现代文明思想格格不入的国人的一种定性。去除支性，完成蜕变是 现代中国人唯一的出路。）",
+        "id": "2870513395",
+        "name": "东北御厨💙💛",
+        "pinned_tweet_id": "1994686640854634630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741666641472294912/UnxLLzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15586,
+          "following_count": 2151,
+          "like_count": 109363,
+          "listed_count": 107,
+          "media_count": 3551,
+          "tweet_count": 48575
+        },
+        "username": "DongBeiYuZaiLXF",
+        "verified": true
+      }
+    ]
+  }
+}

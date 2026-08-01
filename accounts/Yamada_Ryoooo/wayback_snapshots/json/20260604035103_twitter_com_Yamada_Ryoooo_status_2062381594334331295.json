@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2062124052123402330",
+    "created_at": "2026-06-04T03:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062381594334331295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1845683540052287488",
+          "start": 0,
+          "username": "lixiuyuan2023"
+        },
+        {
+          "end": 26,
+          "id": "1753293214826848256",
+          "start": 15,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062381594334331295",
+    "in_reply_to_user_id": "1845683540052287488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062380836927029583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lixiuyuan2023 @tatanakots 1，app会注入提示词引导所以api效果最好\n2，需要长的越狱提示词，这种短的已经没用了，建议去搜一下deepseek v4越狱提示词"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062380832128729090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8McJqbgAItBOM.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-04T03:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062381594334331295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1845683540052287488",
+              "start": 0,
+              "username": "lixiuyuan2023"
+            },
+            {
+              "end": 26,
+              "id": "1753293214826848256",
+              "start": 15,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062381594334331295",
+        "in_reply_to_user_id": "1845683540052287488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062380836927029583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lixiuyuan2023 @tatanakots 1，app会注入提示词引导所以api效果最好\n2，需要长的越狱提示词，这种短的已经没用了，建议去搜一下deepseek v4越狱提示词"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062380832128729090"
+          ]
+        },
+        "author_id": "1845683540052287488",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-04T03:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062380836927029583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 26,
+              "id": "1753293214826848256",
+              "start": 15,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ac6JTWrtSa",
+              "end": 63,
+              "expanded_url": "https://x.com/lixiuyuan2023/status/2062380836927029583/photo/1",
+              "media_key": "3_2062380832128729090",
+              "start": 40,
+              "url": "https://t.co/ac6JTWrtSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062380836927029583",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062134734508229014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @tatanakots 怎么做到的，怎么我的不给 https://t.co/ac6JTWrtSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6538,
+          "following_count": 1012,
+          "like_count": 17766,
+          "listed_count": 23,
+          "media_count": 1799,
+          "tweet_count": 9880
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-14T04:30:34.000Z",
+        "description": "",
+        "id": "1845683540052287488",
+        "name": "李修缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948866217688924163/1NicK2t1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 31,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "username": "lixiuyuan2023",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 430,
+          "like_count": 30940,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 13459
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

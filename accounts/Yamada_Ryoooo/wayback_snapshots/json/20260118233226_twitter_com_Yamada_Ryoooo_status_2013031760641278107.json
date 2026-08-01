@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013031760641278107",
+    "created_at": "2026-01-18T23:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013031760641278107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jamesjarvi6680…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jamesjarvi66800/status/2012826845041787378",
+          "start": 3,
+          "url": "https://t.co/7dmpUK16n4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013031760641278107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012826845041787378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这啥 https://t.co/7dmpUK16n4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2012826833167806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7_VyFXcAAE5Y3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013031760641278107",
+        "created_at": "2026-01-18T23:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013031760641278107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jamesjarvi6680…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jamesjarvi66800/status/2012826845041787378",
+              "start": 3,
+              "url": "https://t.co/7dmpUK16n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013031760641278107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012826845041787378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这啥 https://t.co/7dmpUK16n4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012826833167806464"
+          ]
+        },
+        "author_id": "1845180155943133197",
+        "conversation_id": "2012826845041787378",
+        "created_at": "2026-01-18T09:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012826845041787378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2PUPkCyE7l",
+              "end": 46,
+              "expanded_url": "https://x.com/JamesJarvi66800/status/2012826845041787378/photo/1",
+              "media_key": "3_2012826833167806464",
+              "start": 23,
+              "url": "https://t.co/2PUPkCyE7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012826845041787378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 84289,
+          "like_count": 2240,
+          "quote_count": 70,
+          "reply_count": 56,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "昨日水族館でコブダイ見たけど、撮り方が... https://t.co/2PUPkCyE7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 1120,
+          "like_count": 14876,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8606
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T19:10:14.000Z",
+        "description": "心が汚れてると違うものに見える画像を紹介します。\n応募はDMまで📩",
+        "id": "1845180155943133197",
+        "name": "心の汚れbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966823206297411585/Loy35YlG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 858,
+          "like_count": 20,
+          "listed_count": 10,
+          "media_count": 168,
+          "tweet_count": 722
+        },
+        "username": "JamesJarvi66800",
+        "verified": false
+      }
+    ]
+  }
+}

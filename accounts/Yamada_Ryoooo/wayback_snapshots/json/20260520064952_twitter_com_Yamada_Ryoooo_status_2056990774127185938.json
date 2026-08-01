@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056990767223332864"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2056715738183032866",
+    "created_at": "2026-05-20T06:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056990774127185938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/58j7aSEl3G",
+          "end": 39,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2056990774127185938/photo/1",
+          "media_key": "3_2056990767223332864",
+          "start": 16,
+          "url": "https://t.co/58j7aSEl3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056990774127185938",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056989016864718973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 早就停了😭😭😭 https://t.co/58j7aSEl3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056990767223332864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvmNFKa4AAmad9.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056990767223332864"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2056715738183032866",
+        "created_at": "2026-05-20T06:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056990774127185938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/58j7aSEl3G",
+              "end": 39,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2056990774127185938/photo/1",
+              "media_key": "3_2056990767223332864",
+              "start": 16,
+              "url": "https://t.co/58j7aSEl3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056990774127185938",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056989016864718973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 早就停了😭😭😭 https://t.co/58j7aSEl3G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2056715738183032866",
+        "created_at": "2026-05-20T06:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056989016864718973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056989016864718973",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056982669792264470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 你被停了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6572,
+          "following_count": 1002,
+          "like_count": 17496,
+          "listed_count": 24,
+          "media_count": 1784,
+          "tweet_count": 9764
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot / AI 漫画故事",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5539,
+          "following_count": 2957,
+          "like_count": 49384,
+          "listed_count": 19,
+          "media_count": 2903,
+          "tweet_count": 12444
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

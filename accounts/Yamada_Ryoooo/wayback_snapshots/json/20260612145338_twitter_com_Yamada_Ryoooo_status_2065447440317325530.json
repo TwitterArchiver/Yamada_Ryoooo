@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065447423074615296"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2065447440317325530",
+    "created_at": "2026-06-12T14:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065447440317325530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/59l9Cc9gar",
+          "end": 108,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2065447440317325530/photo/1",
+          "media_key": "3_2065447423074615296",
+          "start": 85,
+          "url": "https://t.co/59l9Cc9gar"
+        },
+        {
+          "display_url": "x.com/yamada_ryoooo/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/yamada_ryoooo/status/2065401506132906054",
+          "start": 109,
+          "url": "https://t.co/EFe3WTKcYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065447440317325530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065401506132906054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前的北京学生：Go to march, Tiananmen Square. Why? I think, because it’s my duty！\n\n现在的北京学生： https://t.co/59l9Cc9gar https://t.co/EFe3WTKcYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_2065447423074615296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnxfPKbwAAw3So.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065447423074615296"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2065447440317325530",
+        "created_at": "2026-06-12T14:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065447440317325530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59l9Cc9gar",
+              "end": 108,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2065447440317325530/photo/1",
+              "media_key": "3_2065447423074615296",
+              "start": 85,
+              "url": "https://t.co/59l9Cc9gar"
+            },
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/2065401506132906054",
+              "start": 109,
+              "url": "https://t.co/EFe3WTKcYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065447440317325530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065401506132906054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前的北京学生：Go to march, Tiananmen Square. Why? I think, because it’s my duty！\n\n现在的北京学生： https://t.co/59l9Cc9gar https://t.co/EFe3WTKcYm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2065401506132906054",
+        "created_at": "2026-06-12T11:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065401506132906054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0427smtieshou/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/0427smtieshou/status/2065230098434039874",
+              "start": 29,
+              "url": "https://t.co/6weTZXqOj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065401506132906054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065230098434039874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿姨你鹅腿发绿可能是变质了\n\n：你学历高不过我你信不信？ https://t.co/6weTZXqOj8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6553,
+          "following_count": 1019,
+          "like_count": 17889,
+          "listed_count": 22,
+          "media_count": 1807,
+          "tweet_count": 9940
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1994077949062987791",
+    "created_at": "2025-11-28T09:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T10:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994336646029086769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "aya_the_raven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994336646029086769",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994077949062987791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aya_the_raven 香啊造啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1994077946416381955",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xjU8KWwAMe9fs.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1994077949062987791",
+        "created_at": "2025-11-28T09:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994336646029086769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "aya_the_raven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994336646029086769",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994077949062987791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aya_the_raven 香啊造啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994077946416381955"
+          ]
+        },
+        "author_id": "1680291377228259330",
+        "conversation_id": "1994077949062987791",
+        "created_at": "2025-11-27T16:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994077949062987791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbX33DkDOo",
+              "end": 43,
+              "expanded_url": "https://x.com/aya_the_raven/status/1994077949062987791/photo/1",
+              "media_key": "3_1994077946416381955",
+              "start": 20,
+              "url": "https://t.co/UbX33DkDOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994077949062987791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3245,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛批，全推特最後一個黃泛區碳水老農民 https://t.co/UbX33DkDOo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5438,
+          "following_count": 673,
+          "like_count": 13774,
+          "listed_count": 20,
+          "media_count": 1405,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Domus mea domus orationis vocabitur",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Novasibirsk, Adaptatsiya Ini.",
+        "name": "La période azurée de Aya",
+        "pinned_tweet_id": "1954710109612888230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928284741125410816/sg2I6KMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 3738,
+          "like_count": 47509,
+          "listed_count": 32,
+          "media_count": 1239,
+          "tweet_count": 13997
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      }
+    ]
+  }
+}

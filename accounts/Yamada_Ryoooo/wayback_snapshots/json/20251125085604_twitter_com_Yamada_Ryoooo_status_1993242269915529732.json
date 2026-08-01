@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1993226133454963082",
+    "created_at": "2025-11-25T08:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993242269915529732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576791571831422976",
+          "start": 0,
+          "username": "linjiyewei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993242269915529732",
+    "in_reply_to_user_id": "1576791571831422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993226133454963082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiyewei 华为手机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993226120981032960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lcmLIasAASXqv.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993226121031434244",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lcmLUbwAQXeNl.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1993226133454963082",
+        "created_at": "2025-11-25T08:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993242269915529732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993242269915529732",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993226133454963082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei 华为手机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993226120981032960",
+            "3_1993226121031434244"
+          ]
+        },
+        "author_id": "1576791571831422976",
+        "conversation_id": "1993226133454963082",
+        "created_at": "2025-11-25T07:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993226133454963082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amink1lDSZ",
+              "end": 34,
+              "expanded_url": "https://x.com/linjiyewei/status/1993226133454963082/photo/1",
+              "media_key": "3_1993226120981032960",
+              "start": 11,
+              "url": "https://t.co/amink1lDSZ"
+            },
+            {
+              "display_url": "pic.x.com/amink1lDSZ",
+              "end": 34,
+              "expanded_url": "https://x.com/linjiyewei/status/1993226133454963082/photo/1",
+              "media_key": "3_1993226121031434244",
+              "start": 11,
+              "url": "https://t.co/amink1lDSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993226133454963082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意手机截图的状态栏 https://t.co/amink1lDSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4645,
+          "following_count": 672,
+          "like_count": 13717,
+          "listed_count": 19,
+          "media_count": 1401,
+          "tweet_count": 8035
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "我嘅名係林績業為，cn小林/Ray，from中華人民共和國🇨🇳香港特別行政區🇭🇰，16 years old,住喺上海，studying in Shanghai Communications Polytechnic(中職部)now。主玩War Thunder同CS2，歡迎擴列，有咩問題仲請大家指教，多謝",
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為",
+        "pinned_tweet_id": "1992591058375717170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 691,
+          "like_count": 21559,
+          "listed_count": 26,
+          "media_count": 3107,
+          "tweet_count": 11306
+        },
+        "username": "linjiyewei",
+        "verified": false
+      }
+    ]
+  }
+}

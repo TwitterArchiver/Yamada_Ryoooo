@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2011595653475192870",
+    "created_at": "2026-01-18T10:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012836319202828493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2009442309688184832",
+          "start": 0,
+          "username": "Noahflame9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012836319202828493",
+    "in_reply_to_user_id": "2009442309688184832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011595653475192870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noahflame9 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2011595645115936768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-qflNLbsAA2ct9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2011595653475192870",
+        "created_at": "2026-01-18T10:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012836319202828493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009442309688184832",
+              "start": 0,
+              "username": "Noahflame9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012836319202828493",
+        "in_reply_to_user_id": "2009442309688184832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011595653475192870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noahflame9 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011595645115936768"
+          ]
+        },
+        "author_id": "2009442309688184832",
+        "conversation_id": "2011595653475192870",
+        "created_at": "2026-01-15T00:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T01:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011595653475192870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3534b611b",
+              "end": 172,
+              "expanded_url": "https://x.com/Noahflame9/status/2011595653475192870/photo/1",
+              "media_key": "3_2011595645115936768",
+              "start": 149,
+              "url": "https://t.co/h3534b611b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011595653475192870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "写在最前面：\n这不是一个单纯互关的群。\n互关很容易，\n但真正稀缺的是——\n有人愿意认真看完你写的东西，\n然后给出一句有价值的回应。\n我不太喜欢现在的 X 生态。\n好内容沉下去，噪音浮上来。\n所以我想做一件很小的事：\n把愿意认真表达的人，先聚在一起。\n不求规模，只求每一次互动是真的。\n如果你也怀念\n“发一条内容，就能被认真对待”的感觉，\n如果你也在找这样的地方，\n那我们可以同行一段。\n\n我建了一个群\n群不会大，也不一定适合所有人。\n如果你愿意认真表达，也愿意认真对待别人的表达\n帖子下方点赞评论我拉你\n\n1️⃣ 不强制互转 / 互评\n你只转你真心觉得好的内容。\n“义务式互动”会快速毁掉这个群。\n2️⃣ 鼓励不同观点，但拒绝阴阳怪气\n可以反对、可以补充、可以指出问题。\n不欢迎嘲讽、优越感、站位输出。\n3️⃣ 不刷屏，不广告，不拉人头\n工具、资源、项目可以分享，\n前提是：你自己用过，并能说清楚价值和限制。\n\n最后: 这个群是实验，不是承诺\n如果你发现不适合你，随时可以离开，\n不用告别，也不必解释。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17009,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "写在最前面：\n这不是一个单纯互关的群。\n互关很容易，\n但真正稀缺的是——\n有人愿意认真看完你写的东西，\n然后给出一句有价值的回应。\n我不太喜欢现在的 X 生态。\n好内容沉下去，噪音浮上来。\n所以我想做一件很小的事：\n把愿意认真表达的人，先聚在一起。\n不求规模，只求每一次互动是真的。\n如果你也怀念 https://t.co/h3534b611b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5376,
+          "following_count": 872,
+          "like_count": 14578,
+          "listed_count": 21,
+          "media_count": 1455,
+          "tweet_count": 8481
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T01:49:22.000Z",
+        "description": "带你在信息的海洋里，寻找陆地\n分享信息，工具和思考",
+        "id": "2009442309688184832",
+        "name": "诺鸭船长",
+        "pinned_tweet_id": "2011595653475192870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009442450151251968/bPCSa04t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 1079,
+          "like_count": 1283,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1606
+        },
+        "username": "Noahflame9",
+        "verified": true
+      }
+    ]
+  }
+}

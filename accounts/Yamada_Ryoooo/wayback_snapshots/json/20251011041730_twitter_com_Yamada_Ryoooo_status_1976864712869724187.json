@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1976752895908626463",
+    "created_at": "2025-10-11T04:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976864712869724187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976864712869724187",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976752895908626463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10051,
+        "height": 3838,
+        "media_key": "13_1976752789109063683",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976752789109063683/img/jlsisjq17fiNgWJS.jpg",
+        "public_metrics": {
+          "view_count": 2015
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/pl/mVzdwBu0BAzyRcK2.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/vid/avc1/1080x1918/A7HyHGXBPd_8OrY4.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/vid/avc1/2160x3838/2MfCrC_FjxmSL4py.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/vid/avc1/480x852/D9cFuXFCmaZf7UgA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/vid/avc1/720x1278/8vKfdpkY8EFzSZL9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976752789109063683/vid/avc1/320x568/05mOL3z5eHiv70ry.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1976752895908626463",
+        "created_at": "2025-10-11T04:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976864712869724187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976864712869724187",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976752895908626463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976752789109063683"
+          ]
+        },
+        "author_id": "993886755878191104",
+        "conversation_id": "1976752895908626463",
+        "created_at": "2025-10-10T20:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976752895908626463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfjSEyRpqq",
+              "end": 71,
+              "expanded_url": "https://x.com/tokiseki_kurumi/status/1976752895908626463/video/1",
+              "media_key": "13_1976752789109063683",
+              "start": 48,
+              "url": "https://t.co/wfjSEyRpqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976752895908626463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3893,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "qwq\n第一次玩四爱\n被大姐姐的大唧唧草的翻白眼qwq\n爽的受不了然后自己跑掉又被拽回去🥵🥵🥵 https://t.co/wfjSEyRpqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 696,
+          "like_count": 13347,
+          "listed_count": 20,
+          "media_count": 1361,
+          "tweet_count": 7779
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~ \n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMhq4Z"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "1973357017793437938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25970,
+          "following_count": 14105,
+          "like_count": 1510,
+          "listed_count": 61,
+          "media_count": 2558,
+          "tweet_count": 8655
+        },
+        "url": "https://t.co/hCc1qMhq4Z",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      }
+    ]
+  }
+}

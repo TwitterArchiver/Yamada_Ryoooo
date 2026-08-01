@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2033601874130309371",
+    "created_at": "2026-03-16T17:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033601874130309371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/colo778899/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/colo778899/status/2033028419186012301",
+          "start": 9,
+          "url": "https://t.co/Ef67V4UcqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033601874130309371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033028419186012301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的推特好难看。 https://t.co/Ef67V4UcqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68200,
+        "height": 720,
+        "media_key": "13_2033028329226514437",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033028329226514437/img/wdwV4yjZw6SzbkGc.jpg",
+        "public_metrics": {
+          "view_count": 117381
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033028329226514437/vid/avc1/320x320/We2lc80ZNyoxh3Oe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033028329226514437/vid/avc1/540x540/w2FalWuM46HnJBHd.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033028329226514437/vid/avc1/720x720/nbUkIN73ZIthiboh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033028329226514437/pl/WR4WFPZRM_Nm8jfZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2033601874130309371",
+        "created_at": "2026-03-16T17:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033601874130309371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/colo778899/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/colo778899/status/2033028419186012301",
+              "start": 9,
+              "url": "https://t.co/Ef67V4UcqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033601874130309371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033028419186012301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的推特好难看。 https://t.co/Ef67V4UcqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033028329226514437"
+          ]
+        },
+        "author_id": "2022247751095091200",
+        "conversation_id": "2033028419186012301",
+        "created_at": "2026-03-15T03:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033028419186012301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @xiongxiongzhenxuan right away.",
+              "display_url": "t.me/xiongxiongzhen…",
+              "end": 48,
+              "expanded_url": "http://t.me/xiongxiongzhenxuan",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2031072118943920130/8l9gKfvq?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031072118943920130/8l9gKfvq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "熊熊甄选预览群",
+              "unwound_url": "https://t.me/xiongxiongzhenxuan",
+              "url": "https://t.co/zGpmoebdFQ"
+            },
+            {
+              "display_url": "pic.x.com/KqtZaBHvtE",
+              "end": 72,
+              "expanded_url": "https://x.com/colo778899/status/2033028419186012301/video/1",
+              "media_key": "13_2033028329226514437",
+              "start": 49,
+              "url": "https://t.co/KqtZaBHvtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033028419186012301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2034,
+          "impression_count": 28942,
+          "like_count": 5007,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 467
+        },
+        "reply_settings": "everyone",
+        "text": "镰仓被撞出尿\n总时长：17:02\n进群观看完整版：https://t.co/zGpmoebdFQ https://t.co/KqtZaBHvtE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6201,
+          "following_count": 1061,
+          "like_count": 16544,
+          "listed_count": 21,
+          "media_count": 1587,
+          "tweet_count": 9179
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T09:55:02.000Z",
+        "description": "分享一些熊熊视频 如有侵权请通知删🙇‍♂️            完整版视频：https://t.co/BAyzuW8W1f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiongxiongzhen…",
+                "end": 62,
+                "expanded_url": "http://t.me/xiongxiongzhenxuan",
+                "start": 39,
+                "url": "https://t.co/BAyzuW8W1f"
+              }
+            ]
+          }
+        },
+        "id": "2022247751095091200",
+        "name": "colo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022250570766336000/yFmVkW03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3043,
+          "following_count": 29,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 61
+        },
+        "username": "colo778899",
+        "verified": false
+      }
+    ]
+  }
+}

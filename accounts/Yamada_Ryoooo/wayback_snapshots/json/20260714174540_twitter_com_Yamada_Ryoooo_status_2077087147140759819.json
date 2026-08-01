@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2077032800906326304",
+    "created_at": "2026-07-14T17:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077087147140759819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077087147140759819",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077086676946735192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@chuanxiduo 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2077032800906326304",
+        "created_at": "2026-07-14T17:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077087147140759819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077087147140759819",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077086676946735192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@chuanxiduo 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666329123223121922",
+        "conversation_id": "2077032800906326304",
+        "created_at": "2026-07-14T17:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077086676946735192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077086676946735192",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077085095702475207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Yamada_Ryoooo msk太坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 966,
+          "like_count": 17817,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10031
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n谢谢关注我的小世界！祝您天天开心~~",
+        "id": "1666329123223121922",
+        "location": "神奈川",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2043743848103587861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111891,
+          "following_count": 1682,
+          "like_count": 8870,
+          "listed_count": 345,
+          "media_count": 554,
+          "tweet_count": 2148
+        },
+        "url": "",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012460799453991375",
+    "created_at": "2026-01-18T00:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012690381779976624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1691056639804399616",
+          "start": 0,
+          "username": "XXY177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012690381779976624",
+    "in_reply_to_user_id": "1691056639804399616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012460799453991375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXY177 点点互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012460799453991375",
+        "created_at": "2026-01-18T00:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012690381779976624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1691056639804399616",
+              "start": 0,
+              "username": "XXY177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012690381779976624",
+        "in_reply_to_user_id": "1691056639804399616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012460799453991375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXY177 点点互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691056639804399616",
+        "conversation_id": "2012460799453991375",
+        "created_at": "2026-01-17T09:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012460799453991375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012460799453991375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4781,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你是粉丝3000以上的的蓝V\n请在⬇️评论区留言我回关你。\n我经常，我也是最欢，转发别人推特的人了\n我想我一定是一个不错的互粉对象。💗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5228,
+          "following_count": 741,
+          "like_count": 14397,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8422
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-14T11:58:33.000Z",
+        "description": "90后投资者 | 2013老韭菜 | 关注：美股、A股、加密货币",
+        "id": "1691056639804399616",
+        "location": "Hong Kong",
+        "name": "夏雪宜",
+        "pinned_tweet_id": "2012563188211171714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999861750355955712/CmsGGVzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50028,
+          "following_count": 553,
+          "like_count": 14794,
+          "listed_count": 160,
+          "media_count": 2136,
+          "tweet_count": 19964
+        },
+        "username": "XXY177",
+        "verified": true
+      }
+    ]
+  }
+}

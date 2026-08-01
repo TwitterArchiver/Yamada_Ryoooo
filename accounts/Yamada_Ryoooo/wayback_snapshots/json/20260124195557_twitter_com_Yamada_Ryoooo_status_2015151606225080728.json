@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2015151572792270848"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2015151606225080728",
+    "created_at": "2026-01-24T19:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015151606225080728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cQi7I9YejL",
+          "end": 35,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2015151606225080728/video/1",
+          "media_key": "7_2015151572792270848",
+          "start": 12,
+          "url": "https://t.co/cQi7I9YejL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015151606225080728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推油们怎么被烤了😭😭😭 https://t.co/cQi7I9YejL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13769,
+        "height": 1280,
+        "media_key": "7_2015151572792270848",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015151572792270848/pu/img/9WU-z1cp9uJkyJz9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015151572792270848/pu/vid/avc1/320x568/ollIp-Zu1AsPhNf4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015151572792270848/pu/vid/avc1/480x852/F0OJWN2vKIuXfulD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015151572792270848/pu/vid/avc1/720x1280/eW4yQPcr7cOQN-g_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015151572792270848/pu/pl/C0nebRaMIeRmqR_R.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015151572792270848"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2015151606225080728",
+        "created_at": "2026-01-24T19:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015151606225080728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQi7I9YejL",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2015151606225080728/video/1",
+              "media_key": "7_2015151572792270848",
+              "start": 12,
+              "url": "https://t.co/cQi7I9YejL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015151606225080728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油们怎么被烤了😭😭😭 https://t.co/cQi7I9YejL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 1081,
+          "like_count": 15350,
+          "listed_count": 21,
+          "media_count": 1500,
+          "tweet_count": 8656
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

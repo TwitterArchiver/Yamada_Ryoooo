@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012820811183472696",
+    "created_at": "2026-01-18T16:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012923918391128464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1134994610017562624",
+          "start": 0,
+          "username": "zzx_2017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012923918391128464",
+    "in_reply_to_user_id": "1134994610017562624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012870215261151581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzx_2017 被限制了，晚点解除了来🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012820811183472696",
+        "created_at": "2026-01-18T16:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012923918391128464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1134994610017562624",
+              "start": 0,
+              "username": "zzx_2017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012923918391128464",
+        "in_reply_to_user_id": "1134994610017562624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012870215261151581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzx_2017 被限制了，晚点解除了来🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1134994610017562624",
+        "conversation_id": "2012820811183472696",
+        "created_at": "2026-01-18T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012870215261151581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012870215261151581",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012820811183472696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 助力每一个梦想，顺便也请你们帮帮我😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5547,
+          "following_count": 1019,
+          "like_count": 14670,
+          "listed_count": 23,
+          "media_count": 1456,
+          "tweet_count": 8532
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-02T01:26:16.000Z",
+        "description": "币圈都是诈骗犯，来干黄金，一键开户，直接赚钱：https://t.co/FCloWgocnu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "crm.wetradechina.net/register?code=…",
+                "end": 46,
+                "expanded_url": "https://crm.wetradechina.net/register?code=1073955",
+                "start": 23,
+                "url": "https://t.co/FCloWgocnu"
+              }
+            ]
+          }
+        },
+        "id": "1134994610017562624",
+        "name": "超神的肉松饼",
+        "pinned_tweet_id": "2012757139971076178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869542558097129472/5-E2aeEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 410,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 668
+        },
+        "username": "zzx_2017",
+        "verified": true
+      }
+    ]
+  }
+}

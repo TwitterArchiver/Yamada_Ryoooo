@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1973952347492757791",
+    "created_at": "2025-10-03T23:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T00:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974253978675265712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        },
+        {
+          "end": 29,
+          "id": "1701841796547092480",
+          "start": 13,
+          "username": "broccoli_senpai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974253978675265712",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974160576894116273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 @broccoli_senpai 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1973952347492757791",
+        "created_at": "2025-10-03T23:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974253978675265712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            },
+            {
+              "end": 29,
+              "id": "1701841796547092480",
+              "start": 13,
+              "username": "broccoli_senpai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974253978675265712",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974160576894116273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 @broccoli_senpai 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "1973952347492757791",
+        "created_at": "2025-10-03T17:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974160576894116273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701841796547092480",
+              "start": 0,
+              "username": "broccoli_senpai"
+            },
+            {
+              "end": 31,
+              "id": "1768487038645678080",
+              "start": 17,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974160576894116273",
+        "in_reply_to_user_id": "1701841796547092480",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974158849616818388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broccoli_senpai @Yamada_Ryoooo 50%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 690,
+          "like_count": 13380,
+          "listed_count": 20,
+          "media_count": 1358,
+          "tweet_count": 7750
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6452,
+          "following_count": 1278,
+          "like_count": 96308,
+          "listed_count": 34,
+          "media_count": 1127,
+          "tweet_count": 21156
+        },
+        "username": "89JinPing64",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T06:14:49.000Z",
+        "description": "男 友Lgbtq+🏳️‍🌈🏳️‍⚧️著名动漫博主喜欢时评和偶尔日常的锐评博主 不会去反任何一个意识形态 但我厌蠢",
+        "id": "1701841796547092480",
+        "location": "距离你5公里",
+        "name": "西兰花前辈🕶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933765631867797504/xT9J28Bu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 69,
+          "like_count": 32499,
+          "listed_count": 7,
+          "media_count": 574,
+          "tweet_count": 13197
+        },
+        "username": "broccoli_senpai",
+        "verified": false
+      }
+    ]
+  }
+}

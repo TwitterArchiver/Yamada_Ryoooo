@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066725527214497792"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2066725575398703524",
+    "created_at": "2026-06-16T03:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066725575398703524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcLMKbfvCn",
+          "end": 28,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2066725575398703524/photo/1",
+          "media_key": "3_2066725527214497792",
+          "start": 5,
+          "url": "https://t.co/IcLMKbfvCn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066725575398703524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧收口 https://t.co/IcLMKbfvCn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 30,
+        "media_key": "3_2066725527214497792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK576sHaIAAHh66.png",
+        "width": 132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066725527214497792"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2066725575398703524",
+        "created_at": "2026-06-16T03:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066725575398703524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcLMKbfvCn",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2066725575398703524/photo/1",
+              "media_key": "3_2066725527214497792",
+              "start": 5,
+              "url": "https://t.co/IcLMKbfvCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066725575398703524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧收口 https://t.co/IcLMKbfvCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 1019,
+          "like_count": 17924,
+          "listed_count": 22,
+          "media_count": 1810,
+          "tweet_count": 9955
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

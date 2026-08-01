@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2023912595800158264",
+    "created_at": "2026-02-18T00:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023912595800158264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634559545975664640",
+          "start": 0,
+          "username": "MisterYang88137"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0c0rv0/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/0c0rv0/status/2023714933616132162",
+          "start": 24,
+          "url": "https://t.co/kbJTRtcKIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023912595800158264",
+    "in_reply_to_user_id": "1634559545975664640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023714933616132162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisterYang88137 马哥这是你吗 https://t.co/kbJTRtcKIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17554,
+        "height": 1024,
+        "media_key": "13_2023714866855559168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023714866855559168/img/-HpPcNaFDqx9M_jB.jpg",
+        "public_metrics": {
+          "view_count": 978177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023714866855559168/vid/avc1/320x568/bLXJ663jaeJCkvf3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023714866855559168/vid/avc1/480x852/NSB6ok8PZA3YkD3b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023714866855559168/vid/avc1/576x1024/2l1niWYNCYzuMnAp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023714866855559168/pl/7p_9huO-4VSImx7K.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2023912595800158264",
+        "created_at": "2026-02-18T00:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023912595800158264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634559545975664640",
+              "start": 0,
+              "username": "MisterYang88137"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0c0rv0/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/0c0rv0/status/2023714933616132162",
+              "start": 24,
+              "url": "https://t.co/kbJTRtcKIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023912595800158264",
+        "in_reply_to_user_id": "1634559545975664640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023714933616132162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisterYang88137 马哥这是你吗 https://t.co/kbJTRtcKIP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023714866855559168"
+          ]
+        },
+        "author_id": "1106007969181958144",
+        "conversation_id": "2023714933616132162",
+        "created_at": "2026-02-17T11:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023714933616132162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gdm4qMeeai",
+              "end": 58,
+              "expanded_url": "https://x.com/0C0RV0/status/2023714933616132162/video/1",
+              "media_key": "13_2023714866855559168",
+              "start": 35,
+              "url": "https://t.co/Gdm4qMeeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023714933616132162",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2233,
+          "impression_count": 2180096,
+          "like_count": 11504,
+          "quote_count": 217,
+          "reply_count": 587,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "Nunca mais reclamo do meu trabalho https://t.co/Gdm4qMeeai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 1077,
+          "like_count": 15897,
+          "listed_count": 22,
+          "media_count": 1523,
+          "tweet_count": 8891
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-11T14:19:14.000Z",
+        "description": "Tôi là Tiểu Mã, người gốc Hoa tại Nhật Bản. Yêu văn hoá Việt và đang học tiếng Việt. Tôi là nghệ sĩ, một nghệ sĩ trình diễn.",
+        "id": "1634559545975664640",
+        "location": "Nhật Bản",
+        "name": "大仲马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007262928815435777/5O7CObbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16308,
+          "following_count": 995,
+          "like_count": 106378,
+          "listed_count": 48,
+          "media_count": 7738,
+          "tweet_count": 32046
+        },
+        "username": "MisterYang88137",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-14T01:43:43.000Z",
+        "description": "National Conservative 🇧🇷",
+        "id": "1106007969181958144",
+        "location": "São Paulo",
+        "name": "O Corvo",
+        "pinned_tweet_id": "2012961110387769688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653023705000210434/8dNycHUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338738,
+          "following_count": 37861,
+          "like_count": 46056,
+          "listed_count": 317,
+          "media_count": 7689,
+          "tweet_count": 31358
+        },
+        "username": "0C0RV0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2071254441479876709",
+    "created_at": "2026-06-28T17:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071288863839158422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730594072535207936",
+          "start": 0,
+          "username": "zaoyudexiaowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071288863839158422",
+    "in_reply_to_user_id": "1730594072535207936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071254441479876709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaoyudexiaowu 这是女的？看手指像男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2071254441479876709",
+        "created_at": "2026-06-28T17:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071288863839158422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730594072535207936",
+              "start": 0,
+              "username": "zaoyudexiaowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071288863839158422",
+        "in_reply_to_user_id": "1730594072535207936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071254441479876709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaoyudexiaowu 这是女的？看手指像男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730594072535207936",
+        "conversation_id": "2071254441479876709",
+        "created_at": "2026-06-28T15:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071254441479876709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaoyudexiaowu/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/zaoyudexiaowu/status/2071250743739466205",
+              "start": 139,
+              "url": "https://t.co/RJebGY9tri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071254441479876709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071250743739466205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一看手就知道这是个4️⃣肥猪🤮\n发现转帖不行了，点进去看，给我拉黑了\n翻了一下\nwoc感觉比我还重，为了拍个照找了10分钟角度才去\n还在这里推荐，一个没有润滑条没有保护的备毛刀，还要用发膜和护发素润滑\n知不知道那玩意不能给伤口用\nxhs上就这种女的太多了给人错误的建议去害别人 https://t.co/RJebGY9tri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6525,
+          "following_count": 975,
+          "like_count": 17770,
+          "listed_count": 22,
+          "media_count": 1818,
+          "tweet_count": 9990
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-01T14:26:03.000Z",
+        "description": "我为龟男流过血，我为龟男出过力，你们不能这样对我，中推唱反调第一人🐮☝️，混眼熟了回跟，为防止黄推非关注能不评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/zaoyuyouc",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/zaoyuyouc",
+                "start": 0,
+                "url": "https://t.co/7uSGmVhANf"
+              }
+            ]
+          }
+        },
+        "id": "1730594072535207936",
+        "location": "上海商学院",
+        "name": "藻鱼的小屋（亡命天涯投顶会）",
+        "pinned_tweet_id": "2056976436238692773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046904176962392064/NByznFr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 249,
+          "like_count": 48,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 13077
+        },
+        "url": "https://t.co/7uSGmVhANf",
+        "username": "zaoyudexiaowu",
+        "verified": false
+      }
+    ]
+  }
+}

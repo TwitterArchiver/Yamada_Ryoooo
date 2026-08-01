@@ -1,0 +1,20 @@
+{
+  "name": "山田リョウ⛩️",
+  "username": "@Yamada_Ryoooo",
+  "bio": " ｜中度抑郁-重度焦虑｜INFP 里推@YamadaRyoooooo",
+  "location": "東京 世田谷区 下北沢",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 35,
+        "start": 20,
+        "username": "YamadaRyoooooo"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg"
+}

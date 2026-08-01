@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2014483782179663881",
+    "created_at": "2026-01-23T00:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T01:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014490084452770040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "869740016263602177",
+          "start": 0,
+          "username": "Bitcoin2033"
+        },
+        {
+          "end": 28,
+          "id": "1397924779219292167",
+          "start": 13,
+          "username": "KawawaBasupisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014490084452770040",
+    "in_reply_to_user_id": "869740016263602177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014489622131474508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitcoin2033 @KawawaBasupisu 他不搞这些的😿"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [KawawaBasupisu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KawawaBasupisu",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KawawaBasupisu"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2014483782179663881",
+        "created_at": "2026-01-23T00:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T01:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014490084452770040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "869740016263602177",
+              "start": 0,
+              "username": "Bitcoin2033"
+            },
+            {
+              "end": 28,
+              "id": "1397924779219292167",
+              "start": 13,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014490084452770040",
+        "in_reply_to_user_id": "869740016263602177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014489622131474508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitcoin2033 @KawawaBasupisu 他不搞这些的😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "869740016263602177",
+        "conversation_id": "2014483782179663881",
+        "created_at": "2026-01-23T00:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T01:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014489622131474508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 30,
+              "id": "1397924779219292167",
+              "start": 15,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014489622131474508",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014483782179663881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @KawawaBasupisu 大概是邪修碎丹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 1086,
+          "like_count": 15258,
+          "listed_count": 21,
+          "media_count": 1494,
+          "tweet_count": 8620
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-31T02:19:13.000Z",
+        "description": "记录币圈里的喜与怒、得与失 那些涨跌背后的人生起伏与悲欢离合\n不和政治，色情，引战打交道，只想经营自己的一亩三分地",
+        "id": "869740016263602177",
+        "location": "Melbourne, Victoria",
+        "name": "币币兔|蓝V互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977154951559495682/EI2rqerV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 853,
+          "like_count": 169,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1206
+        },
+        "username": "Bitcoin2033",
+        "verified": true
+      }
+    ]
+  }
+}

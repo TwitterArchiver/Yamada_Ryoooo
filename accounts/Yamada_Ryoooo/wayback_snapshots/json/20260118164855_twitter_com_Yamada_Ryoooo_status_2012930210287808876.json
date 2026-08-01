@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012930210287808876",
+    "created_at": "2026-01-18T16:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012930210287808876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mcdonaldsjapan…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/mcdonaldsjapan/status/2010985164692668892",
+          "start": 7,
+          "url": "https://t.co/aaEBEL8YhD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012930210287808876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010985164692668892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么强？？？ https://t.co/aaEBEL8YhD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52375,
+        "height": 1080,
+        "media_key": "13_2010736502653743104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010736502653743104/img/EWfgPFzTCGtKly2L.jpg",
+        "public_metrics": {
+          "view_count": 5849682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010736502653743104/vid/avc1/640x360/3-TnvCQhMRC013H-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010736502653743104/vid/avc1/480x270/8GBuNfSiDS7uKW5J.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010736502653743104/vid/avc1/1920x1080/IvA9YZaNS2KonVmT.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010736502653743104/pl/H3KabE1e0ZulKNkB.m3u8?tag=16&v=f3a"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010736502653743104/vid/avc1/1280x720/P19XdcKvh5n50wJd.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012930210287808876",
+        "created_at": "2026-01-18T16:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012930210287808876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mcdonaldsjapan…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mcdonaldsjapan/status/2010985164692668892",
+              "start": 7,
+              "url": "https://t.co/aaEBEL8YhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012930210287808876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010985164692668892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么强？？？ https://t.co/aaEBEL8YhD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010736502653743104"
+          ]
+        },
+        "author_id": "184004752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2010985164692668892",
+        "created_at": "2026-01-13T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010985164692668892"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Black Pepper",
+              "probability": 0.3918,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QK14wAw9kk",
+              "end": 55,
+              "expanded_url": "https://x.com/McDonaldsJapan/status/2010985164692668892/video/1",
+              "media_key": "13_2010736502653743104",
+              "start": 32,
+              "url": "https://t.co/QK14wAw9kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010985164692668892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53561,
+          "impression_count": 23400569,
+          "like_count": 342621,
+          "quote_count": 14737,
+          "reply_count": 2795,
+          "retweet_count": 94023
+        },
+        "reply_settings": "everyone",
+        "text": "【つくってもらった】Black Pepper!! ＰＶ【影絵】 https://t.co/QK14wAw9kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5564,
+          "following_count": 1029,
+          "like_count": 14691,
+          "listed_count": 22,
+          "media_count": 1456,
+          "tweet_count": 8545
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-28T12:54:08.000Z",
+        "description": "日本マクドナルド公式アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mcdonalds.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.mcdonalds.co.jp/",
+                "start": 0,
+                "url": "https://t.co/SnnrXbynW8"
+              }
+            ]
+          }
+        },
+        "id": "184004752",
+        "name": "マクドナルド",
+        "pinned_tweet_id": "2003948801011114050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979852381320851456/_8KOocC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9847537,
+          "following_count": 14,
+          "like_count": 14244,
+          "listed_count": 10833,
+          "media_count": 21384,
+          "tweet_count": 31419
+        },
+        "url": "https://t.co/SnnrXbynW8",
+        "username": "McDonaldsJapan",
+        "verified": true
+      }
+    ]
+  }
+}

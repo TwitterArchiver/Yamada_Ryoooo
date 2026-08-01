@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044792193345564672"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2044792201767731384",
+    "created_at": "2026-04-16T14:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:55:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044791886460965179",
+      "2044792201767731384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bM1rYxulgm",
+          "end": 110,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044792201767731384/photo/1",
+          "media_key": "3_2044792193345564672",
+          "start": 87,
+          "url": "https://t.co/bM1rYxulgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044792201767731384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "opus4.7出了？！\n\n官方介绍：\n\nOpus 4.7 是 Anthropic 的 Opus 系列的下一代产品，专为长时间运行、异步的智能体设计。在继承 Opus 4.6 的编程和智能体优势的基础上，它能在复杂的多步骤任务中提供更强的性能，并在扩展工作流程中实现更可靠的智能体执行。它特别适用于任务随时间展开的异步智能体管道——大型代码库、多阶段调试以及端到端的项目协调。\n\n除了编程能力，Opus 4.7 还带来了改进的知识工作能力——从起草文档、制作演示文稿到数据分析。它能在极长的输出和长时间会话中保持连贯性，使其成为需要持久性、判断力和跟进能力的任务的理想默认选择。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "opus4.7出了？！\n\n官方介绍：\n\nOpus 4.7 是 Anthropic 的 Opus 系列的下一代产品，专为长时间运行、异步的智能体设计。在继承 Opus 4.6 https://t.co/bM1rYxulgm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2044792193345564672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCPqoPasAAkh48.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044791695603343360"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2044791886460965179",
+        "created_at": "2026-04-16T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:55:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044791886460965179",
+          "2044792201767731384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dljMzlbIqQ",
+              "end": 42,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044791886460965179/photo/1",
+              "media_key": "3_2044791695603343360",
+              "start": 19,
+              "url": "https://t.co/dljMzlbIqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044791886460965179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opus4.7出了？！\n\n官方介绍： https://t.co/dljMzlbIqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044792193345564672"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2044792201767731384",
+        "created_at": "2026-04-16T14:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:55:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044791886460965179",
+          "2044792201767731384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bM1rYxulgm",
+              "end": 110,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2044792201767731384/photo/1",
+              "media_key": "3_2044792193345564672",
+              "start": 87,
+              "url": "https://t.co/bM1rYxulgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044792201767731384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "opus4.7出了？！\n\n官方介绍：\n\nOpus 4.7 是 Anthropic 的 Opus 系列的下一代产品，专为长时间运行、异步的智能体设计。在继承 Opus 4.6 的编程和智能体优势的基础上，它能在复杂的多步骤任务中提供更强的性能，并在扩展工作流程中实现更可靠的智能体执行。它特别适用于任务随时间展开的异步智能体管道——大型代码库、多阶段调试以及端到端的项目协调。\n\n除了编程能力，Opus 4.7 还带来了改进的知识工作能力——从起草文档、制作演示文稿到数据分析。它能在极长的输出和长时间会话中保持连贯性，使其成为需要持久性、判断力和跟进能力的任务的理想默认选择。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opus4.7出了？！\n\n官方介绍：\n\nOpus 4.7 是 Anthropic 的 Opus 系列的下一代产品，专为长时间运行、异步的智能体设计。在继承 Opus 4.6 https://t.co/bM1rYxulgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6398,
+          "following_count": 1083,
+          "like_count": 17148,
+          "listed_count": 24,
+          "media_count": 1739,
+          "tweet_count": 9558
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

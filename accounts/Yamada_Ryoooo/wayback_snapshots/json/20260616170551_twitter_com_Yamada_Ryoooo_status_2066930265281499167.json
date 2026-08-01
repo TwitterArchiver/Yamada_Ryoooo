@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2066916236651553084",
+    "created_at": "2026-06-16T17:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066930265281499167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "kukukumik0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066930265281499167",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066916236651553084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukukumik0 卧槽你活了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2066916236651553084",
+        "created_at": "2026-06-16T17:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066930265281499167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066930265281499167",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066916236651553084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 卧槽你活了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554692587151593472",
+        "conversation_id": "2066916236651553084",
+        "created_at": "2026-06-16T16:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066916236651553084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaozhuhua_tv/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiaozhuhua_tv/status/2066513225445945700",
+              "start": 8,
+              "url": "https://t.co/gmOsc8jy31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916236651553084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066513225445945700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太阳照常升起☀ https://t.co/gmOsc8jy31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6549,
+          "following_count": 983,
+          "like_count": 17936,
+          "listed_count": 22,
+          "media_count": 1812,
+          "tweet_count": 9964
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2064711108519411875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 1544,
+          "like_count": 55821,
+          "listed_count": 13,
+          "media_count": 548,
+          "tweet_count": 19372
+        },
+        "username": "kukukumik0",
+        "verified": false
+      }
+    ]
+  }
+}

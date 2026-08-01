@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2017416198456283538",
+    "created_at": "2026-01-31T08:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T09:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017518657455460437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017518657455460437",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017416198456283538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 已燃尽…\nwise的港币账户两三周了还没下来，写邮件也不鸟我\n😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_2017416188025040896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9NVZNa8AAXquJ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2017416198456283538",
+        "created_at": "2026-01-31T08:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017518657455460437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017518657455460437",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017416198456283538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 已燃尽…\nwise的港币账户两三周了还没下来，写邮件也不鸟我\n😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017416188025040896"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2017416198456283538",
+        "created_at": "2026-01-31T01:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T02:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017416198456283538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykOLpMokxm",
+              "end": 51,
+              "expanded_url": "https://x.com/aoim33/status/2017416198456283538/photo/1",
+              "media_key": "3_2017416188025040896",
+              "start": 28,
+              "url": "https://t.co/ykOLpMokxm"
+            },
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/aoim33/status/2017407729909043395",
+              "start": 52,
+              "url": "https://t.co/x00tYXClT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017416198456283538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 534,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017407729909043395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的我知道了，欧洲区确实会比港区慢一点\n总之谢谢马老板 https://t.co/ykOLpMokxm https://t.co/x00tYXClT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 1078,
+          "like_count": 15549,
+          "listed_count": 21,
+          "media_count": 1509,
+          "tweet_count": 8737
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD / 外国語 撮影 音ゲー 男ママ 教育学 心理学 USmarket / Arcaea PTT 11.06 maimai RT 13,711 / CN EN JP / @supernovaArcaea team member / bmc ⬇️ / 小号 @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/G9EXsgSVKe"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2008337193518215276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3483,
+          "following_count": 2372,
+          "like_count": 31157,
+          "listed_count": 17,
+          "media_count": 1544,
+          "tweet_count": 6930
+        },
+        "url": "https://t.co/G9EXsgSVKe",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2078750559147033005",
+    "created_at": "2026-07-20T01:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079022970765480219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "11765952",
+          "start": 0,
+          "username": "interjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079022970765480219",
+    "in_reply_to_user_id": "11765952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078750559147033005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interjc 我之前就领了1800多，你这三万五太离谱了\n还有件事就是他家你必须要充值至少1块钱才有缓存，不然没有缓存一次请求一块钱贵死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2391,
+        "media_key": "3_2078750552209674240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNk0nREa0AA8e2L.jpg",
+        "width": 1170
+      },
+      {
+        "height": 998,
+        "media_key": "3_2078750552218054656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNk0nRGasAAMAjK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2078750559147033005",
+        "created_at": "2026-07-20T01:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079022970765480219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "11765952",
+              "start": 0,
+              "username": "interjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079022970765480219",
+        "in_reply_to_user_id": "11765952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078750559147033005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interjc 我之前就领了1800多，你这三万五太离谱了\n还有件事就是他家你必须要充值至少1块钱才有缓存，不然没有缓存一次请求一块钱贵死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078750552209674240",
+            "3_2078750552218054656"
+          ]
+        },
+        "author_id": "11765952",
+        "conversation_id": "2078750559147033005",
+        "created_at": "2026-07-19T07:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078750559147033005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ammXt4Xf86",
+              "end": 99,
+              "expanded_url": "https://x.com/interjc/status/2078750559147033005/photo/1",
+              "media_key": "3_2078750552209674240",
+              "start": 76,
+              "url": "https://t.co/ammXt4Xf86"
+            },
+            {
+              "display_url": "pic.x.com/ammXt4Xf86",
+              "end": 99,
+              "expanded_url": "https://x.com/interjc/status/2078750559147033005/photo/1",
+              "media_key": "3_2078750552218054656",
+              "start": 76,
+              "url": "https://t.co/ammXt4Xf86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078750559147033005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 33704,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 102,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把白山智算的模型通过 cc-switch 接到 Claude Code 来用，基本实现了 GLM5.2 自由，只看什么时候能部署 Kimi K3 了 https://t.co/ammXt4Xf86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6485,
+          "following_count": 964,
+          "like_count": 17827,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10041
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜AIGC｜大阪在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 23,
+                "expanded_url": "http://justincourse.com",
+                "start": 0,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "2047111145086238766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30984,
+          "following_count": 2604,
+          "like_count": 96234,
+          "listed_count": 280,
+          "media_count": 4336,
+          "tweet_count": 36625
+        },
+        "url": "https://t.co/MNSqx9ncpS",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

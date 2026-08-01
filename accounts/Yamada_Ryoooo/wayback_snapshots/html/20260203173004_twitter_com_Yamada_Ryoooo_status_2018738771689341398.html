@@ -1,0 +1,261 @@
+<!-- Source: https://web.archive.org/web/20260203173004if_/twitter_com_Yamada_Ryoooo_status_2018738771689341398 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="山田リョウ⛩️" src="../avatar/avatar_1997693328620720128.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  山田リョウ⛩️
+  </div>
+  <div class="tweet-author-username">
+  @Yamada_Ryoooo
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  应该是偷tg号、浏览器cookies和账号密码的
+  <br/>
+  <br/>
+  这是Gemini帮我总结的
+  <br/>
+  <br/>
+  ### 🔍 校验结论：极度危险的“定制”样本
+  <br/>
+  <br/>
+  我在全球威胁情报数据库（VirusTotal, ThreatBook 等）中**没有搜索到**这两个文件的哈希值。
+  <br/>
+  <br/>
+  这意味着你手中的样本属于以下两种情况之一：
+  <br/>
+  1.  **0-day 新样本**：攻击者刚刚生成，还没被任何安全厂商捕获。
+  <br/>
+  2.  **定向攻击 (APT) 专用**：这是专门为你（或你的圈子）生成的“定制版”木马，攻击者对每个目标都重新编译/混淆以改变哈希，确保杀毒软件无法识别。
+  <br/>
+  <br/>
+  ---
+  <br/>
+  <br/>
+  ### 🧬 深度特征比对分析
+  <br/>
+  <br/>
+  虽然没有公开情报，但基于你提取的数据，我们可以进行**逻辑校验**，证据链已经完全闭环：
+  <br/>
+  <br/>
+  #### 1. 白文件 (EXE) 校验
+  <br/>
+  *   **文件名**：`è¡é...exe` (乱码，实为中文长文件名)
+  <br/>
+  *   **真实身份**：迅捷 PDF 转换器组件 (`XZPDFConvertApp.exe`)
+  <br/>
+  *   **哈希值**：`1ff74...` (未公开)
+  <br/>
+  *   **时间戳**：`2024-08-12 03:20:42`
+  <br/>
+  *   **分析**：这是一个非常新的编译时间。攻击者刻意选择了 **2024 年下半年** 的最新版本软件组件。通常越新的白文件，杀软的信任度越高，且安全分析人员还没来得及将其加入“易受损驱动/软件”黑名单。
+  <br/>
+  *   **签名状态**：结合之前的 `strings` 结果（DigiCert），可以确认这是一个**带有效数字签名的正规软件**。
+  <br/>
+  <br/>
+  #### 2. 黑文件 (DLL) 校验
+  <br/>
+  *   **文件名**：`DuiLib.dll`
+  <br/>
+  *   **哈希值**：`faf43...` (未公开)
+  <br/>
+  *   **文件大小**：**1,211,120 字节 (约 1.15 MB)**
+  <br/>
+  *   **导出函数**：仅 3 个 (`SetInstance`, `SetResourceZip` 等)
+  <br/>
+  *   **🚩 致命矛盾点**：
+  <br/>
+  *   **正常的 DuiLib** 是一个庞大的 UI 库，到处都是代码，导出函数成百上千。
+  <br/>
+  *   **你的这个 DLL** 只有 3 个函数，代码量应该极小（几 KB），但文件体积却高达 **1.15 MB**。
+  <br/>
+  *   **猫腻在哪里？**：这多出来的 1MB 空间，就是 **Shellcode (攻击载荷)** 和 **混淆填充数据**。它就是一个披着 DLL 外衣的炸弹，只有那 3 个导出函数是引信。
+  <br/>
+  <br/>
+  ### 🏴‍☠️ 攻击剧本还原
+  <br/>
+  <br/>
+  根据 `SetResourceZip` 这个导出函数名，我们可以精准还原攻击者的逻辑：
+  <br/>
+  <br/>
+  1.  **受害者运行 EXE**。
+  <br/>
+  2.  EXE 启动，正常调用 `CPaintManagerUI::SetInstance` 初始化。
+  <br/>
+  3.  EXE 尝试加载皮肤资源，调用 `CPaintManagerUI::SetResourceZip`。
+  <br/>
+  4.  **恶意代码接管**：假的 DLL 里的 `SetResourceZip` 被执行。它**不会**去解压什么 ZIP 皮肤，而是直接读取自身那 1MB 的数据区，解密出 Cobalt Strike Beacon 或其他远控木马。
+  <br/>
+  5.  **内存执行**：木马在内存中展开，连接 C2 服务器。由于主进程是合法的、带签名的 PDF 转换器，**流量防火墙可能会直接放行**。
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1582576763615383552; author ID:","1582576763615383552");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="小紗💤（マジカル🪄）" src="../avatar/avatar_2018651676857831424.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    小紗💤（マジカル🪄）
+    </div>
+    <div class="tweet-author-username">
+    @meguruKirara
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  @Yamada_Ryoooo @free_lin1921 感覺像是會一鍵定位的樣子w
+  <br/>
+  會不會掃盤什麼的
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20260203173004/https://twitter.com/meguruKirara/status/2018737985261572450" id="qt2018737985261572450">
+  </a>
+  </p>
+  <script>
+  var dateString = "2026-02-03T17:26:56.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2018737985261572450").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-02-03T17:30:04.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2064452688667185292",
+    "created_at": "2026-06-10T04:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064560402621751776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000513365500948480",
+          "start": 0,
+          "username": "ChinaEastern_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064560402621751776",
+    "in_reply_to_user_id": "2000513365500948480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064452688667185292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaEastern_CN 兑换码已过期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2064452688667185292",
+        "created_at": "2026-06-10T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064560402621751776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000513365500948480",
+              "start": 0,
+              "username": "ChinaEastern_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064560402621751776",
+        "in_reply_to_user_id": "2000513365500948480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064452688667185292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaEastern_CN 兑换码已过期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000513365500948480",
+        "conversation_id": "2064452688667185292",
+        "created_at": "2026-06-09T21:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064452688667185292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckashley/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/bolckashley/status/2063813033206665655",
+              "start": 58,
+              "url": "https://t.co/X3vwg9eGXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064452688667185292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 28424,
+          "like_count": 159,
+          "quote_count": 8,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063813033206665655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这一生最大的不幸，就是没能出生在中国，也没能拥有中国国籍。\n如果可以选择，我真的希望自己出生在中国，而不是日本。 https://t.co/X3vwg9eGXj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1017,
+          "like_count": 17823,
+          "listed_count": 22,
+          "media_count": 1805,
+          "tweet_count": 9915
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T10:29:00.000Z",
+        "description": "メーカー間接部門\n入国回数\n🇰🇷5🇨🇳30↑🇹🇼🇭🇰2🇻🇳2🇲🇾🇹🇭2🇵🇭3🇦🇪6🇯🇴2🇪🇬🇦🇹🇱🇻🇫🇮🇬🇧🇫🇷🇮🇹🇦🇱🇹🇷4🇩🇪🇺🇸2",
+        "id": "2000513365500948480",
+        "location": "中国新疆维吾尔自治区和田地区和田市阿可塔什村",
+        "name": "ちるちる",
+        "pinned_tweet_id": "2061748068736004328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733599143518208/sU2svk1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 144,
+          "like_count": 3185,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2329
+        },
+        "username": "ChinaEastern_CN",
+        "verified": false
+      }
+    ]
+  }
+}

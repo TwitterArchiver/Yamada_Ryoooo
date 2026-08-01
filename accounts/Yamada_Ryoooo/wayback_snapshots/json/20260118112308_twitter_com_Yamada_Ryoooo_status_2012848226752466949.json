@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012835447412764988",
+    "created_at": "2026-01-18T11:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T12:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012848226752466949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536221575401582592",
+          "start": 0,
+          "username": "GlennZong072122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012848226752466949",
+    "in_reply_to_user_id": "1536221575401582592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012847801940463917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlennZong072122 没啥意思，自己设置的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012835447412764988",
+        "created_at": "2026-01-18T11:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012848226752466949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536221575401582592",
+              "start": 0,
+              "username": "GlennZong072122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012848226752466949",
+        "in_reply_to_user_id": "1536221575401582592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012847801940463917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlennZong072122 没啥意思，自己设置的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536221575401582592",
+        "conversation_id": "2012835447412764988",
+        "created_at": "2026-01-18T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012847801940463917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012847801940463917",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012835447412764988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 粉丝账户啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 881,
+          "like_count": 14587,
+          "listed_count": 21,
+          "media_count": 1455,
+          "tweet_count": 8482
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-13T05:39:30.000Z",
+        "description": "编程｜投资｜读书\n普通人视角，记录学习、投资与认知变化\n慢、长期、反 FOMO\n所有内容仅为记录，不构成任何建议",
+        "id": "1536221575401582592",
+        "location": "global",
+        "name": "Glenn Z",
+        "pinned_tweet_id": "2012555698375430648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739297749751959552/p2G_OeMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 1671,
+          "like_count": 3789,
+          "listed_count": 6,
+          "media_count": 49,
+          "tweet_count": 2700
+        },
+        "username": "GlennZong072122",
+        "verified": true
+      }
+    ]
+  }
+}

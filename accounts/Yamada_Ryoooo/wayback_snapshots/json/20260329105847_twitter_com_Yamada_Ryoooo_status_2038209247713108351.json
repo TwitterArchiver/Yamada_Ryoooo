@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2038209247713108351",
+    "created_at": "2026-03-29T10:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038209247713108351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rick5767/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/rick5767/status/2038173374065844692",
+          "start": 6,
+          "url": "https://t.co/mtMZxx9HCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038209247713108351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038173374065844692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "斩杀线来喽 https://t.co/mtMZxx9HCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38209,
+        "height": 960,
+        "media_key": "7_2038173309037350912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038173309037350912/pu/img/cmwzDv7cZ8fLsk2E.jpg",
+        "public_metrics": {
+          "view_count": 1408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173309037350912/pu/vid/avc1/320x568/ZbVMK3dHhi77lG8G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173309037350912/pu/vid/avc1/480x852/SIN9PSxEOE33xI5R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038173309037350912/pu/vid/avc1/540x960/Wd-bR-lNmuV2YrH4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038173309037350912/pu/pl/XB2kvaXTgbhiSifH.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2038209247713108351",
+        "created_at": "2026-03-29T10:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038209247713108351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rick5767/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/rick5767/status/2038173374065844692",
+              "start": 6,
+              "url": "https://t.co/mtMZxx9HCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038209247713108351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038173374065844692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "斩杀线来喽 https://t.co/mtMZxx9HCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038173309037350912"
+          ]
+        },
+        "author_id": "1724643661286432768",
+        "conversation_id": "2038173374065844692",
+        "created_at": "2026-03-29T08:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038173374065844692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsUA4CA78Y",
+              "end": 78,
+              "expanded_url": "https://x.com/Rick5767/status/2038173374065844692/video/1",
+              "media_key": "7_2038173309037350912",
+              "start": 55,
+              "url": "https://t.co/UsUA4CA78Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038173374065844692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3851,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "2026年3月29日北京房山某大集。\n出现报复社会事件。\n开着铲车撞人。太可怕了。目前事情因为什么还不知道。 https://t.co/UsUA4CA78Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 1075,
+          "like_count": 16787,
+          "listed_count": 21,
+          "media_count": 1644,
+          "tweet_count": 9330
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T04:21:16.000Z",
+        "description": "某人工智能硬件创始人，前微软特聘技术讲师。\n全栈，\n机械制造，计算机科学与技术，智慧农业\n，科技与艺术，\n感谢关注，来吧。想说点什么就说呀。直男。\n\nwx：im3490",
+        "id": "1724643661286432768",
+        "location": "Beijing",
+        "name": "Rick 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867374453275209729/aMpkQfpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485,
+          "following_count": 270,
+          "like_count": 17885,
+          "listed_count": 30,
+          "media_count": 801,
+          "tweet_count": 17135
+        },
+        "username": "Rick5767",
+        "verified": false
+      }
+    ]
+  }
+}

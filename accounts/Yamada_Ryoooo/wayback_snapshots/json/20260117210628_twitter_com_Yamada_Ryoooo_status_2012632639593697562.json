@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012632639593697562",
+    "created_at": "2026-01-17T21:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T22:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012632639593697562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkawsb/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/kkawsb/status/2012359987067003095",
+          "start": 26,
+          "url": "https://t.co/v5gvJTpWS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012632639593697562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012359987067003095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我选和马一龙共度24h\n就为了骂他做的x有多傻B🤮 https://t.co/v5gvJTpWS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2012359612234858496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1WZ8eaAAAO0w9.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012632639593697562",
+        "created_at": "2026-01-17T21:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012632639593697562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkawsb/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/kkawsb/status/2012359987067003095",
+              "start": 26,
+              "url": "https://t.co/v5gvJTpWS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012632639593697562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012359987067003095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我选和马一龙共度24h\n就为了骂他做的x有多傻B🤮 https://t.co/v5gvJTpWS5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012359612234858496"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2012359987067003095",
+        "created_at": "2026-01-17T03:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012359987067003095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJklGj7HB6",
+              "end": 53,
+              "expanded_url": "https://x.com/KKaWSB/status/2012359987067003095/photo/1",
+              "media_key": "3_2012359612234858496",
+              "start": 30,
+              "url": "https://t.co/AJklGj7HB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012359987067003095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 723768,
+          "like_count": 1250,
+          "quote_count": 32,
+          "reply_count": 559,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你更愿意与埃隆·马斯克共度24小时，还是获得300万美金？ https://t.co/AJklGj7HB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5203,
+          "following_count": 689,
+          "like_count": 14337,
+          "listed_count": 21,
+          "media_count": 1446,
+          "tweet_count": 8382
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968459324512211107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49316,
+          "following_count": 2695,
+          "like_count": 7901,
+          "listed_count": 517,
+          "media_count": 2383,
+          "tweet_count": 5845
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

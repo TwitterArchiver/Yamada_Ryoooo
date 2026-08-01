@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2063900261953966164",
+    "created_at": "2026-06-08T15:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064009993276498158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885086674828578816",
+          "start": 0,
+          "username": "PandaTalk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064009993276498158",
+    "in_reply_to_user_id": "885086674828578816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063900261953966164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PandaTalk8 从来没用过macOS的桌面啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2063898833655070720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRxDeBagAA8vjy.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2063900261953966164",
+        "created_at": "2026-06-08T15:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064009993276498158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885086674828578816",
+              "start": 0,
+              "username": "PandaTalk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064009993276498158",
+        "in_reply_to_user_id": "885086674828578816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063900261953966164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PandaTalk8 从来没用过macOS的桌面啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063898833655070720"
+          ]
+        },
+        "author_id": "885086674828578816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2063900261953966164",
+        "created_at": "2026-06-08T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063900261953966164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riEKhId66E",
+              "end": 169,
+              "expanded_url": "https://x.com/PandaTalk8/status/2063900261953966164/photo/1",
+              "media_key": "3_2063898833655070720",
+              "start": 146,
+              "url": "https://t.co/riEKhId66E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063900261953966164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一秒中就能看出一个人的电脑水平如何。 \n\n我老婆也算是10年的macOS 用户， 说实话并不怎么资深。  \n她的桌面密密麻麻一大堆的文件和文件夹。  \n\n然后我迫不及待告诉她， 桌面有这么一个功能。  \n\n然后他却责怪我说话声音太大了。  \n\n不过， 话又说回来， 更加资深的 macOS 用户从不会在桌面放任何东西。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 48397,
+          "like_count": 74,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一秒中就能看出一个人的电脑水平如何。 \n\n我老婆也算是10年的macOS 用户， 说实话并不怎么资深。  \n她的桌面密密麻麻一大堆的文件和文件夹。  \n\n然后我迫不及待告诉她， 桌面有这么一个功能。  \n\n然后他却责怪我说话声音太大了。  \n\n不过， 话又说回来， 更加资深的 macOS https://t.co/riEKhId66E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 1014,
+          "like_count": 17809,
+          "listed_count": 23,
+          "media_count": 1804,
+          "tweet_count": 9907
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-12T10:41:22.000Z",
+        "description": "AI Builder · Indie Founder · Media Creator\nBuilding AI products, sharing STEAM ideas, and spreading practical AI knowledge.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pandatalk8.com",
+                "end": 23,
+                "expanded_url": "https://pandatalk8.com",
+                "start": 0,
+                "url": "https://t.co/2wfmDDE9YA"
+              }
+            ]
+          }
+        },
+        "id": "885086674828578816",
+        "location": "公众号：PandaTalk8",
+        "name": "Mr Panda",
+        "pinned_tweet_id": "2036404404388241423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053332948989132800/q_Nnb7-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75738,
+          "following_count": 5131,
+          "like_count": 73653,
+          "listed_count": 559,
+          "media_count": 1621,
+          "tweet_count": 26416
+        },
+        "url": "https://t.co/2wfmDDE9YA",
+        "username": "PandaTalk8",
+        "verified": true
+      }
+    ]
+  }
+}

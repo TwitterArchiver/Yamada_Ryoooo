@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992193196630429696"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992072371457470763",
+    "created_at": "2025-11-22T11:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992193205396521273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153970326604144640",
+          "start": 0,
+          "username": "Ruters0615"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPflsUtQ88",
+          "end": 42,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193205396521273/photo/1",
+          "media_key": "3_1992193196630429696",
+          "start": 19,
+          "url": "https://t.co/yPflsUtQ88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992193205396521273",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992193106951987221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruters0615 还有战败cg https://t.co/yPflsUtQ88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_1992193196630429696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WxKEEbUAAP3ze.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992193096155910144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WxENxb0AAzAr6.jpg",
+        "width": 738
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992193096168386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WxEN0aMAASiJA.jpg",
+        "width": 784
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992193096470470657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WxEO8boAEDCwG.jpg",
+        "width": 790
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992193096139083776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WxENtbEAAexFZ.jpg",
+        "width": 706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992193196630429696"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992072371457470763",
+        "created_at": "2025-11-22T11:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992193205396521273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPflsUtQ88",
+              "end": 42,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193205396521273/photo/1",
+              "media_key": "3_1992193196630429696",
+              "start": 19,
+              "url": "https://t.co/yPflsUtQ88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992193205396521273",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992193106951987221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 还有战败cg https://t.co/yPflsUtQ88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992193096155910144",
+            "3_1992193096168386560",
+            "3_1992193096470470657",
+            "3_1992193096139083776"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992072371457470763",
+        "created_at": "2025-11-22T11:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992193106951987221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UKNP3oNidZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193106951987221/photo/1",
+              "media_key": "3_1992193096155910144",
+              "start": 26,
+              "url": "https://t.co/UKNP3oNidZ"
+            },
+            {
+              "display_url": "pic.x.com/UKNP3oNidZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193106951987221/photo/1",
+              "media_key": "3_1992193096168386560",
+              "start": 26,
+              "url": "https://t.co/UKNP3oNidZ"
+            },
+            {
+              "display_url": "pic.x.com/UKNP3oNidZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193106951987221/photo/1",
+              "media_key": "3_1992193096470470657",
+              "start": 26,
+              "url": "https://t.co/UKNP3oNidZ"
+            },
+            {
+              "display_url": "pic.x.com/UKNP3oNidZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992193106951987221/photo/1",
+              "media_key": "3_1992193096139083776",
+              "start": 26,
+              "url": "https://t.co/UKNP3oNidZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992193106951987221",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992072371457470763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 用Gemini真可以玩了😍 https://t.co/UKNP3oNidZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 670,
+          "like_count": 13605,
+          "listed_count": 20,
+          "media_count": 1389,
+          "tweet_count": 7983
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "1984884324806828349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294000,
+          "following_count": 2394,
+          "like_count": 2340,
+          "listed_count": 915,
+          "media_count": 2274,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

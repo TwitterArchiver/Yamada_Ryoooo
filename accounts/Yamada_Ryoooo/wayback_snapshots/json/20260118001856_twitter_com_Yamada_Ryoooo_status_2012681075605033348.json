@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012322389875470561",
+    "created_at": "2026-01-18T00:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012681075605033348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398533770181963776",
+          "start": 0,
+          "username": "borislam18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012681075605033348",
+    "in_reply_to_user_id": "1398533770181963776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012322389875470561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@borislam18 点点互关，我才2%的蓝勾关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012322389875470561",
+        "created_at": "2026-01-18T00:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012681075605033348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398533770181963776",
+              "start": 0,
+              "username": "borislam18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012681075605033348",
+        "in_reply_to_user_id": "1398533770181963776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012322389875470561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@borislam18 点点互关，我才2%的蓝勾关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398533770181963776",
+        "conversation_id": "2012322389875470561",
+        "created_at": "2026-01-17T00:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012322389875470561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012322389875470561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12476,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 211,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V互关，秒回，永久不取关的那种！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 704,
+          "like_count": 14358,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8403
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T06:57:27.000Z",
+        "description": "Crypto world, web 3. Olandbox Community",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oland.info/tesla.o",
+                "end": 23,
+                "expanded_url": "https://oland.info/tesla.o",
+                "start": 0,
+                "url": "https://t.co/V2TNhTNsq6"
+              }
+            ]
+          }
+        },
+        "id": "1398533770181963776",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "Boris ꧁IP꧂",
+        "pinned_tweet_id": "1626153189799243776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716752614707318784/PRAunQy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6114,
+          "following_count": 4389,
+          "like_count": 11115,
+          "listed_count": 10,
+          "media_count": 253,
+          "tweet_count": 8467
+        },
+        "url": "https://t.co/V2TNhTNsq6",
+        "username": "borislam18",
+        "verified": true
+      }
+    ]
+  }
+}

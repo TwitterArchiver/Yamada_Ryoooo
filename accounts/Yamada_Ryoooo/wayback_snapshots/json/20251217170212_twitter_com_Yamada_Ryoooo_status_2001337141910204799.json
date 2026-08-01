@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001337049379672065"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2001266127557779514",
+    "created_at": "2025-12-17T17:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T18:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001337141910204799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qu3LYSFTA4",
+          "end": 48,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2001337141910204799/photo/1",
+          "media_key": "3_2001337049379672065",
+          "start": 25,
+          "url": "https://t.co/Qu3LYSFTA4"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2001337141910204799",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001266127557779514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 我也有了，但是感觉并没有聪明多少 https://t.co/Qu3LYSFTA4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 190,
+        "media_key": "3_2001337049379672065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YtcWAakAEgCy1.png",
+        "width": 301
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2001265938143072256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XsxIAbUAA88V-.jpg",
+        "width": 2074
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001337049379672065"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2001266127557779514",
+        "created_at": "2025-12-17T17:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T18:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001337141910204799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qu3LYSFTA4",
+              "end": 48,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2001337141910204799/photo/1",
+              "media_key": "3_2001337049379672065",
+              "start": 25,
+              "url": "https://t.co/Qu3LYSFTA4"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2001337141910204799",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001266127557779514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 我也有了，但是感觉并没有聪明多少 https://t.co/Qu3LYSFTA4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001265938143072256"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2001266127557779514",
+        "created_at": "2025-12-17T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001266127557779514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aPSRLYSoZ1",
+              "end": 46,
+              "expanded_url": "https://x.com/geekbb/status/2001266127557779514/photo/1",
+              "media_key": "3_2001265938143072256",
+              "start": 23,
+              "url": "https://t.co/aPSRLYSoZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001266127557779514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18141,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像灰度到 Gemini 3 Flash 了 https://t.co/aPSRLYSoZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5305,
+          "following_count": 680,
+          "like_count": 13984,
+          "listed_count": 21,
+          "media_count": 1421,
+          "tweet_count": 8168
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101952,
+          "following_count": 398,
+          "like_count": 17121,
+          "listed_count": 1050,
+          "media_count": 6291,
+          "tweet_count": 24231
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

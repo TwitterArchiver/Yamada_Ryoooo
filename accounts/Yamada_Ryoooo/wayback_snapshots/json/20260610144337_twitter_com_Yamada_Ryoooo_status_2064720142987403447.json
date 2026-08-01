@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2064720142987403447",
+    "created_at": "2026-06-10T14:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064720142987403447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/claudedevs/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/claudedevs/status/2064464557951852643",
+          "start": 8,
+          "url": "https://t.co/seEmKwLJpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064720142987403447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064464557951852643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尽情地享受吧！ https://t.co/seEmKwLJpz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2064720142987403447",
+        "created_at": "2026-06-10T14:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064720142987403447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/claudedevs/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/claudedevs/status/2064464557951852643",
+              "start": 8,
+              "url": "https://t.co/seEmKwLJpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064720142987403447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064464557951852643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽情地享受吧！ https://t.co/seEmKwLJpz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024518793679294464",
+        "conversation_id": "2064464557951852643",
+        "created_at": "2026-06-09T21:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064464557951852643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064464557951852643",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1318,
+          "impression_count": 1638098,
+          "like_count": 29296,
+          "quote_count": 735,
+          "reply_count": 1202,
+          "retweet_count": 1577
+        },
+        "reply_settings": "everyone",
+        "text": "We've reset 5-hour and weekly rate limits for all users. Enjoy Fable 5!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1018,
+          "like_count": 17845,
+          "listed_count": 22,
+          "media_count": 1805,
+          "tweet_count": 9922
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T16:19:46.000Z",
+        "description": "Official updates for developers building with @ClaudeAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "ClaudeAI"
+              }
+            ]
+          }
+        },
+        "id": "2024518793679294464",
+        "name": "ClaudeDevs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479650,
+          "following_count": 3,
+          "like_count": 42,
+          "listed_count": 2198,
+          "media_count": 51,
+          "tweet_count": 203
+        },
+        "username": "ClaudeDevs",
+        "verified": true
+      }
+    ]
+  }
+}

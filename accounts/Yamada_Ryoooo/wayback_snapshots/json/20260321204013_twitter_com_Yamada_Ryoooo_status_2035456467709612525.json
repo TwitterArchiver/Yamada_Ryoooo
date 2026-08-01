@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2035456467709612525",
+    "created_at": "2026-03-21T20:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T21:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035456467709612525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lulu_chuuu/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lulu_chuuu/status/2034742367698526500",
+          "start": 5,
+          "url": "https://t.co/SDlK6Z23XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035456467709612525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034742367698526500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "臂力惊人 https://t.co/SDlK6Z23XG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 968157,
+        "height": 1082,
+        "media_key": "13_2014756850760351745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014756850760351745/img/fxb2RFCer54xeRwJ.jpg",
+        "public_metrics": {
+          "view_count": 15692875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014756850760351745/vid/avc1/1080x1080/nnKm2cg3TFqecmuo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014756850760351745/vid/avc1/720x720/D4lo4ZXcXvRFSdMf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014756850760351745/pl/vv2YhUiKqWOg2ykJ.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014756850760351745/vid/avc1/320x320/q3WeTwFt5OemllyD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014756850760351745/vid/avc1/480x480/Y8qQrLwMEBHfyizM.mp4"
+          }
+        ],
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2035456467709612525",
+        "created_at": "2026-03-21T20:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T21:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035456467709612525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lulu_chuuu/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lulu_chuuu/status/2034742367698526500",
+              "start": 5,
+              "url": "https://t.co/SDlK6Z23XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035456467709612525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034742367698526500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "臂力惊人 https://t.co/SDlK6Z23XG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014756850760351745"
+          ],
+          "media_source_tweet_id": [
+            "2014758569024143771"
+          ]
+        },
+        "author_id": "873569707005157376",
+        "conversation_id": "2034742367698526500",
+        "created_at": "2026-03-19T21:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T22:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034742367698526500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfQGbbWBlR",
+              "end": 23,
+              "expanded_url": "http://x.com/ailenlovelace4/status/2014758569024143771/video/1",
+              "media_key": "13_2014756850760351745",
+              "start": 0,
+              "url": "https://t.co/CfQGbbWBlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034742367698526500",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58958,
+          "impression_count": 538071,
+          "like_count": 107827,
+          "quote_count": 42,
+          "reply_count": 49,
+          "retweet_count": 7378
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CfQGbbWBlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 1072,
+          "like_count": 16648,
+          "listed_count": 21,
+          "media_count": 1609,
+          "tweet_count": 9231
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-10T15:57:03.000Z",
+        "description": "don't own any content DM for Credit Or Removal, Format: REMOVE or BUY\n\nThis account is available for you",
+        "id": "873569707005157376",
+        "location": "Unknown",
+        "name": "Lulu Chu  🪬",
+        "pinned_tweet_id": "1890712622523208006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631280580850774020/cv26IR8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160266,
+          "following_count": 51,
+          "like_count": 50,
+          "listed_count": 378,
+          "media_count": 1318,
+          "tweet_count": 4524
+        },
+        "username": "lulu_chuuu",
+        "verified": false
+      }
+    ]
+  }
+}

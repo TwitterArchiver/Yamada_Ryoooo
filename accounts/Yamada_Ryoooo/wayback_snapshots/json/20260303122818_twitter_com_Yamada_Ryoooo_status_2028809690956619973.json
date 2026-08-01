@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2028764279286149484",
+    "created_at": "2026-03-03T12:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028809690956619973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "713889171962667008",
+          "start": 0,
+          "username": "Lustre_Blade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028809690956619973",
+    "in_reply_to_user_id": "713889171962667008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028764279286149484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lustre_Blade 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2028764272050970624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeeW0iaIAA430l.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2028764279286149484",
+        "created_at": "2026-03-03T12:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028809690956619973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "713889171962667008",
+              "start": 0,
+              "username": "Lustre_Blade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028809690956619973",
+        "in_reply_to_user_id": "713889171962667008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028764279286149484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lustre_Blade 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028764272050970624"
+          ]
+        },
+        "author_id": "713889171962667008",
+        "conversation_id": "2028764279286149484",
+        "created_at": "2026-03-03T09:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028764279286149484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSF0cRrZ4W",
+              "end": 76,
+              "expanded_url": "https://x.com/Lustre_Blade/status/2028764279286149484/photo/1",
+              "media_key": "3_2028764272050970624",
+              "start": 53,
+              "url": "https://t.co/wSF0cRrZ4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028764279286149484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "qwen3.5-0.8B这么小的模型还带视觉，我个破笔记本都能丢显卡上跑，qwen真王朝了🖐🏻️😭🖐🏻️ https://t.co/wSF0cRrZ4W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5933,
+          "following_count": 1055,
+          "like_count": 16254,
+          "listed_count": 21,
+          "media_count": 1534,
+          "tweet_count": 8999
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-27T00:43:36.000Z",
+        "description": "3D Creator: 70% of my body is made of games.\n3Dアーティスト：僕の体の70%はゲームでできている\nThe verdict doesn't love our soul\nThe digital won't let me go",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isblade.com",
+                "end": 23,
+                "expanded_url": "https://isblade.com",
+                "start": 0,
+                "url": "https://t.co/NvgDyoyN0J"
+              }
+            ]
+          }
+        },
+        "id": "713889171962667008",
+        "location": "Superfast Jellyfish",
+        "name": "光锋",
+        "pinned_tweet_id": "1705971238215283141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014395004643651584/1mj6nY4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 599,
+          "like_count": 4806,
+          "listed_count": 6,
+          "media_count": 7195,
+          "tweet_count": 13766
+        },
+        "url": "https://t.co/NvgDyoyN0J",
+        "username": "Lustre_Blade",
+        "verified": false
+      }
+    ]
+  }
+}

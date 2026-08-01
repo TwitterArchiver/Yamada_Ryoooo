@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012609578681450952",
+    "created_at": "2026-01-18T14:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012901392294535569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "8850612",
+          "start": 0,
+          "username": "caihuoche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012901392294535569",
+    "in_reply_to_user_id": "8850612",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012609578681450952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caihuoche 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012609578681450952",
+        "created_at": "2026-01-18T14:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012901392294535569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "8850612",
+              "start": 0,
+              "username": "caihuoche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012901392294535569",
+        "in_reply_to_user_id": "8850612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012609578681450952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caihuoche 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8850612",
+        "conversation_id": "2012609578681450952",
+        "created_at": "2026-01-17T19:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012609578681450952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "蓝V互关"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "xblue"
+            },
+            {
+              "end": 88,
+              "start": 77,
+              "tag": "followback"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012609578681450952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚升级 X 蓝 V 🚀\n正在冲 500 粉解锁内容收益\n蓝 V 互关，必回 🙌\nAppreciate the support! #蓝V互关 #xblue #followback"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5504,
+          "following_count": 986,
+          "like_count": 14636,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8512
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2007-09-13T09:45:46.000Z",
+        "description": "中国最不知名负二代",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nbbunb.com",
+                "end": 23,
+                "expanded_url": "https://nbbunb.com",
+                "start": 0,
+                "url": "https://t.co/bbCKmsLdJD"
+              }
+            ]
+          }
+        },
+        "id": "8850612",
+        "name": "Mickey 🔶",
+        "pinned_tweet_id": "2010563127205892480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897084957740158976/5x66jjo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 118,
+          "like_count": 121,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/bbCKmsLdJD",
+        "username": "caihuoche",
+        "verified": true
+      }
+    ]
+  }
+}

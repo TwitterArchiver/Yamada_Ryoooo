@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068213557066690560"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2068213564851249485",
+    "created_at": "2026-06-20T06:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068213564851249485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h3xNHdAI09",
+          "end": 31,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2068213564851249485/photo/1",
+          "media_key": "3_2068213557066690560",
+          "start": 8,
+          "url": "https://t.co/h3xNHdAI09"
+        },
+        {
+          "display_url": "x.com/linearuncle/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/linearuncle/status/2068139991709135075",
+          "start": 32,
+          "url": "https://t.co/xUYJ67scuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068213564851249485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068139991709135075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这都不用抢啊… https://t.co/h3xNHdAI09 https://t.co/xUYJ67scuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2068213557066690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPFRbSbcAAFcCH.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1430,
+        "media_key": "3_2068139566343860224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOB-mXbMAAG5iW.jpg",
+        "width": 2478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068213557066690560"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2068213564851249485",
+        "created_at": "2026-06-20T06:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068213564851249485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3xNHdAI09",
+              "end": 31,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2068213564851249485/photo/1",
+              "media_key": "3_2068213557066690560",
+              "start": 8,
+              "url": "https://t.co/h3xNHdAI09"
+            },
+            {
+              "display_url": "x.com/linearuncle/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/linearuncle/status/2068139991709135075",
+              "start": 32,
+              "url": "https://t.co/xUYJ67scuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068213564851249485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068139991709135075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这都不用抢啊… https://t.co/h3xNHdAI09 https://t.co/xUYJ67scuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068139566343860224"
+          ]
+        },
+        "author_id": "1239771839464783872",
+        "conversation_id": "2068139991709135075",
+        "created_at": "2026-06-20T01:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:12:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068139793951981619",
+          "2068139991709135075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。",
+              "display_url": "bigmodel.cn/glm-coding",
+              "end": 57,
+              "expanded_url": "https://www.bigmodel.cn/glm-coding",
+              "start": 34,
+              "status": 200,
+              "title": "智谱AI开放平台",
+              "unwound_url": "https://www.bigmodel.cn/glm-coding",
+              "url": "https://t.co/6Zdmdc7chl"
+            },
+            {
+              "display_url": "pic.x.com/oMwLWNMu4P",
+              "end": 81,
+              "expanded_url": "https://x.com/LinearUncle/status/2068139991709135075/photo/1",
+              "media_key": "3_2068139566343860224",
+              "start": 58,
+              "url": "https://t.co/oMwLWNMu4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068139991709135075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9556,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "智谱GLM-5.2, 今天10点补货，准备抢一个试试，看能否买到\n\nhttps://t.co/6Zdmdc7chl https://t.co/oMwLWNMu4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6538,
+          "following_count": 983,
+          "like_count": 17958,
+          "listed_count": 22,
+          "media_count": 1814,
+          "tweet_count": 9976
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-17T04:33:41.000Z",
+        "description": "👑 AI coding - 职业工程师\n💻 只分享硬核AI编程工具，技巧等",
+        "id": "1239771839464783872",
+        "location": "中国",
+        "name": "LinearUncle",
+        "pinned_tweet_id": "2065987099367715201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906323582759874560/6Elwf5WN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9922,
+          "following_count": 1092,
+          "like_count": 25019,
+          "listed_count": 170,
+          "media_count": 1079,
+          "tweet_count": 5901
+        },
+        "url": "",
+        "username": "LinearUncle",
+        "verified": true
+      }
+    ]
+  }
+}

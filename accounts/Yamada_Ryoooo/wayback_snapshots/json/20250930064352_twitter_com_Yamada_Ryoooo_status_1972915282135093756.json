@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1972601573932241244",
+    "created_at": "2025-09-30T06:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972915282135093756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933225223416864768",
+          "start": 0,
+          "username": "Araya_Touka_222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972915282135093756",
+    "in_reply_to_user_id": "1933225223416864768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972601573932241244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Araya_Touka_222 有时候竖屏刷b站就会刷到意义不明的64或者包子或者蜗牛与黄鹂鸟（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972601573932241244",
+        "created_at": "2025-09-30T06:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972915282135093756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933225223416864768",
+              "start": 0,
+              "username": "Araya_Touka_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972915282135093756",
+        "in_reply_to_user_id": "1933225223416864768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972601573932241244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Araya_Touka_222 有时候竖屏刷b站就会刷到意义不明的64或者包子或者蜗牛与黄鹂鸟（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933225223416864768",
+        "conversation_id": "1972601573932241244",
+        "created_at": "2025-09-29T09:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T10:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972601573932241244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1972554698575282221",
+              "start": 48,
+              "url": "https://t.co/vk33FLPfhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972601573932241244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972554698575282221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "64播放低--&gt;平台限流\n64播放高--&gt;大家都在关注和搜索\n都给李顺颖炒作完了😅 https://t.co/vk33FLPfhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 682,
+          "like_count": 13228,
+          "listed_count": 20,
+          "media_count": 1348,
+          "tweet_count": 7640
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜！\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川反绿右🐶。\n逃生仓：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1933225223416864768",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1967171868399407510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 5949,
+          "like_count": 17756,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 2658
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      }
+    ]
+  }
+}

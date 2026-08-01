@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012875261721903190",
+    "created_at": "2026-01-18T23:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013029396651905493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1220627112295428096",
+          "start": 0,
+          "username": "BeiJing_Talking"
+        },
+        {
+          "end": 27,
+          "id": "880203145288331265",
+          "start": 17,
+          "username": "dakache01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013029396651905493",
+    "in_reply_to_user_id": "1220627112295428096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013029246566838429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiJing_Talking @dakache01 限制啦，晚点解除了回关～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012875261721903190",
+        "created_at": "2026-01-18T23:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013029396651905493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1220627112295428096",
+              "start": 0,
+              "username": "BeiJing_Talking"
+            },
+            {
+              "end": 27,
+              "id": "880203145288331265",
+              "start": 17,
+              "username": "dakache01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013029396651905493",
+        "in_reply_to_user_id": "1220627112295428096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013029246566838429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiJing_Talking @dakache01 限制啦，晚点解除了回关～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220627112295428096",
+        "conversation_id": "2012875261721903190",
+        "created_at": "2026-01-18T23:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013029246566838429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "880203145288331265",
+              "start": 0,
+              "username": "dakache01"
+            },
+            {
+              "end": 25,
+              "id": "1768487038645678080",
+              "start": 11,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013029246566838429",
+        "in_reply_to_user_id": "880203145288331265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012956811666608392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dakache01 @Yamada_Ryoooo 互關互關"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 1117,
+          "like_count": 14858,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8598
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-24T08:39:30.000Z",
+        "description": "「一」「天市」「獄門疆」「虛舟之呂」作者：https://t.co/Ldv01VdKvZ / 油管頻道「北靜 不靜音」BeiJing Talking：https://t.co/usTPllyehN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Bei-Jing.myshopify.com",
+                "end": 44,
+                "expanded_url": "http://Bei-Jing.myshopify.com",
+                "start": 21,
+                "url": "https://t.co/Ldv01VdKvZ"
+              },
+              {
+                "display_url": "YouTube.com/@BeiJing_Talki…",
+                "end": 98,
+                "expanded_url": "http://YouTube.com/@BeiJing_Talking",
+                "start": 75,
+                "url": "https://t.co/usTPllyehN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2084Studio.com",
+                "end": 23,
+                "expanded_url": "http://2084Studio.com",
+                "start": 0,
+                "url": "https://t.co/zJnOPrXJPN"
+              }
+            ]
+          }
+        },
+        "id": "1220627112295428096",
+        "location": "Tian City",
+        "name": "北靜 Bei.Jing",
+        "pinned_tweet_id": "2013018580179145067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998754039576592384/BjmwYKHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6040,
+          "following_count": 651,
+          "like_count": 25473,
+          "listed_count": 32,
+          "media_count": 4167,
+          "tweet_count": 30944
+        },
+        "url": "https://t.co/zJnOPrXJPN",
+        "username": "BeiJing_Talking",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-28T23:15:58.000Z",
+        "description": "生活在南美洲智利，一个远离第一次和第二次世界大战的地方。",
+        "id": "880203145288331265",
+        "name": "李少明",
+        "pinned_tweet_id": "2012738993520046451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999289467497025538/rneVaTw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16008,
+          "following_count": 1013,
+          "like_count": 72113,
+          "listed_count": 55,
+          "media_count": 1765,
+          "tweet_count": 30193
+        },
+        "username": "dakache01",
+        "verified": true
+      }
+    ]
+  }
+}

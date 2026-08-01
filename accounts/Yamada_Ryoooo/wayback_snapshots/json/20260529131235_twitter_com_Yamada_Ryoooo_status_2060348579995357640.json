@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060348579995357640",
+    "created_at": "2026-05-29T13:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060348579995357640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamada_ryoooo/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/yamada_ryoooo/status/2060307010378432818",
+          "start": 37,
+          "url": "https://t.co/tIKyNP5yZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060348579995357640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060307010378432818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "opus站起来蹬太舒服了😆😆😆\n把所有比较大的项目都用opus修了一遍😋 https://t.co/tIKyNP5yZU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060348579995357640",
+        "created_at": "2026-05-29T13:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060348579995357640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/2060307010378432818",
+              "start": 37,
+              "url": "https://t.co/tIKyNP5yZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060348579995357640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307010378432818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "opus站起来蹬太舒服了😆😆😆\n把所有比较大的项目都用opus修了一遍😋 https://t.co/tIKyNP5yZU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060307010378432818",
+        "created_at": "2026-05-29T10:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060307010378432818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Flexible pricing tiers for developers: Free tier with 50 credits, Pro at $20/month, Pro+ at $40/month, and Power at $200/month.",
+              "display_url": "kiro.dev/pricing/",
+              "end": 99,
+              "expanded_url": "https://kiro.dev/pricing/",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2058448352480825344/QHk7rzYP?format=png&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058448352480825344/QHk7rzYP?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "Pricing",
+              "unwound_url": "https://kiro.dev/pricing/",
+              "url": "https://t.co/TqpnHS8NLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060307010378432818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢kiro，claude opus4.8自由了😋😋😋\n\n直接订阅power账号可以免费用一个月，虽然是到6.1号续订，但是可以爽用两天🥵\nlink：\nhttps://t.co/TqpnHS8NLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1014,
+          "like_count": 17682,
+          "listed_count": 24,
+          "media_count": 1793,
+          "tweet_count": 9833
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

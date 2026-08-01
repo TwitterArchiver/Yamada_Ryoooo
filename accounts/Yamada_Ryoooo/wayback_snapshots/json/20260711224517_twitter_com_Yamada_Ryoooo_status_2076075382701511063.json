@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076075319564660737"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2076075382701511063",
+    "created_at": "2026-07-11T22:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T23:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076075382701511063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iLBSlU5qLv",
+          "end": 39,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2076075382701511063/photo/1",
+          "media_key": "3_2076075319564660737",
+          "start": 16,
+          "url": "https://t.co/iLBSlU5qLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076075382701511063",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好用归好用，耗的是真的快。。。 https://t.co/iLBSlU5qLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_2076075319564660737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-zgO2bcAEmwaM.png",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076075319564660737"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2076075382701511063",
+        "created_at": "2026-07-11T22:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T23:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076075382701511063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLBSlU5qLv",
+              "end": 39,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2076075382701511063/photo/1",
+              "media_key": "3_2076075319564660737",
+              "start": 16,
+              "url": "https://t.co/iLBSlU5qLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076075382701511063",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好用归好用，耗的是真的快。。。 https://t.co/iLBSlU5qLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6494,
+          "following_count": 969,
+          "like_count": 17812,
+          "listed_count": 22,
+          "media_count": 1823,
+          "tweet_count": 10027
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

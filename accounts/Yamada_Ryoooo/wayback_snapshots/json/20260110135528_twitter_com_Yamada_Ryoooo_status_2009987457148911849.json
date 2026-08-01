@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2009641605083656292",
+    "created_at": "2026-01-10T13:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T14:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009987457148911849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1744520765964460032",
+          "start": 0,
+          "username": "angine04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009987457148911849",
+    "in_reply_to_user_id": "1744520765964460032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009641605083656292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angine04 用的茶轴，手感脆脆的，键程也比薄膜长一点，打字感觉很舒服（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2009641605083656292",
+        "created_at": "2026-01-10T13:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T14:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009987457148911849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1744520765964460032",
+              "start": 0,
+              "username": "angine04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009987457148911849",
+        "in_reply_to_user_id": "1744520765964460032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009641605083656292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angine04 用的茶轴，手感脆脆的，键程也比薄膜长一点，打字感觉很舒服（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744520765964460032",
+        "conversation_id": "2009641605083656292",
+        "created_at": "2026-01-09T15:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009641605083656292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009641605083656292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9089,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时至今日也无法理解机械键盘为什么好……\n很多人都说机械键盘反馈清晰打字不累，可是就我自己的使用体验而言，反而是薄膜键盘反馈更为清晰，打字更加省力（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 683,
+          "like_count": 14234,
+          "listed_count": 21,
+          "media_count": 1440,
+          "tweet_count": 8319
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-09T00:45:48.000Z",
+        "description": "“By the power of language.”Uraaka @mitsusetoya. Significant other @zianpunk. Follow ≠ Endorsement. Block ≠ Hostility. No politics. Opinions are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 34,
+                "username": "mitsusetoya"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "zianpunk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angine.tech",
+                "end": 23,
+                "expanded_url": "https://angine.tech",
+                "start": 0,
+                "url": "https://t.co/nzpkkeJeBZ"
+              }
+            ]
+          }
+        },
+        "id": "1744520765964460032",
+        "location": "Portintsen, Yentseang",
+        "name": "Angine",
+        "pinned_tweet_id": "2008136905632920046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004590204125110272/pVRI9SZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1188,
+          "like_count": 17886,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/nzpkkeJeBZ",
+        "username": "angine04",
+        "verified": true
+      }
+    ]
+  }
+}

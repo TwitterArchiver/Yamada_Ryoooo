@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012928701126631714",
+    "created_at": "2026-01-18T23:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013028141116350691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765300689578983424",
+          "start": 0,
+          "username": "CherryWang2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013028141116350691",
+    "in_reply_to_user_id": "1765300689578983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012928701126631714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CherryWang2024 来互关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012928670902472704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9b9hNXUAApFUQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012928701126631714",
+        "created_at": "2026-01-18T23:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013028141116350691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765300689578983424",
+              "start": 0,
+              "username": "CherryWang2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013028141116350691",
+        "in_reply_to_user_id": "1765300689578983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012928701126631714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CherryWang2024 来互关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012928670902472704"
+          ]
+        },
+        "author_id": "1765300689578983424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012928701126631714",
+        "created_at": "2026-01-18T16:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012928701126631714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYYwcIYdSK",
+              "end": 45,
+              "expanded_url": "https://x.com/CherryWang2024/status/2012928701126631714/photo/1",
+              "media_key": "3_2012928670902472704",
+              "start": 22,
+              "url": "https://t.co/VYYwcIYdSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012928701126631714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才玩Twitter #蓝V互关  爱你们哦 https://t.co/VYYwcIYdSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 1114,
+          "like_count": 14848,
+          "listed_count": 21,
+          "media_count": 1466,
+          "tweet_count": 8591
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T08:57:49.000Z",
+        "description": "@CHAINISLE_MCN 生态成员 网红孵化机构｜BTC OTC|HK / Canada 🇨🇦/ USA 🇺🇸 Cherry全球会客厅 币安广场直播：2-7pm Daily PC time Zoom. 8pm to 12pm Space Time Zoom 双语频道",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "CHAINISLE_MCN"
+              }
+            ]
+          }
+        },
+        "id": "1765300689578983424",
+        "name": "Cherry 上帝的宝贝",
+        "pinned_tweet_id": "2008953072949887149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008878277377904642/tK9PwC8R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 411,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 207
+        },
+        "username": "CherryWang2024",
+        "verified": true
+      }
+    ]
+  }
+}

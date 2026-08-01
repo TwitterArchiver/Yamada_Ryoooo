@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012599293014606265",
+    "created_at": "2026-01-18T16:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012926665265942915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "458098544",
+          "start": 0,
+          "username": "david88lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012926665265942915",
+    "in_reply_to_user_id": "458098544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012599293014606265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@david88lee 可以互关嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2012599289755705344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4wZA0XoAAqyB6.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012599293014606265",
+        "created_at": "2026-01-18T16:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012926665265942915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "458098544",
+              "start": 0,
+              "username": "david88lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012926665265942915",
+        "in_reply_to_user_id": "458098544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012599293014606265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david88lee 可以互关嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012599289755705344"
+          ]
+        },
+        "author_id": "458098544",
+        "conversation_id": "2012599293014606265",
+        "created_at": "2026-01-17T18:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012599293014606265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsA7tWXDhL",
+              "end": 158,
+              "expanded_url": "https://x.com/david88lee/status/2012599293014606265/photo/1",
+              "media_key": "3_2012599289755705344",
+              "start": 135,
+              "url": "https://t.co/UsA7tWXDhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012599293014606265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以前我关注和回关的标准是，从你的发帖和回贴里看到“你是一个有趣的人，或者你有一个有趣灵魂的人。”，每一个个体都有其存在的价值，在我眼里没有谁比谁更高尚的说法，当然这个标准到现在也没有改变。\n\n只是现在X上多了一条“蓝V”变现的能力，所以我会给关注我的“蓝V”一个回关。\n\n除了几个发布色情视频的，我怕一不小心在家人面前点开。在老婆面前点开还好，最多交一次公粮，一家人吃饭的时候点开就不太好了，请见谅😅"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4595,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前我关注和回关的标准是，从你的发帖和回贴里看到“你是一个有趣的人，或者你有一个有趣灵魂的人。”，每一个个体都有其存在的价值，在我眼里没有谁比谁更高尚的说法，当然这个标准到现在也没有改变。\n\n只是现在X上多了一条“蓝V”变现的能力，所以我会给关注我的“蓝V”一个回关。 https://t.co/UsA7tWXDhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5555,
+          "following_count": 1023,
+          "like_count": 14677,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8537
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-08T05:25:07.000Z",
+        "description": "大波士顿资深地产经纪人 | eXp Realty Senior Agent ;\n深耕波士顿房产一线交易，拒绝纸上谈兵;\n用S&P 500宏观逻辑读地产，用地产周期反推美股结构;\n资产配置视角，不做情绪判断;\n“川普能划线，我也能。”\n只讲方法论与实操路径;\n纯干货输出 | 非投资建议.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "DavidLiRealty.com",
+                "end": 23,
+                "expanded_url": "http://DavidLiRealty.com",
+                "start": 0,
+                "url": "https://t.co/MpvxMtHSrj"
+              }
+            ]
+          }
+        },
+        "id": "458098544",
+        "location": "Boston,MA",
+        "name": "李德胜DavidTheRealtor",
+        "pinned_tweet_id": "2012675441186701455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207428075346186246/lD3ex0RG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10227,
+          "following_count": 1244,
+          "like_count": 30242,
+          "listed_count": 91,
+          "media_count": 4504,
+          "tweet_count": 53606
+        },
+        "url": "https://t.co/MpvxMtHSrj",
+        "username": "david88lee",
+        "verified": true
+      }
+    ]
+  }
+}

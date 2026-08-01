@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012757941070492111",
+    "created_at": "2026-01-18T13:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012882265819508915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652012591961772032",
+          "start": 0,
+          "username": "RealYDT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yamada_ryoooo/…",
+          "end": 35,
+          "expanded_url": "https://x.com/yamada_ryoooo/status/2012707154097246392?s=46",
+          "start": 12,
+          "url": "https://t.co/4pulMcXJQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012882265819508915",
+    "in_reply_to_user_id": "1652012591961772032",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012707154097246392",
+        "type": "quoted"
+      },
+      {
+        "id": "2012757941070492111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RealYDT 🫡\n\nhttps://t.co/4pulMcXJQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2012757845503090688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7AmLAXoAA2Sem.png",
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012757941070492111",
+        "created_at": "2026-01-18T13:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012882265819508915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652012591961772032",
+              "start": 0,
+              "username": "RealYDT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 35,
+              "expanded_url": "https://x.com/yamada_ryoooo/status/2012707154097246392?s=46",
+              "start": 12,
+              "url": "https://t.co/4pulMcXJQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012882265819508915",
+        "in_reply_to_user_id": "1652012591961772032",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012707154097246392",
+            "type": "quoted"
+          },
+          {
+            "id": "2012757941070492111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealYDT 🫡\n\nhttps://t.co/4pulMcXJQ1"
+      },
+      {
+        "article": {
+          "title": "公开|蓝勾代开是怎么赚你钱的？"
+        },
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012707154097246392",
+        "created_at": "2026-01-18T02:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012707154097246392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2012…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2012692177873432576",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2012692177873432576",
+              "url": "https://t.co/RKtDdvlRir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012707154097246392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 790,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RKtDdvlRir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012757845503090688"
+          ]
+        },
+        "author_id": "1652012591961772032",
+        "conversation_id": "2012757941070492111",
+        "created_at": "2026-01-18T05:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012757941070492111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOyonAmEUt",
+              "end": 112,
+              "expanded_url": "https://x.com/RealYDT/status/2012757941070492111/photo/1",
+              "media_key": "3_2012757845503090688",
+              "start": 89,
+              "url": "https://t.co/nOyonAmEUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012757941070492111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天，我想给所有男性一个忠告：无论一个女人有多么漂亮，身材多么好，你与她关系有多么亲近，都应相信她，但一定要留一个心眼儿。我要强调的是，接下来的这段话，你们一定要认真听我说完。\n\n人与人之间的关系是脆弱的，经不起考验。如果有一天，你的女人跟你翻脸，她的绝情程度可能会是男人的几十倍甚至上百倍。有些女人，一旦变心，你做什么、说什么都无济于事。哪怕你现在死了，她都不会再看一眼。我会说，当他变心之后，你的好在她面前一文不值，而且他会把所有的错误都归咎于你。\n\n因此，男人们必须牢记：你可以选择不原谅伤害你的人，但不要用别人的错误来惩罚自己。心里再难过、再痛苦，这个坎儿你必须跨过去。因为在这个世界上，真正不会背叛你的人只有你自己。我们无法改变不好的结局或烂人的人品，但我们可以改变自己，让自己学会放手，为自己而活。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 144270,
+          "like_count": 639,
+          "quote_count": 6,
+          "reply_count": 119,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "今天，我想给所有男性一个忠告：无论一个女人有多么漂亮，身材多么好，你与她关系有多么亲近，都应相信她，但一定要留一个心眼儿。我要强调的是，接下来的这段话，你们一定要认真听我说完。 https://t.co/nOyonAmEUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5447,
+          "following_count": 948,
+          "like_count": 14647,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8491
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-28T18:11:24.000Z",
+        "description": "道法自然，透过现象看本质",
+        "id": "1652012591961772032",
+        "location": "New York City",
+        "name": "阿良",
+        "pinned_tweet_id": "2012757941070492111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009800244523925504/D03tGv3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 810,
+          "like_count": 11328,
+          "listed_count": 11,
+          "media_count": 254,
+          "tweet_count": 7719
+        },
+        "username": "RealYDT",
+        "verified": true
+      }
+    ]
+  }
+}

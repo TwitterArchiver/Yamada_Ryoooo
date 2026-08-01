@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994690966226440199"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1994690975206445483",
+    "created_at": "2025-11-29T08:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994690975206445483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/azUajXu9AA",
+          "end": 35,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1994690975206445483/photo/1",
+          "media_key": "3_1994690966226440199",
+          "start": 12,
+          "url": "https://t.co/azUajXu9AA"
+        },
+        {
+          "display_url": "x.com/stickmaster776…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/stickmaster7760/status/1994680881878110437",
+          "start": 36,
+          "url": "https://t.co/MgnPjhJ28b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994690975206445483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994680881878110437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是什么类型的滞纳🐷？ https://t.co/azUajXu9AA https://t.co/MgnPjhJ28b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1994690966226440199",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66Q3Y6bkAcKmjW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994690966226440199"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1994690975206445483",
+        "created_at": "2025-11-29T08:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994690975206445483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azUajXu9AA",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1994690975206445483/photo/1",
+              "media_key": "3_1994690966226440199",
+              "start": 12,
+              "url": "https://t.co/azUajXu9AA"
+            },
+            {
+              "display_url": "x.com/stickmaster776…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/stickmaster7760/status/1994680881878110437",
+              "start": 36,
+              "url": "https://t.co/MgnPjhJ28b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994690975206445483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994680881878110437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是什么类型的滞纳🐷？ https://t.co/azUajXu9AA https://t.co/MgnPjhJ28b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921122349006680066",
+        "conversation_id": "1992194057163231444",
+        "created_at": "2025-11-29T08:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994680881878110437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994680881878110437",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992194057163231444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 肺霧呆灣人，呆灣人趕緊去亖吧，浮木都沒了，肺霧呆灣人這麼喜歡外國那去外國吧，肺霧鍋冥黨和冥禁黨浮木都亖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5453,
+          "following_count": 673,
+          "like_count": 13781,
+          "listed_count": 20,
+          "media_count": 1406,
+          "tweet_count": 8061
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T08:38:28.000Z",
+        "description": "我愛動畫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzdcC…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzdcCuZaCVh-vsfhm35Gn-Q?si=n_wle6Rm7K9SFAei",
+                "start": 0,
+                "url": "https://t.co/NgtIzbtaE4"
+              }
+            ]
+          }
+        },
+        "id": "1921122349006680066",
+        "location": "Hong Kong",
+        "name": "火柴人大師",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921123427357691904/QK_kRD9o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/NgtIzbtaE4",
+        "username": "StickMaster7760",
+        "verified": false
+      }
+    ]
+  }
+}

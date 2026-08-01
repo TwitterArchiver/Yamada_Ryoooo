@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053718723572412416"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2053718758989209926",
+    "created_at": "2026-05-11T06:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053718758989209926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eY5cvxAENs",
+          "end": 113,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2053718758989209926/video/1",
+          "media_key": "13_2053718723572412416",
+          "start": 90,
+          "url": "https://t.co/eY5cvxAENs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053718758989209926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2026年5月10日13时40分许，黔江区城东街道谭家湾十字路口发生一起交通事故。何某(女，57岁)驾小轿车行至该路段时，因操作不当，与车辆及行人发生碰撞，致2人死亡、6人受伤。 https://t.co/eY5cvxAENs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12131,
+        "height": 360,
+        "media_key": "13_2053718723572412416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053718723572412416/img/sCaGssfVdKOWJud-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053718723572412416/vid/avc1/480x270/lRubrDvoe9QKjuIY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053718723572412416/vid/avc1/640x360/-bvEutJXrKvVKHU6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053718723572412416/pl/UJGk2NupPWcXpTaT.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053718723572412416"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2053718758989209926",
+        "created_at": "2026-05-11T06:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053718758989209926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eY5cvxAENs",
+              "end": 113,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2053718758989209926/video/1",
+              "media_key": "13_2053718723572412416",
+              "start": 90,
+              "url": "https://t.co/eY5cvxAENs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053718758989209926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年5月10日13时40分许，黔江区城东街道谭家湾十字路口发生一起交通事故。何某(女，57岁)驾小轿车行至该路段时，因操作不当，与车辆及行人发生碰撞，致2人死亡、6人受伤。 https://t.co/eY5cvxAENs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 1101,
+          "like_count": 17343,
+          "listed_count": 24,
+          "media_count": 1768,
+          "tweet_count": 9683
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

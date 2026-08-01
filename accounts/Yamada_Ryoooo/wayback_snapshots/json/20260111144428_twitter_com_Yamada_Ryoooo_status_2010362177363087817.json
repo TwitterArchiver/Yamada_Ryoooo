@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010362104235311104"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2010362177363087817",
+    "created_at": "2026-01-11T14:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010362177363087817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bytevirt.com/aff.php?aff=10…",
+          "end": 38,
+          "expanded_url": "https://bytevirt.com/aff.php?aff=1059",
+          "start": 15,
+          "status": 200,
+          "title": "门户首页 - ByteVirt LLC",
+          "unwound_url": "https://bytevirt.com/",
+          "url": "https://t.co/j6jHs9ST6I"
+        },
+        {
+          "display_url": "pic.x.com/LyTKwAKaIq",
+          "end": 128,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2010362177363087817/photo/1",
+          "media_key": "3_2010362104235311104",
+          "start": 105,
+          "url": "https://t.co/LyTKwAKaIq"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2010362177363087817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推一下自己在用的vps供应商：https://t.co/j6jHs9ST6I\n带了aff，介意的可以去掉~\nbytevirt我自己用了一年多了，一直都挺稳定的，而且工单回复的也蛮快的\n买了他们家4台vps了😇 https://t.co/LyTKwAKaIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_2010362104235311104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Y9rrTaQAA27zG.jpg",
+        "width": 968
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010362104235311104"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2010362177363087817",
+        "created_at": "2026-01-11T14:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010362177363087817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bytevirt.com/aff.php?aff=10…",
+              "end": 38,
+              "expanded_url": "https://bytevirt.com/aff.php?aff=1059",
+              "start": 15,
+              "status": 200,
+              "title": "门户首页 - ByteVirt LLC",
+              "unwound_url": "https://bytevirt.com/",
+              "url": "https://t.co/j6jHs9ST6I"
+            },
+            {
+              "display_url": "pic.x.com/LyTKwAKaIq",
+              "end": 128,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2010362177363087817/photo/1",
+              "media_key": "3_2010362104235311104",
+              "start": 105,
+              "url": "https://t.co/LyTKwAKaIq"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2010362177363087817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推一下自己在用的vps供应商：https://t.co/j6jHs9ST6I\n带了aff，介意的可以去掉~\nbytevirt我自己用了一年多了，一直都挺稳定的，而且工单回复的也蛮快的\n买了他们家4台vps了😇 https://t.co/LyTKwAKaIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 684,
+          "like_count": 14248,
+          "listed_count": 21,
+          "media_count": 1442,
+          "tweet_count": 8333
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2045716406055186458",
+    "created_at": "2026-04-19T07:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045767106902507977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "yutian_blue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045767106902507977",
+    "in_reply_to_user_id": "1072837502732566529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045716406055186458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutian_blue claude吊打ds。国产ai我觉得就minimax和glm和kimi稍微好用点吧，minimaxm2.7也不贵，在openrouter还能每天免费用1000次\n不过我谷歌账号多所以都反代Geminicli的gemini模型出来用了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2045716244255629312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPYFeIaYAARUYY.jpg",
+        "width": 1925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2045716406055186458",
+        "created_at": "2026-04-19T07:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045767106902507977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "yutian_blue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045767106902507977",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045716406055186458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutian_blue claude吊打ds。国产ai我觉得就minimax和glm和kimi稍微好用点吧，minimaxm2.7也不贵，在openrouter还能每天免费用1000次\n不过我谷歌账号多所以都反代Geminicli的gemini模型出来用了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045716244255629312"
+          ]
+        },
+        "author_id": "1072837502732566529",
+        "conversation_id": "2045716406055186458",
+        "created_at": "2026-04-19T04:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045716406055186458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuUEoVaey6",
+              "end": 95,
+              "expanded_url": "https://x.com/yutian_blue/status/2045716406055186458/photo/1",
+              "media_key": "3_2045716244255629312",
+              "start": 72,
+              "url": "https://t.co/iuUEoVaey6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045716406055186458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然Deepseek的api是最便宜之一的，但也可以顶我一天饭钱了，话说Claude怎么样？还没用过，听说比DeepSeek聪明点是真的假的？ https://t.co/iuUEoVaey6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6418,
+          "following_count": 1092,
+          "like_count": 17178,
+          "listed_count": 24,
+          "media_count": 1743,
+          "tweet_count": 9569
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xichiAB",
+                "end": 23,
+                "expanded_url": "http://t.me/xichiAB",
+                "start": 0,
+                "url": "https://t.co/pBwraFYbCT"
+              }
+            ]
+          }
+        },
+        "id": "1072837502732566529",
+        "name": "りん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741304873201664/niyrY4gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6385,
+          "following_count": 331,
+          "like_count": 947,
+          "listed_count": 5,
+          "media_count": 304,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/pBwraFYbCT",
+        "username": "yutian_blue",
+        "verified": true
+      }
+    ]
+  }
+}

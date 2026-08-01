@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2002410137596891149",
+    "created_at": "2025-12-21T03:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T04:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002582362048315668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506291557233999877",
+          "start": 0,
+          "username": "8964hazuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002582362048315668",
+    "in_reply_to_user_id": "1506291557233999877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002410137596891149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964hazuki 我涛哥太帅了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 94266,
+        "height": 720,
+        "media_key": "13_2002409757861416960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002409757861416960/img/hnbhhsN72fV98atF.jpg",
+        "public_metrics": {
+          "view_count": 33835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002409757861416960/vid/avc1/480x270/K2JygzXtIdY0kCsg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002409757861416960/vid/avc1/640x360/-1OHXRewtSzg9eJs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002409757861416960/vid/avc1/1280x720/fRXuwCvIakhiWNy1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002409757861416960/pl/7brekIXU-BP_UcKt.m3u8?v=0c2"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2002410137596891149",
+        "created_at": "2025-12-21T03:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T04:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002582362048315668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506291557233999877",
+              "start": 0,
+              "username": "8964hazuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002582362048315668",
+        "in_reply_to_user_id": "1506291557233999877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002410137596891149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964hazuki 我涛哥太帅了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002409757861416960"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2002410137596891149",
+        "created_at": "2025-12-20T16:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002410137596891149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "胡锦涛"
+            },
+            {
+              "end": 148,
+              "start": 139,
+              "tag": "hujintao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NOjUCxHXt",
+              "end": 172,
+              "expanded_url": "https://x.com/8964hazuki/status/2002410137596891149/video/1",
+              "media_key": "13_2002409757861416960",
+              "start": 149,
+              "url": "https://t.co/6NOjUCxHXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002410137596891149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 43124,
+          "like_count": 692,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "【胡锦涛生贺个人向｜归零】卡点绝赞中\n\n（这首歌第一次听的时候就觉得很适合剪🍑，一周之前就已经构思好了，结果这两天才开始动手剪🥲几乎每个时期的桃这个视频里都用上了，视频里的卡点镜头蛮多的还有后面的照片卡点。。😻喜欢看各个时期🍑的不要错过喵。。\n\n最后 祝万事胜意。\n\n#胡锦涛 #hujintao https://t.co/6NOjUCxHXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 679,
+          "like_count": 14002,
+          "listed_count": 21,
+          "media_count": 1421,
+          "tweet_count": 8174
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "Japan",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 300,
+          "like_count": 7974,
+          "listed_count": 5,
+          "media_count": 177,
+          "tweet_count": 1288
+        },
+        "username": "8964hazuki",
+        "verified": false
+      }
+    ]
+  }
+}

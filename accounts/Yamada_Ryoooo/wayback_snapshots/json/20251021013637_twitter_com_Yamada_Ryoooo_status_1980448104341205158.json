@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1980448104341205158",
+    "created_at": "2025-10-21T01:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T02:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980448104341205158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamada_ryoooo/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yamada_ryoooo/status/1980268049631772987",
+          "start": 23,
+          "url": "https://t.co/e4JQTbF5HJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980448104341205158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980268049631772987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "网页版更新：可以当作网页app添加到主屏幕了 https://t.co/e4JQTbF5HJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_1980267970937892864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tTOkfWMAA02Kc.png",
+        "width": 423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1980448104341205158",
+        "created_at": "2025-10-21T01:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T02:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980448104341205158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/1980268049631772987",
+              "start": 23,
+              "url": "https://t.co/e4JQTbF5HJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980448104341205158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980268049631772987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网页版更新：可以当作网页app添加到主屏幕了 https://t.co/e4JQTbF5HJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980267970937892864"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1980268049631772987",
+        "created_at": "2025-10-20T13:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980268049631772987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "重要提示： 当出现“分析失败: 从API返回的响应格式无效或内容为空”或“分析失败: 请求被安全策略阻止”时，为触发了Google官方的安全策略警告，此为 Google API 自身的内容限制，并非程序Bug。如果重新生成几次还是一样，请更换图片或模型后重试。 选择AI模型: Gemini 2.5 Flash (推荐) Gemini 2.5 Pro (最强) Gemini 2.5 Flash lite",
+              "display_url": "fuck-or-not.pages.dev",
+              "end": 113,
+              "expanded_url": "https://fuck-or-not.pages.dev/",
+              "start": 90,
+              "status": 200,
+              "title": "上不上AI评分系统",
+              "unwound_url": "https://fuck-or-not.pages.dev/",
+              "url": "https://t.co/ZZXRQD1jHW"
+            },
+            {
+              "description": "一个基于 **Google Gemini API** 的图片分析项目 —— 上传任意图片，让 AI 判断它的「可操性」并打分。 本项目主要用于 **AI Prompt Engineering 实验与图像理解接口演示**，并不提倡或支持不当使用。Made with Gemini - Yamada-Ryo4/Fuck-or-not",
+              "display_url": "github.com/Yamada-Ryo4/Fu…",
+              "end": 144,
+              "expanded_url": "https://github.com/Yamada-Ryo4/Fuck-or-not",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1980268094045171712/e7GjV6lS?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1980268094045171712/e7GjV6lS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/Fuck-or-not: 一个基于 **Google Gemini API** 的图片分析项目 —— 上传任意图片，让 AI 判断它的「可操性」并打分。 本项目主要用于 **AI Prompt Engineering 实验与图像理解接口演示**，并不提倡或支持不当使用。Made with Gemini",
+              "unwound_url": "https://github.com/Yamada-Ryo4/Fuck-or-not",
+              "url": "https://t.co/uFu4AVbiRM"
+            },
+            {
+              "display_url": "pic.x.com/Xxh58IcKwt",
+              "end": 168,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1980268049631772987/photo/1",
+              "media_key": "3_1980267970937892864",
+              "start": 145,
+              "url": "https://t.co/Xxh58IcKwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980268049631772987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 338,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炒个冷饭（\n以前的那个上不上ai，重制了一版，这一版由自己填写Google Ai Studio API KEY，可选Gemini2.5Pro/Flash/Flash-Lite模型\nhttps://t.co/ZZXRQD1jHW\n\n开源地址：\nhttps://t.co/uFu4AVbiRM https://t.co/Xxh58IcKwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 692,
+          "like_count": 13430,
+          "listed_count": 20,
+          "media_count": 1363,
+          "tweet_count": 7818
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

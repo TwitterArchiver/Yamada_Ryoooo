@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2080848653384917422",
+    "created_at": "2026-07-25T05:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080883040512024919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568748618760482816",
+          "start": 0,
+          "username": "tene1la"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080883040512024919",
+    "in_reply_to_user_id": "1568748618760482816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080848653384917422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tene1la 为啥要开热点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2080847905666265089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCoJTjacAEMwJm.png",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2080848653384917422",
+        "created_at": "2026-07-25T05:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080883040512024919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568748618760482816",
+              "start": 0,
+              "username": "tene1la"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080883040512024919",
+        "in_reply_to_user_id": "1568748618760482816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080848653384917422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tene1la 为啥要开热点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080847905666265089"
+          ]
+        },
+        "author_id": "1568748618760482816",
+        "conversation_id": "2080848653384917422",
+        "created_at": "2026-07-25T02:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080848653384917422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deQXh5tjKL",
+              "end": 49,
+              "expanded_url": "https://x.com/tene1la/status/2080848653384917422/photo/1",
+              "media_key": "3_2080847905666265089",
+              "start": 26,
+              "url": "https://t.co/deQXh5tjKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080848653384917422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4085,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是看看朱浩宇吧\n今年他不在这边，整活能力大大减弱 https://t.co/deQXh5tjKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6474,
+          "following_count": 961,
+          "like_count": 17800,
+          "listed_count": 22,
+          "media_count": 1826,
+          "tweet_count": 10050
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-10T23:50:00.000Z",
+        "description": "深埋地底的藏宝般的梦，慷慨的偶然之礼",
+        "id": "1568748618760482816",
+        "name": "离子芥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039935492612128768/d95c-3Hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 669,
+          "like_count": 87102,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 6458
+        },
+        "url": "",
+        "username": "tene1la",
+        "verified": false
+      }
+    ]
+  }
+}

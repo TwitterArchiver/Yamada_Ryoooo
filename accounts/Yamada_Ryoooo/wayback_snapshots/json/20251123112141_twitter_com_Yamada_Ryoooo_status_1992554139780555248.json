@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992486074418077697"
+      ],
+      "media_source_tweet_id": [
+        "1992486079824568404"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1992554139780555248",
+    "created_at": "2025-11-23T11:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T12:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992554139780555248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "11765952",
+          "start": 3,
+          "username": "interjc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/25QbFdBuux",
+          "end": 120,
+          "expanded_url": "https://x.com/interjc/status/1992486079824568404/photo/1",
+          "media_key": "3_1992486074418077697",
+          "start": 97,
+          "url": "https://t.co/25QbFdBuux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992554139780555248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992486079824568404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @interjc: 苹果用户购买了 iCloud+ 以后，网络就会自动套一层代理服务器，以达到隐私保护的效果\n\n所以即便网络直连，X 的地理识别依然会认为开启了 VPN，小盾🛡️不会消失 https://t.co/25QbFdBuux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_1992486074418077697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6a7hy2aIAEXv57.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992486074418077697"
+          ],
+          "media_source_tweet_id": [
+            "1992486079824568404"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1992554139780555248",
+        "created_at": "2025-11-23T11:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T12:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992554139780555248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "11765952",
+              "start": 3,
+              "username": "interjc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/25QbFdBuux",
+              "end": 120,
+              "expanded_url": "https://x.com/interjc/status/1992486079824568404/photo/1",
+              "media_key": "3_1992486074418077697",
+              "start": 97,
+              "url": "https://t.co/25QbFdBuux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992554139780555248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992486079824568404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @interjc: 苹果用户购买了 iCloud+ 以后，网络就会自动套一层代理服务器，以达到隐私保护的效果\n\n所以即便网络直连，X 的地理识别依然会认为开启了 VPN，小盾🛡️不会消失 https://t.co/25QbFdBuux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992486074418077697"
+          ]
+        },
+        "author_id": "11765952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1992486079824568404",
+        "created_at": "2025-11-23T06:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992486079824568404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25QbFdBuux",
+              "end": 107,
+              "expanded_url": "https://x.com/interjc/status/1992486079824568404/photo/1",
+              "media_key": "3_1992486074418077697",
+              "start": 84,
+              "url": "https://t.co/25QbFdBuux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992486079824568404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8326,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果用户购买了 iCloud+ 以后，网络就会自动套一层代理服务器，以达到隐私保护的效果\n\n所以即便网络直连，X 的地理识别依然会认为开启了 VPN，小盾🛡️不会消失 https://t.co/25QbFdBuux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 670,
+          "like_count": 13685,
+          "listed_count": 21,
+          "media_count": 1400,
+          "tweet_count": 8015
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员\n🧑‍💻 @yokogaisha｜AIGC\n🎓 AI 课程：https://t.co/MNSqx9ncpS\n📱 Wechat：justinchencn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 66,
+                "expanded_url": "http://justincourse.com",
+                "start": 43,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 23,
+                "expanded_url": "https://interjc.net",
+                "start": 0,
+                "url": "https://t.co/ZikItPAYVq"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27434,
+          "following_count": 1606,
+          "like_count": 65504,
+          "listed_count": 228,
+          "media_count": 3399,
+          "tweet_count": 29165
+        },
+        "url": "https://t.co/ZikItPAYVq",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047537955271831552"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047538252861902936",
+    "created_at": "2026-04-24T04:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047538252861902936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wehsutNVsU",
+          "end": 74,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2047538252861902936/photo/1",
+          "media_key": "3_2047537955271831552",
+          "start": 51,
+          "url": "https://t.co/wehsutNVsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047538252861902936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可见claude降智到什么程度了。。。\n这不是长上下文，是刚开的新对话才说了几句话就逻辑混乱了。。。 https://t.co/wehsutNVsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2047537955271831552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpQ7AgbcAA5doT.png",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047537955271831552"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047538252861902936",
+        "created_at": "2026-04-24T04:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047538252861902936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wehsutNVsU",
+              "end": 74,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2047538252861902936/photo/1",
+              "media_key": "3_2047537955271831552",
+              "start": 51,
+              "url": "https://t.co/wehsutNVsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047538252861902936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可见claude降智到什么程度了。。。\n这不是长上下文，是刚开的新对话才说了几句话就逻辑混乱了。。。 https://t.co/wehsutNVsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 1091,
+          "like_count": 17230,
+          "listed_count": 24,
+          "media_count": 1756,
+          "tweet_count": 9606
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

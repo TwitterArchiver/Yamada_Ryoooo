@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2051704031731716462",
+    "created_at": "2026-05-06T02:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051856691017474222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658468118497472514",
+          "start": 0,
+          "username": "muskinpingvirus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051856691017474222",
+    "in_reply_to_user_id": "1658468118497472514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051852300482970091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muskinpingvirus 谢谢😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2051704031731716462",
+        "created_at": "2026-05-06T02:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051856691017474222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658468118497472514",
+              "start": 0,
+              "username": "muskinpingvirus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051856691017474222",
+        "in_reply_to_user_id": "1658468118497472514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051852300482970091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muskinpingvirus 谢谢😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658468118497472514",
+        "conversation_id": "2051704031731716462",
+        "created_at": "2026-05-06T02:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051852300482970091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051852300482970091",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051704031731716462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 🥳生日快乐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 1097,
+          "like_count": 17302,
+          "listed_count": 24,
+          "media_count": 1762,
+          "tweet_count": 9646
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "😤方滨兴全家什么时候死干净！！！",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039558914417782784/DbyHDvd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 863,
+          "like_count": 8959,
+          "listed_count": 6,
+          "media_count": 1113,
+          "tweet_count": 5546
+        },
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

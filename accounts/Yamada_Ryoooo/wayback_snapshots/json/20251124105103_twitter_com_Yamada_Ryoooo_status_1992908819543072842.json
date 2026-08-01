@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992608627971227704",
+    "created_at": "2025-11-24T10:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T11:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992908819543072842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748572255716851712",
+          "start": 0,
+          "username": "NoRealNameWeb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992908819543072842",
+    "in_reply_to_user_id": "1748572255716851712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992905945870135803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoRealNameWeb 不是谁都用这个上网的\n起码90%的人都是用代理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992608627971227704",
+        "created_at": "2025-11-24T10:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992908819543072842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748572255716851712",
+              "start": 0,
+              "username": "NoRealNameWeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992908819543072842",
+        "in_reply_to_user_id": "1748572255716851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992905945870135803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoRealNameWeb 不是谁都用这个上网的\n起码90%的人都是用代理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748572255716851712",
+        "conversation_id": "1992608627971227704",
+        "created_at": "2025-11-24T10:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992905945870135803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究). Contribute to SpaceTimee/Sheas-Cealer development by creating an account on GitHub.",
+              "display_url": "github.com/SpaceTimee/She…",
+              "end": 38,
+              "expanded_url": "https://github.com/SpaceTimee/Sheas-Cealer",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1992191323391352832/PIB7n0GO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992191323391352832/PIB7n0GO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "GitHub - SpaceTimee/Sheas-Cealer: Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)",
+              "unwound_url": "https://github.com/SpaceTimee/Sheas-Cealer",
+              "url": "https://t.co/23QlTEhtfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992905945870135803",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992608627971227704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo https://t.co/23QlTEhtfZ可能是用这个项目直连的（现已不可用），显示IP也是中国，比如我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4626,
+          "following_count": 672,
+          "like_count": 13706,
+          "listed_count": 19,
+          "media_count": 1400,
+          "tweet_count": 8030
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T05:05:14.000Z",
+        "description": "",
+        "id": "1748572255716851712",
+        "name": "不实名上网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900963814180614144/nBUn-oN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 499,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "NoRealNameWeb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060318817037979695",
+    "created_at": "2026-05-29T11:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060318817037979695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i_love_clown/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/i_love_clown/status/2060177852939821085",
+          "start": 23,
+          "url": "https://t.co/wWq91iVXnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060318817037979695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060177852939821085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在互联网上你可以看到任何人发推，包括吉良吉影 https://t.co/wWq91iVXnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44785,
+        "height": 1280,
+        "media_key": "13_2060177761436844032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060177761436844032/img/2qb3fC1IFzmWPMxh.jpg",
+        "public_metrics": {
+          "view_count": 157607
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060177761436844032/vid/avc1/320x568/u8irsnv-5Li9aMxU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060177761436844032/vid/avc1/480x852/S0annD42kWlLQWel.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060177761436844032/vid/avc1/720x1280/iBIFkvUWUa8f3E7V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060177761436844032/pl/Vnj3rcfurEB8yi9M.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060318817037979695",
+        "created_at": "2026-05-29T11:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060318817037979695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i_love_clown/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/i_love_clown/status/2060177852939821085",
+              "start": 23,
+              "url": "https://t.co/wWq91iVXnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060318817037979695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060177852939821085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在互联网上你可以看到任何人发推，包括吉良吉影 https://t.co/wWq91iVXnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060177761436844032"
+          ]
+        },
+        "author_id": "1094430993182670848",
+        "conversation_id": "2060177852939821085",
+        "created_at": "2026-05-29T01:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060177852939821085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXKZ7EzV9k",
+              "end": 38,
+              "expanded_url": "https://x.com/I_LOVE_Clown/status/2060177852939821085/video/1",
+              "media_key": "13_2060177761436844032",
+              "start": 15,
+              "url": "https://t.co/RXKZ7EzV9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060177852939821085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 532255,
+          "like_count": 4285,
+          "quote_count": 252,
+          "reply_count": 320,
+          "retweet_count": 435
+        },
+        "reply_settings": "everyone",
+        "text": "彼女とデート行ってきます👫💓 https://t.co/RXKZ7EzV9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1014,
+          "like_count": 17681,
+          "listed_count": 24,
+          "media_count": 1793,
+          "tweet_count": 9832
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-10T03:00:57.000Z",
+        "description": "東京造形大学 彫刻 / 小学館Steenz / 粘土でホラーな作品を造形したりイラスト描いてる美大生です👍 お仕事の依頼はDMにお願いします！！ #art #artwork #horror #handmade #芸術 #彫刻 メルカリで作品販売しています👇🏻👇🏻👇🏻",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "art"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "artwork"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "tag": "horror"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "tag": "handmade"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "芸術"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "彫刻"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.mercari.com/user/profile/5…",
+                "end": 23,
+                "expanded_url": "https://jp.mercari.com/user/profile/585535284?utm_medium=share&utm_source=ios",
+                "start": 0,
+                "url": "https://t.co/5vnKHQ8Pug"
+              }
+            ]
+          }
+        },
+        "id": "1094430993182670848",
+        "location": "東京造形大学",
+        "name": "ピエロ大好き人間︎︎︎︎(ヒラサワ)",
+        "pinned_tweet_id": "1641764786160664578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1178797704450719744/5-8ptg21_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64590,
+          "following_count": 41438,
+          "like_count": 67756,
+          "listed_count": 158,
+          "media_count": 3416,
+          "tweet_count": 10571
+        },
+        "url": "https://t.co/5vnKHQ8Pug",
+        "username": "I_LOVE_Clown",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054744553719214080"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2054566214840836492",
+    "created_at": "2026-05-14T02:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054744560493035678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "52468378",
+          "start": 0,
+          "username": "luoleiorg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOqWl8ni86",
+          "end": 36,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054744560493035678/photo/1",
+          "media_key": "3_2054744553719214080",
+          "start": 13,
+          "url": "https://t.co/bOqWl8ni86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054744560493035678",
+    "in_reply_to_user_id": "52468378",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054566214840836492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoleiorg 🥲 https://t.co/bOqWl8ni86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2054744553719214080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIPrSPyaMAAhLs0.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1594,
+        "media_key": "3_2054564676319731712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINHsAQaYAABALY.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054744553719214080"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054566214840836492",
+        "created_at": "2026-05-14T02:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054744560493035678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "52468378",
+              "start": 0,
+              "username": "luoleiorg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOqWl8ni86",
+              "end": 36,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054744560493035678/photo/1",
+              "media_key": "3_2054744553719214080",
+              "start": 13,
+              "url": "https://t.co/bOqWl8ni86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054744560493035678",
+        "in_reply_to_user_id": "52468378",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054566214840836492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoleiorg 🥲 https://t.co/bOqWl8ni86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054564676319731712"
+          ]
+        },
+        "author_id": "52468378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2054566214840836492",
+        "created_at": "2026-05-13T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054566214840836492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+              "display_url": "chatgpt.com/?promoCode=STR…",
+              "end": 132,
+              "expanded_url": "https://chatgpt.com/?promoCode=STRIPEATLASGPT4BIZ050126",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2054547677631930369/WkAqIQuE?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054547677631930369/WkAqIQuE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "ChatGPT",
+              "unwound_url": "https://chatgpt.com/?promoCode=STRIPEATLASGPT4BIZ050126",
+              "url": "https://t.co/EVNjFbnIPB"
+            },
+            {
+              "display_url": "pic.x.com/ttDd85JUKB",
+              "end": 156,
+              "expanded_url": "https://x.com/luoleiorg/status/2054566214840836492/photo/1",
+              "media_key": "3_2054564676319731712",
+              "start": 133,
+              "url": "https://t.co/ttDd85JUKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054566214840836492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chatgpt.com/?promoCode=STR…",
+                "end": 132,
+                "expanded_url": "https://chatgpt.com/?promoCode=STRIPEATLASGPT4BIZ050126",
+                "start": 109,
+                "url": "https://t.co/bmztwFE8Wy"
+              }
+            ]
+          },
+          "text": "😍好消息好消息，在这中美欢聚的喜庆日子，山姆奥特曼又给大家送 Tokens了，使用下面的优惠码\nSTRIPEATLASGPT4BIZ050126\n自动获得 ChatGPT 两个月免费 Team 套餐，需要美区支付卡。\nhttps://t.co/bmztwFE8Wy"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1874,
+          "impression_count": 403791,
+          "like_count": 1155,
+          "quote_count": 9,
+          "reply_count": 113,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "😍好消息好消息，在这中美欢聚的喜庆日子，山姆奥特曼又给大家送 Tokens了，使用下面的优惠码\nSTRIPEATLASGPT4BIZ050126\n自动获得 ChatGPT 两个月免费 Team 套餐，需要美区支付卡。\nhttps://t.co/EVNjFbnIPB https://t.co/ttDd85JUKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 991,
+          "like_count": 17375,
+          "listed_count": 24,
+          "media_count": 1776,
+          "tweet_count": 9715
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-30T18:05:29.000Z",
+        "description": "💻 Full-Stack Developer / 📖 Lifetime Learner / 🚧 Building & Sharing / 🎬 YouTuber https://t.co/7g47VdNMnN / 📝 https://t.co/6ucNiJ2gyg / 👨‍🚀 More https://t.co/smbFyIb6Hc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zuoluo.tv/yt",
+                "end": 103,
+                "expanded_url": "http://zuoluo.tv/yt",
+                "start": 80,
+                "url": "https://t.co/7g47VdNMnN"
+              },
+              {
+                "display_url": "luolei.org",
+                "end": 131,
+                "expanded_url": "http://luolei.org",
+                "start": 108,
+                "url": "https://t.co/6ucNiJ2gyg"
+              },
+              {
+                "display_url": "github.com/foru17",
+                "end": 166,
+                "expanded_url": "http://github.com/foru17",
+                "start": 143,
+                "url": "https://t.co/smbFyIb6Hc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luolei.org",
+                "end": 23,
+                "expanded_url": "https://luolei.org",
+                "start": 0,
+                "url": "https://t.co/Dy6rJ2dYKv"
+              }
+            ]
+          }
+        },
+        "id": "52468378",
+        "location": "Shenzhen",
+        "name": "luolei",
+        "pinned_tweet_id": "2052989037812871372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550157622300786688/672YmCpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60963,
+          "following_count": 1613,
+          "like_count": 1355,
+          "listed_count": 554,
+          "media_count": 4862,
+          "tweet_count": 10192
+        },
+        "url": "https://t.co/Dy6rJ2dYKv",
+        "username": "luoleiorg",
+        "verified": true
+      }
+    ]
+  }
+}

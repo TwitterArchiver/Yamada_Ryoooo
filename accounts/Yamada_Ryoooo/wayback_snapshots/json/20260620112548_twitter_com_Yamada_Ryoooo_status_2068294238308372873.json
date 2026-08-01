@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2068213564851249485",
+    "created_at": "2026-06-20T11:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068294238308372873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "237972429",
+          "start": 0,
+          "username": "final_object"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068294238308372873",
+    "in_reply_to_user_id": "237972429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068272959673008447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@final_object 气笑了，昨天没登录也显示的没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2068213564851249485",
+        "created_at": "2026-06-20T11:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068294238308372873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "237972429",
+              "start": 0,
+              "username": "final_object"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068294238308372873",
+        "in_reply_to_user_id": "237972429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068272959673008447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@final_object 气笑了，昨天没登录也显示的没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "237972429",
+        "conversation_id": "2068213564851249485",
+        "created_at": "2026-06-20T10:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068272959673008447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068272959673008447",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068213564851249485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 登录以后就没有了，不登录会显示有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6538,
+          "following_count": 983,
+          "like_count": 17958,
+          "listed_count": 22,
+          "media_count": 1814,
+          "tweet_count": 9977
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-14T02:14:48.000Z",
+        "description": "🌷無言フォロー失礼します💐 / 全部是小狗！",
+        "id": "237972429",
+        "location": "烈日の黄金郷",
+        "name": "Nova⚓️🏴",
+        "pinned_tweet_id": "1832443684270571625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653650371125248/vT3pjKmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 5566,
+          "like_count": 79403,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 32452
+        },
+        "url": "",
+        "username": "final_object",
+        "verified": false
+      }
+    ]
+  }
+}

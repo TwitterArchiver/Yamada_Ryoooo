@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1995731839126823353",
+    "created_at": "2025-12-02T05:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T06:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995731839126823353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1632336255823519744",
+          "start": 20,
+          "username": "y2Kstar___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995731839126823353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讣告：\n          \n受托转告，@y2Kstar___ 决定长久性退推\n\n我们怀念他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1995731839126823353",
+        "created_at": "2025-12-02T05:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T06:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995731839126823353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1632336255823519744",
+              "start": 20,
+              "username": "y2Kstar___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995731839126823353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n          \n受托转告，@y2Kstar___ 决定长久性退推\n\n我们怀念他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5442,
+          "following_count": 675,
+          "like_count": 13812,
+          "listed_count": 20,
+          "media_count": 1407,
+          "tweet_count": 8081
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "🐡🐡🐡🐡🐡🐡🐡",
+        "id": "1632336255823519744",
+        "name": "y2Kstar___",
+        "pinned_tweet_id": "1994744159807373739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992784302837501952/iH3uf-GY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 338,
+          "like_count": 594,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

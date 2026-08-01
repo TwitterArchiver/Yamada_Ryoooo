@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2011386751189922086",
+    "created_at": "2026-01-14T10:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T11:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011386751189922086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiankui_he/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/jiankui_he/status/2011369256022335928",
+          "start": 5,
+          "url": "https://t.co/3MrLvZonUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011386751189922086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011369256022335928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幻想时刻 https://t.co/3MrLvZonUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2778,
+        "media_key": "3_2011369235294060544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-nRqa3aAAAoYVP.png",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2011386751189922086",
+        "created_at": "2026-01-14T10:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011386751189922086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiankui_he/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/jiankui_he/status/2011369256022335928",
+              "start": 5,
+              "url": "https://t.co/3MrLvZonUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011386751189922086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011369256022335928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幻想时刻 https://t.co/3MrLvZonUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011369235294060544"
+          ]
+        },
+        "author_id": "1567847595162091522",
+        "conversation_id": "2011369256022335928",
+        "created_at": "2026-01-14T09:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011369256022335928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0V2Faoefb",
+              "end": 31,
+              "expanded_url": "https://x.com/Jiankui_He/status/2011369256022335928/photo/1",
+              "media_key": "3_2011369235294060544",
+              "start": 8,
+              "url": "https://t.co/b0V2Faoefb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011369256022335928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15946,
+          "like_count": 187,
+          "quote_count": 20,
+          "reply_count": 69,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我的十年规划。 https://t.co/b0V2Faoefb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 688,
+          "like_count": 14287,
+          "listed_count": 21,
+          "media_count": 1444,
+          "tweet_count": 8367
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Affordable gene therapy.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147647,
+          "following_count": 1,
+          "like_count": 127,
+          "listed_count": 336,
+          "media_count": 387,
+          "tweet_count": 641
+        },
+        "username": "Jiankui_He",
+        "verified": false
+      }
+    ]
+  }
+}

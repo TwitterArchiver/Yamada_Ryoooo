@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2065401506132906054",
+    "created_at": "2026-06-12T11:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065401506132906054"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0427smtieshou/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/0427smtieshou/status/2065230098434039874",
+          "start": 29,
+          "url": "https://t.co/6weTZXqOj8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065401506132906054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065230098434039874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿姨你鹅腿发绿可能是变质了\n\n：你学历高不过我你信不信？ https://t.co/6weTZXqOj8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53333,
+        "height": 1280,
+        "media_key": "13_2065218447550660608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065218447550660608/img/BN_ikrJ99Bp2aLYS.jpg",
+        "public_metrics": {
+          "view_count": 112193
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065218447550660608/vid/avc1/320x568/4_jdqPXNPGPqGDyh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065218447550660608/vid/avc1/480x852/Ik9_1PxEzh8NDEK_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065218447550660608/vid/avc1/720x1280/Q3dqRTnX8odvqYsA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065218447550660608/pl/2baeU6sXrSKpFvVQ.m3u8?v=99b"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2238,
+        "media_key": "3_2065218525057200128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkhTnmXMAACnDn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2065401506132906054",
+        "created_at": "2026-06-12T11:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065401506132906054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0427smtieshou/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/0427smtieshou/status/2065230098434039874",
+              "start": 29,
+              "url": "https://t.co/6weTZXqOj8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065401506132906054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065230098434039874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿姨你鹅腿发绿可能是变质了\n\n：你学历高不过我你信不信？ https://t.co/6weTZXqOj8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065218447550660608",
+            "3_2065218525057200128"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065230098434039874",
+        "created_at": "2026-06-12T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065230098434039874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsOWmh2mFr",
+              "end": 70,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2065230098434039874/video/1",
+              "media_key": "13_2065218447550660608",
+              "start": 47,
+              "url": "https://t.co/FsOWmh2mFr"
+            },
+            {
+              "display_url": "pic.x.com/FsOWmh2mFr",
+              "end": 70,
+              "expanded_url": "https://x.com/0427SMtieshou/status/2065230098434039874/video/1",
+              "media_key": "3_2065218525057200128",
+              "start": 47,
+              "url": "https://t.co/FsOWmh2mFr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065230098434039874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 217383,
+          "like_count": 274,
+          "quote_count": 11,
+          "reply_count": 217,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "请静静欣赏\n\n中科院女博士吃发霉“鹅腿”有多意乱情迷🤣🤣\n\n这完播率不得500%呀？🤣🤣🤣🤣 https://t.co/FsOWmh2mFr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6551,
+          "following_count": 1018,
+          "like_count": 17878,
+          "listed_count": 22,
+          "media_count": 1806,
+          "tweet_count": 9937
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "每天分析过去24小时内中推热帖\n每晚8点半发表\n掌握中推流量密码\n关注铁手\n勾选小铃铛",
+        "id": "1239436070292320257",
+        "name": "铁手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052880484473217024/W7AIOFFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76647,
+          "following_count": 1826,
+          "like_count": 22289,
+          "listed_count": 422,
+          "media_count": 1931,
+          "tweet_count": 11415
+        },
+        "username": "0427SMtieshou",
+        "verified": true
+      }
+    ]
+  }
+}

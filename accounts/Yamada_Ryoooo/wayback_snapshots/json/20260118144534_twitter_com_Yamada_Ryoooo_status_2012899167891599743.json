@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012668891491963348",
+    "created_at": "2026-01-18T14:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012899167891599743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1674494790",
+          "start": 0,
+          "username": "laike9m_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012899167891599743",
+    "in_reply_to_user_id": "1674494790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012668891491963348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laike9m_ 5m其实还好，但是我差蓝勾的fo😭\n来互关吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2012668874324385798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-5vrXiXIAYk7b5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012668891491963348",
+        "created_at": "2026-01-18T14:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012899167891599743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1674494790",
+              "start": 0,
+              "username": "laike9m_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012899167891599743",
+        "in_reply_to_user_id": "1674494790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012668891491963348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laike9m_ 5m其实还好，但是我差蓝勾的fo😭\n来互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012668874324385798"
+          ]
+        },
+        "author_id": "1674494790",
+        "conversation_id": "2012668891491963348",
+        "created_at": "2026-01-17T23:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012668891491963348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvMfNEQ7mp",
+              "end": 57,
+              "expanded_url": "https://x.com/laike9m_/status/2012668891491963348/photo/1",
+              "media_key": "3_2012668874324385798",
+              "start": 34,
+              "url": "https://t.co/KvMfNEQ7mp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012668891491963348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13646,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是怎么开通收益的？那个 5M 浏览量的门槛我根本达不到啊😣😣 https://t.co/KvMfNEQ7mp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5496,
+          "following_count": 965,
+          "like_count": 14579,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8498
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-16T01:57:56.000Z",
+        "description": "Software engineer @julesagent\n🎙️《捕蛇者说》播客主播 @pythonhunter__\n\nhttps://t.co/LGIKFkoilP - Mac 上最好的划词 AI 搜索 & 翻译\n\n可通过 Telegram/Gmail 找我，ID 同名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "julesagent"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "pythonhunter__"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "clicknow.ai",
+                "end": 83,
+                "expanded_url": "http://clicknow.ai",
+                "start": 60,
+                "url": "https://t.co/LGIKFkoilP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laike9m.com",
+                "end": 23,
+                "expanded_url": "https://laike9m.com",
+                "start": 0,
+                "url": "https://t.co/ZYYvTl2Ia3"
+              }
+            ]
+          }
+        },
+        "id": "1674494790",
+        "location": "🌐",
+        "name": "laike9m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/554257566008483840/CzOgjPoY_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21182,
+          "following_count": 980,
+          "like_count": 15558,
+          "listed_count": 199,
+          "media_count": 860,
+          "tweet_count": 13934
+        },
+        "url": "https://t.co/ZYYvTl2Ia3",
+        "username": "laike9m_",
+        "verified": true
+      }
+    ]
+  }
+}

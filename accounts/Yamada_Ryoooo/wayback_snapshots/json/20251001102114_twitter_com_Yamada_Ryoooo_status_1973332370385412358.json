@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1973230876369756229",
+    "created_at": "2025-10-01T10:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T11:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973332370385412358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721714145480114176",
+          "start": 0,
+          "username": "2_A_L_Iris_Z"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infintytweet.me/interaction-ci…",
+          "end": 69,
+          "expanded_url": "https://infintytweet.me/interaction-circle?lang=ja",
+          "start": 46,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infintytweet.me/interaction-circle?lang=ja",
+          "url": "https://t.co/nJPBNtAJqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973332370385412358",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973230876369756229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2_A_L_Iris_Z 用了infinitytweet那个玩意，会自动关注3-4个账号\nhttps://t.co/nJPBNtAJqv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1973230876369756229",
+        "created_at": "2025-10-01T10:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T11:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973332370385412358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "2_A_L_Iris_Z"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 69,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=ja",
+              "start": 46,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/nJPBNtAJqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973332370385412358",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973230876369756229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2_A_L_Iris_Z 用了infinitytweet那个玩意，会自动关注3-4个账号\nhttps://t.co/nJPBNtAJqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1973230876369756229",
+        "created_at": "2025-10-01T03:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973230876369756229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973230876369756229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为何我的账号被自动关注了几十个 AI/币圈/投机主义/股票 的验证账号，我绝对没有关注，但他们就是出现在我的关注列表里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 685,
+          "like_count": 13265,
+          "listed_count": 20,
+          "media_count": 1353,
+          "tweet_count": 7662
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "CN：Iris /BD. / ASD. / 🎂Age 20 /🌆Living in Hefei / 💻Programmer /🛜CTFer  /Telegram🚪HK$1😋 /🏳️‍🌈🏳️‍⚧️ friendly / No 🍥 💉HRT / Not MtF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2alirisz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2alirisz",
+                "start": 0,
+                "url": "https://t.co/jxHRysWwiG"
+              }
+            ]
+          }
+        },
+        "id": "1721714145480114176",
+        "location": "距您 5.2 公里",
+        "name": "👾Iris-de-luce",
+        "pinned_tweet_id": "1961299787820703753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956558351829217280/pLWV3d4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 413,
+          "like_count": 5004,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/jxHRysWwiG",
+        "username": "2_A_L_Iris_Z",
+        "verified": false
+      }
+    ]
+  }
+}

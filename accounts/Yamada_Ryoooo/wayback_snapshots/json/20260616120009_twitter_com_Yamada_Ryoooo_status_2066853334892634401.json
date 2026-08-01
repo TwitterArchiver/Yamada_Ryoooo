@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066853324314566657"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066853334892634401",
+    "created_at": "2026-06-16T12:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066853334892634401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZxAFJW7TU",
+          "end": 23,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2066853334892634401/photo/1",
+          "media_key": "3_2066853324314566657",
+          "start": 0,
+          "url": "https://t.co/xZxAFJW7TU"
+        },
+        {
+          "display_url": "x.com/nationind12/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nationind12/status/2066316860501676381",
+          "start": 24,
+          "url": "https://t.co/q8NgsJNsTm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066853334892634401",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066316860501676381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/xZxAFJW7TU https://t.co/q8NgsJNsTm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2760,
+        "media_key": "3_2066853324314566657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7wJdaa4AEAP1V.jpg",
+        "width": 2276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066853324314566657"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066853334892634401",
+        "created_at": "2026-06-16T12:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066853334892634401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZxAFJW7TU",
+              "end": 23,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2066853334892634401/photo/1",
+              "media_key": "3_2066853324314566657",
+              "start": 0,
+              "url": "https://t.co/xZxAFJW7TU"
+            },
+            {
+              "display_url": "x.com/nationind12/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nationind12/status/2066316860501676381",
+              "start": 24,
+              "url": "https://t.co/q8NgsJNsTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066853334892634401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066316860501676381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xZxAFJW7TU https://t.co/q8NgsJNsTm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012537985569296384",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2059337573583978497",
+              "name": "Netherlands vs Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2059337573583978497",
+              "name": "Netherlands vs Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2059337573583978497",
+              "name": "Netherlands vs Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2066316860501676381",
+        "created_at": "2026-06-15T00:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066316860501676381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sharroh45/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/sharroh45/status/2065743558024597836",
+              "start": 65,
+              "url": "https://t.co/KRTW01dCft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066316860501676381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 203293,
+          "like_count": 688,
+          "quote_count": 25,
+          "reply_count": 232,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065743558024597836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国は決して日本のようにはなれない！🇯🇵\n\n日本人は上位の士（Shi）階層であり、中国人の大半は下位の賤民（Jianmin）だ。 https://t.co/KRTW01dCft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6549,
+          "following_count": 1019,
+          "like_count": 17934,
+          "listed_count": 22,
+          "media_count": 1811,
+          "tweet_count": 9960
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T14:50:40.000Z",
+        "description": "この美しい世界に生きる、ただの日本人の女の子。",
+        "id": "2012537985569296384",
+        "location": "Ukyo-ku, Kyoto",
+        "name": "陽菜 北川",
+        "pinned_tweet_id": "2066496584972648483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066829276926906368/S8_gsVmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 17,
+          "like_count": 150,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 164
+        },
+        "username": "nationind12",
+        "verified": false
+      }
+    ]
+  }
+}

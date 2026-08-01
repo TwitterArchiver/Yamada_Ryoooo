@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012518557285003296",
+    "created_at": "2026-01-18T00:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012681559778697635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1349308553090146307",
+          "start": 0,
+          "username": "Fc2068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012681559778697635",
+    "in_reply_to_user_id": "1349308553090146307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012518557285003296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fc2068 可以互fo一下嘛🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2012517156869566464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3lsP-W8AAQ_Qe.jpg",
+        "width": 1283
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012518557285003296",
+        "created_at": "2026-01-18T00:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012681559778697635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1349308553090146307",
+              "start": 0,
+              "username": "Fc2068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012681559778697635",
+        "in_reply_to_user_id": "1349308553090146307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012518557285003296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fc2068 可以互fo一下嘛🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012517156869566464"
+          ]
+        },
+        "author_id": "1349308553090146307",
+        "conversation_id": "2012518557285003296",
+        "created_at": "2026-01-17T13:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:32:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012518318926856530",
+          "2012518557285003296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T38OO4MXiG",
+              "end": 210,
+              "expanded_url": "https://x.com/Fc2068/status/2012518557285003296/photo/1",
+              "media_key": "3_2012517156869566464",
+              "start": 187,
+              "url": "https://t.co/T38OO4MXiG"
+            },
+            {
+              "display_url": "x.com/XCreators/stat…",
+              "end": 234,
+              "expanded_url": "https://twitter.com/XCreators/status/2012253926352163060",
+              "start": 211,
+              "url": "https://t.co/iNL45sqCke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012518557285003296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "收到老马工资了！后续的收益最近也更新为2倍了！\n\n给大家送点福利，抽10个人，每人$100\n\n关注点赞评论即可\n\n根据每人的评论抽奖\n∴｡　 　\n･ﾟ*｡.  　　\n･ *ﾟ 　 \n･ ﾟ*     \n ･｡         \n*･｡\n*.｡             \n｡･               \n°*. ﾟ｡                       \n°*.                      \n ﾟ*.                  \n｡｡ ･              \n｡ ･ﾟ        \n｡°*.    \n｡*･｡\n中奖后限三日内每人发我 $100"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10434,
+          "like_count": 98,
+          "quote_count": 1,
+          "reply_count": 109,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012253926352163060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到老马工资了！后续的收益最近也更新为2倍了！\n\n给大家送点福利，抽10个人，每人$100\n\n关注点赞评论即可\n\n根据每人的评论抽奖\n∴｡　 　\n･ﾟ*｡.  　　\n･ *ﾟ 　 \n･ ﾟ*     \n ･｡         \n*･｡\n*.｡             \n｡･               \n°*. ﾟ｡                       \n°*. https://t.co/T38OO4MXiG https://t.co/iNL45sqCke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 707,
+          "like_count": 14361,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8406
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-13T10:53:40.000Z",
+        "description": "Builder, Bitcoiner. Work on #Bitcoin, #Ordinals. @btc_summit ambassador CN @ninjalerts Pizza Ninjas CN BBZJ @TheNextDAO CryptoPump 学习/尝试/6.12 🙏祝我好运",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "Ordinals"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "btc_summit"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "ninjalerts"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "TheNextDAO"
+              }
+            ]
+          }
+        },
+        "id": "1349308553090146307",
+        "location": "Los Angeles, CA",
+        "name": "hibtc.btc 泥巴熊",
+        "pinned_tweet_id": "1795036814920606119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932459073926213633/dyqwRdTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5758,
+          "following_count": 4355,
+          "like_count": 15789,
+          "listed_count": 32,
+          "media_count": 553,
+          "tweet_count": 5926
+        },
+        "username": "Fc2068",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2055591659271037171",
+    "created_at": "2026-05-16T11:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055618629891395721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "741127492614950913",
+          "start": 0,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055618629891395721",
+    "in_reply_to_user_id": "741127492614950913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055591659271037171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Lakr233 没用，动态的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055591650618232832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbttxpb0AA5KWa.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055591649791905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbttukbEAAkzy0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2055591659271037171",
+        "created_at": "2026-05-16T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055618629891395721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055618629891395721",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055591659271037171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Lakr233 没用，动态的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055591650618232832",
+            "3_2055591649791905792"
+          ]
+        },
+        "author_id": "741127492614950913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2055591659271037171",
+        "created_at": "2026-05-16T10:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055591659271037171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIVpsiLpWM",
+              "end": 36,
+              "expanded_url": "https://x.com/Lakr233/status/2055591659271037171/photo/1",
+              "media_key": "3_2055591650618232832",
+              "start": 13,
+              "url": "https://t.co/VIVpsiLpWM"
+            },
+            {
+              "display_url": "pic.x.com/VIVpsiLpWM",
+              "end": 36,
+              "expanded_url": "https://x.com/Lakr233/status/2055591659271037171/photo/1",
+              "media_key": "3_2055591649791905792",
+              "start": 13,
+              "url": "https://t.co/VIVpsiLpWM"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/smiroyama/status/2055559556856733753",
+              "start": 37,
+              "url": "https://t.co/q0xMgKT2Ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055591659271037171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9160,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055559556856733753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "找到了一种偷付款码的办法 https://t.co/VIVpsiLpWM https://t.co/q0xMgKT2Ec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6562,
+          "following_count": 995,
+          "like_count": 17412,
+          "listed_count": 24,
+          "media_count": 1779,
+          "tweet_count": 9731
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwvGx5 的链接。 #-a-different-kind-of-human.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwvGx5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "砍砍.ᐟ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033558889678151680/pobJ134v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32740,
+          "following_count": 376,
+          "like_count": 61312,
+          "listed_count": 224,
+          "media_count": 90,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": true
+      }
+    ]
+  }
+}

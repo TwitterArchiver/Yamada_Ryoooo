@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012893744480043321",
+    "created_at": "2026-01-18T14:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012900814663090644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2485492013",
+          "start": 0,
+          "username": "bricexeth"
+        },
+        {
+          "end": 21,
+          "id": "1395404562790592518",
+          "start": 11,
+          "username": "chxis_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012900814663090644",
+    "in_reply_to_user_id": "2485492013",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012893822225699256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bricexeth @chxis_eth Come on bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012893744480043321",
+        "created_at": "2026-01-18T14:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900814663090644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2485492013",
+              "start": 0,
+              "username": "bricexeth"
+            },
+            {
+              "end": 21,
+              "id": "1395404562790592518",
+              "start": 11,
+              "username": "chxis_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900814663090644",
+        "in_reply_to_user_id": "2485492013",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012893822225699256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bricexeth @chxis_eth Come on bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2485492013",
+        "conversation_id": "2012893744480043321",
+        "created_at": "2026-01-18T14:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012893822225699256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395404562790592518",
+              "start": 0,
+              "username": "chxis_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012893822225699256",
+        "in_reply_to_user_id": "1395404562790592518",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012893744480043321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chxis_eth if you dont mind, wanna drop followback fam? &lt;3 i just follow you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5500,
+          "following_count": 980,
+          "like_count": 14628,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8508
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-15T02:07:05.000Z",
+        "description": "Ilustrator | Web3 Marketing & Advisor | Community Builder 🌐 Trader 📈",
+        "id": "2485492013",
+        "name": "Brice",
+        "pinned_tweet_id": "1512503197994303493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868703193330307072/j7-zWByw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255163,
+          "following_count": 123681,
+          "like_count": 66949,
+          "listed_count": 61,
+          "media_count": 329,
+          "tweet_count": 44838
+        },
+        "username": "bricexeth",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-20T15:42:54.000Z",
+        "description": "Builder/Developer  Won 🏆1st place in Zora 2025 Buildathon/Hackathon",
+        "id": "1395404562790592518",
+        "location": "We are Early",
+        "name": "Schd.base.eth",
+        "pinned_tweet_id": "1965353663704260630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009309555868540929/LWsKnaGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17233,
+          "following_count": 7557,
+          "like_count": 220205,
+          "listed_count": 69,
+          "media_count": 16186,
+          "tweet_count": 146729
+        },
+        "username": "chxis_eth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051153105300103168",
+        "3_2051153105308499968"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051153116347900343",
+    "created_at": "2026-05-04T04:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051153116347900343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793491174122192896",
+          "start": 0,
+          "username": "boilingwatter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A3jr1RWCJN",
+          "end": 51,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2051153116347900343/photo/1",
+          "media_key": "3_2051153105300103168",
+          "start": 28,
+          "url": "https://t.co/A3jr1RWCJN"
+        },
+        {
+          "display_url": "pic.x.com/A3jr1RWCJN",
+          "end": 51,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2051153116347900343/photo/1",
+          "media_key": "3_2051153105308499968",
+          "start": 28,
+          "url": "https://t.co/A3jr1RWCJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051153116347900343",
+    "in_reply_to_user_id": "1793491174122192896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@boilingwatter  面！\n以及品鉴雌二醇😋 https://t.co/A3jr1RWCJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2051153105300103168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHco4b1aIAACu1S.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051153105308499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHco4b3aQAAbels.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051153105300103168",
+            "3_2051153105308499968"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051153116347900343",
+        "created_at": "2026-05-04T04:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051153116347900343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3jr1RWCJN",
+              "end": 51,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2051153116347900343/photo/1",
+              "media_key": "3_2051153105300103168",
+              "start": 28,
+              "url": "https://t.co/A3jr1RWCJN"
+            },
+            {
+              "display_url": "pic.x.com/A3jr1RWCJN",
+              "end": 51,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2051153116347900343/photo/1",
+              "media_key": "3_2051153105308499968",
+              "start": 28,
+              "url": "https://t.co/A3jr1RWCJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051153116347900343",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@boilingwatter  面！\n以及品鉴雌二醇😋 https://t.co/A3jr1RWCJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 1094,
+          "like_count": 17263,
+          "listed_count": 24,
+          "media_count": 1761,
+          "tweet_count": 9626
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍔",
+        "pinned_tweet_id": "1988774529741758740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 181,
+          "like_count": 967,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 2256
+        },
+        "username": "boilingwatter",
+        "verified": false
+      }
+    ]
+  }
+}

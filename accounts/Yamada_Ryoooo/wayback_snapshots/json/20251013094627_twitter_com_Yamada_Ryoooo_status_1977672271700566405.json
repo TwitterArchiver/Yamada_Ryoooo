@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1977334257648570823",
+    "created_at": "2025-10-13T09:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T10:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977672271700566405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        },
+        {
+          "end": 29,
+          "id": "1847019405043224576",
+          "start": 13,
+          "username": "DennisA11510633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977672271700566405",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977610886199320959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 @DennisA11510633 是淫乱的澳洲小留"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1977334257648570823",
+        "created_at": "2025-10-13T09:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977672271700566405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            },
+            {
+              "end": 29,
+              "id": "1847019405043224576",
+              "start": 13,
+              "username": "DennisA11510633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977672271700566405",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977610886199320959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 @DennisA11510633 是淫乱的澳洲小留"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "1977334257648570823",
+        "created_at": "2025-10-13T05:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977610886199320959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847019405043224576",
+              "start": 0,
+              "username": "DennisA11510633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977610886199320959",
+        "in_reply_to_user_id": "1847019405043224576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2418,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977334257648570823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DennisA11510633 是处女吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 694,
+          "like_count": 13372,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7788
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 1307,
+          "like_count": 96520,
+          "listed_count": 34,
+          "media_count": 1135,
+          "tweet_count": 21350
+        },
+        "username": "89JinPing64",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T20:58:50.000Z",
+        "description": "欢迎关注星探小特，小美找金主可以私信，微卡颜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/KQTFfL9yTC"
+              }
+            ]
+          }
+        },
+        "id": "1847019405043224576",
+        "location": "需要牵线进Mei官方社群👉",
+        "name": "星探小特（帮找金🐖）",
+        "pinned_tweet_id": "1969018923933687943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968625098371514369/neErPsg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16557,
+          "following_count": 35,
+          "like_count": 626,
+          "listed_count": 60,
+          "media_count": 64,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/KQTFfL9yTC",
+        "username": "DennisA11510633",
+        "verified": false
+      }
+    ]
+  }
+}

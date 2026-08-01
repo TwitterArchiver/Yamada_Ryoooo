@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1982094203078484227",
+    "created_at": "2025-10-26T06:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982339332532056451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982339332532056451",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982094203078484227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger 他这个答错了还让你再答一次呢…一个一个试也能试出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982094189312516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HQKeFWoAA7oSe.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1982094203078484227",
+        "created_at": "2025-10-26T06:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982339332532056451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982339332532056451",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982094203078484227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger 他这个答错了还让你再答一次呢…一个一个试也能试出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982094189312516096"
+          ]
+        },
+        "author_id": "7755562",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982094203078484227",
+        "created_at": "2025-10-25T14:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982094203078484227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYVJ3mkCq0",
+              "end": 117,
+              "expanded_url": "https://x.com/blackanger/status/1982094203078484227/photo/1",
+              "media_key": "3_1982094189312516096",
+              "start": 94,
+              "url": "https://t.co/iYVJ3mkCq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982094203078484227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10508,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "听说麦当劳推出了程序员节活动，答对题就有优惠，我看了下，确实是真的。\n\n每次点进去提还不一样。有些题确实还真能过滤掉假程序员，比如下面这个。我让我媳妇猜，她首先就把正确答案给过滤掉了。😆 https://t.co/iYVJ3mkCq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 662,
+          "like_count": 13410,
+          "listed_count": 20,
+          "media_count": 1365,
+          "tweet_count": 7847
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "China",
+        "name": "AlexZ 🦀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13241,
+          "following_count": 1310,
+          "like_count": 23344,
+          "listed_count": 165,
+          "media_count": 2191,
+          "tweet_count": 20773
+        },
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

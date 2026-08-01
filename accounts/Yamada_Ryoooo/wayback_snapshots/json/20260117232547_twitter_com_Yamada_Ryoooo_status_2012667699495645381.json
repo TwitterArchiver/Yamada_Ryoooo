@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2010601143609766287",
+    "created_at": "2026-01-17T23:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012667699495645381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1380127785000206341",
+          "start": 0,
+          "username": "btctianze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012667699495645381",
+    "in_reply_to_user_id": "1380127785000206341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010601143609766287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btctianze 借楼蹭蓝勾互关～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2010601136903086080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cXFNYa4AA7E1D.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2010601143609766287",
+        "created_at": "2026-01-17T23:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012667699495645381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1380127785000206341",
+              "start": 0,
+              "username": "btctianze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012667699495645381",
+        "in_reply_to_user_id": "1380127785000206341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010601143609766287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btctianze 借楼蹭蓝勾互关～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010601136903086080"
+          ]
+        },
+        "author_id": "1380127785000206341",
+        "conversation_id": "2010601143609766287",
+        "created_at": "2026-01-12T06:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010601143609766287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2sgeYk095",
+              "end": 84,
+              "expanded_url": "https://x.com/btctianze/status/2010601143609766287/photo/1",
+              "media_key": "3_2010601136903086080",
+              "start": 61,
+              "url": "https://t.co/D2sgeYk095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010601143609766287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4022,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 198,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一个互关贴，蓝V有关必回，目标冲5000粉（还差1087）\n\n欢迎各位帅哥美女互关，也可以在评论区借楼互关🫡\n\n#互关 https://t.co/D2sgeYk095"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 691,
+          "like_count": 14344,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8388
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-08T11:58:31.000Z",
+        "description": "优质项目研究所｜努力做一个Alpha博主｜所有分享不构成投资建议 | 请根据自身情况酌情参与 | #Binance 数字货币交易平台首选币安https://t.co/os622cHubI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=45352…",
+                "end": 93,
+                "expanded_url": "http://www.binance.com/join?ref=453526538",
+                "start": 70,
+                "url": "https://t.co/os622cHubI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/btctianze",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/btctianze",
+                "start": 0,
+                "url": "https://t.co/aIlCmOHwWz"
+              }
+            ]
+          }
+        },
+        "id": "1380127785000206341",
+        "location": "与光同尘",
+        "name": "天泽👀",
+        "pinned_tweet_id": "2005179392478380242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929531397636870144/hb29Jr7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4576,
+          "following_count": 2175,
+          "like_count": 174,
+          "listed_count": 25,
+          "media_count": 1020,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/aIlCmOHwWz",
+        "username": "btctianze",
+        "verified": true
+      }
+    ]
+  }
+}

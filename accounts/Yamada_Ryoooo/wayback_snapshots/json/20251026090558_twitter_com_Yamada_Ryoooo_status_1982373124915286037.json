@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1982252537068519854",
+    "created_at": "2025-10-26T09:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982373124915286037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793491174122192896",
+          "start": 0,
+          "username": "boilingwatter"
+        },
+        {
+          "end": 28,
+          "id": "1756909109788753920",
+          "start": 15,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982373124915286037",
+    "in_reply_to_user_id": "1793491174122192896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982367866386276755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boilingwatter @BaoZheFanQie 笑嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1982252537068519854",
+        "created_at": "2025-10-26T09:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982373124915286037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 15,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982373124915286037",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982367866386276755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boilingwatter @BaoZheFanQie 笑嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793491174122192896",
+        "conversation_id": "1982252537068519854",
+        "created_at": "2025-10-26T08:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982367866386276755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982367866386276755",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982252537068519854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie 我不认可唐敏文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 662,
+          "like_count": 13414,
+          "listed_count": 20,
+          "media_count": 1365,
+          "tweet_count": 7848
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||🏳️‍⚧️🏳️‍🌈||本科CS在读||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍥",
+        "pinned_tweet_id": "1958104725632553471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 177,
+          "like_count": 793,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 1646
+        },
+        "username": "boilingwatter",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线/可互 fo\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包西红柿的西红柿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 2577,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 5820
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

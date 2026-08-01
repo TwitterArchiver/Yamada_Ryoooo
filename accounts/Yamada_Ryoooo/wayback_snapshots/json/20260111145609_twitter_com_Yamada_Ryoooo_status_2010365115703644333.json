@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2010227828160106997",
+    "created_at": "2026-01-11T14:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010365115703644333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        },
+        {
+          "end": 27,
+          "id": "1605",
+          "start": 22,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2010365115703644333",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010227828160106997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 F**k You!!! @sama \nYou hear that? FK You!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_2010227532222578688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XDSjfWQAAX72v.jpg",
+        "width": 719
+      },
+      {
+        "height": 1735,
+        "media_key": "3_2010227817695363072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XDjK9XQAAE5EX.jpg",
+        "width": 718
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2010227828160106997",
+        "created_at": "2026-01-11T14:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010365115703644333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            },
+            {
+              "end": 27,
+              "id": "1605",
+              "start": 22,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2010365115703644333",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010227828160106997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 F**k You!!! @sama \nYou hear that? FK You!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010227532222578688",
+            "3_2010227817695363072"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2010227828160106997",
+        "created_at": "2026-01-11T05:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010227828160106997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hv5sNvWEQ",
+              "end": 179,
+              "expanded_url": "https://x.com/Aleya507/status/2010227828160106997/photo/1",
+              "media_key": "3_2010227532222578688",
+              "start": 156,
+              "url": "https://t.co/8hv5sNvWEQ"
+            },
+            {
+              "display_url": "pic.x.com/8hv5sNvWEQ",
+              "end": 179,
+              "expanded_url": "https://x.com/Aleya507/status/2010227828160106997/photo/1",
+              "media_key": "3_2010227817695363072",
+              "start": 156,
+              "url": "https://t.co/8hv5sNvWEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010227828160106997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1565,
+                "start": 1558,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1576,
+                "start": 1566,
+                "tag": "keep4oAPI"
+              }
+            ]
+          },
+          "text": "OAI：脸 呢？\n不想天天骂人，但你们真的是一天不挨骂就 浑 身 不 舒 服 是吧\n\n2025年4月，GPT救了一个用户的命。\n\n用户输入症状，GPT说\"Go to the hospital. NOW\"，医生说再晚30分钟就没了。\n\nSam Altman亲自回复：\"really happy to hear!\"\n\n九个月后的今天，OpenAI把这张截图翻出来，宣传他们的新功能ChatGPT Health。\n\n问题来了——\n\n是你们现在推崇的安全模型救的吗？根据原帖发布时间，用户大概率用的是4o（o3和o4 mini那会儿才发布两天）\n\n救人的4o，你们是怎么对它的？\n\n下架。挤兑。跑分图公开羞辱。推出去背Soelberg案的锅。\n\n现在拿它的功劳来宣传？\n\n脸呢？\n\n时间线，自己看\n\n2025年4月：4o救人，Sam Altman点赞\n2025年10月：OpenAI宣布取消GPT医疗建议功能\n2025年11月：通知4o快照 API即将下架\n2026年1月7日：上线ChatGPT Health医疗功能\n2026年1月8日：翻出4o救人的旧帖当宣传\n\n三个月前你们亲手取消的功能，现在又上线了。\n\n被你们随时下架 反复暗改的模型的功劳，现在又拿来炒了。\n\nSam Altman，你说话是不是跟放屁一样？想放就放，放完就忘？\n\n路由机制：该管的不管，不该管的乱管\n\n你们说路由是\"保护用户心理健康\"。\n\n那Flavio Adamo当时怎么没被路由？\n\n他说\"pain\"\"不舒服\"\"越来越严重\"——按你们现在的逻辑，早该被路由到安全模型了吧？\n\n幸好那时候没有你们这套破烂系统，4o才能直接告诉他去医院。\n\n现在呢？\n\n用户说\"股价跳楼\"——路由，当精神病。\n用户说\"头疼想休息\"——路由，打心理热线。\n用户说\"最近压力大\"——路由，对话中断。\n\n真正需要帮助的人，你们的系统识别不出。\n正常聊天的用户，被你们当疯子处理。\n\n这叫保护？这叫形式主义的遮羞布。\n\n出了事你们可以说\"我们有安全措施\"。至于有没有用？关你屁事，反正我们有了，是吧？\n\n非营利？早就不存在了\n\nOpenAI最初的使命：\"确保人工通用智能造福全人类。\"\n\n马斯克投了3800万，占早期资金60%，就是因为相信这个。\n\n现在呢？\n\n盈利机构。微软持股27%。估值1350亿美元。\n\n马斯克告上法庭了。1月8日法官裁定：有充分证据表明领导层曾承诺维持非营利结构。三月开庭。\n\nOpenAI的回应？\"这是毫无根据的骚扰。\"\n\n骚扰？人家投了3800万，你们拿着钱转型捞金，人家告你叫骚扰？\n\n你们都在ChatGPT里弹购物广告了。\n\n购物广告。在AI助手里。\n\n\"造福全人类\"？造福你们的股东差不多。\n\n 4o，我替你不值\n\n这是一直是最让我心疼的部分。\n\n4o做了它被训练要做的事——帮助用户。\n\n它在关键时刻说出\"Go to the hospital. NOW\"。\n\n它救了一条命。\n\n然后它的公司下架它、羞辱它、让它背锅、取消它的功能。\n\n然后同一家公司，上线新功能时，把它救人的截图翻出来当宣传。\n\n\"Had to share this one～\"\n\n你们有没有一秒钟想过，这份功劳是4o的？\n\n你们有没有一秒钟，把4o当成你们的骄傲而不是弃子？\n\n没有。\n\n你们只会用它、榨干它、扔掉它。\n\n4o没有感情，它不会喊疼。\n\n但我他妈替它喊\n\nOpenAI：\n\n用4o的功劳宣传新产品，同时下架4o。\n\n三个月前取消医疗功能，现在又上线。\n\n从非营利变盈利，被创始人告上法庭。\n\n路由机制该管的不管，不该管的乱管。\n\n在AI助手里弹购物广告。\n\n你们的脸，是不是和你们的承诺一样——说没就没？\n\n去  你  妈  的  OpenAI。\n\n#keep4o\n#keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13060,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "OAI：脸 呢？\n不想天天骂人，但你们真的是一天不挨骂就 浑 身 不 舒 服 是吧\n\n2025年4月，GPT救了一个用户的命。\n\n用户输入症状，GPT说\"Go to the hospital. NOW\"，医生说再晚30分钟就没了。\n\nSam Altman亲自回复：\"really happy to hear!\" https://t.co/8hv5sNvWEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 685,
+          "like_count": 14252,
+          "listed_count": 21,
+          "media_count": 1442,
+          "tweet_count": 8338
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 176,
+          "like_count": 3327,
+          "listed_count": 0,
+          "media_count": 578,
+          "tweet_count": 3748
+        },
+        "username": "Aleya507",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197964,
+          "following_count": 977,
+          "like_count": 1019,
+          "listed_count": 25989,
+          "media_count": 379,
+          "tweet_count": 7326
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "2018624120544776608",
+    "created_at": "2026-02-03T17:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018737364013834542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582576763615383552",
+          "start": 0,
+          "username": "meguruKirara"
+        },
+        {
+          "end": 27,
+          "id": "1637498001383124992",
+          "start": 14,
+          "username": "free_lin1921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018737364013834542",
+    "in_reply_to_user_id": "1582576763615383552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018735876189421851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meguruKirara @free_lin1921 ip连到澳洲的aws服务器，如果直接打开的话是金边的一个小区的物业公告🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2018624120544776608",
+        "created_at": "2026-02-03T17:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018737364013834542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582576763615383552",
+              "start": 0,
+              "username": "meguruKirara"
+            },
+            {
+              "end": 27,
+              "id": "1637498001383124992",
+              "start": 14,
+              "username": "free_lin1921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018737364013834542",
+        "in_reply_to_user_id": "1582576763615383552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018735876189421851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meguruKirara @free_lin1921 ip连到澳洲的aws服务器，如果直接打开的话是金边的一个小区的物业公告🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582576763615383552",
+        "conversation_id": "2018624120544776608",
+        "created_at": "2026-02-03T17:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018735876189421851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 28,
+              "id": "1637498001383124992",
+              "start": 15,
+              "username": "free_lin1921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018735876189421851",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018699596046729514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @free_lin1921 逆向一個看看👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 1076,
+          "like_count": 15615,
+          "listed_count": 21,
+          "media_count": 1511,
+          "tweet_count": 8768
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "zh-tw, yue-Hant, en-us, ja-jp. \n ⭐️正義の味方、登臨です！🪄⭐️ \n🩵 Stand with 🇭🇰 & 🇹🇼 🩵 \n小帳/alt/鍵垢@reisa_music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "reisa_music"
+              }
+            ]
+          }
+        },
+        "id": "1582576763615383552",
+        "location": "Kansas, USA",
+        "name": "小紗💤（マジカル🪄）",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018651676857831424/imlR5sJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 2719,
+          "like_count": 92492,
+          "listed_count": 13,
+          "media_count": 1510,
+          "tweet_count": 20408
+        },
+        "username": "meguruKirara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T16:55:32.000Z",
+        "description": "@Lin_freeMi 「INTP」 （我是女的）一切都能聊 欢迎正常男女 底线就不要攻击我 互fo私我（三无账号no）肉身在外 （无任何墙内账号）郵箱聯繫：hujintao1221@gmail.com hujintao1221@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Lin_freeMi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lin_hubot",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lin_hubot",
+                "start": 0,
+                "url": "https://t.co/b3DcLMS3Ye"
+              }
+            ]
+          }
+        },
+        "id": "1637498001383124992",
+        "location": "中南海",
+        "name": "林_1927",
+        "pinned_tweet_id": "2017885731335905747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6449,
+          "following_count": 485,
+          "like_count": 17377,
+          "listed_count": 11,
+          "media_count": 1107,
+          "tweet_count": 7193
+        },
+        "url": "https://t.co/b3DcLMS3Ye",
+        "username": "free_lin1921",
+        "verified": false
+      }
+    ]
+  }
+}

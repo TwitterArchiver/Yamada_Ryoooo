@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2056281415596306795",
+    "created_at": "2026-05-18T08:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056295735596097896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1152935210813677569",
+          "start": 0,
+          "username": "iamfreebox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056295735596097896",
+    "in_reply_to_user_id": "1152935210813677569",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056294344169230521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamfreebox 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2056281415596306795",
+        "created_at": "2026-05-18T08:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056295735596097896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1152935210813677569",
+              "start": 0,
+              "username": "iamfreebox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056295735596097896",
+        "in_reply_to_user_id": "1152935210813677569",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056294344169230521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamfreebox 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152935210813677569",
+        "conversation_id": "2056281415596306795",
+        "created_at": "2026-05-18T08:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056294344169230521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294344169230521",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056283321819394054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 好的，我操作一下试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 997,
+          "like_count": 17474,
+          "listed_count": 24,
+          "media_count": 1781,
+          "tweet_count": 9753
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-21T13:35:49.000Z",
+        "description": "清醒｜独立｜自由｜长期主义者",
+        "id": "1152935210813677569",
+        "name": "Freebox",
+        "pinned_tweet_id": "2051854503717319137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019292839310684167/_L4nOkdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 703,
+          "like_count": 1166,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 881
+        },
+        "username": "iamfreebox",
+        "verified": true
+      }
+    ]
+  }
+}

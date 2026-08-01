@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2003742662420304276",
+    "created_at": "2025-12-24T08:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003742662420304276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/cldeop/status/2003378203935781354",
+          "start": 24,
+          "url": "https://t.co/zVbqrYzHMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003742662420304276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003378203935781354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我吃完冰淇淋拉肚子了是不是刚好就能给朋友吃了？ https://t.co/zVbqrYzHMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2003378195110985731",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81t2qZagAMztPO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2003742662420304276",
+        "created_at": "2025-12-24T08:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003742662420304276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cldeop/status/2003378203935781354",
+              "start": 24,
+              "url": "https://t.co/zVbqrYzHMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003742662420304276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003378203935781354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃完冰淇淋拉肚子了是不是刚好就能给朋友吃了？ https://t.co/zVbqrYzHMl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003378195110985731"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2003378203935781354",
+        "created_at": "2025-12-23T08:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003378203935781354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V05ajiWHq3",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2003378203935781354/photo/1",
+              "media_key": "3_2003378195110985731",
+              "start": 0,
+              "url": "https://t.co/V05ajiWHq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003378203935781354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 90729,
+          "like_count": 1761,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V05ajiWHq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5265,
+          "following_count": 680,
+          "like_count": 14023,
+          "listed_count": 21,
+          "media_count": 1426,
+          "tweet_count": 8183
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998284551303598080/m9aPxfLI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95203,
+          "following_count": 666,
+          "like_count": 33142,
+          "listed_count": 270,
+          "media_count": 14264,
+          "tweet_count": 20609
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

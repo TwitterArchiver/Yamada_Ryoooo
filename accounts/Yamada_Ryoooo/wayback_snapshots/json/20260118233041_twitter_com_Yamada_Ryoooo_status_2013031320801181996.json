@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012900405550965116",
+    "created_at": "2026-01-18T23:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013031320801181996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "945839397802352640",
+          "start": 0,
+          "username": "HimanWqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013031320801181996",
+    "in_reply_to_user_id": "945839397802352640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012900405550965116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HimanWqy 来互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012900405550965116",
+        "created_at": "2026-01-18T23:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013031320801181996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "945839397802352640",
+              "start": 0,
+              "username": "HimanWqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013031320801181996",
+        "in_reply_to_user_id": "945839397802352640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012900405550965116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HimanWqy 来互fo"
+      },
+      {
+        "article": {
+          "title": "《How to Fix Your Entire Life in 1 Day》中的描述，思维发展的9个阶段 "
+        },
+        "attachments": {},
+        "author_id": "945839397802352640",
+        "conversation_id": "2012900405550965116",
+        "created_at": "2026-01-18T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900405550965116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2012…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2012899284879060992",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2012899284879060992",
+              "url": "https://t.co/s1DB9H5goJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900405550965116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s1DB9H5goJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5620,
+          "following_count": 1120,
+          "like_count": 14874,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8605
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-27T02:11:00.000Z",
+        "description": "一枚币圈资深“钉子户”，正在试图让 AI 接管我的贪婪与恐惧——顺便帮我搬砖",
+        "id": "945839397802352640",
+        "location": "HangZhou",
+        "name": "Leo.W(蓝V必回)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012821570377457664/Q_Z12a79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 734,
+          "like_count": 330,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 307
+        },
+        "username": "HimanWqy",
+        "verified": true
+      }
+    ]
+  }
+}

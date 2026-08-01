@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2019209196538044689",
+    "created_at": "2026-02-05T00:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T01:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019209196538044689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dr_duckter/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/dr_duckter/status/2018927330148909068",
+          "start": 22,
+          "url": "https://t.co/B8lsBXSiNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019209196538044689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018927330148909068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "放寒假了，国际共产主义运动进入了高潮，，， https://t.co/B8lsBXSiNb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2019209196538044689",
+        "created_at": "2026-02-05T00:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019209196538044689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dr_duckter/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/dr_duckter/status/2018927330148909068",
+              "start": 22,
+              "url": "https://t.co/B8lsBXSiNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019209196538044689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018927330148909068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "放寒假了，国际共产主义运动进入了高潮，，， https://t.co/B8lsBXSiNb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792158516096180224",
+        "conversation_id": "2018927330148909068",
+        "created_at": "2026-02-04T05:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018927330148909068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smvcc64/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/smvcc64/status/2018927121322951034",
+              "start": 14,
+              "url": "https://t.co/8pgPnU3JNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018927330148909068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14185,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018927121322951034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我们网左里面最聪明的了 https://t.co/8pgPnU3JNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 1076,
+          "like_count": 15641,
+          "listed_count": 21,
+          "media_count": 1512,
+          "tweet_count": 8786
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter 关注我带你看更多冲塔图片   记得找我要回关 欢迎投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "God's Country",
+        "name": "Dr Duckter Duckworth",
+        "pinned_tweet_id": "2019051325934518327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001493366782185472/9v0dyZ8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 746,
+          "like_count": 10535,
+          "listed_count": 17,
+          "media_count": 196,
+          "tweet_count": 1621
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039256375742877696"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2039256465706463653",
+    "created_at": "2026-04-01T08:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039256465706463653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FCN67tQQ7J",
+          "end": 32,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2039256465706463653/video/1",
+          "media_key": "13_2039256375742877696",
+          "start": 9,
+          "url": "https://t.co/FCN67tQQ7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039256465706463653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天去见我兄弟了 https://t.co/FCN67tQQ7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28978,
+        "height": 632,
+        "media_key": "13_2039256375742877696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039256375742877696/img/y7G-d5wN01AUjsPb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039256375742877696/vid/avc1/436x270/3c8FSVdj6lfljWc3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039256375742877696/vid/avc1/582x360/DYYrPRmSmmul4xHM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039256375742877696/vid/avc1/1024x632/s-Y80glpNY5Ut2k3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039256375742877696/pl/0AVBanSexNBkIMms.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039256375742877696"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2039256465706463653",
+        "created_at": "2026-04-01T08:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039256465706463653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCN67tQQ7J",
+              "end": 32,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2039256465706463653/video/1",
+              "media_key": "13_2039256375742877696",
+              "start": 9,
+              "url": "https://t.co/FCN67tQQ7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039256465706463653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去见我兄弟了 https://t.co/FCN67tQQ7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6190,
+          "following_count": 1075,
+          "like_count": 16916,
+          "listed_count": 22,
+          "media_count": 1669,
+          "tweet_count": 9396
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

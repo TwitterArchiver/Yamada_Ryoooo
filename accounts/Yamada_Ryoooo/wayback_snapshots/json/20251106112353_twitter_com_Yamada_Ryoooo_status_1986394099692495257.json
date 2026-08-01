@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1986394099692495257",
+    "created_at": "2025-11-06T11:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T12:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986394099692495257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pear14525902/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/pear14525902/status/1986241212517654703",
+          "start": 7,
+          "url": "https://t.co/NOFxQuQbl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986394099692495257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986241212517654703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警察禁止饮酒 https://t.co/NOFxQuQbl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_1986241209803952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CL21SbUAAC2J-.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1986394099692495257",
+        "created_at": "2025-11-06T11:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986394099692495257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pear14525902/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pear14525902/status/1986241212517654703",
+              "start": 7,
+              "url": "https://t.co/NOFxQuQbl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986394099692495257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986241212517654703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警察禁止饮酒 https://t.co/NOFxQuQbl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986241209803952128"
+          ]
+        },
+        "author_id": "1381523094087507974",
+        "conversation_id": "1986241212517654703",
+        "created_at": "2025-11-06T01:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T02:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986241212517654703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FK9DkRgYev",
+              "end": 33,
+              "expanded_url": "https://x.com/pear14525902/status/1986241212517654703/photo/1",
+              "media_key": "3_1986241209803952128",
+              "start": 10,
+              "url": "https://t.co/FK9DkRgYev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986241212517654703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5342,
+          "like_count": 42,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚的酒喝到底了。 https://t.co/FK9DkRgYev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4424,
+          "following_count": 665,
+          "like_count": 13501,
+          "listed_count": 20,
+          "media_count": 1375,
+          "tweet_count": 7900
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "location": "Florida, USA",
+        "name": "🍐老师🔮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44856,
+          "following_count": 1401,
+          "like_count": 133888,
+          "listed_count": 190,
+          "media_count": 2618,
+          "tweet_count": 120660
+        },
+        "username": "pear14525902",
+        "verified": false
+      }
+    ]
+  }
+}

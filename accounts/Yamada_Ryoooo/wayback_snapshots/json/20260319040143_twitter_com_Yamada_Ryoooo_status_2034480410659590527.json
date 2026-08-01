@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2034472931758362692",
+    "created_at": "2026-03-19T04:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034480410659590527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034480410659590527",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034472931758362692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 好事啊\n但是希望不会被滥用就是了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2034461061278244864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvbjmLaoAAv-mn.jpg",
+        "width": 1105
+      },
+      {
+        "height": 953,
+        "media_key": "3_2034461061307580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvbjmSaQAABRKT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2034472931758362692",
+        "created_at": "2026-03-19T04:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034480410659590527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034480410659590527",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034472931758362692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 好事啊\n但是希望不会被滥用就是了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034461061278244864",
+            "3_2034461061307580416"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2034472931758362692",
+        "created_at": "2026-03-19T03:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034472931758362692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "X又有啥新功能"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/112247?x",
+              "end": 167,
+              "expanded_url": "https://ourl.co/112247?x",
+              "start": 144,
+              "unwound_url": "https://www.landiannews.com/archives/112247.html?utm_source=x.com",
+              "url": "https://t.co/gYiuH32yNa"
+            },
+            {
+              "display_url": "pic.x.com/LB7no4uQZj",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2034472931758362692/photo/1",
+              "media_key": "3_2034461061278244864",
+              "start": 168,
+              "url": "https://t.co/LB7no4uQZj"
+            },
+            {
+              "display_url": "pic.x.com/LB7no4uQZj",
+              "end": 191,
+              "expanded_url": "https://x.com/landiantech/status/2034472931758362692/photo/1",
+              "media_key": "3_2034461061307580416",
+              "start": 168,
+              "url": "https://t.co/LB7no4uQZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034472931758362692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 569,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#X又有啥新功能  X 将上线点踩和 AI 举报按钮，垃圾内容和未标注的 AI 生成内容都可能被点踩或举报，这样帖子可能无法再获得算法推荐 (点踩仅限于回复贴)。\n\n另外 X 还准备打击 AI 垃圾评论，这些账号可能会被取消甚至倒扣创作者分成，X 希望通过这种方式打击 AI 垃圾。\n\n👉https://t.co/gYiuH32yNa https://t.co/LB7no4uQZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6192,
+          "following_count": 1068,
+          "like_count": 16591,
+          "listed_count": 21,
+          "media_count": 1592,
+          "tweet_count": 9195
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33676,
+          "following_count": 712,
+          "like_count": 4337,
+          "listed_count": 270,
+          "media_count": 5053,
+          "tweet_count": 14452
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

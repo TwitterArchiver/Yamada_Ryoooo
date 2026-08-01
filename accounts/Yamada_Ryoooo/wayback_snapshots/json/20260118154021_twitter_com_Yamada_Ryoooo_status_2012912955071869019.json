@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012821400365515102",
+    "created_at": "2026-01-18T15:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012912955071869019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "233452656",
+          "start": 0,
+          "username": "MEJ50749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012912955071869019",
+    "in_reply_to_user_id": "233452656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012821400365515102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEJ50749 来吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012821400365515102",
+        "created_at": "2026-01-18T15:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012912955071869019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "233452656",
+              "start": 0,
+              "username": "MEJ50749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012912955071869019",
+        "in_reply_to_user_id": "233452656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012821400365515102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEJ50749 来吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233452656",
+        "conversation_id": "2012821400365515102",
+        "created_at": "2026-01-18T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012821400365515102"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mej50749/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/mej50749/status/2012478196826902885",
+              "start": 29,
+              "url": "https://t.co/xkV8lefsGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012821400365515102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 25075,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 179,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012478196826902885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，本周最后一天\n\n蓝V互关下，一起进步\n\n#蓝V互关 https://t.co/xkV8lefsGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5515,
+          "following_count": 990,
+          "like_count": 14649,
+          "listed_count": 23,
+          "media_count": 1456,
+          "tweet_count": 8518
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-03T07:53:41.000Z",
+        "description": "StoneNest Founder /Alpha Investor ｜#Binance 你的数字货币购买平台，就是 #币安👉 密码 👉 https://t.co/ObQd8Kaii7 ｜All Contents DYOR | DM for collaborate 真金不怕火炼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Binance"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "币安"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/join?ref=14789…",
+                "end": 91,
+                "expanded_url": "https://www.binance.com/join?ref=147893433",
+                "start": 68,
+                "url": "https://t.co/ObQd8Kaii7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StoneNestClub",
+                "end": 23,
+                "expanded_url": "https://t.me/StoneNestClub",
+                "start": 0,
+                "url": "https://t.co/qcURghVo3m"
+              }
+            ]
+          }
+        },
+        "id": "233452656",
+        "location": "Manhattan, NY",
+        "name": "MEJ毛毛姐🐬TermMax | 火币新资产体验官",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004597617473585160/Qc-cWKMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69123,
+          "following_count": 10268,
+          "like_count": 26131,
+          "listed_count": 358,
+          "media_count": 3685,
+          "tweet_count": 53057
+        },
+        "url": "https://t.co/qcURghVo3m",
+        "username": "MEJ50749",
+        "verified": true
+      }
+    ]
+  }
+}

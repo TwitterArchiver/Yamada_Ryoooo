@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008594210296123635",
+    "created_at": "2026-01-07T05:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008775276638204398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008775276638204398",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008594210296123635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citric_baizhou ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008594210296123635",
+        "created_at": "2026-01-07T05:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008775276638204398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008775276638204398",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008594210296123635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citric_baizhou ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670362954590728197",
+        "conversation_id": "2008594210296123635",
+        "created_at": "2026-01-06T17:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008594210296123635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008594210296123635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不穿内裤故意走光好爽啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5208,
+          "following_count": 678,
+          "like_count": 14167,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8269
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07｜AMD做题郭楠长毛人妖｜初めから持ってないのに胸が痛んだ。｜里@kagurazakahyoto｜🐽❤️@tanbara_ririka｜🚪8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "tanbara_ririka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/mTviyCNfgq"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "距离你4.9km",
+        "name": "苯甲酸 白粥 🍥",
+        "pinned_tweet_id": "1972936706203783189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999208333753090050/WKjWKeVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1095,
+          "like_count": 32184,
+          "listed_count": 5,
+          "media_count": 816,
+          "tweet_count": 5039
+        },
+        "url": "https://t.co/mTviyCNfgq",
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}

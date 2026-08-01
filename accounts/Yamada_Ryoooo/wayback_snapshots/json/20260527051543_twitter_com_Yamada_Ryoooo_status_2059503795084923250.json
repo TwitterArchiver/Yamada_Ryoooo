@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059503781684109313",
+        "3_2059503781684076544"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059458227058971034",
+    "created_at": "2026-05-27T05:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059503795084923250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1398934230407606278",
+          "start": 0,
+          "username": "laobaishare"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hnM9JbiFA",
+          "end": 46,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059503795084923250/photo/1",
+          "media_key": "3_2059503781684109313",
+          "start": 23,
+          "url": "https://t.co/4hnM9JbiFA"
+        },
+        {
+          "display_url": "pic.x.com/4hnM9JbiFA",
+          "end": 46,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059503795084923250/photo/1",
+          "media_key": "3_2059503781684076544",
+          "start": 23,
+          "url": "https://t.co/4hnM9JbiFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059503795084923250",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059501642941337917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laobaishare 重试了一次成功了😋 https://t.co/4hnM9JbiFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2059503781684109313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTTxxja4AEyJ3C.jpg",
+        "width": 1179
+      },
+      {
+        "height": 692,
+        "media_key": "3_2059503781684076544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTTxxjaYAAV466.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059503781684109313",
+            "3_2059503781684076544"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059458227058971034",
+        "created_at": "2026-05-27T05:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059503795084923250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1398934230407606278",
+              "start": 0,
+              "username": "laobaishare"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hnM9JbiFA",
+              "end": 46,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059503795084923250/photo/1",
+              "media_key": "3_2059503781684109313",
+              "start": 23,
+              "url": "https://t.co/4hnM9JbiFA"
+            },
+            {
+              "display_url": "pic.x.com/4hnM9JbiFA",
+              "end": 46,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059503795084923250/photo/1",
+              "media_key": "3_2059503781684076544",
+              "start": 23,
+              "url": "https://t.co/4hnM9JbiFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059503795084923250",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059501642941337917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laobaishare 重试了一次成功了😋 https://t.co/4hnM9JbiFA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059458227058971034",
+        "created_at": "2026-05-27T05:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059501642941337917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1398934230407606278",
+              "start": 0,
+              "username": "laobaishare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059501642941337917",
+        "in_reply_to_user_id": "1398934230407606278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059458227058971034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laobaishare 没成功😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1013,
+          "like_count": 17647,
+          "listed_count": 24,
+          "media_count": 1791,
+          "tweet_count": 9814
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-30T09:28:41.000Z",
+        "description": "收集和分享好东西：🌍泛互联网 + 💻科技 + 🤖️Al + 📃学习 + 🤑Crypto",
+        "id": "1398934230407606278",
+        "name": "老白（每日干货分享✊）",
+        "pinned_tweet_id": "2058803003642314948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688863542110507008/RO_U6ecN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208142,
+          "following_count": 442,
+          "like_count": 15099,
+          "listed_count": 1271,
+          "media_count": 7390,
+          "tweet_count": 12038
+        },
+        "username": "laobaishare",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2039234844279156875",
+    "created_at": "2026-04-01T07:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039247815369715842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1073868204",
+          "start": 0,
+          "username": "lipeng0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039247815369715842",
+    "in_reply_to_user_id": "1073868204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039247726911918291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipeng0820 今天是4.1😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2039234844279156875",
+        "created_at": "2026-04-01T07:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039247815369715842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1073868204",
+              "start": 0,
+              "username": "lipeng0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039247815369715842",
+        "in_reply_to_user_id": "1073868204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039247726911918291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipeng0820 今天是4.1😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073868204",
+        "conversation_id": "2039234844279156875",
+        "created_at": "2026-04-01T07:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039247726911918291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039247726911918291",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039234844279156875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 是因为不好玩儿所以降价了么🙊不是……我是说，我真的想买。地平线 4 买了就吃灰了好久，想买个 6 接着吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 1075,
+          "like_count": 16911,
+          "listed_count": 22,
+          "media_count": 1667,
+          "tweet_count": 9392
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-09T14:07:02.000Z",
+        "description": "“人生就像巧克力，你永远不知道下一颗是什么味道……” 科技整活/开箱试用/烂梗王🏆/AI 宿主/奇闻e事/亲测好使™我是认真的！ ✈️ TG https://t.co/7yKW5WG4sd 👋你好！Hello！こんにちは！Bonjour！Ciao！Hola！สวัสดีครับ！Привет！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lipeng0820",
+                "end": 94,
+                "expanded_url": "https://t.me/lipeng0820",
+                "start": 71,
+                "url": "https://t.co/7yKW5WG4sd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lee.sd",
+                "end": 23,
+                "expanded_url": "https://lee.sd",
+                "start": 0,
+                "url": "https://t.co/nmKkSfc2YG"
+              }
+            ]
+          }
+        },
+        "id": "1073868204",
+        "location": "0086",
+        "name": "SimbaLee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992085628444626944/K-GSDxFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42663,
+          "following_count": 788,
+          "like_count": 13116,
+          "listed_count": 378,
+          "media_count": 5367,
+          "tweet_count": 44999
+        },
+        "url": "https://t.co/nmKkSfc2YG",
+        "username": "lipeng0820",
+        "verified": true
+      }
+    ]
+  }
+}

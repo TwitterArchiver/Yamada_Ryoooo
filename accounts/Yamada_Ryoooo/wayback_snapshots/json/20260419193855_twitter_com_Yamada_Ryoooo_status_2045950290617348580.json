@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2045950290617348580",
+    "created_at": "2026-04-19T19:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T20:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045950290617348580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cnmeihei/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/cnmeihei/status/2045285535879712794",
+          "start": 21,
+          "url": "https://t.co/qEa6Vn96S2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045950290617348580",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045285535879712794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 你最爱的骷髅兵 https://t.co/qEa6Vn96S2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129866,
+        "height": 848,
+        "media_key": "7_2045285093321900032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045285093321900032/pu/img/nUGKkOqwoy6pPyps.jpg",
+        "public_metrics": {
+          "view_count": 81241
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045285093321900032/pu/vid/avc1/320x584/7V45rwXbSvSFwzbs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045285093321900032/pu/vid/avc1/464x848/t47uf5Ka8XNihwHm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045285093321900032/pu/pl/B2F0wroLs7Hk_389.m3u8?tag=12"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2045950290617348580",
+        "created_at": "2026-04-19T19:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045950290617348580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cnmeihei/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cnmeihei/status/2045285535879712794",
+              "start": 21,
+              "url": "https://t.co/qEa6Vn96S2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045950290617348580",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045285535879712794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 你最爱的骷髅兵 https://t.co/qEa6Vn96S2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045285093321900032"
+          ]
+        },
+        "author_id": "1554352312382291974",
+        "conversation_id": "2045285535879712794",
+        "created_at": "2026-04-17T23:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T00:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045285535879712794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jgRKkt4EG3",
+              "end": 77,
+              "expanded_url": "https://x.com/cnmeihei/status/2045285535879712794/video/1",
+              "media_key": "7_2045285093321900032",
+              "start": 54,
+              "url": "https://t.co/jgRKkt4EG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045285535879712794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11969,
+          "impression_count": 144791,
+          "like_count": 19363,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 597
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "就这体格子都没有黑爹的鸡吧粗，这就是纯为了黑爹而生的活体肉便器，无论是站着坐着走着，都可以拿起来直接使用。 https://t.co/jgRKkt4EG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6447,
+          "following_count": 1093,
+          "like_count": 17193,
+          "listed_count": 24,
+          "media_count": 1746,
+          "tweet_count": 9581
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 1690,
+          "like_count": 116733,
+          "listed_count": 62,
+          "media_count": 1271,
+          "tweet_count": 26198
+        },
+        "username": "89JinPing64",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T06:24:26.000Z",
+        "description": "宣传媚黑文化，传播媚黑主义，感受媚黑主题带来的快乐。#媚黑 #媚外 #qos #bbc #asian #blacked 所有内容纯属爱好不涉及任何政治。下面链接为亲自认证真实靠谱资源频道。哈哈，这不好起来了么，接商务了。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "媚黑"
+              },
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "媚外"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "qos"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "bbc"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "asian"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "blacked"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zwwzyzx",
+                "end": 23,
+                "expanded_url": "https://t.me/zwwzyzx",
+                "start": 0,
+                "url": "https://t.co/VmMnb67KMP"
+              }
+            ]
+          }
+        },
+        "id": "1554352312382291974",
+        "location": "更多精彩内容尽在 ➠",
+        "name": "媚黑中文网 ♠️ CNMEIHEI ♠️ BBC",
+        "pinned_tweet_id": "2036139580869714113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988334119160545280/FLe5s9G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50702,
+          "following_count": 81,
+          "like_count": 23,
+          "listed_count": 159,
+          "media_count": 73,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/VmMnb67KMP",
+        "username": "cnmeihei",
+        "verified": false
+      }
+    ]
+  }
+}

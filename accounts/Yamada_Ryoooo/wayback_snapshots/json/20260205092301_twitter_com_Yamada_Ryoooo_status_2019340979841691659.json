@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2019337674243334224",
+    "created_at": "2026-02-05T09:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019340979841691659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322420550384275457",
+          "start": 0,
+          "username": "jaylenng0788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019340979841691659",
+    "in_reply_to_user_id": "1322420550384275457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019337674243334224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaylenng0788 所以常备境外sim卡以便紧急联网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2019337674243334224",
+        "created_at": "2026-02-05T09:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019340979841691659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322420550384275457",
+              "start": 0,
+              "username": "jaylenng0788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019340979841691659",
+        "in_reply_to_user_id": "1322420550384275457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019337674243334224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaylenng0788 所以常备境外sim卡以便紧急联网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322420550384275457",
+        "conversation_id": "2019337674243334224",
+        "created_at": "2026-02-05T09:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019337674243334224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019337674243334224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不敢想象，如果你的所有梯子vpn 或者没有国外电话卡，你的心情会怎样？\n\n恰好我刚刚就经历了这样一个过程。我发现我所有的梯子都连不上，虽然我备份了很多个，但很不幸全都失效了。\n\n这时候我觉得有点崩溃，感觉自己和外界失去了联系，推特刷不了，联系客服也联系不到，真的很无助。😔\n\n当然，不会所有的梯子同一时间都连不上的。因为毕竟我有四五个或者更多的梯子，我在排查原因的时候，就发现全都连不上。\n\n我想政府应该不会厉害到这样的程度，能把我同时拥有的所有的梯子都能关闭。还好，最后我终于找到原因了：仅仅是因为我的国内流量卡没有流量了，欠费了。\n\n当然这不是段子。当我把这个事情说出来之后，我自己也觉得有点夸张。\n\n我想国内大部分人其实和我的生活状态差不多。我自己是因为做外贸、做跨境、做出海，才接触到的梯子。\n\n但国内大部分人，他们可能根本不知道梯子是什么，不知道这个梯子怎么玩，但是他们的日子却照样能过得下去。我在想，这到底是什么原因呢？\n\n也许你真的出来了，你就不可能完全地回去了。我想，这也许就是唯一的答案。\n\n当然说完这段话的时候，我的所有网络都已经恢复正常了。我也知道该回来还是要回来。\n\n说了这么多也只是感叹一下，我们每个人处的环境不一样，然后我们的心境其实也不一样。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不敢想象，如果你的所有梯子vpn 或者没有国外电话卡，你的心情会怎样？\n\n恰好我刚刚就经历了这样一个过程。我发现我所有的梯子都连不上，虽然我备份了很多个，但很不幸全都失效了。\n\n这时候我觉得有点崩溃，感觉自己和外界失去了联系，推特刷不了，联系客服也联系不到，真的很无助。😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 1075,
+          "like_count": 15666,
+          "listed_count": 21,
+          "media_count": 1516,
+          "tweet_count": 8800
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T06:10:15.000Z",
+        "description": "🏗️ 从土木到外贸 SOHO | 数字游民实战中 💳 专注跨境支付： 美卡/ITIN/加密货币链路闭环 🤖 AI + 联盟营销： 探索 AI 赋能跨境业务新玩法 📱 全球网络： 各国 eSIM/社媒前沿玩法/工具控 ✍️ 持续输出硬核教程，陪你打破信息差，一起出海搞钱。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/jaylenng",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/jaylenng",
+                "start": 0,
+                "url": "https://t.co/NJabahfAQo"
+              }
+            ]
+          }
+        },
+        "id": "1322420550384275457",
+        "location": "中国",
+        "name": "不惑X",
+        "pinned_tweet_id": "2007630238956826717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003510084744228865/e3DN9to9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 2347,
+          "like_count": 505,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/NJabahfAQo",
+        "username": "jaylenng0788",
+        "verified": true
+      }
+    ]
+  }
+}

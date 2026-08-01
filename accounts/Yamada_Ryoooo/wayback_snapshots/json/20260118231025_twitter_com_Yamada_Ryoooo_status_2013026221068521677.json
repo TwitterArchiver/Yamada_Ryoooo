@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012820811183472696",
+    "created_at": "2026-01-18T23:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013026221068521677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "928530478986027009",
+          "start": 0,
+          "username": "TabTop0316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013026221068521677",
+    "in_reply_to_user_id": "928530478986027009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013025914876010864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TabTop0316 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012820811183472696",
+        "created_at": "2026-01-18T23:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013026221068521677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "928530478986027009",
+              "start": 0,
+              "username": "TabTop0316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013026221068521677",
+        "in_reply_to_user_id": "928530478986027009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013025914876010864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TabTop0316 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928530478986027009",
+        "conversation_id": "2012820811183472696",
+        "created_at": "2026-01-18T23:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013025914876010864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013025914876010864",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012820811183472696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 蓝标互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5614,
+          "following_count": 1105,
+          "like_count": 14827,
+          "listed_count": 21,
+          "media_count": 1466,
+          "tweet_count": 8578
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-09T07:51:32.000Z",
+        "description": "实业苦行僧👨‍🦲，新能源行业打工仔💼，AI和英语初学者，分享个人和公司成长过程中的感悟与心得；希望跟大家一起学习📖一起进步，分享路上的风景！",
+        "id": "928530478986027009",
+        "location": "Guangdong",
+        "name": "小Y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1013083944487567360/kT00EP6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 1713,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 739
+        },
+        "username": "TabTop0316",
+        "verified": true
+      }
+    ]
+  }
+}

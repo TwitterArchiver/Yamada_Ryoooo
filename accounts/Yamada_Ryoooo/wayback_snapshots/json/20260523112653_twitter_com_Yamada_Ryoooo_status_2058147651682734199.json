@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2058147651682734199",
+    "created_at": "2026-05-23T11:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058147651682734199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kenntnis22/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/kenntnis22/status/2057977448009023559",
+          "start": 37,
+          "url": "https://t.co/TgdBaD7s9W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058147651682734199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057977448009023559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "轰轰烈烈的MAGA大革命开始了\n至于未来怎么样，请参考中共十一届三中全会 https://t.co/TgdBaD7s9W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2058147651682734199",
+        "created_at": "2026-05-23T11:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058147651682734199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kenntnis22/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/kenntnis22/status/2057977448009023559",
+              "start": 37,
+              "url": "https://t.co/TgdBaD7s9W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058147651682734199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057977448009023559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "轰轰烈烈的MAGA大革命开始了\n至于未来怎么样，请参考中共十一届三中全会 https://t.co/TgdBaD7s9W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535701819812462600",
+        "conversation_id": "2057977448009023559",
+        "created_at": "2026-05-23T00:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:09:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057977152008532184",
+          "2057977448009023559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WhiteHouse/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/WhiteHouse/status/2057968856161780061",
+              "start": 128,
+              "url": "https://t.co/V0zUiidfm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057977448009023559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 52124,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057968856161780061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特朗普私人账号这样恶搞就算了，白宫官方账号也这样玩，实在无语。这么多年了，以往历届白宫哪有这样干的？\n\n将来换届了，新政府上台，白宫现在发的这些推文要不要删除呢？要不要出来公开道歉呢？特朗普不会永远执政，特朗普主义总有退潮的时候，要不要想想以后怎么办呢？ https://t.co/V0zUiidfm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6560,
+          "following_count": 1010,
+          "like_count": 17571,
+          "listed_count": 24,
+          "media_count": 1788,
+          "tweet_count": 9784
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2057089306997493763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55239,
+          "following_count": 440,
+          "like_count": 58420,
+          "listed_count": 266,
+          "media_count": 12587,
+          "tweet_count": 19316
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

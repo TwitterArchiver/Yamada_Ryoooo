@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2033600982949761430",
+    "created_at": "2026-03-16T17:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033600982949761430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arunpan6820195…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/arunpan68201957/status/2032948305802703056",
+          "start": 7,
+          "url": "https://t.co/BgICQ5D7K1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033600982949761430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032948305802703056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看起来很急 https://t.co/BgICQ5D7K1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82048,
+        "height": 1104,
+        "media_key": "13_2032947109595590657",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032947109595590657/img/mAYdF108_ZcLcR4Q.jpg",
+        "public_metrics": {
+          "view_count": 457315
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032947109595590657/vid/avc1/320x490/C_Da7X9JHkGJ1Lif.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032947109595590657/vid/avc1/480x736/I0Nwurh_Gm60iggF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032947109595590657/vid/avc1/720x1104/HPQZ1dHEWPCYsXgN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032947109595590657/pl/RwvC1j6iGjq5kFuH.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2033600982949761430",
+        "created_at": "2026-03-16T17:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033600982949761430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arunpan6820195…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/arunpan68201957/status/2032948305802703056",
+              "start": 7,
+              "url": "https://t.co/BgICQ5D7K1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033600982949761430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032948305802703056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看起来很急 https://t.co/BgICQ5D7K1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032947109595590657"
+          ]
+        },
+        "author_id": "905657767511285761",
+        "conversation_id": "2032948305802703056",
+        "created_at": "2026-03-14T22:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032948305802703056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jy9G05qisU",
+              "end": 60,
+              "expanded_url": "https://x.com/ArunPan68201957/status/2032948305802703056/video/1",
+              "media_key": "13_2032947109595590657",
+              "start": 37,
+              "url": "https://t.co/Jy9G05qisU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032948305802703056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11092,
+          "impression_count": 240444,
+          "like_count": 16756,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 1410
+        },
+        "reply_settings": "everyone",
+        "text": "异行阳具整根插入第十五弹，感谢大家一路相伴。 约线下 评论区留下联系方式 https://t.co/Jy9G05qisU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6201,
+          "following_count": 1061,
+          "like_count": 16544,
+          "listed_count": 21,
+          "media_count": 1587,
+          "tweet_count": 9178
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-07T05:03:32.000Z",
+        "description": "我的身体不是隐私，灵魂才是！｜职喜欢搞涩涩｜💞遵守推特平台💞点个关注💞收不收门槛看心情\n\n最新号，请关注，\n同城约啪",
+        "id": "905657767511285761",
+        "location": "距离13.8公里",
+        "name": "兔兔原创",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026584571500965894/xY0M4u8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19246,
+          "following_count": 111,
+          "like_count": 88214,
+          "listed_count": 47,
+          "media_count": 7692,
+          "tweet_count": 109718
+        },
+        "username": "ArunPan68201957",
+        "verified": false
+      }
+    ]
+  }
+}

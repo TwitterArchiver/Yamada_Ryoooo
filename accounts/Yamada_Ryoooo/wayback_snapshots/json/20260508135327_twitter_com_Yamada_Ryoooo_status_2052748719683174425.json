@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2052659538608951506",
+    "created_at": "2026-05-08T13:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052748719683174425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1036546087090237440",
+          "start": 0,
+          "username": "HelloMrYEE"
+        },
+        {
+          "end": 20,
+          "id": "1164388321545449472",
+          "start": 12,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052748719683174425",
+    "in_reply_to_user_id": "1036546087090237440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052665355579920522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HelloMrYEE @imwsl90 早就改了，你没更新吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2052659538608951506",
+        "created_at": "2026-05-08T13:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052748719683174425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1036546087090237440",
+              "start": 0,
+              "username": "HelloMrYEE"
+            },
+            {
+              "end": 20,
+              "id": "1164388321545449472",
+              "start": 12,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052748719683174425",
+        "in_reply_to_user_id": "1036546087090237440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052665355579920522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelloMrYEE @imwsl90 早就改了，你没更新吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036546087090237440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2052659538608951506",
+        "created_at": "2026-05-08T08:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052665355579920522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052665355579920522",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052659538608951506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 你这操作不对，在App Store里是可以操作的，不用到设置里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6587,
+          "following_count": 1096,
+          "like_count": 17347,
+          "listed_count": 24,
+          "media_count": 1764,
+          "tweet_count": 9669
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-03T09:27:00.000Z",
+        "description": "中年/光头/大提琴/古典吉他/长笛/当过老师卖过艺/爱厨房 /谢谢喜欢",
+        "id": "1036546087090237440",
+        "location": "Shanghai",
+        "name": "𝗠𝗿𝗬𝗘𝗘",
+        "pinned_tweet_id": "2040697688061014505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028606990977785856/wGdS9vHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4639,
+          "following_count": 321,
+          "like_count": 2084,
+          "listed_count": 25,
+          "media_count": 7518,
+          "tweet_count": 36547
+        },
+        "username": "HelloMrYEE",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXicBvG\n低调魔法：https://t.co/B5SfJ7LTgf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXicBvG"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 101,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 78,
+                "url": "https://t.co/B5SfJ7LTgf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSVQg"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2046102461795213539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90619,
+          "following_count": 7802,
+          "like_count": 49032,
+          "listed_count": 598,
+          "media_count": 14344,
+          "tweet_count": 78193
+        },
+        "url": "https://t.co/jkPrQuSVQg",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

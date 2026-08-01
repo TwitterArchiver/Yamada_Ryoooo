@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1990010076938248624",
+    "created_at": "2025-11-16T15:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990085202677268802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426789547954737153",
+          "start": 0,
+          "username": "DelayNoMore64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990085202677268802",
+    "in_reply_to_user_id": "1426789547954737153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990010076938248624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DelayNoMore64 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1990010076938248624",
+        "created_at": "2025-11-16T15:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990085202677268802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426789547954737153",
+              "start": 0,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990085202677268802",
+        "in_reply_to_user_id": "1426789547954737153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990010076938248624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DelayNoMore64 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426789547954737153",
+        "conversation_id": "1990010076938248624",
+        "created_at": "2025-11-16T10:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990010076938248624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lemonmen0428/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/lemonmen0428/status/1989790895718412615",
+              "start": 153,
+              "url": "https://t.co/AeBISHJeBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990010076938248624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9632,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989790895718412615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管今晚发生什么！\n不造谣不传谣！\n不要转发未经核实的图片视频!\n请勿随手拍摄有关军事相关的图片或影视资料，因为手机容易被入侵，注意保密！注意保密！注意保密！注意保密！\n无论发生什么，请一直给予人民子弟兵信任和支持!\n(请复制粘贴转发出去)\n\n——2022年8月2日，美国国务卿Pelosi访台时的中国人 https://t.co/AeBISHJeBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 667,
+          "like_count": 13533,
+          "listed_count": 20,
+          "media_count": 1380,
+          "tweet_count": 7942
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔.Bot  小粉红勿fo | Centrist  视奸者冚家富贵 | TG讨论组/频道 https://t.co/zCJwDqWKTY  | 不看私信 | 翻墙推荐 迷雾通: https://t.co/RGAYSqWWLo | Tech: @CitrusHachimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "CitrusHachimi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HachimiNeko",
+                "end": 72,
+                "expanded_url": "https://t.me/HachimiNeko",
+                "start": 49,
+                "url": "https://t.co/zCJwDqWKTY"
+              },
+              {
+                "display_url": "geph.io",
+                "end": 116,
+                "expanded_url": "https://geph.io",
+                "start": 93,
+                "url": "https://t.co/RGAYSqWWLo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HachimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HachimiCat",
+                "start": 0,
+                "url": "https://t.co/cYGMU1pZiS"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "대한민국",
+        "name": "Bocchi 🇳🇴",
+        "pinned_tweet_id": "1985154438433296853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984884818459668480/7dVaqsuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43117,
+          "following_count": 962,
+          "like_count": 33081,
+          "listed_count": 160,
+          "media_count": 2468,
+          "tweet_count": 18250
+        },
+        "url": "https://t.co/cYGMU1pZiS",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

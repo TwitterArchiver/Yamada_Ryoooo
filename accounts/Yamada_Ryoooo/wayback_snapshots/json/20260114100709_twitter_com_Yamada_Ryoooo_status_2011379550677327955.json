@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2011379550677327955",
+    "created_at": "2026-01-14T10:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T11:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011379550677327955"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2011379550677327955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "github.com/Yamada-Ryo4/AP…",
+            "end": 1424,
+            "expanded_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+            "start": 1401,
+            "url": "https://t.co/qZAvfFmUSu"
+          }
+        ]
+      },
+      "text": "# Update Log\n\n## [2026-01-14] - Omni-Proxy Update\n\n本次更新重点扩展了对 OpenAI 和 Claude 的原生支持，并新增了跨协议转换功能（Gemini 伪装成 Claude），同时对文档进行了全面重构。\n\n### ✨ 新增功能 (New Features)\n\n#### 1. 多平台代理支持\n- **OpenAI Native Proxy (`openai.js`)**\n  - 新增对 OpenAI 官方接口的完整支持。\n  - **关键特性**：原生支持 WebSocket 协议转发，完美兼容 OpenAI Realtime API (实时语音/视频)。\n  - 支持 SSE (Server-Sent Events) 流式输出。\n\n- **Claude Native Proxy (`claude.js`)**\n  - 新增 Anthropic Claude 官方接口代理。\n  - **关键特性**：自动处理 `x-api-key`、`anthropic-version` 等专用 Header，修复浏览器端调用的 CORS 问题。\n\n#### 2. 协议转换适配器 (Protocol Adapters)\n- **Gemini-to-Claude Adapter (`gemini-claude.js`)**\n  - 实现将 Gemini API 伪装成 Claude 协议。\n  - **核心逻辑**：\n    - 自动映射 `messages` 结构至 Gemini 的 `contents`。\n    - 支持提取 System Prompt 并转换为 `system_instruction`。\n    - 兼容非流式 (Non-Streaming) 及基础流式响应。\n  - **适用场景**：CodeX/ClaudeCode 等仅支持 Claude 协议但需要调用 Google 模型的工具。\n\n### 📚 文档更新 (Documentation)\n\n- **README 重构**：\n  - 重新设计了文档结构，引入分类表格（直连代理 vs 协议转换）。\n  - 新增各平台 Shield Badges (OpenAI, Claude, Gemini)。\n  - 补充了 GCLI 路由网关的详细配置说明。\n- **配置指引**：\n  - 新增 `UPSTREAM_MAP` 路由表说明，明确了 `/codeassist`, `/oauth` 等路径的转发规则。\n\n### ⚡ 优化与修复 (Improvements)\n\n- **隐私增强**：所有新脚本均内置隐私清洗逻辑，自动移除 `Cf-Connecting-Ip`、`X-Forwarded-For`、`X-Real-Ip` 等 Cloudflare 边缘节点特征头。\n- **CORS 标准化**：统一了所有脚本的跨域资源共享 (CORS) 设置，确保 Web 版客户端（如 NextChat, LobeChat）能无障碍调用。\n- **安全性**：强化了 `Host` 和 `Origin` 的伪装逻辑，确保能通过上游服务商的严格校验。\n\n---\n\n> **Note:** 部署新脚本后，请务必在 Cloudflare 后台绑定自定义域名以保证服务的连通性。\n\nhttps://t.co/qZAvfFmUSu"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "# Update Log\n\n## [2026-01-14] - Omni-Proxy Update\n\n本次更新重点扩展了对 OpenAI 和 Claude 的原生支持，并新增了跨协议转换功能（Gemini 伪装成 Claude），同时对文档进行了全面重构。\n\n### ✨ 新增功能 (New Features)\n\n#### 1. 多平台代理支持\n- **OpenAI Native Proxy (`openai.js`)**\n  -"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2011379550677327955",
+        "created_at": "2026-01-14T10:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T11:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011379550677327955"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2011379550677327955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Yamada-Ryo4/AP…",
+                "end": 1424,
+                "expanded_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+                "start": 1401,
+                "url": "https://t.co/qZAvfFmUSu"
+              }
+            ]
+          },
+          "text": "# Update Log\n\n## [2026-01-14] - Omni-Proxy Update\n\n本次更新重点扩展了对 OpenAI 和 Claude 的原生支持，并新增了跨协议转换功能（Gemini 伪装成 Claude），同时对文档进行了全面重构。\n\n### ✨ 新增功能 (New Features)\n\n#### 1. 多平台代理支持\n- **OpenAI Native Proxy (`openai.js`)**\n  - 新增对 OpenAI 官方接口的完整支持。\n  - **关键特性**：原生支持 WebSocket 协议转发，完美兼容 OpenAI Realtime API (实时语音/视频)。\n  - 支持 SSE (Server-Sent Events) 流式输出。\n\n- **Claude Native Proxy (`claude.js`)**\n  - 新增 Anthropic Claude 官方接口代理。\n  - **关键特性**：自动处理 `x-api-key`、`anthropic-version` 等专用 Header，修复浏览器端调用的 CORS 问题。\n\n#### 2. 协议转换适配器 (Protocol Adapters)\n- **Gemini-to-Claude Adapter (`gemini-claude.js`)**\n  - 实现将 Gemini API 伪装成 Claude 协议。\n  - **核心逻辑**：\n    - 自动映射 `messages` 结构至 Gemini 的 `contents`。\n    - 支持提取 System Prompt 并转换为 `system_instruction`。\n    - 兼容非流式 (Non-Streaming) 及基础流式响应。\n  - **适用场景**：CodeX/ClaudeCode 等仅支持 Claude 协议但需要调用 Google 模型的工具。\n\n### 📚 文档更新 (Documentation)\n\n- **README 重构**：\n  - 重新设计了文档结构，引入分类表格（直连代理 vs 协议转换）。\n  - 新增各平台 Shield Badges (OpenAI, Claude, Gemini)。\n  - 补充了 GCLI 路由网关的详细配置说明。\n- **配置指引**：\n  - 新增 `UPSTREAM_MAP` 路由表说明，明确了 `/codeassist`, `/oauth` 等路径的转发规则。\n\n### ⚡ 优化与修复 (Improvements)\n\n- **隐私增强**：所有新脚本均内置隐私清洗逻辑，自动移除 `Cf-Connecting-Ip`、`X-Forwarded-For`、`X-Real-Ip` 等 Cloudflare 边缘节点特征头。\n- **CORS 标准化**：统一了所有脚本的跨域资源共享 (CORS) 设置，确保 Web 版客户端（如 NextChat, LobeChat）能无障碍调用。\n- **安全性**：强化了 `Host` 和 `Origin` 的伪装逻辑，确保能通过上游服务商的严格校验。\n\n---\n\n> **Note:** 部署新脚本后，请务必在 Cloudflare 后台绑定自定义域名以保证服务的连通性。\n\nhttps://t.co/qZAvfFmUSu"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "# Update Log\n\n## [2026-01-14] - Omni-Proxy Update\n\n本次更新重点扩展了对 OpenAI 和 Claude 的原生支持，并新增了跨协议转换功能（Gemini 伪装成 Claude），同时对文档进行了全面重构。\n\n### ✨ 新增功能 (New Features)\n\n#### 1. 多平台代理支持\n- **OpenAI Native Proxy (`openai.js`)**\n  -"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 688,
+          "like_count": 14287,
+          "listed_count": 21,
+          "media_count": 1444,
+          "tweet_count": 8366
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

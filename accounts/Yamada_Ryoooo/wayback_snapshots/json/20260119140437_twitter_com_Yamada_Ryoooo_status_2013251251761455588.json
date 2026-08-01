@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013251235487322112"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013011390886518925",
+    "created_at": "2026-01-19T14:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013251251761455588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459206178529890307",
+          "start": 0,
+          "username": "DuchessCoconut_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bYssKwnKYk",
+          "end": 49,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2013251251761455588/photo/1",
+          "media_key": "3_2013251235487322112",
+          "start": 26,
+          "url": "https://t.co/bYssKwnKYk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013251251761455588",
+    "in_reply_to_user_id": "1459206178529890307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013011390886518925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DuchessCoconut_ 放了个打赏按钮（ https://t.co/bYssKwnKYk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2013251235487322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CBVP7WkAAzfR1.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1566,
+        "media_key": "3_2013011387744759808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G--nMRdXsAA3Yi2.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013251235487322112"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013011390886518925",
+        "created_at": "2026-01-19T14:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013251251761455588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459206178529890307",
+              "start": 0,
+              "username": "DuchessCoconut_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bYssKwnKYk",
+              "end": 49,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2013251251761455588/photo/1",
+              "media_key": "3_2013251235487322112",
+              "start": 26,
+              "url": "https://t.co/bYssKwnKYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013251251761455588",
+        "in_reply_to_user_id": "1459206178529890307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013011390886518925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DuchessCoconut_ 放了个打赏按钮（ https://t.co/bYssKwnKYk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013011387744759808"
+          ]
+        },
+        "author_id": "1459206178529890307",
+        "conversation_id": "2013011390886518925",
+        "created_at": "2026-01-18T22:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T23:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013011390886518925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8V7ne7VLnq",
+              "end": 74,
+              "expanded_url": "https://x.com/DuchessCoconut_/status/2013011390886518925/photo/1",
+              "media_key": "3_2013011387744759808",
+              "start": 51,
+              "url": "https://t.co/8V7ne7VLnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013011390886518925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1385,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特app把编辑个人资料挪到右上角了，导致原来这个位置空得诡异…有没有人来开家蜜雪冰城或者正新鸡排😑 https://t.co/8V7ne7VLnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5823,
+          "following_count": 1088,
+          "like_count": 14991,
+          "listed_count": 21,
+          "media_count": 1473,
+          "tweet_count": 8539
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-12T17:07:26.000Z",
+        "description": "历史学与文学的愚昧拥趸者🧐|铁笼和枷锁都无法束缚的无翼猫头鹰🦉|轻小说创作者（真的吗）✒️|弄oc的请看看咱小怪盗和其他孩子谢谢👻|oc相关图都是约稿我不会画画TT🎨|精神状态常年不乐观💀|感觉人类很可怕所以私信不太回🚫|会直接无差别屏蔽发言让人反感或不安的账号👁️|请注意账号存在工作场所不适宜内容🔞",
+        "id": "1459206178529890307",
+        "location": "星馐阁",
+        "name": "椰子公爵🥥",
+        "pinned_tweet_id": "1942593215066169560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995759583470780416/Q97o0bSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9294,
+          "following_count": 158,
+          "like_count": 16234,
+          "listed_count": 20,
+          "media_count": 3747,
+          "tweet_count": 15489
+        },
+        "username": "DuchessCoconut_",
+        "verified": false
+      }
+    ]
+  }
+}

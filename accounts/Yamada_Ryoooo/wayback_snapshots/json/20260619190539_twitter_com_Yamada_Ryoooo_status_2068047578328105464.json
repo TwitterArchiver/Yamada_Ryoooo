@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2067914560087236713",
+    "created_at": "2026-06-19T19:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068047578328105464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1849332848362442753",
+          "start": 0,
+          "username": "msmMcDmwTy84673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068047578328105464",
+    "in_reply_to_user_id": "1849332848362442753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067914560087236713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@msmMcDmwTy84673 不对，这不是评分吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2067914560087236713",
+        "created_at": "2026-06-19T19:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068047578328105464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1849332848362442753",
+              "start": 0,
+              "username": "msmMcDmwTy84673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068047578328105464",
+        "in_reply_to_user_id": "1849332848362442753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067914560087236713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@msmMcDmwTy84673 不对，这不是评分吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849332848362442753",
+        "conversation_id": "2067914560087236713",
+        "created_at": "2026-06-19T10:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067914560087236713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067914560087236713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7130,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "历史人物评分\n毛泽东  1\n周恩来  0\n林     彪  0\n邓小平  1\n陈     云  1\n赵紫阳  0\n江泽民  1\n朱镕基  1\n李    鹏  直男\n胡锦涛  0\n温家宝  0.5（我的0别人的1）\n曾庆红  直男\n薄熙来  0.5\n陈良宇  1\n令计划  0\n王沪宁  1\n李克强  0\n李     强  0\n刁迈乎  0.5（普丁的0川普的1）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6538,
+          "following_count": 983,
+          "like_count": 17953,
+          "listed_count": 22,
+          "media_count": 1813,
+          "tweet_count": 9974
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-24T06:11:54.000Z",
+        "description": "",
+        "id": "1849332848362442753",
+        "name": "Collapse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063875284965933056/HyUpmxpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 28,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "msmMcDmwTy84673",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Twitch",
+          "id": "1054826545758396416",
+          "name": "Twitch"
+        }
+      }
+    ],
+    "conversation_id": "1972623484674248739",
+    "created_at": "2025-09-29T11:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972623484674248739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurtsunx/statu…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/kurtsunx/status/1972163475272356210",
+          "start": 111,
+          "url": "https://t.co/1vZomPAhi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972623484674248739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972163475272356210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "遇到第三点时：卧槽，这种人严重违反直播规范啊！这种人严重违反直播规范！我第一时间给他挂掉。这种人疯了吧这种人！这种人是不是疯了？我的天啊，这种人太可怕了！这种人肯定有人找他的…这种人疯掉了这种人。你怎么能违反直播规范呢? https://t.co/1vZomPAhi7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          }
+        ],
+        "conversation_id": "1972623484674248739",
+        "created_at": "2025-09-29T11:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972623484674248739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurtsunx/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/kurtsunx/status/1972163475272356210",
+              "start": 111,
+              "url": "https://t.co/1vZomPAhi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972623484674248739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972163475272356210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到第三点时：卧槽，这种人严重违反直播规范啊！这种人严重违反直播规范！我第一时间给他挂掉。这种人疯了吧这种人！这种人是不是疯了？我的天啊，这种人太可怕了！这种人肯定有人找他的…这种人疯掉了这种人。你怎么能违反直播规范呢? https://t.co/1vZomPAhi7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4646273545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          }
+        ],
+        "conversation_id": "1972163475272356210",
+        "created_at": "2025-09-28T04:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972163475272356210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972163475272356210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我下個月開始改到twitch開遊戲台。\n\n網友們給了我很多建議，整理如下：\n\n1. 不要說自己未成年。\n\n2. 不要提到有種族歧視的字眼。\n\n3. 如果有樂子人設陷阱給你，害你違反第二點，馬上強力譴責。\n\n4. 不可以色色，除非有設定正確的分類。\n\n5. 就算有設定正確的分類，還是不可以色色。\n\n6. 不可以露出南半球。\n\n7. 彎腰要遮住胸口，不可以做出刻意給人家看UU的動作。\n\n8. 不可以玩賭博遊戲。\n\n9. 攝影機要用單反跟PTZcam，記得打光開濾鏡。\n\n10. 不要在 twitch 開台。\n\n還…還有嗎？ OwQ)?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 50059,
+          "like_count": 617,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我下個月開始改到twitch開遊戲台。\n\n網友們給了我很多建議，整理如下：\n\n1. 不要說自己未成年。\n\n2. 不要提到有種族歧視的字眼。\n\n3. 如果有樂子人設陷阱給你，害你違反第二點，馬上強力譴責。\n\n4. 不可以色色，除非有設定正確的分類。\n\n5. 就算有設定正確的分類，還是不可以色色。\n\n6."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 681,
+          "like_count": 13201,
+          "listed_count": 20,
+          "media_count": 1342,
+          "tweet_count": 7625
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-25T00:42:39.000Z",
+        "description": "說故事、小知識、曬貓。\n\n偶爾發些 ACG 或 Vtuber 的東西，或是分享自媒體創作的筆記。\n\n(養的黑貓叫馬六)\n\nYT頻道：\nhttps://t.co/zSjzZyAbVL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@black_cat_tea…",
+                "end": 90,
+                "expanded_url": "https://www.youtube.com/@black_cat_teacher",
+                "start": 67,
+                "url": "https://t.co/zSjzZyAbVL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/blackcat_teach…",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/blackcat_teacher",
+                "start": 0,
+                "url": "https://t.co/UcswZ1pIAc"
+              }
+            ]
+          }
+        },
+        "id": "4646273545",
+        "location": "taiwan",
+        "name": "黑貓老師",
+        "pinned_tweet_id": "1903885143611494448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939355787970945024/_ZvIyTRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34157,
+          "following_count": 2315,
+          "like_count": 38194,
+          "listed_count": 66,
+          "media_count": 1955,
+          "tweet_count": 14269
+        },
+        "url": "https://t.co/UcswZ1pIAc",
+        "username": "kurtsunx",
+        "verified": true
+      }
+    ]
+  }
+}

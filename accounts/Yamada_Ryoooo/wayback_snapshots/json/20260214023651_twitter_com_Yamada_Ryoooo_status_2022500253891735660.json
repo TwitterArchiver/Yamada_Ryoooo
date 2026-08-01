@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022500160492965891"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2022500253891735660",
+    "created_at": "2026-02-14T02:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022500253891735660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "4722 likes, 144 comments. “#习近平 #胡锦涛”",
+          "display_url": "tiktok.com/t/ZP897o6VV/",
+          "end": 29,
+          "expanded_url": "https://www.tiktok.com/t/ZP897o6VV/",
+          "start": 6,
+          "status": 200,
+          "title": "TikTok · tsyj202202508",
+          "unwound_url": "https://www.tiktok.com/@tsyj202202508/video/7594804935489817877?_r=1&_t=ZP-93u3EFjSvXi",
+          "url": "https://t.co/2RhuG0BpzY"
+        },
+        {
+          "display_url": "pic.x.com/QvDBDc4q5k",
+          "end": 53,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2022500253891735660/video/1",
+          "media_key": "13_2022500160492965891",
+          "start": 30,
+          "url": "https://t.co/QvDBDc4q5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022500253891735660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神作\n原视频https://t.co/2RhuG0BpzY https://t.co/QvDBDc4q5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66990,
+        "height": 576,
+        "media_key": "13_2022500160492965891",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022500160492965891/img/CSXa59afKcstQT1h.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022500160492965891/vid/avc1/360x270/Wj8blEkeCPxSpvsC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022500160492965891/vid/avc1/480x360/WHqoVR57kEJa5wUE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022500160492965891/vid/avc1/768x576/7DFYY_hQG3RxobLJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022500160492965891/pl/vbtiH4wYJWYD95kN.m3u8"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022500160492965891"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2022500253891735660",
+        "created_at": "2026-02-14T02:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022500253891735660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "4722 likes, 144 comments. “#习近平 #胡锦涛”",
+              "display_url": "tiktok.com/t/ZP897o6VV/",
+              "end": 29,
+              "expanded_url": "https://www.tiktok.com/t/ZP897o6VV/",
+              "start": 6,
+              "status": 200,
+              "title": "TikTok · tsyj202202508",
+              "unwound_url": "https://www.tiktok.com/@tsyj202202508/video/7594804935489817877?_r=1&_t=ZP-93u3EFjSvXi",
+              "url": "https://t.co/2RhuG0BpzY"
+            },
+            {
+              "display_url": "pic.x.com/QvDBDc4q5k",
+              "end": 53,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2022500253891735660/video/1",
+              "media_key": "13_2022500160492965891",
+              "start": 30,
+              "url": "https://t.co/QvDBDc4q5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022500253891735660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神作\n原视频https://t.co/2RhuG0BpzY https://t.co/QvDBDc4q5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5928,
+          "following_count": 1078,
+          "like_count": 15755,
+          "listed_count": 22,
+          "media_count": 1521,
+          "tweet_count": 8846
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

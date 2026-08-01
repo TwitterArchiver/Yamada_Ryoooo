@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2066748322459853004",
+    "created_at": "2026-06-16T05:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066748322459853004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/utkala_kalinga…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/utkala_kalinga/status/2065635826390962584",
+          "start": 12,
+          "url": "https://t.co/QTyP92EA5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066748322459853004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065635826390962584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "六月首绷：Shang🫵 https://t.co/QTyP92EA5Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065635823861837824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqc1mybMAAj0Wk.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2066748322459853004",
+        "created_at": "2026-06-16T05:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066748322459853004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/utkala_kalinga…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/utkala_kalinga/status/2065635826390962584",
+              "start": 12,
+              "url": "https://t.co/QTyP92EA5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066748322459853004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065635826390962584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六月首绷：Shang🫵 https://t.co/QTyP92EA5Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065635823861837824"
+          ]
+        },
+        "author_id": "249142039",
+        "conversation_id": "2064702575262478779",
+        "created_at": "2026-06-13T03:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065635826390962584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808553420955267073",
+              "start": 0,
+              "username": "nngzhng1819334"
+            },
+            {
+              "end": 30,
+              "id": "2014982151641673728",
+              "start": 16,
+              "username": "IntelShadowOp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2FE8JpDgL",
+              "end": 62,
+              "expanded_url": "https://x.com/Utkala_Kalinga/status/2065635826390962584/photo/1",
+              "media_key": "3_2065635823861837824",
+              "start": 39,
+              "url": "https://t.co/X2FE8JpDgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065635826390962584",
+        "in_reply_to_user_id": "1808553420955267073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 1783647,
+          "like_count": 675,
+          "quote_count": 235,
+          "reply_count": 497,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065486253265649689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nngzhng1819334 @IntelShadowOp Shang 🫵 https://t.co/X2FE8JpDgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6550,
+          "following_count": 1019,
+          "like_count": 17924,
+          "listed_count": 22,
+          "media_count": 1810,
+          "tweet_count": 9956
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-08T13:16:49.000Z",
+        "description": "ଚତୁର ସମ୍ରାଟ ନିଜ ତୀକ୍ଷ୍ଣ ବୁଦ୍ଧି ବଳେ ,\nସାରା ବିଶ୍ୱ ଜୟ କରି ରଖନ୍ତି ପାଦ ତଳେ ।",
+        "id": "249142039",
+        "location": "ପୃଥିବୀ",
+        "name": "ଚୀନର ସମୁଦ୍ରଗୁପ୍ତ 🇲🇴🇭🇰🇹🇼🇲🇳",
+        "pinned_tweet_id": "1421262430764552196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066526004911190016/ArBGg1hR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1841,
+          "like_count": 8124,
+          "listed_count": 19,
+          "media_count": 4533,
+          "tweet_count": 24968
+        },
+        "username": "Utkala_Kalinga",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2037745393858212052",
+    "created_at": "2026-03-28T04:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T05:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037745393858212052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kiss486/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/kiss486/status/2037602414229119476",
+          "start": 40,
+          "url": "https://t.co/Y8HFDij3vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037745393858212052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037602414229119476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最新消息，法轮功弟子已经入侵中共高层掌控实权，江泽民杀出冥界把所有轮子全给摘了 https://t.co/Y8HFDij3vi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2037602082333839360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcETFca0AAHINl.jpg",
+        "width": 1964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2037745393858212052",
+        "created_at": "2026-03-28T04:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037745393858212052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiss486/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/kiss486/status/2037602414229119476",
+              "start": 40,
+              "url": "https://t.co/Y8HFDij3vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037745393858212052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037602414229119476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新消息，法轮功弟子已经入侵中共高层掌控实权，江泽民杀出冥界把所有轮子全给摘了 https://t.co/Y8HFDij3vi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037602082333839360"
+          ]
+        },
+        "author_id": "97209551",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2037602414229119476",
+        "created_at": "2026-03-27T18:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037602414229119476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZCiTIEVyM",
+              "end": 154,
+              "expanded_url": "https://x.com/kiss486/status/2037602414229119476/photo/1",
+              "media_key": "3_2037602082333839360",
+              "start": 131,
+              "url": "https://t.co/SZCiTIEVyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037602414229119476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不好的消息。3/27傳出習近平中風。\n台北時間3月27日，習近平腦中風復發被緊急送進解放軍總醫院301醫院救治，與此同時長達一年多沒有公開露面的溫家寶出現在了新華門。\n前幾日就有消息稱目前溫江包在控制北京政局，看来並非空穴來風，溫家寶突然的公開露面意味著什麼？\n\n希望習近平這個百年難得一見的其才能平安度過阿，繼續領導中國"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 54144,
+          "like_count": 308,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "不好的消息。3/27傳出習近平中風。\n台北時間3月27日，習近平腦中風復發被緊急送進解放軍總醫院301醫院救治，與此同時長達一年多沒有公開露面的溫家寶出現在了新華門。\n前幾日就有消息稱目前溫江包在控制北京政局，看来並非空穴來風，溫家寶突然的公開露面意味著什麼？ https://t.co/SZCiTIEVyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6153,
+          "following_count": 1074,
+          "like_count": 16747,
+          "listed_count": 21,
+          "media_count": 1632,
+          "tweet_count": 9296
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-16T13:35:03.000Z",
+        "description": "歡迎追蹤我的推特，掌握全球最新動態！\nFollow my Twitter for the latest global updates!\n世界の最新情報は私のTwitterでチェックしてください！\n日台友善関係が永遠に続きますように",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC8jYJ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC8jYJr7i4I9BJ3tsv2f8kgw",
+                "start": 0,
+                "url": "https://t.co/JDF4Fk0wC9"
+              }
+            ]
+          }
+        },
+        "id": "97209551",
+        "location": "台北",
+        "name": "MR.486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223396348466102272/qjVxXs8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129433,
+          "following_count": 3579,
+          "like_count": 49178,
+          "listed_count": 401,
+          "media_count": 10831,
+          "tweet_count": 52363
+        },
+        "url": "https://t.co/JDF4Fk0wC9",
+        "username": "kiss486",
+        "verified": true
+      }
+    ]
+  }
+}

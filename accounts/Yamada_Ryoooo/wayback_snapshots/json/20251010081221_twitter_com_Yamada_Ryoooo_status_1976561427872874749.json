@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1976507614168236495",
+    "created_at": "2025-10-10T08:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T09:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976561427872874749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 16,
+          "id": "1632336255823519744",
+          "start": 6,
+          "username": "ujL80889L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976561427872874749",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976530222142091763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @ujL80889L 好准🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1976507614168236495",
+        "created_at": "2025-10-10T08:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976561427872874749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 16,
+              "id": "1632336255823519744",
+              "start": 6,
+              "username": "ujL80889L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976561427872874749",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976530222142091763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @ujL80889L 好准🤧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "KING OF PRISM",
+              "id": "1059458486411526149",
+              "name": "KING OF PRISM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294427893045399554",
+              "name": "Pretty Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1976507614168236495",
+        "created_at": "2025-10-10T06:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976530222142091763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "ujL80889L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976530222142091763",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "阻滞性抑郁症: 雨晴今天睡了吗\n焦虑性抑郁症: 神樂坂🌸Yoyi🇸🇬\n恶劣心境: 芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚\n广泛性焦虑症: 珠希🦋\n社交焦虑症: 山田リョウ⛩️\n特定恐惧症: Winit420\n惊恐障碍: 简律（私信互关）\n强迫思维: Ronald Simmons🇺🇸🦅✝️\n强迫行为: 艾蓮·山魚·翁Eileen Mntfish Ong\n双相情感障碍I型: 高い城の奇人\n双相情感障碍II型: 🇸🇬 iyoY 🌸 坂樂神\n环性心境障碍: 简律（私信互关）\n单纯性精神分裂症: 芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976529842838643054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujL80889L 阻滞性抑郁症: 雨晴今天睡了吗\n焦虑性抑郁症: 神樂坂🌸Yoyi🇸🇬\n恶劣心境: 芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚\n广泛性焦虑症: 珠希🦋\n社交焦虑症: 山田リョウ⛩️\n特定恐惧症: Winit420\n惊恐障碍: 简律（私信互关）\n强迫思维: Ronald Simmons🇺🇸🦅✝️\n强迫行为: 艾蓮·山魚·翁Eileen Mntfish Ong\n双相情感障碍I型:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 693,
+          "like_count": 13338,
+          "listed_count": 20,
+          "media_count": 1361,
+          "tweet_count": 7778
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6421449,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5051,
+          "media_count": 2690579,
+          "tweet_count": 55390988
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": ".redR_4C@ 生学，21_selkniT@ 人器机 ，muronamoR@ 雨摩尔福士骑薇蔷 .noitaminA/weivlaiS/lanoicS/egdelwonK erahS ^^家言谣 ，🦋家学治政IA席首 ，🎓ecneicS ni DhP .retsis )音愛早千( s’nonA m’I",
+        "id": "1632336255823519744",
+        "name": "🇸🇬 iyoY 🌸 坂樂神",
+        "pinned_tweet_id": "1974998323871481864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975207150407610369/GbeVlLRz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 230,
+          "like_count": 384,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 228
+        },
+        "username": "ujL80889L",
+        "verified": true
+      }
+    ]
+  }
+}

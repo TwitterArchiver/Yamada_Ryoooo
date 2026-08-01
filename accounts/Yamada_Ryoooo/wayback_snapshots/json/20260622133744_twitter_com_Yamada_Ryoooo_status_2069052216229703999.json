@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2069045944235229464",
+    "created_at": "2026-06-22T13:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069052216229703999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793491174122192896",
+          "start": 0,
+          "username": "boilingwatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069052216229703999",
+    "in_reply_to_user_id": "1793491174122192896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069045944235229464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boilingwatter 自画像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069045936094093312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLa6UQzaoAAAGQB.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2069045944235229464",
+        "created_at": "2026-06-22T13:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069052216229703999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069052216229703999",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069045944235229464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boilingwatter 自画像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069045936094093312"
+          ]
+        },
+        "author_id": "1793491174122192896",
+        "conversation_id": "2069045944235229464",
+        "created_at": "2026-06-22T13:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069045944235229464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAmlFK4bUA",
+              "end": 35,
+              "expanded_url": "https://x.com/boilingwatter/status/2069045944235229464/photo/1",
+              "media_key": "3_2069045936094093312",
+              "start": 12,
+              "url": "https://t.co/bAmlFK4bUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069045944235229464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想成为画画高手day2 https://t.co/bAmlFK4bUA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6541,
+          "following_count": 981,
+          "like_count": 17972,
+          "listed_count": 22,
+          "media_count": 1814,
+          "tweet_count": 9978
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍔",
+        "pinned_tweet_id": "1988774529741758740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 187,
+          "like_count": 998,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 2337
+        },
+        "url": "",
+        "username": "boilingwatter",
+        "verified": false
+      }
+    ]
+  }
+}

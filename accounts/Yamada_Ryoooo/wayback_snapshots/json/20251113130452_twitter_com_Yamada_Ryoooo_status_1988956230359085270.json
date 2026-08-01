@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1988834324183949507",
+    "created_at": "2025-11-13T13:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988956230359085270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1118865266538979328",
+          "start": 0,
+          "username": "jhhhujhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988956230359085270",
+    "in_reply_to_user_id": "1118865266538979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988935328133169609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhhhujhb qq群搬的🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1988834324183949507",
+        "created_at": "2025-11-13T13:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988956230359085270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1118865266538979328",
+              "start": 0,
+              "username": "jhhhujhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988956230359085270",
+        "in_reply_to_user_id": "1118865266538979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988935328133169609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhhhujhb qq群搬的🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118865266538979328",
+        "conversation_id": "1988834324183949507",
+        "created_at": "2025-11-13T11:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988935328133169609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988935328133169609",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988834324183949507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 求原图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4416,
+          "following_count": 665,
+          "like_count": 13549,
+          "listed_count": 20,
+          "media_count": 1379,
+          "tweet_count": 7929
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-18T13:14:01.000Z",
+        "description": "英/日/韩语自学中\nINTP\n男的",
+        "id": "1118865266538979328",
+        "location": "私立希望之峰学院",
+        "name": "Chiaki Nanami",
+        "pinned_tweet_id": "1464480831028613124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602459399616094208/LinMyJmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 1331,
+          "like_count": 78962,
+          "listed_count": 6,
+          "media_count": 970,
+          "tweet_count": 8584
+        },
+        "username": "jhhhujhb",
+        "verified": false
+      }
+    ]
+  }
+}

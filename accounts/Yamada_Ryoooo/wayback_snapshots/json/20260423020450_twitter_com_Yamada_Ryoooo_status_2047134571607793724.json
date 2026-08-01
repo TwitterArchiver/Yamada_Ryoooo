@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2047134571607793724",
+    "created_at": "2026-04-23T02:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047134571607793724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinhuachinese/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xinhuachinese/status/2046774211121955097",
+          "start": 21,
+          "url": "https://t.co/03Ue3d6RNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047134571607793724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046774211121955097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用quest3说明他翻墙了不然激活不了😹 https://t.co/03Ue3d6RNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24473,
+        "height": 960,
+        "media_key": "7_2046774157728436224",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046774157728436224/pu/img/mZ6M7GtHbmysNZ34.jpg",
+        "public_metrics": {
+          "view_count": 327176
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046774157728436224/pu/vid/avc1/320x426/M1njhyJCIdouO-Z8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046774157728436224/pu/vid/avc1/480x640/6kjzgg9gNH8e1g_t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046774157728436224/pu/vid/avc1/720x960/NsZ4qEVx_md-d-h8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046774157728436224/pu/pl/z-MtZ7eXEUmoYb_t.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2047134571607793724",
+        "created_at": "2026-04-23T02:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047134571607793724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinhuachinese/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xinhuachinese/status/2046774211121955097",
+              "start": 21,
+              "url": "https://t.co/03Ue3d6RNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047134571607793724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046774211121955097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用quest3说明他翻墙了不然激活不了😹 https://t.co/03Ue3d6RNs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046774157728436224"
+          ]
+        },
+        "author_id": "3319804777",
+        "conversation_id": "2046774211121955097",
+        "created_at": "2026-04-22T02:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046774211121955097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xV3ihjp3OF",
+              "end": 52,
+              "expanded_url": "https://x.com/XinhuaChinese/status/2046774211121955097/video/1",
+              "media_key": "7_2046774157728436224",
+              "start": 29,
+              "url": "https://t.co/xV3ihjp3OF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046774211121955097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 632,
+          "impression_count": 761254,
+          "like_count": 2664,
+          "quote_count": 33,
+          "reply_count": 250,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "重庆一男子利用AR技术进行墙绘，称“效率至少提升十倍”。 https://t.co/xV3ihjp3OF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 1091,
+          "like_count": 17224,
+          "listed_count": 24,
+          "media_count": 1751,
+          "tweet_count": 9598
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-19T07:37:55.000Z",
+        "description": "這裡既嚴肃，又輕松；\n既自然，又人文；\n既為你梳理中國發展，也為你关注世界動態；\n時事、觀點、視野、娱樂俱全。\n了解中國和世界新聞，新華社中文賬號請您收好。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xinhuanet.com",
+                "end": 23,
+                "expanded_url": "http://www.xinhuanet.com",
+                "start": 0,
+                "url": "https://t.co/mhjLKixY7J"
+              }
+            ]
+          }
+        },
+        "id": "3319804777",
+        "location": "Beijing",
+        "name": "New China 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246626970172940296/bd30DC_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318353,
+          "following_count": 79,
+          "like_count": 1201,
+          "listed_count": 2431,
+          "media_count": 68047,
+          "tweet_count": 68512
+        },
+        "url": "https://t.co/mhjLKixY7J",
+        "username": "XinhuaChinese",
+        "verified": true
+      }
+    ]
+  }
+}

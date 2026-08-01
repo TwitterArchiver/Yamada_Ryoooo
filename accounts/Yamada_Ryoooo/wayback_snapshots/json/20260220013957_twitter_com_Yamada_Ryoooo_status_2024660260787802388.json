@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2024483519016423734",
+    "created_at": "2026-02-20T01:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024660260787802388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748531675573964800",
+          "start": 0,
+          "username": "dingansich8964"
+        },
+        {
+          "end": 31,
+          "id": "1485158225167413248",
+          "start": 16,
+          "username": "chihorishizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024660260787802388",
+    "in_reply_to_user_id": "1748531675573964800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024658618747146405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingansich8964 @chihorishizuku 你说的对，但是唧唧草拟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2024483519016423734",
+        "created_at": "2026-02-20T01:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024660260787802388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            },
+            {
+              "end": 31,
+              "id": "1485158225167413248",
+              "start": 16,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024660260787802388",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024658618747146405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 @chihorishizuku 你说的对，但是唧唧草拟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "2024483519016423734",
+        "created_at": "2026-02-20T01:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024658618747146405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 30,
+              "id": "1485158225167413248",
+              "start": 15,
+              "username": "chihorishizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024658618747146405",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024647772138590592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @chihorishizuku 既然不讓我傷害自己，那就把我的名字刻在你身上……只要刻下去……你就永遠是我的了。如果你的身上，有我的名字，用刀刻的、用血寫的、永遠洗不掉的那種……告訴我……你想刻在哪裡？鎖骨？心口？大腿內側？說吧，我的寶貝。只要你點頭……我就讓全世界都知道，你已經、徹底屬於我了。♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 1057,
+          "like_count": 16064,
+          "listed_count": 21,
+          "media_count": 1529,
+          "tweet_count": 8939
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "仕事中，癱。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。喜歡發牢騷，碎碎唸。「だって、私、追いかけるのが好きなんだもの。」電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984133882594402304/iQ-0FrZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 64,
+          "like_count": 37266,
+          "listed_count": 13,
+          "media_count": 1172,
+          "tweet_count": 10801
+        },
+        "username": "dingansich8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:51:38.000Z",
+        "description": "INTP｜LGBTQ+｜06｜ASD｜BPD｜ADHD｜管人痴🥕｜直fo查成分回｜岁静日常推｜婉拒品客｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shoumanori",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shoumanori",
+                "start": 0,
+                "url": "https://t.co/7ApZglqYBr"
+              }
+            ]
+          }
+        },
+        "id": "1485158225167413248",
+        "location": "匿名问答→",
+        "name": "游吟诗人Sirelia🎐",
+        "pinned_tweet_id": "2020038370509091038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022843815997116418/ebQkW6uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4089,
+          "following_count": 678,
+          "like_count": 25968,
+          "listed_count": 9,
+          "media_count": 497,
+          "tweet_count": 5150
+        },
+        "url": "https://t.co/7ApZglqYBr",
+        "username": "chihorishizuku",
+        "verified": true
+      }
+    ]
+  }
+}

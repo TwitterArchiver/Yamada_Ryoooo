@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2051787886111105186",
+    "created_at": "2026-05-06T00:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051822804165902385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        },
+        {
+          "end": 18,
+          "id": "1834541005577572352",
+          "start": 10,
+          "username": "losb555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051822804165902385",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051787886111105186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 @losb555 还是跑酷大师"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34946,
+        "height": 960,
+        "media_key": "7_2051787853957636096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051787853957636096/pu/img/7Fs_KEJQtBCMhr2D.jpg",
+        "public_metrics": {
+          "view_count": 592
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/320x568/km8bY7imdCsepiUR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/480x852/b_pgWnSoGcCxldVp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/540x960/CkoUlZ_QrshkZRiI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/pl/qH9SjIUXxhBxRWXa.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2051787886111105186",
+        "created_at": "2026-05-06T00:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051822804165902385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            },
+            {
+              "end": 18,
+              "id": "1834541005577572352",
+              "start": 10,
+              "username": "losb555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051822804165902385",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051787886111105186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 @losb555 还是跑酷大师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051787853957636096"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2051787886111105186",
+        "created_at": "2026-05-05T22:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051787886111105186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0fuitlIZl",
+              "end": 59,
+              "expanded_url": "https://x.com/anblk984/status/2051787886111105186/video/1",
+              "media_key": "7_2051787853957636096",
+              "start": 36,
+              "url": "https://t.co/b0fuitlIZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051787886111105186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1051,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "据说是某推推友体验过从1000赚到一万然后瞬间赔光合约爆仓之后的样子😢 https://t.co/b0fuitlIZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6581,
+          "following_count": 1097,
+          "like_count": 17290,
+          "listed_count": 24,
+          "media_count": 1762,
+          "tweet_count": 9641
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13572,
+          "following_count": 992,
+          "like_count": 116440,
+          "listed_count": 69,
+          "media_count": 2684,
+          "tweet_count": 28261
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-13T10:34:31.000Z",
+        "description": "master of statistics，focus on finding the relationship between graph theory and multivariate interactions and modeling the  odds ratio of it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/SPZsmJUVMP"
+              }
+            ]
+          }
+        },
+        "id": "1834541005577572352",
+        "location": "Mountain Black Rock.",
+        "name": "pugna（someone’s English account）",
+        "pinned_tweet_id": "1914445557915115946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046533295102705665/1rkNjY-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 454,
+          "like_count": 9804,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/SPZsmJUVMP",
+        "username": "losb555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012791318746124439",
+    "created_at": "2026-01-19T10:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T11:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013202282762912176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771513890138132480",
+          "start": 0,
+          "username": "iove3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013202282762912176",
+    "in_reply_to_user_id": "1771513890138132480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012791318746124439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iove3064 啊啊啊啊我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012791318746124439",
+        "created_at": "2026-01-19T10:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013202282762912176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "iove3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013202282762912176",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012791318746124439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iove3064 啊啊啊啊我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771513890138132480",
+        "conversation_id": "2012791318746124439",
+        "created_at": "2026-01-18T07:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012791318746124439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012791318746124439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 51855,
+          "like_count": 1496,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "我对被子过敏，但是正常摸着就没事，一旦和枕头搭配一起实用，就会产生连锁反应，有次严重到昏迷了十几个小时。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5780,
+          "following_count": 1086,
+          "like_count": 14960,
+          "listed_count": 21,
+          "media_count": 1471,
+          "tweet_count": 8644
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "entj ᰔᩚ",
+        "id": "1771513890138132480",
+        "location": "❤️‍🔥",
+        "name": "湫",
+        "pinned_tweet_id": "2011950566184779980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41784,
+          "following_count": 54,
+          "like_count": 131,
+          "listed_count": 74,
+          "media_count": 129,
+          "tweet_count": 1980
+        },
+        "username": "iove3064",
+        "verified": false
+      }
+    ]
+  }
+}

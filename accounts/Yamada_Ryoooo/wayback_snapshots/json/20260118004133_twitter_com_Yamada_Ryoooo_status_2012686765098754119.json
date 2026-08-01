@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012520871907172354",
+    "created_at": "2026-01-18T00:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012686765098754119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "82021907",
+          "start": 0,
+          "username": "0xkakarot888"
+        },
+        {
+          "end": 26,
+          "id": "1753990410832379904",
+          "start": 14,
+          "username": "DRbitcoin36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012686765098754119",
+    "in_reply_to_user_id": "82021907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012686636795019734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xkakarot888 @DRbitcoin36 哈哈🤣\n日文名字而已啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012520871907172354",
+        "created_at": "2026-01-18T00:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012686765098754119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "82021907",
+              "start": 0,
+              "username": "0xkakarot888"
+            },
+            {
+              "end": 26,
+              "id": "1753990410832379904",
+              "start": 14,
+              "username": "DRbitcoin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012686765098754119",
+        "in_reply_to_user_id": "82021907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012686636795019734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xkakarot888 @DRbitcoin36 哈哈🤣\n日文名字而已啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "82021907",
+        "conversation_id": "2012520871907172354",
+        "created_at": "2026-01-18T00:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012686636795019734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 27,
+              "id": "1753990410832379904",
+              "start": 15,
+              "username": "DRbitcoin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012686636795019734",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012683246744568054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @DRbitcoin36 你不说一声，我还真以为是日本号，pass掉了呢😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5221,
+          "following_count": 733,
+          "like_count": 14384,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8417
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-13T05:43:00.000Z",
+        "description": "AI + 出海 + Web3 🎯｜超级个体养成记 🔥｜增长黑客 🚀 | 百倍金狗猎人 🧲 | 分享普通人如何从小钱到大钱的完整路径 💵 | 莫道人间无化境，九渊深处见天机！ ⚡️",
+        "id": "82021907",
+        "name": "0x卡卡撸特",
+        "pinned_tweet_id": "2008089418566160504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923980254869086208/9zCpT20R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6435,
+          "following_count": 2546,
+          "like_count": 7770,
+          "listed_count": 35,
+          "media_count": 330,
+          "tweet_count": 7050
+        },
+        "username": "0xkakarot888",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据分析 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜顶级笨蛋钱｜推特当作自己的炒币日记｜交易就选安全的交易所，超 3 亿用户都选择币安：https://t.co/ovrqlHEqgV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/activity/refer…",
+                "end": 99,
+                "expanded_url": "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00IXDBNAA0",
+                "start": 76,
+                "url": "https://t.co/ovrqlHEqgV"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26311,
+          "following_count": 2685,
+          "like_count": 32002,
+          "listed_count": 286,
+          "media_count": 1162,
+          "tweet_count": 23190
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      }
+    ]
+  }
+}

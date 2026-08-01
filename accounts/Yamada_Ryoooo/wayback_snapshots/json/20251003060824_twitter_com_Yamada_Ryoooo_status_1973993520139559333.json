@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1973993520139559333",
+    "created_at": "2025-10-03T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973993520139559333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 44,
+          "id": "1720665183188922368",
+          "start": 39,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/1n_fhtagn/stat…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/1n_fhtagn/status/1973980962985037915",
+          "start": 149,
+          "url": "https://t.co/EwzgNCwoFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973993520139559333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973980962985037915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我的互相关注的推文，来对号入座一下他们如下的身份，只写昵称，不要@用户名\n@grok \n\n性压抑看黄男：\n中国共产党的坚定拥护者：\n魅魔：\n比格犬：\n性欲旺盛的小学生：\n直到三十岁还是处男的社畜：\n清纯可爱的女高中生1：\n清纯可爱的女高中生2：\n清纯可爱的女高中生3：\n清纯可爱的女高中生4： https://t.co/EwzgNCwoFl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1973993520139559333",
+        "created_at": "2025-10-03T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973993520139559333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1720665183188922368",
+              "start": 39,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1n_fhtagn/stat…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/1n_fhtagn/status/1973980962985037915",
+              "start": 149,
+              "url": "https://t.co/EwzgNCwoFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973993520139559333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973980962985037915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我的互相关注的推文，来对号入座一下他们如下的身份，只写昵称，不要@用户名\n@grok \n\n性压抑看黄男：\n中国共产党的坚定拥护者：\n魅魔：\n比格犬：\n性欲旺盛的小学生：\n直到三十岁还是处男的社畜：\n清纯可爱的女高中生1：\n清纯可爱的女高中生2：\n清纯可爱的女高中生3：\n清纯可爱的女高中生4： https://t.co/EwzgNCwoFl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832834649493762048",
+        "conversation_id": "1973972533918810166",
+        "created_at": "2025-10-03T05:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973980962985037915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771562039485534208",
+              "start": 0,
+              "username": "soyorin_chihaya"
+            },
+            {
+              "end": 22,
+              "id": "1720665183188922368",
+              "start": 17,
+              "username": "grok"
+            },
+            {
+              "end": 55,
+              "id": "1720665183188922368",
+              "start": 50,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973980962985037915",
+        "in_reply_to_user_id": "1771562039485534208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973972533918810166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyorin_chihaya @grok 根据我的互相关注的推文，来对号入座一下他们如下的身份\n@grok \n\n性压抑看黄男：\n中国共产党的坚定拥护者：\n魅魔：\n比格犬：\n性欲旺盛的小学生：\n直到三十岁还是处男的社畜：\n清纯可爱的女高中生1：\n清纯可爱的女高中生2：\n清纯可爱的女高中生3：\n清纯可爱的女高中生4："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 689,
+          "like_count": 13362,
+          "listed_count": 20,
+          "media_count": 1356,
+          "tweet_count": 7723
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378502,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5031,
+          "media_count": 2680185,
+          "tweet_count": 53600101
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1971932067337486724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907296465015459840/9ECT2Sd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 1311,
+          "like_count": 31377,
+          "listed_count": 6,
+          "media_count": 3463,
+          "tweet_count": 15244
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

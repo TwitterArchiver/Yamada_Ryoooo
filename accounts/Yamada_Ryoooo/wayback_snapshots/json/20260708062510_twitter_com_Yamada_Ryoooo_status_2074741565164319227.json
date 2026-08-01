@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2074718804328997024",
+    "created_at": "2026-07-08T06:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074741565164319227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1152599208106455040",
+          "start": 0,
+          "username": "zhongqucoda823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074741565164319227",
+    "in_reply_to_user_id": "1152599208106455040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074718804328997024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongqucoda823 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2074718804328997024",
+        "created_at": "2026-07-08T06:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074741565164319227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1152599208106455040",
+              "start": 0,
+              "username": "zhongqucoda823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074741565164319227",
+        "in_reply_to_user_id": "1152599208106455040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074718804328997024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongqucoda823 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152599208106455040",
+        "conversation_id": "2074718804328997024",
+        "created_at": "2026-07-08T04:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074718804328997024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074718804328997024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2438,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们太多了，活动暂时暂停，11号我会再发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6499,
+          "following_count": 969,
+          "like_count": 17806,
+          "listed_count": 22,
+          "media_count": 1820,
+          "tweet_count": 10018
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-20T15:20:40.000Z",
+        "description": "常驻长三角 只玩X平台和电报 \n电报聊天群：https://t.co/3HLd2UuxMq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/codacoda521",
+                "end": 45,
+                "expanded_url": "https://t.me/codacoda521",
+                "start": 22,
+                "url": "https://t.co/3HLd2UuxMq"
+              }
+            ]
+          }
+        },
+        "id": "1152599208106455040",
+        "location": "🚪50/399解锁完整视频",
+        "name": "Codaaaaa",
+        "pinned_tweet_id": "2074547438002860424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865571792951394304/DLwnGhVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142088,
+          "following_count": 162,
+          "like_count": 307,
+          "listed_count": 604,
+          "media_count": 94,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "zhongqucoda823",
+        "verified": true
+      }
+    ]
+  }
+}

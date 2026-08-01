@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012917796980904201",
+    "created_at": "2026-01-18T23:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013026946112753780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "903865426161000450",
+          "start": 0,
+          "username": "AKer0x01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013026946112753780",
+    "in_reply_to_user_id": "903865426161000450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012917796980904201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKer0x01 来互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012917796980904201",
+        "created_at": "2026-01-18T23:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013026946112753780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "903865426161000450",
+              "start": 0,
+              "username": "AKer0x01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013026946112753780",
+        "in_reply_to_user_id": "903865426161000450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012917796980904201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKer0x01 来互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "903865426161000450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2012917796980904201",
+        "created_at": "2026-01-18T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012917796980904201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012917796980904201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 166,
+                "start": 161,
+                "tag": "蓝V互关"
+              },
+              {
+                "end": 172,
+                "start": 167,
+                "tag": "币圈互关"
+              },
+              {
+                "end": 178,
+                "start": 173,
+                "tag": "加密互关"
+              },
+              {
+                "end": 184,
+                "start": 179,
+                "tag": "USDT"
+              },
+              {
+                "end": 190,
+                "start": 185,
+                "tag": "海外支付"
+              },
+              {
+                "end": 200,
+                "start": 191,
+                "tag": "XPremium"
+              },
+              {
+                "end": 204,
+                "start": 201,
+                "tag": "蓝V"
+              },
+              {
+                "end": 208,
+                "start": 205,
+                "tag": "互关"
+              }
+            ]
+          },
+          "text": "蓝V新鲜出炉！\n\n币圈兄弟们、加密玩家、USDT党、海外支付圈速来集合！\n\n互关走起💪：\n- 关注我 → 我100%手动回关（每天检查，绝不掉粉）\n- 点赞 + 评论“互关”或“1” → 优先回关 + 额外点赞评论互动\n\n一起玩转币圈、聊USDT、分享海外支付干货～咱们互粉互推，共同涨粉🚀\n\n评论区报到！互关冲冲冲～\n\n#蓝V互关 #币圈互关 #加密互关 #USDT #海外支付 #XPremium #蓝V #互关"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V新鲜出炉！\n\n币圈兄弟们、加密玩家、USDT党、海外支付圈速来集合！\n\n互关走起💪：\n- 关注我 → 我100%手动回关（每天检查，绝不掉粉）\n- 点赞 + 评论“互关”或“1” → 优先回关 + 额外点赞评论互动\n\n一起玩转币圈、聊USDT、分享海外支付干货～咱们互粉互推，共同涨粉🚀\n\n评论区报到！互关冲冲冲～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 1108,
+          "like_count": 14833,
+          "listed_count": 21,
+          "media_count": 1466,
+          "tweet_count": 8581
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-02T06:21:25.000Z",
+        "description": "币圈负债逆袭者，专注简单零成本项目，只需推特账号轻松上手，一起收集“迈巴赫碎片”翻身致富！免费分享经验，互助社区，负债中求突破，坚持就是胜利！",
+        "id": "903865426161000450",
+        "location": "Las Vegas",
+        "name": "CryptoFlipper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1221637105270448129/TngqtwB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 236,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "AKer0x01",
+        "verified": true
+      }
+    ]
+  }
+}

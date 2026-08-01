@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2012083424560140619",
+    "created_at": "2026-01-16T08:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T09:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012083424560140619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yetone/status/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/yetone/status/2012074935674683845",
+          "start": 47,
+          "url": "https://t.co/Z0KjPMl3Fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012083424560140619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012074935674683845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死了下面在盗用别人名义发币的看到正主出来澄清一个个急成啥样了🤣\n好似都似，亏死你们这群傻B https://t.co/Z0KjPMl3Fn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2012074845312565248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-xTaVBawAA64JR.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012083424560140619",
+        "created_at": "2026-01-16T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012083424560140619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yetone/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/yetone/status/2012074935674683845",
+              "start": 47,
+              "url": "https://t.co/Z0KjPMl3Fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012083424560140619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012074935674683845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死了下面在盗用别人名义发币的看到正主出来澄清一个个急成啥样了🤣\n好似都似，亏死你们这群傻B https://t.co/Z0KjPMl3Fn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012074845312565248"
+          ]
+        },
+        "author_id": "147786784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012074935674683845",
+        "created_at": "2026-01-16T08:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012074935674683845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBIcD6Xb35",
+              "end": 92,
+              "expanded_url": "https://x.com/yetone/status/2012074935674683845/photo/1",
+              "media_key": "3_2012074845312565248",
+              "start": 69,
+              "url": "https://t.co/qBIcD6Xb35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012074935674683845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5168,
+          "like_count": 55,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "郑重声明：Alma 与任何虚拟货币无关！请不要相信任何关于 Alma 的代币。我现在 Twitter 消息提醒已经充斥着这个了，太恶心了 https://t.co/qBIcD6Xb35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5199,
+          "following_count": 687,
+          "like_count": 14311,
+          "listed_count": 21,
+          "media_count": 1445,
+          "tweet_count": 8376
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "I built a Cursor-like experience plugin for Neovim: avante.nvim\n\nI am building Alma now: https://t.co/pfq9srNgsd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "alma.now",
+                "end": 112,
+                "expanded_url": "https://alma.now",
+                "start": 89,
+                "url": "https://t.co/pfq9srNgsd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "2012074935674683845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72397,
+          "following_count": 4472,
+          "like_count": 18477,
+          "listed_count": 697,
+          "media_count": 2036,
+          "tweet_count": 17819
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

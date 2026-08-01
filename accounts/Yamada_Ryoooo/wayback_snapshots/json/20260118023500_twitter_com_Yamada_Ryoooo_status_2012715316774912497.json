@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012359327005450473",
+    "created_at": "2026-01-18T02:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012715316774912497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1356924709036679168",
+          "start": 0,
+          "username": "wjf110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012715316774912497",
+    "in_reply_to_user_id": "1356924709036679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012359327005450473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjf110 来互关一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 197,
+        "media_key": "3_2012358694336659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1VkhCbAAAHxKZ.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012359327005450473",
+        "created_at": "2026-01-18T02:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012715316774912497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1356924709036679168",
+              "start": 0,
+              "username": "wjf110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012715316774912497",
+        "in_reply_to_user_id": "1356924709036679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012359327005450473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjf110 来互关一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012358694336659456"
+          ]
+        },
+        "author_id": "1356924709036679168",
+        "conversation_id": "2012359327005450473",
+        "created_at": "2026-01-17T03:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012359327005450473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "蓝V互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKbBOZSKlM",
+              "end": 86,
+              "expanded_url": "https://x.com/wjf110/status/2012359327005450473/photo/1",
+              "media_key": "3_2012358694336659456",
+              "start": 63,
+              "url": "https://t.co/TKbBOZSKlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012359327005450473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16908,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 159,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老马的工资到账了\n\n半个月创作者收益 378刀\n\n还没拿到工资的\n\n评论区留言    \n\n#蓝V互关   祝你们早日拿到收益 https://t.co/TKbBOZSKlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 769,
+          "like_count": 14417,
+          "listed_count": 21,
+          "media_count": 1449,
+          "tweet_count": 8437
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T11:17:24.000Z",
+        "description": "🦍 🦍TG: https://t.co/Jt8KmJOw3X\n\n｜AI  defi赛道｜\n｜二级 MEME｜\n\nBinance   :https://t.co/6WgatcApv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wjf110",
+                "end": 30,
+                "expanded_url": "https://t.me/wjf110",
+                "start": 7,
+                "url": "https://t.co/Jt8KmJOw3X"
+              },
+              {
+                "display_url": "maxweb.cab/join?ref=WJF110",
+                "end": 90,
+                "expanded_url": "https://www.maxweb.cab/join?ref=WJF110",
+                "start": 67,
+                "url": "https://t.co/6WgatcApv9"
+              }
+            ]
+          }
+        },
+        "id": "1356924709036679168",
+        "name": "好家伙🥷",
+        "pinned_tweet_id": "1728640398321750172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568617853930307584/D-4SOnGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71850,
+          "following_count": 11879,
+          "like_count": 87628,
+          "listed_count": 152,
+          "media_count": 2182,
+          "tweet_count": 46504
+        },
+        "username": "wjf110",
+        "verified": true
+      }
+    ]
+  }
+}

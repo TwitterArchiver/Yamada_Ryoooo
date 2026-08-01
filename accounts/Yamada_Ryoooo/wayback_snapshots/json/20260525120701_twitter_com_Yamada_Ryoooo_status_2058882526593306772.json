@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2058751513376457168",
+    "created_at": "2026-05-25T12:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058882526593306772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1686801573132017664",
+          "start": 0,
+          "username": "0xFxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058882526593306772",
+    "in_reply_to_user_id": "1686801573132017664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058843029977681966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xFxF 算了一下一个月花1450左右就能回本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2058751513376457168",
+        "created_at": "2026-05-25T12:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058882526593306772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1686801573132017664",
+              "start": 0,
+              "username": "0xFxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058882526593306772",
+        "in_reply_to_user_id": "1686801573132017664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058843029977681966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xFxF 算了一下一个月花1450左右就能回本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686801573132017664",
+        "conversation_id": "2058751513376457168",
+        "created_at": "2026-05-25T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058843029977681966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058843029977681966",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058839987983122887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 太贵了，根本吃不回本的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6558,
+          "following_count": 1013,
+          "like_count": 17600,
+          "listed_count": 24,
+          "media_count": 1789,
+          "tweet_count": 9799
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-02T18:10:28.000Z",
+        "description": "干中学",
+        "id": "1686801573132017664",
+        "name": "𝟎𝐱𝐅 🏴‍☠️",
+        "pinned_tweet_id": "2053001375597080679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044816403715518464/voEZjaAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 1430,
+          "like_count": 939,
+          "listed_count": 15,
+          "media_count": 132,
+          "tweet_count": 937
+        },
+        "username": "0xFxF",
+        "verified": true
+      }
+    ]
+  }
+}

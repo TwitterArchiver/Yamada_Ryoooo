@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968650767579103233"
+      ],
+      "media_source_tweet_id": [
+        "1968650800164458889"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1968800659882348933",
+    "created_at": "2025-09-18T22:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T23:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968800659882348933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1403021607178702850",
+          "start": 3,
+          "username": "pong__o0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XPDF8OaFE2",
+          "end": 37,
+          "expanded_url": "https://x.com/pong__o0/status/1968650800164458889/photo/1",
+          "media_key": "3_1968650767579103233",
+          "start": 14,
+          "url": "https://t.co/XPDF8OaFE2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968800659882348933",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3978
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968650800164458889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pong__o0: https://t.co/XPDF8OaFE2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1968650767579103233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1INcVhaQAEcd-W.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968650767579103233"
+          ],
+          "media_source_tweet_id": [
+            "1968650800164458889"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1968800659882348933",
+        "created_at": "2025-09-18T22:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T23:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968800659882348933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1403021607178702850",
+              "start": 3,
+              "username": "pong__o0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPDF8OaFE2",
+              "end": 37,
+              "expanded_url": "https://x.com/pong__o0/status/1968650800164458889/photo/1",
+              "media_key": "3_1968650767579103233",
+              "start": 14,
+              "url": "https://t.co/XPDF8OaFE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968800659882348933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3978
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968650800164458889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pong__o0: https://t.co/XPDF8OaFE2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968650767579103233"
+          ]
+        },
+        "author_id": "1403021607178702850",
+        "conversation_id": "1968650800164458889",
+        "created_at": "2025-09-18T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968650800164458889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XPDF8OaFE2",
+              "end": 23,
+              "expanded_url": "https://x.com/pong__o0/status/1968650800164458889/photo/1",
+              "media_key": "3_1968650767579103233",
+              "start": 0,
+              "url": "https://t.co/XPDF8OaFE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968650800164458889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4724,
+          "impression_count": 434104,
+          "like_count": 32884,
+          "quote_count": 173,
+          "reply_count": 22,
+          "retweet_count": 3978
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XPDF8OaFE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 686,
+          "like_count": 13114,
+          "listed_count": 20,
+          "media_count": 1335,
+          "tweet_count": 7593
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-10T16:10:08.000Z",
+        "description": "音楽と百合が好きです a korean student~  |  mail: pongpongpong0314@gmail.com   |  担当v子: https://t.co/hymaVyINBb  |  RAUM class: https://t.co/lhQqprkRec",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/Gyehwa",
+                "end": 100,
+                "expanded_url": "https://bit.ly/Gyehwa",
+                "start": 77,
+                "url": "https://t.co/hymaVyINBb"
+              },
+              {
+                "display_url": "bit.ly/pong__o0",
+                "end": 140,
+                "expanded_url": "https://bit.ly/pong__o0",
+                "start": 117,
+                "url": "https://t.co/lhQqprkRec"
+              }
+            ]
+          }
+        },
+        "id": "1403021607178702850",
+        "location": "ai学習禁止",
+        "name": "pong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817256561167024128/bCzz6Bsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130351,
+          "following_count": 80,
+          "like_count": 3538,
+          "listed_count": 786,
+          "media_count": 136,
+          "tweet_count": 507
+        },
+        "username": "pong__o0",
+        "verified": false
+      }
+    ]
+  }
+}

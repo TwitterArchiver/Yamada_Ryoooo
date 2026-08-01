@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972900709504073728"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1972898928552284222",
+    "created_at": "2025-09-30T05:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972900718530154600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether9008"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQTcHxW2pk",
+          "end": 35,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1972900718530154600/photo/1",
+          "media_key": "3_1972900709504073728",
+          "start": 12,
+          "url": "https://t.co/aQTcHxW2pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972900718530154600",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972898928552284222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether9008 https://t.co/aQTcHxW2pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1972900709504073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Emvg8bQAA_fAx.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972898925767196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ElHsAagAAWsH3.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972900709504073728"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972898928552284222",
+        "created_at": "2025-09-30T05:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972900718530154600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQTcHxW2pk",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1972900718530154600/photo/1",
+              "media_key": "3_1972900709504073728",
+              "start": 12,
+              "url": "https://t.co/aQTcHxW2pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972900718530154600",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972898928552284222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 https://t.co/aQTcHxW2pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972898925767196672"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "conversation_id": "1972898928552284222",
+        "created_at": "2025-09-30T05:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972898928552284222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lO8Qf1y3gE",
+              "end": 23,
+              "expanded_url": "https://x.com/Aether9008/status/1972898928552284222/photo/1",
+              "media_key": "3_1972898925767196672",
+              "start": 0,
+              "url": "https://t.co/lO8Qf1y3gE"
+            },
+            {
+              "display_url": "x.com/TheNan19930731…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/TheNan19930731/status/1972753436602142958",
+              "start": 24,
+              "url": "https://t.co/CgDW72Fmex"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "1972898928552284222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972753436602142958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/lO8Qf1y3gE https://t.co/CgDW72Fmex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 682,
+          "like_count": 13218,
+          "listed_count": 20,
+          "media_count": 1344,
+          "tweet_count": 7630
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "看見會回跟，如果漏了可以留言\n日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 66,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 43,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1972873546688008478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952032323857534977/Eyvjc6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 2210,
+          "like_count": 23401,
+          "listed_count": 14,
+          "media_count": 1385,
+          "tweet_count": 4456
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether9008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012970332232040545",
+    "created_at": "2026-01-18T23:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013031219538125185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464341055105556483",
+          "start": 0,
+          "username": "Badboy1B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013031219538125185",
+    "in_reply_to_user_id": "1464341055105556483",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012970332232040545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badboy1B come on bro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2012970292377710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G--B0NSWcAAjfvf.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012970332232040545",
+        "created_at": "2026-01-18T23:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013031219538125185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464341055105556483",
+              "start": 0,
+              "username": "Badboy1B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013031219538125185",
+        "in_reply_to_user_id": "1464341055105556483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012970332232040545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badboy1B come on bro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012970292377710592"
+          ]
+        },
+        "author_id": "1464341055105556483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012970332232040545",
+        "created_at": "2026-01-18T19:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012970332232040545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJY9kWLfVo",
+              "end": 67,
+              "expanded_url": "https://x.com/Badboy1B/status/2012970332232040545/photo/1",
+              "media_key": "3_2012970292377710592",
+              "start": 44,
+              "url": "https://t.co/DJY9kWLfVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012970332232040545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3531,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 199,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "good night😴\n\nIf you reply I'm following you https://t.co/DJY9kWLfVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5620,
+          "following_count": 1119,
+          "like_count": 14873,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8604
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-26T21:11:48.000Z",
+        "description": "Dm for advert and Promot\n\nI'm not the king, but my body is full of blood that refuses to admit defeat\n\nCheck my YouTube https://t.co/SOPi5Cgev4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tnlucky2",
+                "end": 143,
+                "expanded_url": "https://www.youtube.com/@tnlucky2",
+                "start": 120,
+                "url": "https://t.co/SOPi5Cgev4"
+              }
+            ]
+          }
+        },
+        "id": "1464341055105556483",
+        "name": "LUCKY",
+        "pinned_tweet_id": "2012970332232040545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945786011868413952/Ya13qjK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43488,
+          "following_count": 22330,
+          "like_count": 79639,
+          "listed_count": 125,
+          "media_count": 2624,
+          "tweet_count": 40781
+        },
+        "username": "Badboy1B",
+        "verified": true
+      }
+    ]
+  }
+}

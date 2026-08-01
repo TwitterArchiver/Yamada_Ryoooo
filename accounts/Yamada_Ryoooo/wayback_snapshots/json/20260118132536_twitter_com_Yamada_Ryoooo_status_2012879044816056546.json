@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012875261721903190",
+    "created_at": "2026-01-18T13:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012879044816056546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "869740016263602177",
+          "start": 0,
+          "username": "Bitcoin2033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012879044816056546",
+    "in_reply_to_user_id": "869740016263602177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012878871343800723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitcoin2033 对不起其他推友们呀，刷屏他们tl了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012875261721903190",
+        "created_at": "2026-01-18T13:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012879044816056546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "869740016263602177",
+              "start": 0,
+              "username": "Bitcoin2033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012879044816056546",
+        "in_reply_to_user_id": "869740016263602177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012878871343800723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitcoin2033 对不起其他推友们呀，刷屏他们tl了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "869740016263602177",
+        "conversation_id": "2012875261721903190",
+        "created_at": "2026-01-18T13:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012878871343800723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012878871343800723",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012875261721903190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 你好有礼貌啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 939,
+          "like_count": 14632,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8489
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-31T02:19:13.000Z",
+        "description": "记录币圈里的喜与怒、得与失\n那些涨跌背后的人生起伏与悲欢离合",
+        "id": "869740016263602177",
+        "location": "Melbourne, Victoria",
+        "name": "币币兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977154951559495682/EI2rqerV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 315,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 743
+        },
+        "username": "Bitcoin2033",
+        "verified": true
+      }
+    ]
+  }
+}

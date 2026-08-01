@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076359509363277824"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2076359815547490534",
+    "created_at": "2026-07-12T17:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T18:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076359815547490534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggPKkiG5wI",
+          "end": 60,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2076359815547490534/photo/1",
+          "media_key": "3_2076359509363277824",
+          "start": 37,
+          "url": "https://t.co/ggPKkiG5wI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076359815547490534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Gemini你妈死了\n我就和你算一下用量而已你就骂我？？？谷歌早点毁灭吧 https://t.co/ggPKkiG5wI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2076359509363277824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNC1-QWaQAAwZX3.png",
+        "width": 835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076359509363277824"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2076359815547490534",
+        "created_at": "2026-07-12T17:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076359815547490534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggPKkiG5wI",
+              "end": 60,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2076359815547490534/photo/1",
+              "media_key": "3_2076359509363277824",
+              "start": 37,
+              "url": "https://t.co/ggPKkiG5wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076359815547490534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini你妈死了\n我就和你算一下用量而已你就骂我？？？谷歌早点毁灭吧 https://t.co/ggPKkiG5wI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6491,
+          "following_count": 969,
+          "like_count": 17812,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10030
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

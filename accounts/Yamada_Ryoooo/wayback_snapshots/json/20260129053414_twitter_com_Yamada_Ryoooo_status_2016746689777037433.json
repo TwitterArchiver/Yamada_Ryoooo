@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2016680079267680498",
+    "created_at": "2026-01-29T05:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016746689777037433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "description": "哔哩哔哩-API收集整理【不断更新中....】. Contribute to Yamada-Ryo4/bilibili-api-collect development by creating an account on GitHub.",
+          "display_url": "github.com/Yamada-Ryo4/bi…",
+          "end": 45,
+          "expanded_url": "https://github.com/Yamada-Ryo4/bilibili-api-collect",
+          "start": 22,
+          "status": 200,
+          "title": "GitHub - Yamada-Ryo4/bilibili-api-collect: 哔哩哔哩-API收集整理【不断更新中....】",
+          "unwound_url": "https://github.com/Yamada-Ryo4/bilibili-api-collect",
+          "url": "https://t.co/iy4VNrd14x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016746689777037433",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016680079267680498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech fork了一份\n\nhttps://t.co/iy4VNrd14x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2016680069549432832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yv1qMaoAAIW0Z.jpg",
+        "width": 1708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2016680079267680498",
+        "created_at": "2026-01-29T05:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016746689777037433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "description": "哔哩哔哩-API收集整理【不断更新中....】. Contribute to Yamada-Ryo4/bilibili-api-collect development by creating an account on GitHub.",
+              "display_url": "github.com/Yamada-Ryo4/bi…",
+              "end": 45,
+              "expanded_url": "https://github.com/Yamada-Ryo4/bilibili-api-collect",
+              "start": 22,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/bilibili-api-collect: 哔哩哔哩-API收集整理【不断更新中....】",
+              "unwound_url": "https://github.com/Yamada-Ryo4/bilibili-api-collect",
+              "url": "https://t.co/iy4VNrd14x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016746689777037433",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016680079267680498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech fork了一份\n\nhttps://t.co/iy4VNrd14x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016680069549432832"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2016680079267680498",
+        "created_at": "2026-01-29T01:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T02:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016680079267680498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/111645?x",
+              "end": 172,
+              "expanded_url": "https://ourl.co/111645?x",
+              "start": 149,
+              "unwound_url": "https://www.landiannews.com/archives/111645.html?utm_source=x.com&utm_medium=social&utm_campaign=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9API%E6%94%B6%E9%9B%86%E9%A1%B9%E7%9B%AE%E6%94%B6%E5%88%B0%E5%BE%8B%E5%B8%88%E5%87%BD%E5%90%8E%E6%B8%85%E7%A9%BA%E4%BB%A3%E7%A0%81+B%E7%AB%99%E7%A7%B0%E5%85%B6%E4%BE%B5%E6%9D%83%E5%92%8C%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89",
+              "url": "https://t.co/JIFQbSbCOB"
+            },
+            {
+              "display_url": "pic.x.com/qkNU9CCviM",
+              "end": 196,
+              "expanded_url": "https://x.com/landiantech/status/2016680079267680498/photo/1",
+              "media_key": "3_2016680069549432832",
+              "start": 173,
+              "url": "https://t.co/qkNU9CCviM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016680079267680498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12431,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哔哩哔哩 API 收集项目收到律师函后宣布停止维护并清空所有代码，B 站称其侵权和涉及不正当竞争。Bilbili-API-Collect 项目主要收集 B 站的各种 API，其他开发者可以利用这些 API 开发第三方客户端等，现在 B 站委托律师发送侵权通知，称项目开发者存在侵权和不正当竞争行为：https://t.co/JIFQbSbCOB https://t.co/qkNU9CCviM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 1077,
+          "like_count": 15506,
+          "listed_count": 21,
+          "media_count": 1507,
+          "tweet_count": 8717
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 订阅频道：https://t.co/xzeoUEoPcU 联系方式：https://t.co/LJK1g3biPp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/landiansub",
+                "end": 48,
+                "expanded_url": "https://t.me/landiansub",
+                "start": 25,
+                "url": "https://t.co/xzeoUEoPcU"
+              },
+              {
+                "display_url": "t.me/id7371",
+                "end": 77,
+                "expanded_url": "https://t.me/id7371",
+                "start": 54,
+                "url": "https://t.co/LJK1g3biPp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31487,
+          "following_count": 646,
+          "like_count": 3876,
+          "listed_count": 255,
+          "media_count": 4651,
+          "tweet_count": 13538
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

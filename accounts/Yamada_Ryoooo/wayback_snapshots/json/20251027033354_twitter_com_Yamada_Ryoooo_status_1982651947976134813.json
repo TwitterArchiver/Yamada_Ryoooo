@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982651936395374592"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1982627727942578534",
+    "created_at": "2025-10-27T03:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982651947976134813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748531675573964800",
+          "start": 0,
+          "username": "dingansich8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bytevirt.com/aff.php?aff=10…",
+          "end": 39,
+          "expanded_url": "https://bytevirt.com/aff.php?aff=1059",
+          "start": 16,
+          "status": 200,
+          "title": "门户首页 - ByteVirt LLC",
+          "unwound_url": "https://bytevirt.com/",
+          "url": "https://t.co/j6jHs9ST6I"
+        },
+        {
+          "display_url": "pic.x.com/ZuKo95dqyO",
+          "end": 85,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1982651947976134813/photo/1",
+          "media_key": "3_1982651936395374592",
+          "start": 62,
+          "url": "https://t.co/ZuKo95dqyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982651947976134813",
+    "in_reply_to_user_id": "1748531675573964800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982629022095098115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingansich8964 https://t.co/j6jHs9ST6I的vps，不知道他再买的话还是不是原生家宽（ https://t.co/ZuKo95dqyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_1982651936395374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PLbn4WMAATtl5.jpg",
+        "width": 781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982651936395374592"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1982627727942578534",
+        "created_at": "2025-10-27T03:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651947976134813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748531675573964800",
+              "start": 0,
+              "username": "dingansich8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bytevirt.com/aff.php?aff=10…",
+              "end": 39,
+              "expanded_url": "https://bytevirt.com/aff.php?aff=1059",
+              "start": 16,
+              "status": 200,
+              "title": "门户首页 - ByteVirt LLC",
+              "unwound_url": "https://bytevirt.com/",
+              "url": "https://t.co/j6jHs9ST6I"
+            },
+            {
+              "display_url": "pic.x.com/ZuKo95dqyO",
+              "end": 85,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1982651947976134813/photo/1",
+              "media_key": "3_1982651936395374592",
+              "start": 62,
+              "url": "https://t.co/ZuKo95dqyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651947976134813",
+        "in_reply_to_user_id": "1748531675573964800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982629022095098115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingansich8964 https://t.co/j6jHs9ST6I的vps，不知道他再买的话还是不是原生家宽（ https://t.co/ZuKo95dqyO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "1982627727942578534",
+        "created_at": "2025-10-27T02:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982629022095098115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982629022095098115",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982627727942578534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 哪整的原生IP，給我用用（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 660,
+          "like_count": 13417,
+          "listed_count": 20,
+          "media_count": 1367,
+          "tweet_count": 7859
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "已工作，生不如死。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。「だって、私、追いかけるのが好きなんだもの。」喜歡的人是@dingansich8964。電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "dingansich8964"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897646810052886528/nBKqybTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 66,
+          "like_count": 33722,
+          "listed_count": 1,
+          "media_count": 1001,
+          "tweet_count": 9435
+        },
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

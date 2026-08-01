@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992166464326156391",
+    "created_at": "2025-11-22T16:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992272693622903083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 27,
+          "id": "1490976522362302465",
+          "start": 17,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992272693622903083",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992166464326156391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @whyuounot 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1992166448844935169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WY1IzakAEVYH5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992166464326156391",
+        "created_at": "2025-11-22T16:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992272693622903083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 27,
+              "id": "1490976522362302465",
+              "start": 17,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992272693622903083",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992166464326156391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @whyuounot 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992166448844935169"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992166464326156391",
+        "created_at": "2025-11-22T09:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992166464326156391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490976522362302465",
+              "start": 1,
+              "username": "whyuounot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSOGk7D3y9",
+              "end": 42,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/1992166464326156391/photo/1",
+              "media_key": "3_1992166448844935169",
+              "start": 19,
+              "url": "https://t.co/PSOGk7D3y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992166464326156391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和@whyuounot 出去吃漂亮饭 https://t.co/PSOGk7D3y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 670,
+          "like_count": 13624,
+          "listed_count": 20,
+          "media_count": 1393,
+          "tweet_count": 7989
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 intp/中文/🚪58、288、520 /BS、ff14/saob @ohyeahcomeonnow 🐻❤️～@Lmao_Quien /🐖@tanbara_ririka 妈妈@mantou0618 🎸@D_D_ovO_ /@ninarich1991 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "ohyeahcomeonnow"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "tanbara_ririka"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mantou0618"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "username": "sanitf1"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "idk",
+        "name": "vicoOci",
+        "pinned_tweet_id": "1974751195156939092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 293,
+          "like_count": 22500,
+          "listed_count": 13,
+          "media_count": 859,
+          "tweet_count": 12761
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "臨場發揮第一名\n推广自辩",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988830070451105792/fx45ox9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8592,
+          "following_count": 1171,
+          "like_count": 7912,
+          "listed_count": 19,
+          "media_count": 2120,
+          "tweet_count": 14430
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054188508915675136"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2054188519757881360",
+    "created_at": "2026-05-12T13:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054188519757881360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TNDDCQ8hdD",
+          "end": 32,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054188519757881360/photo/1",
+          "media_key": "3_2054188508915675136",
+          "start": 9,
+          "url": "https://t.co/TNDDCQ8hdD"
+        },
+        {
+          "display_url": "x.com/yamada_ryoooo/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yamada_ryoooo/status/2054187703416340849",
+          "start": 33,
+          "url": "https://t.co/in44uPOVig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054188519757881360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054187703416340849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起我想多了🌚 https://t.co/TNDDCQ8hdD https://t.co/in44uPOVig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 283,
+        "media_key": "3_2054188508915675136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHxkLebsAADD0y.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054188508915675136"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054188519757881360",
+        "created_at": "2026-05-12T13:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054188519757881360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNDDCQ8hdD",
+              "end": 32,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054188519757881360/photo/1",
+              "media_key": "3_2054188508915675136",
+              "start": 9,
+              "url": "https://t.co/TNDDCQ8hdD"
+            },
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/2054187703416340849",
+              "start": 33,
+              "url": "https://t.co/in44uPOVig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054188519757881360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054187703416340849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起我想多了🌚 https://t.co/TNDDCQ8hdD https://t.co/in44uPOVig"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054187703416340849",
+        "created_at": "2026-05-12T13:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054187703416340849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/2054183750347739527",
+              "start": 32,
+              "url": "https://t.co/kp1HxLBxy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054187703416340849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054183750347739527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于用上gpt5.5了😭😭😭\n有点找回4o的那种感觉了‼️‼️ https://t.co/kp1HxLBxy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1041,
+          "like_count": 17360,
+          "listed_count": 24,
+          "media_count": 1772,
+          "tweet_count": 9692
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

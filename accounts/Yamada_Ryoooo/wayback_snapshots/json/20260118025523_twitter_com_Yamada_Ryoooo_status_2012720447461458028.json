@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012460886506824115",
+    "created_at": "2026-01-18T02:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012720447461458028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1714390819791106048",
+          "start": 0,
+          "username": "phill76815"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012720447461458028",
+    "in_reply_to_user_id": "1714390819791106048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012720388107616757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phill76815 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012460886506824115",
+        "created_at": "2026-01-18T02:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012720447461458028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1714390819791106048",
+              "start": 0,
+              "username": "phill76815"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012720447461458028",
+        "in_reply_to_user_id": "1714390819791106048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012720388107616757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phill76815 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714390819791106048",
+        "conversation_id": "2012460886506824115",
+        "created_at": "2026-01-18T02:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012720388107616757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012720388107616757",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012715225032908906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 来了来了，总限制，哈哈，多互动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 769,
+          "like_count": 14429,
+          "listed_count": 21,
+          "media_count": 1449,
+          "tweet_count": 8441
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-17T21:20:07.000Z",
+        "description": "资深执业律师 | 2015年A股配资和2018年合约两次破产 | 18年底豪赌卖房梭哈BTC翻身 | 化石级空投项目玩家 | BTC趋势灵魂画手 | 美股菜鸟，爱Tesla | Yapybara Holder | T-Yappers🌊 | 爱美女 | 爱宠物 | 爱美食|爱搞笑 | 主要简介和主要持仓请点查看更多|",
+        "id": "1714390819791106048",
+        "name": "龙神-Dragon God🐉 🌊🕊️",
+        "pinned_tweet_id": "1912019587459387827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992970322417729536/-jBx8ApA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14858,
+          "following_count": 2315,
+          "like_count": 161242,
+          "listed_count": 290,
+          "media_count": 5308,
+          "tweet_count": 90000
+        },
+        "username": "phill76815",
+        "verified": true
+      }
+    ]
+  }
+}

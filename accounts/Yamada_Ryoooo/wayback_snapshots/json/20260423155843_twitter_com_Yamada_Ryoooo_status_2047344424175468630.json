@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047343943202041856"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2047344424175468630",
+    "created_at": "2026-04-23T15:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:57:58.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047344236388131103",
+      "2047344424175468630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1965856473084473347",
+          "start": 6,
+          "username": "antigravity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hchZroj4eJ",
+          "end": 42,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2047344424175468630/photo/1",
+          "media_key": "3_2047343943202041856",
+          "start": 19,
+          "url": "https://t.co/hchZroj4eJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047344424175468630",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤡垃圾谷歌 @antigravity https://t.co/hchZroj4eJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1786,
+        "media_key": "3_2047343943202041856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmgeBOa8AARnkN.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047343943202041856"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2047344236388131103",
+        "created_at": "2026-04-23T15:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:57:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344236388131103",
+          "2047344424175468630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9XNVc4bhg",
+              "end": 41,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2047344236388131103/photo/1",
+              "media_key": "3_2047343943202041856",
+              "start": 18,
+              "url": "https://t.co/o9XNVc4bhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344236388131103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤡垃圾谷歌 @antigraity https://t.co/o9XNVc4bhg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047343943202041856"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2047344424175468630",
+        "created_at": "2026-04-23T15:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:57:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047344236388131103",
+          "2047344424175468630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1965856473084473347",
+              "start": 6,
+              "username": "antigravity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hchZroj4eJ",
+              "end": 42,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2047344424175468630/photo/1",
+              "media_key": "3_2047343943202041856",
+              "start": 19,
+              "url": "https://t.co/hchZroj4eJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047344424175468630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤡垃圾谷歌 @antigravity https://t.co/hchZroj4eJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6444,
+          "following_count": 1091,
+          "like_count": 17226,
+          "listed_count": 24,
+          "media_count": 1755,
+          "tweet_count": 9604
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T19:15:00.000Z",
+        "description": "An agentic development platform evolving the IDE into the agent-first era @GoogleDeepMind",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "GoogleDeepMind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antigravity.google",
+                "end": 23,
+                "expanded_url": "https://antigravity.google/",
+                "start": 0,
+                "url": "https://t.co/xhI6Xc2MMC"
+              }
+            ]
+          }
+        },
+        "id": "1965856473084473347",
+        "name": "Google Antigravity",
+        "pinned_tweet_id": "2041212277202755826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990585614279049216/-Zz6T2nk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148725,
+          "following_count": 13,
+          "like_count": 23,
+          "listed_count": 1039,
+          "media_count": 101,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/xhI6Xc2MMC",
+        "username": "antigravity",
+        "verified": true
+      }
+    ]
+  }
+}

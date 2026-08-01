@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2054195219973959914",
+    "created_at": "2026-05-12T13:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054195219973959914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040604493113696256",
+          "start": 3,
+          "username": "Tangay87"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054195219973959914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053648921507840254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tangay87: 就是说一句，那些把自己账号锁住的人，就不要到处评论好不好，因为你的评论根本没人看得见，但是评论区又提示有一个人评论，就挺抓耳捞腮的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054195219973959914",
+        "created_at": "2026-05-12T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054195219973959914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040604493113696256",
+              "start": 3,
+              "username": "Tangay87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054195219973959914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053648921507840254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tangay87: 就是说一句，那些把自己账号锁住的人，就不要到处评论好不好，因为你的评论根本没人看得见，但是评论区又提示有一个人评论，就挺抓耳捞腮的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040604493113696256",
+        "conversation_id": "2053648921507840254",
+        "created_at": "2026-05-11T01:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053648921507840254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053648921507840254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 207086,
+          "like_count": 1538,
+          "quote_count": 23,
+          "reply_count": 527,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "就是说一句，那些把自己账号锁住的人，就不要到处评论好不好，因为你的评论根本没人看得见，但是评论区又提示有一个人评论，就挺抓耳捞腮的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1042,
+          "like_count": 17363,
+          "listed_count": 24,
+          "media_count": 1772,
+          "tweet_count": 9696
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T01:37:47.000Z",
+        "description": "发疯日常，胡言乱语，一个被上课上到魔怔的人来推上碎碎念，嗯，就这样，想到了啥再加介绍，关注我！关注我！关注我！重要的事情说三遍！宣传反诈知识，骗局，曝光一些列骗子，可投稿，可闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addlist/OZjwb3…",
+                "end": 23,
+                "expanded_url": "https://t.me/addlist/OZjwb3Xdj1kwODNl",
+                "start": 0,
+                "url": "https://t.co/8bblAHNlOF"
+              }
+            ]
+          }
+        },
+        "id": "2040604493113696256",
+        "location": "粉丝交流防骗电报群→",
+        "name": "池崽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040607199861587968/pxAS24EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 1,
+          "like_count": 207,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/8bblAHNlOF",
+        "username": "Tangay87",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067687383081103360"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1750052293607669760",
+          "name": "DevPlatform JP"
+        }
+      }
+    ],
+    "conversation_id": "2067687394783223990",
+    "created_at": "2026-06-18T19:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067687394783223990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3dM9NnVAdP",
+          "end": 93,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2067687394783223990/photo/1",
+          "media_key": "3_2067687383081103360",
+          "start": 70,
+          "url": "https://t.co/3dM9NnVAdP"
+        },
+        {
+          "display_url": "x.com/nhxao/status/2…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/nhxao/status/2067468491108868456",
+          "start": 94,
+          "url": "https://t.co/qXcZG1hszW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067687394783223990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067468491108868456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "解绑不了吗\n我承认你很流氓了😓\n\n经过控制变量确认不是x的问题（可以删除别的应用），并且也不是我账号的问题（用另一个账号也一样解绑不了）😅 https://t.co/3dM9NnVAdP https://t.co/qXcZG1hszW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2368,
+        "media_key": "3_2067687383081103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHmuEcbMAApKoG.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2067468099272794112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEfSEmbYAA0u9o.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067687383081103360"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2067687394783223990",
+        "created_at": "2026-06-18T19:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067687394783223990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3dM9NnVAdP",
+              "end": 93,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2067687394783223990/photo/1",
+              "media_key": "3_2067687383081103360",
+              "start": 70,
+              "url": "https://t.co/3dM9NnVAdP"
+            },
+            {
+              "display_url": "x.com/nhxao/status/2…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/nhxao/status/2067468491108868456",
+              "start": 94,
+              "url": "https://t.co/qXcZG1hszW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067687394783223990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067468491108868456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解绑不了吗\n我承认你很流氓了😓\n\n经过控制变量确认不是x的问题（可以删除别的应用），并且也不是我账号的问题（用另一个账号也一样解绑不了）😅 https://t.co/3dM9NnVAdP https://t.co/qXcZG1hszW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067468099272794112"
+          ]
+        },
+        "author_id": "1993339244996444161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067468491108868456",
+        "created_at": "2026-06-18T04:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067468491108868456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Cavoti API 是面向开发者和团队的大模型 API 中转站，兼容 OpenAI API，统一接入 Claude、GPT、Gemini、DeepSeek、Grok 等模型，支持全球节点、稳定转发和透明计费。",
+              "display_url": "cavoti.com",
+              "end": 186,
+              "expanded_url": "https://cavoti.com/",
+              "start": 163,
+              "status": 200,
+              "title": "Cavoti API | Powered by New API",
+              "unwound_url": "https://cavoti.com/",
+              "url": "https://t.co/1LLutgQxaN"
+            },
+            {
+              "display_url": "pic.x.com/Bx58wLWQLx",
+              "end": 210,
+              "expanded_url": "https://x.com/nhxao/status/2067468491108868456/photo/1",
+              "media_key": "3_2067468099272794112",
+              "start": 187,
+              "url": "https://t.co/Bx58wLWQLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067468491108868456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "cavoti.com",
+                "end": 186,
+                "expanded_url": "https://cavoti.com/",
+                "start": 163,
+                "url": "https://t.co/EyvwCTK6WK"
+              }
+            ]
+          },
+          "text": "🚀 快来 Cavoti 领取你的永久 Pro 会员！\n\n注册即可免费获得 永久 Pro 会员！\n\n✅ 每月最高可调用 200 美元 额度 \n✅ GPT + Claude 全系模型可用 \n✅ 新版智能路由，首字速度 1 秒内\n✅ 最高节省 98.6%\n\n这是目前最划算的 AI API 服务之一！\n立即领取永久免费 Pro → https://t.co/EyvwCTK6WK\n别错过！名额有限，先到先得～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 13882,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 快来 Cavoti 领取你的永久 Pro 会员！\n\n注册即可免费获得 永久 Pro 会员！\n\n✅ 每月最高可调用 200 美元 额度 \n✅ GPT + Claude 全系模型可用 \n✅ 新版智能路由，首字速度 1 秒内\n✅ 最高节省 98.6%\n\n这是目前最划算的 AI API 服务之一！\n立即领取永久免费 Pro → https://t.co/1LLutgQxaN https://t.co/Bx58wLWQLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6543,
+          "following_count": 983,
+          "like_count": 17950,
+          "listed_count": 22,
+          "media_count": 1814,
+          "tweet_count": 9973
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T15:21:34.000Z",
+        "description": "正在做API中转站 用心把他做到最好❤️\n同时也是币圈韭菜一枚\n官网👇👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cavoti.com",
+                "end": 23,
+                "expanded_url": "http://cavoti.com",
+                "start": 0,
+                "url": "https://t.co/Vutqr6ZQBZ"
+              }
+            ]
+          }
+        },
+        "id": "1993339244996444161",
+        "name": "kk爱加密",
+        "pinned_tweet_id": "2066970390371647518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053948677413318656/uC15qUcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 26,
+          "like_count": 33,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/Vutqr6ZQBZ",
+        "username": "nhxao",
+        "verified": true
+      }
+    ]
+  }
+}

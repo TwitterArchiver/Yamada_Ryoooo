@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982473890543611904",
+        "3_1982473890547851264"
+      ],
+      "media_source_tweet_id": [
+        "1982473901860163859",
+        "1982473901860163859"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982616633228308491",
+    "created_at": "2025-10-27T01:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T02:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982616633228308491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814893052823285761",
+          "start": 3,
+          "username": "FakedSky122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnNAGAiiqs",
+          "end": 40,
+          "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+          "media_key": "3_1982473890543611904",
+          "start": 17,
+          "url": "https://t.co/HnNAGAiiqs"
+        },
+        {
+          "display_url": "pic.x.com/HnNAGAiiqs",
+          "end": 40,
+          "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+          "media_key": "3_1982473890547851264",
+          "start": 17,
+          "url": "https://t.co/HnNAGAiiqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982616633228308491",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982473901860163859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FakedSky122: https://t.co/HnNAGAiiqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1982473890543611904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Mpf_ZWsAAehAE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1982473890547851264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Mpf_aXYAAa3Vg.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982473890543611904",
+            "3_1982473890547851264"
+          ],
+          "media_source_tweet_id": [
+            "1982473901860163859",
+            "1982473901860163859"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982616633228308491",
+        "created_at": "2025-10-27T01:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982616633228308491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814893052823285761",
+              "start": 3,
+              "username": "FakedSky122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnNAGAiiqs",
+              "end": 40,
+              "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+              "media_key": "3_1982473890543611904",
+              "start": 17,
+              "url": "https://t.co/HnNAGAiiqs"
+            },
+            {
+              "display_url": "pic.x.com/HnNAGAiiqs",
+              "end": 40,
+              "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+              "media_key": "3_1982473890547851264",
+              "start": 17,
+              "url": "https://t.co/HnNAGAiiqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982616633228308491",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982473901860163859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FakedSky122: https://t.co/HnNAGAiiqs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982473890543611904",
+            "3_1982473890547851264"
+          ]
+        },
+        "author_id": "1814893052823285761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982473901860163859",
+        "created_at": "2025-10-26T15:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982473901860163859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnNAGAiiqs",
+              "end": 23,
+              "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+              "media_key": "3_1982473890543611904",
+              "start": 0,
+              "url": "https://t.co/HnNAGAiiqs"
+            },
+            {
+              "display_url": "pic.x.com/HnNAGAiiqs",
+              "end": 23,
+              "expanded_url": "https://x.com/FakedSky122/status/1982473901860163859/photo/1",
+              "media_key": "3_1982473890547851264",
+              "start": 0,
+              "url": "https://t.co/HnNAGAiiqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982473901860163859",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HnNAGAiiqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 660,
+          "like_count": 13409,
+          "listed_count": 20,
+          "media_count": 1365,
+          "tweet_count": 7852
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T05:20:10.000Z",
+        "description": "中国人/Chinese🇨🇳｜transfeminine/🏳️‍🌈双性恋，友🏳️‍🌈🏳️‍⚧️｜中文/粤语/English/日本語(勉強中)｜ISTP｜喜欢摄影，编程，音乐，ACG｜百合乐队番痴迷中｜超业余电吉他新手🎸｜https://t.co/HkNef2nfej ｜14岁在读｜可互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/FakedSky122/",
+                "end": 132,
+                "expanded_url": "https://github.com/FakedSky122/",
+                "start": 109,
+                "url": "https://t.co/HkNef2nfej"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/FakedSky122/",
+                "end": 23,
+                "expanded_url": "https://github.com/FakedSky122/",
+                "start": 0,
+                "url": "https://t.co/HkNef2nfej"
+              }
+            ]
+          }
+        },
+        "id": "1814893052823285761",
+        "location": "距离你3.4km",
+        "name": "FakedSky122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962146726044672000/6O0YXgjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 999,
+          "like_count": 33314,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/HkNef2nfej",
+        "username": "FakedSky122",
+        "verified": false
+      }
+    ]
+  }
+}

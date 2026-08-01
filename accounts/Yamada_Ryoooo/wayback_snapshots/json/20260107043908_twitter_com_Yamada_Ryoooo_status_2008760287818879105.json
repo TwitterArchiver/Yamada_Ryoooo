@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008760287818879105",
+    "created_at": "2026-01-07T04:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008760287818879105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shadouyoua/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shadouyoua/status/2008321235457827244",
+          "start": 13,
+          "url": "https://t.co/XgJyPfBX9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008760287818879105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008321235457827244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "制造焦虑的傻逼给爷爬👊😆 https://t.co/XgJyPfBX9G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008760287818879105",
+        "created_at": "2026-01-07T04:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008760287818879105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shadouyoua/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shadouyoua/status/2008321235457827244",
+              "start": 13,
+              "url": "https://t.co/XgJyPfBX9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008760287818879105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008321235457827244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "制造焦虑的傻逼给爷爬👊😆 https://t.co/XgJyPfBX9G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "207903314",
+        "conversation_id": "2008321235457827244",
+        "created_at": "2026-01-05T23:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T00:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008321235457827244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008321235457827244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 120246,
+          "like_count": 961,
+          "quote_count": 12,
+          "reply_count": 84,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "普通家庭孩子改命10条铁律\n1.尽量上985/211\n2.从小保持强烈危机感\n3.大学应规划职业\n4.尽早读商业书，建立商业思维\n5.一般不听父母的话，越听话下场越惨\n6.有主见，尤其重大人生选择如选专业、工作、结婚、创业\n7.存款没200万前取消一切娱乐\n8.减少无效社交\n9.第一份工作尽量进大公司\n10.保持绝对自信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 678,
+          "like_count": 14166,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8268
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-26T08:05:35.000Z",
+        "description": "收集和分享好东西：🌍泛互联网 + 💻科技 + 🤖Al + 📃学习 + 🤑Crypto 我常用的AI效率工具Flowith ：https://t.co/TGpE7YgyV2 每天赚个小鸡腿：https://t.co/NxnGRPz4Pr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "flowith.io/?inv=5VA0HF9AE…",
+                "end": 85,
+                "expanded_url": "https://flowith.io?inv=5VA0HF9AE9SKP4WL",
+                "start": 62,
+                "url": "https://t.co/TGpE7YgyV2"
+              },
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 117,
+                "expanded_url": "https://t.me/jisou?start=a_5636465068",
+                "start": 94,
+                "url": "https://t.co/NxnGRPz4Pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbshare.site",
+                "end": 23,
+                "expanded_url": "https://bbshare.site",
+                "start": 0,
+                "url": "https://t.co/7spZCJlj9s"
+              }
+            ]
+          }
+        },
+        "id": "207903314",
+        "name": "bbshare",
+        "pinned_tweet_id": "2007629662873416157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861627847343058944/CJLGJ_-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33821,
+          "following_count": 651,
+          "like_count": 4877,
+          "listed_count": 170,
+          "media_count": 3517,
+          "tweet_count": 7840
+        },
+        "url": "https://t.co/7spZCJlj9s",
+        "username": "shadouyoua",
+        "verified": true
+      }
+    ]
+  }
+}

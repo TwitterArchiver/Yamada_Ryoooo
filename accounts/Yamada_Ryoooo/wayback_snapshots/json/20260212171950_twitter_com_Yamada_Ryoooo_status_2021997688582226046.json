@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2021487070615867872",
+    "created_at": "2026-02-12T17:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021997688582226046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1404738934043602947",
+          "start": 0,
+          "username": "Jackywine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021997688582226046",
+    "in_reply_to_user_id": "1404738934043602947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021487070615867872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jackywine 现在小孩不用互联网搜索了，都去问ai了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2021486763735416832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3DgFaagAA9qFZ.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2021487070615867872",
+        "created_at": "2026-02-12T17:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021997688582226046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1404738934043602947",
+              "start": 0,
+              "username": "Jackywine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021997688582226046",
+        "in_reply_to_user_id": "1404738934043602947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021487070615867872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jackywine 现在小孩不用互联网搜索了，都去问ai了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021486763735416832"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2021487070615867872",
+        "created_at": "2026-02-11T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021487070615867872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZzuzwBZc1",
+              "end": 45,
+              "expanded_url": "https://x.com/Jackywine/status/2021487070615867872/photo/1",
+              "media_key": "3_2021486763735416832",
+              "start": 22,
+              "url": "https://t.co/4ZzuzwBZc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021487070615867872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1010,
+          "impression_count": 339791,
+          "like_count": 3067,
+          "quote_count": 43,
+          "reply_count": 174,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "今天用知乎测网速，看到了一篇牛而逼之的回答 https://t.co/4ZzuzwBZc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 1074,
+          "like_count": 15733,
+          "listed_count": 22,
+          "media_count": 1519,
+          "tweet_count": 8832
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "现苹果、xAI、谷歌、字节跳动用户，清华大学游客\n不过是工作之余分享一些 AI、品牌、UIUX、产品、一人公司、AI创业、梗图、好车的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj\n公众号：jackywine\n2026零基础自学 AI 就来我知识库👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jackywineEarth",
+                "end": 116,
+                "expanded_url": "http://t.me/jackywineEarth",
+                "start": 93,
+                "url": "https://t.co/HRpOru3LUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/BX54wYGhJ…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/BX54wYGhJizwzhkKLbFcqaSKnPb",
+                "start": 0,
+                "url": "https://t.co/SIc6iP3BDY"
+              }
+            ]
+          }
+        },
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "pinned_tweet_id": "2019419775634665761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33529,
+          "following_count": 3103,
+          "like_count": 85618,
+          "listed_count": 312,
+          "media_count": 4241,
+          "tweet_count": 27876
+        },
+        "url": "https://t.co/SIc6iP3BDY",
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

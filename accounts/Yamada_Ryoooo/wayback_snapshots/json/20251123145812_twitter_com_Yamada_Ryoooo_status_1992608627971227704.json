@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992608627971227704",
+    "created_at": "2025-11-23T14:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T15:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992608627971227704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1992565435120947623",
+          "start": 144,
+          "url": "https://t.co/O6D2B74dL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992608627971227704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992565435120947623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这些中国ip的绝对不是网警，因为网警办公室的ip是新加坡的😆我真连过\n中国ip相当于直接没有墙了，所以不是vpn通过，比大家的都高级，相当于专供了\n还有说运营商有专线的，那种都是从香港拉过来的专线而不是直接无墙，所以企业和运营商都没有资格直接获得无墙的中国网络，这种的绝对是政府准许的😌 https://t.co/O6D2B74dL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1183,
+        "media_key": "3_1992564675838357504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDA_9WMAAT10E.jpg",
+        "width": 881
+      },
+      {
+        "height": 1191,
+        "media_key": "3_1992564685619515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDBkZW0AA4fnE.jpg",
+        "width": 968
+      },
+      {
+        "height": 1171,
+        "media_key": "3_1992564695006351360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDCHXWkAA2N06.jpg",
+        "width": 946
+      },
+      {
+        "height": 1165,
+        "media_key": "3_1992564706851086336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cDCzfW4AAKDuB.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992608627971227704",
+        "created_at": "2025-11-23T14:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992608627971227704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1992565435120947623",
+              "start": 144,
+              "url": "https://t.co/O6D2B74dL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992608627971227704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992565435120947623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些中国ip的绝对不是网警，因为网警办公室的ip是新加坡的😆我真连过\n中国ip相当于直接没有墙了，所以不是vpn通过，比大家的都高级，相当于专供了\n还有说运营商有专线的，那种都是从香港拉过来的专线而不是直接无墙，所以企业和运营商都没有资格直接获得无墙的中国网络，这种的绝对是政府准许的😌 https://t.co/O6D2B74dL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992564675838357504",
+            "3_1992564685619515392",
+            "3_1992564695006351360",
+            "3_1992564706851086336"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1992565435120947623",
+        "created_at": "2025-11-23T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992565435120947623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xv5p1MThI4",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1992565435120947623/photo/1",
+              "media_key": "3_1992564675838357504",
+              "start": 61,
+              "url": "https://t.co/Xv5p1MThI4"
+            },
+            {
+              "display_url": "pic.x.com/Xv5p1MThI4",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1992565435120947623/photo/1",
+              "media_key": "3_1992564685619515392",
+              "start": 61,
+              "url": "https://t.co/Xv5p1MThI4"
+            },
+            {
+              "display_url": "pic.x.com/Xv5p1MThI4",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1992565435120947623/photo/1",
+              "media_key": "3_1992564695006351360",
+              "start": 61,
+              "url": "https://t.co/Xv5p1MThI4"
+            },
+            {
+              "display_url": "pic.x.com/Xv5p1MThI4",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1992565435120947623/photo/1",
+              "media_key": "3_1992564706851086336",
+              "start": 61,
+              "url": "https://t.co/Xv5p1MThI4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992565435120947623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 201796,
+          "like_count": 1390,
+          "quote_count": 16,
+          "reply_count": 164,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "11月23日，在X推出账号IP功能后，有网友发现，一批自称是维吾尔人，平时主要发布中国外宣内容的账号是从中国境内直连的。 https://t.co/Xv5p1MThI4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 671,
+          "like_count": 13692,
+          "listed_count": 21,
+          "media_count": 1399,
+          "tweet_count": 8018
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147786,
+          "following_count": 979,
+          "like_count": 8349,
+          "listed_count": 8411,
+          "media_count": 37580,
+          "tweet_count": 44446
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

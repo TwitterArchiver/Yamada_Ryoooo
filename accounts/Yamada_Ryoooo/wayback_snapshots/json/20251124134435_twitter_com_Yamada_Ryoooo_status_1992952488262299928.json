@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "1992819653123465290",
+    "created_at": "2025-11-24T13:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992952488262299928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1332252107638927360",
+          "start": 0,
+          "username": "jun17630250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992952488262299928",
+    "in_reply_to_user_id": "1332252107638927360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992819653123465290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun17630250 中国区AppStore可以下载外国软件，手机地区设置到美国就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1992819653123465290",
+        "created_at": "2025-11-24T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992952488262299928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1332252107638927360",
+              "start": 0,
+              "username": "jun17630250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992952488262299928",
+        "in_reply_to_user_id": "1332252107638927360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992819653123465290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun17630250 中国区AppStore可以下载外国软件，手机地区设置到美国就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332252107638927360",
+        "conversation_id": "1992819653123465290",
+        "created_at": "2025-11-24T04:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992819653123465290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992819653123465290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于X显ip这个功能做一个基础的科普。\n1.通过一定的技术手段，可以有办法让你明明开着vpn却不显示警告。\n\n2.无论你通过什么技术手段，也做不到china直连，能做到的只有政府允许的特殊信道。\n\n3.china直连的未必一定是狱友和皇家狗粮军，自干五的可能行也很大。想拿到这个许可也不难，带着你的公司或者个体工商户的相关证件到当地公安局说明情况后好像是要交笔钱，忘了是给公安局还是运营商了，拿到许可后联系你的网络运营商就可以申请。\n好处是不翻墙也能上外网，坏处是你被拴上了一根长狗链，平时啥事没有也没啥限制，一旦有事了人家后面一拽就能抓到你，所以只能谨言慎行说他们爱听的。\n\n4.第二条之所以能成立源自于翻墙的本质，详细原理懂得都知道不懂得解释起来很费字，比喻一下就是这网络可以看作一条线，中国这条线在通向世界的时候被人系了个解不开的死结。你想走通这条线无论哪种形式的翻墙原理基本都是在死结之前的一个点外接一条线绕开死结。但是只要你绕了别的线，出口就变了，所以能检测到你用梯子，如果出口再做一个伪装推特就认不出来。但是你的地理位置也会被默认成出口的位置。\n而china直连意味着死结被解开了，你是从正规出口走出去的，无论是给你临时解开死结还是给你安排另一个官方出口让你绕开死结，都需要系扣者的准许。\n\n5.有的苹果用户可能跟我一个状况，明明是外国账号下载的X但是为啥显示是中国商店下载的？\n因为两点，第一这个注册客户端是你第一次注册的设备不可更改。\n第二有人会问中国商店根本没有x，为啥显示我是中国商店注册的，因为X检测的一个bug，他看的是你苹果账号的初始信息。你们跟我一样，这个苹果账号原本是中国区的，后绑定外国地址和电话还有支付方式改的区，这样即使你是外国商店下载的推特依旧识别不出来还是会读出你苹果账号初始的注册区域。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4462,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "关于X显ip这个功能做一个基础的科普。\n1.通过一定的技术手段，可以有办法让你明明开着vpn却不显示警告。\n\n2.无论你通过什么技术手段，也做不到china直连，能做到的只有政府允许的特殊信道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4629,
+          "following_count": 672,
+          "like_count": 13707,
+          "listed_count": 19,
+          "media_count": 1400,
+          "tweet_count": 8031
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T09:17:17.000Z",
+        "description": "希望给我推文点赞评论的二极管们能读读我其它的推文和回复。\n别今天骂了日本蜘蛛赞评明天骂了支那精日赞评。只要你的立场是人种，国家，性别，左右逼，这种抱团取暖的垃圾。在我眼里都是傻逼。\n我的立场永远是个人，一切好坏以我自己的观感为主。认爹的和想给我认爹的别挨骂了才知道急。",
+        "id": "1332252107638927360",
+        "location": "池袋",
+        "name": "横浜打野",
+        "pinned_tweet_id": "1988576148092277203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862083611811569664/aDIElDkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6859,
+          "following_count": 1560,
+          "like_count": 3940,
+          "listed_count": 0,
+          "media_count": 2900,
+          "tweet_count": 21394
+        },
+        "username": "jun17630250",
+        "verified": true
+      }
+    ]
+  }
+}

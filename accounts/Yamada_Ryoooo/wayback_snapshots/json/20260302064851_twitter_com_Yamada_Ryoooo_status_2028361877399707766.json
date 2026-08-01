@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2028301356298391980",
+    "created_at": "2026-03-02T06:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028361877399707766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028361877399707766",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028301356298391980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 他不只切了一边吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7722,
+        "height": 720,
+        "media_key": "13_2028301065955971072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028301065955971072/img/dkrlOYxo1qV7-Gcf.jpg",
+        "public_metrics": {
+          "view_count": 311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028301065955971072/vid/avc1/584x270/1qCrnkEkOL7ZIJhC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028301065955971072/vid/avc1/780x360/EWIzvwHf3tQIwC6q.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028301065955971072/vid/avc1/1560x720/_m3Keb1ItojXiEmg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028301065955971072/pl/BjhHlglGB3ppPuvW.m3u8?tag=14"
+          }
+        ],
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028301065935065088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX5ErSbEAAt2Y0.jpg",
+        "width": 513
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2028301356298391980",
+        "created_at": "2026-03-02T06:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028361877399707766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028361877399707766",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028301356298391980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 他不只切了一边吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028301065955971072",
+            "3_2028301065935065088"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2028301356298391980",
+        "created_at": "2026-03-02T02:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028301356298391980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OS8Mp1fakI",
+              "end": 81,
+              "expanded_url": "https://x.com/DianJ71828/status/2028301356298391980/video/1",
+              "media_key": "13_2028301065955971072",
+              "start": 58,
+              "url": "https://t.co/OS8Mp1fakI"
+            },
+            {
+              "display_url": "pic.x.com/OS8Mp1fakI",
+              "end": 81,
+              "expanded_url": "https://x.com/DianJ71828/status/2028301356298391980/video/1",
+              "media_key": "3_2028301065935065088",
+              "start": 58,
+              "url": "https://t.co/OS8Mp1fakI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028301356298391980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 754,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老唐这下不似也残，我们不要骂老唐了喵，本来人就没睾丸，现在已经全损了！你们还欺负人家！（）赶紧！给唐皇帝买pr去！ https://t.co/OS8Mp1fakI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5940,
+          "following_count": 1067,
+          "like_count": 16229,
+          "listed_count": 21,
+          "media_count": 1534,
+          "tweet_count": 8993
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 516,
+          "like_count": 11359,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 2183
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

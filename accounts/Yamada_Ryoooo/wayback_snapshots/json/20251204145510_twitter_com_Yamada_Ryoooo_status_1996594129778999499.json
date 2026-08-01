@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1996594129778999499",
+    "created_at": "2025-12-04T14:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996594129778999499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diehlerica2311…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/diehlerica23116/status/1996491271058419862",
+          "start": 20,
+          "url": "https://t.co/iVp4o2fTWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996594129778999499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996491271058419862",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看bobo和拉老师也是一对苦命鸳鸯啊 https://t.co/iVp4o2fTWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1996485667304706048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7TxIvbbEAAh3jY.jpg",
+        "width": 3065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1996594129778999499",
+        "created_at": "2025-12-04T14:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996594129778999499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diehlerica2311…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/diehlerica23116/status/1996491271058419862",
+              "start": 20,
+              "url": "https://t.co/iVp4o2fTWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996594129778999499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996491271058419862",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看bobo和拉老师也是一对苦命鸳鸯啊 https://t.co/iVp4o2fTWi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996485667304706048"
+          ]
+        },
+        "author_id": "1862783830647533568",
+        "conversation_id": "1996491271058419862",
+        "created_at": "2025-12-04T08:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996491271058419862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "215939847",
+              "start": 98,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Zo8qLMkYh",
+              "end": 131,
+              "expanded_url": "https://x.com/DiehlErica23116/status/1996491271058419862/photo/1",
+              "media_key": "3_1996485667304706048",
+              "start": 108,
+              "url": "https://t.co/6Zo8qLMkYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996491271058419862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 18273,
+          "like_count": 94,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我这人就是有过于严重的容貌焦虑，对自己的长相特别不自信。\n其实我跟啵鸡鸡在一起合照，是非常非常登对的，有一种天造地设珠联璧合的感觉。\n我们什么时候结婚呀？我一定不能错过你！我们必须在一起！\n@bboczeng https://t.co/6Zo8qLMkYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5413,
+          "following_count": 676,
+          "like_count": 13816,
+          "listed_count": 20,
+          "media_count": 1407,
+          "tweet_count": 8084
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T09:01:08.000Z",
+        "description": "妈系少女｜荆楚、湖湘｜文化和旅游（文学、艺术、非遗）｜极度在意Limit的Abundance（丰饶）、抽象、游戏、两边法则",
+        "id": "1862783830647533568",
+        "name": "Latifah",
+        "pinned_tweet_id": "1964696214018179177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970684825561636868/UeBT1hWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 157,
+          "like_count": 855,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 623
+        },
+        "username": "DiehlErica23116",
+        "verified": false
+      }
+    ]
+  }
+}

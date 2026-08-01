@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2038609973824086151",
+    "created_at": "2026-03-30T13:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038609973824086151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/jianlvup/status/2038604598169207013",
+          "start": 58,
+          "url": "https://t.co/Dg531QSPk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038609973824086151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038604598169207013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次去中环\n看到好多人坐在路上，几乎没有亚洲面孔😅\n不知道是在排队等奢侈品店开门还是怎么样，反正把路都占满了😅😅😅 https://t.co/Dg531QSPk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1669,
+        "media_key": "3_2038604588954292225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqUEpoaEAEap7v.jpg",
+        "width": 960
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2038604595656900608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqUFCmbwAAqx-q.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2038609973824086151",
+        "created_at": "2026-03-30T13:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038609973824086151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/jianlvup/status/2038604598169207013",
+              "start": 58,
+              "url": "https://t.co/Dg531QSPk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038609973824086151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038604598169207013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次去中环\n看到好多人坐在路上，几乎没有亚洲面孔😅\n不知道是在排队等奢侈品店开门还是怎么样，反正把路都占满了😅😅😅 https://t.co/Dg531QSPk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038604588954292225",
+            "3_2038604595656900608"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "2038604598169207013",
+        "created_at": "2026-03-30T13:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038604598169207013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCo2uXXYxQ",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/2038604598169207013/photo/1",
+              "media_key": "3_2038604588954292225",
+              "start": 12,
+              "url": "https://t.co/uCo2uXXYxQ"
+            },
+            {
+              "display_url": "pic.x.com/uCo2uXXYxQ",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/2038604598169207013/photo/1",
+              "media_key": "3_2038604595656900608",
+              "start": 12,
+              "url": "https://t.co/uCo2uXXYxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038604598169207013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 145,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在香港，亚洲蹲犯法吗？ https://t.co/uCo2uXXYxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 1078,
+          "like_count": 16854,
+          "listed_count": 21,
+          "media_count": 1651,
+          "tweet_count": 9357
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2038404195087536524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17440,
+          "following_count": 1456,
+          "like_count": 76592,
+          "listed_count": 60,
+          "media_count": 2827,
+          "tweet_count": 6030
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

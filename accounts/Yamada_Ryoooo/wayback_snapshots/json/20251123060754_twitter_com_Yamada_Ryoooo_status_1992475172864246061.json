@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992475163804483584"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992475172864246061",
+    "created_at": "2025-11-23T06:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992475172864246061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/khcHyVqi4N",
+          "end": 50,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992475172864246061/photo/1",
+          "media_key": "3_1992475163804483584",
+          "start": 27,
+          "url": "https://t.co/khcHyVqi4N"
+        },
+        {
+          "display_url": "x.com/jiang_ruan520/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/jiang_ruan520/status/1992469255103857107",
+          "start": 51,
+          "url": "https://t.co/XCCAumRaFM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992475172864246061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992469255103857107",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼蜘蛛用着你的垃圾国产安卓机在出租房里翻墙意淫呢🤣 https://t.co/khcHyVqi4N https://t.co/XCCAumRaFM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992475163804483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6axmtpawAAQ2I8.jpg",
+        "width": 1150
+      },
+      {
+        "height": 935,
+        "media_key": "3_1992469252197298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6asOnMbsAAte6R.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992475163804483584"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992475172864246061",
+        "created_at": "2025-11-23T06:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992475172864246061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khcHyVqi4N",
+              "end": 50,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992475172864246061/photo/1",
+              "media_key": "3_1992475163804483584",
+              "start": 27,
+              "url": "https://t.co/khcHyVqi4N"
+            },
+            {
+              "display_url": "x.com/jiang_ruan520/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/jiang_ruan520/status/1992469255103857107",
+              "start": 51,
+              "url": "https://t.co/XCCAumRaFM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992475172864246061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992469255103857107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼蜘蛛用着你的垃圾国产安卓机在出租房里翻墙意淫呢🤣 https://t.co/khcHyVqi4N https://t.co/XCCAumRaFM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992469252197298176"
+          ]
+        },
+        "author_id": "1962862026101080064",
+        "conversation_id": "1992464103265448193",
+        "created_at": "2025-11-23T05:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992469255103857107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yonSN1BQN9",
+              "end": 60,
+              "expanded_url": "https://x.com/jiang_ruan520/status/1992469255103857107/photo/1",
+              "media_key": "3_1992469252197298176",
+              "start": 37,
+              "url": "https://t.co/yonSN1BQN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992469255103857107",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992464103265448193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 🤮眉目的洞悉台没你这种🇯🇵✓，找个娄跳了吧 https://t.co/yonSN1BQN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 670,
+          "like_count": 13652,
+          "listed_count": 20,
+          "media_count": 1399,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T12:56:11.000Z",
+        "description": "",
+        "id": "1962862026101080064",
+        "name": "兔兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992394363473981440/DEoZVP_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "jiang_ruan520",
+        "verified": false
+      }
+    ]
+  }
+}

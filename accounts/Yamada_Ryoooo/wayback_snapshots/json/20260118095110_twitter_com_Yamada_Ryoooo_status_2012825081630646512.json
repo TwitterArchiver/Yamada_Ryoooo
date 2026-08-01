@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012360190885310479",
+    "created_at": "2026-01-18T09:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T10:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012825081630646512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995496782923698176",
+          "start": 0,
+          "username": "ZkzzzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012825081630646512",
+    "in_reply_to_user_id": "1995496782923698176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012360190885310479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZkzzzV 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2012360158907940864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1W5w_bQAAkS2G.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012360190885310479",
+        "created_at": "2026-01-18T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012825081630646512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995496782923698176",
+              "start": 0,
+              "username": "ZkzzzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012825081630646512",
+        "in_reply_to_user_id": "1995496782923698176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012360190885310479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZkzzzV 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012360158907940864"
+          ]
+        },
+        "author_id": "1995496782923698176",
+        "conversation_id": "2012360190885310479",
+        "created_at": "2026-01-17T03:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012360190885310479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGmAItm5Yu",
+              "end": 42,
+              "expanded_url": "https://x.com/ZkzzzV/status/2012360190885310479/photo/1",
+              "media_key": "3_2012360158907940864",
+              "start": 19,
+              "url": "https://t.co/DGmAItm5Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012360190885310479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 996,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "互关一波\n诚信互关 永不取消\n#互关 https://t.co/DGmAItm5Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5353,
+          "following_count": 843,
+          "like_count": 14502,
+          "listed_count": 21,
+          "media_count": 1453,
+          "tweet_count": 8467
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-01T14:15:06.000Z",
+        "description": "实盘选手 Waiting for the market's call 现货波段为主 合约只是玩 人生目标是徒步和看星🌌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/zkzzzv",
+                "end": 23,
+                "expanded_url": "http://vlink.cc/zkzzzv",
+                "start": 0,
+                "url": "https://t.co/Ya0oPPRyhX"
+              }
+            ]
+          }
+        },
+        "id": "1995496782923698176",
+        "location": "🎄ZkzzzV门槛行情群",
+        "name": "𝘡𝘬𝘻𝘻𝘻𝘝（互关中）",
+        "pinned_tweet_id": "2012360190885310479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004147506192752640/F5lf3d6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 444,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/Ya0oPPRyhX",
+        "username": "ZkzzzV",
+        "verified": true
+      }
+    ]
+  }
+}

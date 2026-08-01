@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1979524088138981460",
+    "created_at": "2025-10-18T13:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T14:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979543411830251785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979543411830251785",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979524088138981460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 居然是中文吧吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_1979524003560660992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iul-CXoAA12--.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1979524088138981460",
+        "created_at": "2025-10-18T13:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979543411830251785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979543411830251785",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979524088138981460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 居然是中文吧吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979524003560660992"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1979524088138981460",
+        "created_at": "2025-10-18T12:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T13:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979524088138981460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQ9ESitrgL",
+              "end": 42,
+              "expanded_url": "https://x.com/KawawaShota/status/1979524088138981460/photo/1",
+              "media_key": "3_1979524003560660992",
+              "start": 19,
+              "url": "https://t.co/QQ9ESitrgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979524088138981460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好了今天的VRC就玩到这了 太哈人了 https://t.co/QQ9ESitrgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4455,
+          "following_count": 694,
+          "like_count": 13419,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7810
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜& Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬\n日本語⭕、English⭕、蜀语⭕\n理科系学畜🧪\n拉面仙人🍜\n一般厌蠢\n弱智吧搬石工自觉爬\nJapanglish NG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6LaCqX"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1799806305026384261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979181079417290752/wVluLINB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12864,
+          "following_count": 2007,
+          "like_count": 51300,
+          "listed_count": 64,
+          "media_count": 1130,
+          "tweet_count": 7109
+        },
+        "url": "https://t.co/hLiv6LaCqX",
+        "username": "KawawaShota",
+        "verified": false
+      }
+    ]
+  }
+}

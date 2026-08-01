@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2040975177886871602",
+    "created_at": "2026-04-06T03:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040990045705019489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815033214353936384",
+          "start": 0,
+          "username": "Euroocean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040990045705019489",
+    "in_reply_to_user_id": "1815033214353936384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040975177886871602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Euroocean 绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1587,
+        "media_key": "3_2040975175525515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMAG8yWwAAK4OM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2040975177886871602",
+        "created_at": "2026-04-06T03:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040990045705019489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815033214353936384",
+              "start": 0,
+              "username": "Euroocean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040990045705019489",
+        "in_reply_to_user_id": "1815033214353936384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040975177886871602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Euroocean 绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040975175525515264"
+          ]
+        },
+        "author_id": "1815033214353936384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040975177886871602",
+        "created_at": "2026-04-06T02:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040975177886871602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N6eWbTXAzx",
+              "end": 166,
+              "expanded_url": "https://x.com/Euroocean/status/2040975177886871602/photo/1",
+              "media_key": "3_2040975175525515264",
+              "start": 143,
+              "url": "https://t.co/N6eWbTXAzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040975177886871602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简直是太差，我真是一颗星都不想给\n\n好不容易等到暑假，儿子非要闹着来重庆看什么胖猫，1200百多公里开过来，热的要死，哪有什么胖猫，无良景点，欺骗我们?\n\n之后我家孩子还非要点什么麦当劳，我怎么会给他买?凭什么买?你们谁骗我孩子的，最好赶紧给我出来，我家孩子怎么会变成这样??差出天际 https://t.co/N6eWbTXAzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6203,
+          "following_count": 1080,
+          "like_count": 16986,
+          "listed_count": 22,
+          "media_count": 1675,
+          "tweet_count": 9432
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T14:37:08.000Z",
+        "description": "04年/勇闯世界🏄‍♀️/个人成长/狠抓搞钱/自媒体",
+        "id": "1815033214353936384",
+        "name": "欧海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012537719000305665/0eFzrATl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 520,
+          "like_count": 571,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 511
+        },
+        "username": "Euroocean",
+        "verified": true
+      }
+    ]
+  }
+}

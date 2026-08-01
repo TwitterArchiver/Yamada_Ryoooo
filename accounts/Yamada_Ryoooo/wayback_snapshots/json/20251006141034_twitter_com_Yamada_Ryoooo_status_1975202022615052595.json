@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1975202022615052595",
+    "created_at": "2025-10-06T14:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975202022615052595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qingy82778/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/qingy82778/status/1975073339623493768",
+          "start": 6,
+          "url": "https://t.co/4hN5ZVpKhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975202022615052595",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975073339623493768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "居然是苞米 https://t.co/4hN5ZVpKhv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975073331373289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jeuwHaMAA8eb8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1975202022615052595",
+        "created_at": "2025-10-06T14:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975202022615052595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingy82778/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/qingy82778/status/1975073339623493768",
+              "start": 6,
+              "url": "https://t.co/4hN5ZVpKhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975202022615052595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975073339623493768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然是苞米 https://t.co/4hN5ZVpKhv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975073331373289472"
+          ]
+        },
+        "author_id": "1786589996214005760",
+        "conversation_id": "1975073339623493768",
+        "created_at": "2025-10-06T05:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975073339623493768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBxYv1His7",
+              "end": 33,
+              "expanded_url": "https://x.com/QingY82778/status/1975073339623493768/photo/1",
+              "media_key": "3_1975073331373289472",
+              "start": 10,
+              "url": "https://t.co/XBxYv1His7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975073339623493768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4217,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中秋快乐哦 🫶🫶🫶 https://t.co/XBxYv1His7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 694,
+          "like_count": 13416,
+          "listed_count": 20,
+          "media_count": 1360,
+          "tweet_count": 7764
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T02:53:53.000Z",
+        "description": "虚负凌云万丈才，一生襟抱未曾开. 鸟啼花落人何在，竹死桐枯凤不来……",
+        "id": "1786589996214005760",
+        "location": "中南海 怀仁堂",
+        "name": "KKK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955997544791564292/z790Dr3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 94,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 135
+        },
+        "username": "QingY82778",
+        "verified": false
+      }
+    ]
+  }
+}

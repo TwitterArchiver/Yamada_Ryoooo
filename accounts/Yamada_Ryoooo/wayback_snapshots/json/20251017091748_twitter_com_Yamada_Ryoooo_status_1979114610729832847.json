@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1979109611602121165",
+    "created_at": "2025-10-17T09:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979114610729832847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979114610729832847",
+    "in_reply_to_user_id": "28530405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979109611602121165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 期待😸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1979109611602121165",
+        "created_at": "2025-10-17T09:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979114610729832847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979114610729832847",
+        "in_reply_to_user_id": "28530405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979109611602121165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 期待😸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1979109611602121165",
+        "created_at": "2025-10-17T08:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979109611602121165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 268,
+              "expanded_url": "https://twitter.com/manateelazycat/status/1978370199855518085",
+              "start": 245,
+              "url": "https://t.co/fjMvv8qsiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979109611602121165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "开奖倒计时3小时！！！！\n\n欢迎大佬们参与活动\n\n目前的名单统计\n\n_ablackbird\n_Albert_Bob\n_Genshin_Ganyu_\n_Mark24_\n_rainbowatcher\n0x00593\n0x00vip\n0x2ERO\n0xDaNana\n0xDiy\n0xexx\n0xFeee\n0xff22\n0xMeowwww\n0xopc\n0xRichardH\n0xSnu\n0xVvVvVvVv\n0xXJC\n0xYellow_Ben\n123olp\n154cd2b\n1KXXXXXXXX\n1leh6ZJhxMKj3jF\n3t2y\n8hoAdjwraI30qOt\n931852jh\na199805291036\nabc_ABC_123_233\nactoone\nafkk1000\naie_phoenix\naiermx\nAlan_66666\nAlexJayGuo\nalexxuwow\nAliceLFG\nAllen8Lam\nALLMemex\nAlwaysWandy1122\nAmadeus_Julian\nAmiraclebien\nAmmo27238506\nAnRedPassNow\nanyonebutmetro\nApexFNF\nAshleyP16926806\nasmallbaixiong\natom000777\natoo0577\nAtticus_liang\nattrackconfig\natuzhu\nAWADASUOMIN\nawhiteshark\nAyakaNya_0412\nayingott319\nAYuT0000\nb40yd\nbben666888\nbear_dust\nBeijing_Hot\nbenlw4\nbestmrlee\nBetraySmile\nbianaiSM\nbiantaigary\nbiantaimingoong\nbiewanjitale\nbigerchicken\nbinbho7\nBITFUNR\nbiubiula1601481\nbiubiumiumiumiu\nblack_yau\nBlackRanger1999\nbluesky13145\nbluesky86747679\nbmfy272\nboao000\nBoboXiuxiu\nboik_su\nboikawa1212\nBQSCZ\nBrickInTh3Wall\nbrynn7v\nBTC21K\nBtc25f\nbtcisgolden\nBTCYSJ\nbujianshi\nBytePoetry\nC_CHH\nc22019g\nc26root\nC5H8N1NaO4\ncaborge\ncadichevuick\ncalsys456\ncanotfindme\ncaoyangi\nCaptainVIIX\nCarson8742\nCatStatsD\ncatYueYue\nCCC_chair\ncccape598\nCcsscc4ever\nCerWatch\nCH66060103\nChainSharkApp\nChenUniYY\nChishSAMA\nchouj0\nCLee5087\ncliffhp\ncnliuneng\ncNo1Zk\ncocdeshijie\ncocofee2016\nCoderPawn\nCodeToRun\nCR7LFG\nCrazy_Miao_\nCrypto1van\ncrypto2ntf\nCrypto47X\nCryptoWH0\nCryptoZoloo\ncswnod1\nCurtisCClark\ncyj228\ndaweiba007\ndayonejin\ndeafchen2\nDean27412757\nDearHua2025\nDegenCooking\ndevbins\nDggwall\nDl4tDQklyu90AHT\nDluffywang\ndollarboy17\ndoooge369\nDreamerBank\nDubrooKoo\nDView9577\nEaslo_eth\nEmyorii\nen_wanting\nENZO0000000\nEnzoArcher\nepapa904\nEric_Tsin\nEspDefine\netoeasy\nEvanChi_log\nEvn_X2\nexixia\nFalse_monk\nFan5han\nfatpacai\nfeambo\nfedoraBlueHat\nfei_ji66166\nFeinXBT\nfittinb\nfloatUp567\nflorian2402743\nFLT_wei\nFm90722718\nfocus666888\nfokia6\nfoo\nforward713\nfrankyerger7\nFree2034\nFreeNetizen\nFsaascobbNOJBbF\nFstymdy\nGao2Shou\nge_xuy\nGele_Master\ngeorgelqy0519\ngetgater\ngg68510545\ngjfjkfy\ngkcgkv137430\ngodogodog0\nGodotLuck\nGradyPark86\nGrantChong\nhagunacc\nhangj_\nHaoren_\nhappley\nhawlmn\nhbzanclub\nheerhunter0\nhello_123_321_1\nHilda74790083\nhinkerliu\nHK0503HK\nHLiuhai56499\nHODLFG\nhodonari1981\nhoho32585150\nHooChuYuan\nhoop_viz\nhousemecn\nhtml3c\nhuaite_bulang\nhudhuc5735\nhuniuniu290386\nhunkguo\nhupisha\nHxylllusion\nhzyj772\niamhucong\nicearn0\nicnmd\nifs1776\nimdaniel829\nImKrisYan\nImmerse_code\niMrElon\nisiah_lin\niWildChild\njAAoOS5rqt96741\nJacobZ44312623\njacobzh78934745\njames_chenerge\njanronehoo\nJarvisG49529\njasonwei945\njean16018602\nJenenliu1\njensfrank1124\nJhnr8R\njiamizhilang\njiarenlu\njiawei322\njinghuai239\njkscu85189928\njljl628229\nJohnson11281128\njoney1314520\njrtxio\njsma___\nJuneJunezm\njunqiaochen2\nJyTechn\njzw690\nkafei851120\nKaik50592467310\nKaiwenR1\nkalicyh\nKaviaxI\nkay19000\nkekek711\nkevin__2012\nKevin75365243\nKevinlitte3\nkevinsunchn\nking1821661\nKingerZoru\nkkdy_1\nkqy_wj45\nKratosWei\nkuankqaq\nkulong995\nKxsg79bEYFP4\nkz152cx\nlalafang001\nlance_42303\nlaniakea_lee\nLaoMianyang66\nlaoshaoping_an\nLau_amoe\nlauk_liu\nLazyBetrayer\nleavky\nLeguanzhu1\nleochen_code\nLeoskie_L\nletsgo2022\nLFGXBT\nlhq____\nLikeSimpler\nlikon07385146\nLiliStation7931\nlingganhuilu\nlinks_marvel\nLinksysWRT3200\nLinlun123\nlinpika7\nLinshibiL42337\nlinux_okk\nlinxiyu1981\nliqing730814\nliruifengv\nLituriby\nliuhongyu16\nliuqcj\nliuqitoday\nLiureneth\nlizhoufanfan\nllagoer\nlmbrightyv\nLonely__MH\nLongZ2020\nLucasHuang0722\nLucifer_test1\nluckinhans\nluckyzdoo\nLunarwa11\nlungta2012\nLuochancyOWO\nLvJing2011\nlvweifu1024\nlxhfollowbabal\nLyle95959023\nlzyyauto\nM_Nlin\nMagicalPhoenix3\nmalongan\nmanateelazycat\nMandyJina75768\nManxiTang\nmaozhuaci\nmark_web666\nMatthewUpbeat\nmcqjcbx\nmeiyounonono777\nMemexAlpha\nMengXi969\nmengzhongrenabc\nMeow1149220Meow\nmhyp1xy\nmiaogu_qian\nMinitanghulu\nminzi003\nMixCyborg\nMMcx158\nmngguqng219172\nmngychn11\nMobile_3K\nmoon_5199\nMoonlight550636\nMr_HenTai_II\nMrDeeev\nMrFzF\nMrMarketX\nmsfm_2020\nmurezsy\nMurong3413\nMVPBuilderX\nmxuexxmy\nmylifewaiting\nNaiveShiki\nNekko_CH\nneptunesq\nNeZhaBTC\nnhyy2022\nNibbles_CN\nNickHood1984\nnightynight_375\nninomonitor\nniuniu_8964\nNonametoregist\nnowubeing2\nOceant1238\nodtu945\nogg42440127\nohblue\nold_garfield\nonanooo_o\nop14e\nopen0slo\noscar4325\nousinu\noutstripmyself\np_eace_p\nP1N475u\nPage59155608\nparaslene2080\npeekthesekai\nPengpengpengly\npengshp\npepe82215845991\nPeterpa67742830\nPeterPig231991\npinkoiroo\npipuwong\nPlansToy\nppseesea\nProject_Luo\nProsperousAnts\npukehub43630\npupushaui\nQianxnu\nqklman\nqsw745\nrainly\nrationzzall\nrD7kMqgevE4ydxz\nreal_clover_yan\nreal_uCharles\nrealchendahuang\nrealllkk520\nRecopec\nRFukuki30251\nrnnnmb\nRuneInTheMist\nRZLHongKong\ns7lx\nsamwellwang\nsavigny1779\nsbujtn\nscarletsky1025\nschnautze\nsCuSO_4\nseaapub\nSeefs_\nSensenfish\nSevenlilili\nshaoxun66\nshellwalker8\nshikou_ri\nShinetsu09\nshowmylifezz\nshyskysora\nSingleButter\nsingularity1023\nsir_CBD\nsitaoooo\nsjzerchou\nSkyAcetylene\nsmallzhan\nSmarita_K\nSmithskyboy\nsniperGG\nSonitliy\nsooner6751\nss31603L\nStarWindv9\nStoptui\nStrongManCoder\nsubkkkkkk\nSuperMotionNeo\nSwiiiiiiing\nsyl_0735\nSylvester0102\nsyy110\nT11Shu\nT20250827\ntaihao1628\ntaravitomidy\nTbX2lau\ntcptty\nteloei\nterrytao85\ntherealsheldon1\nthommutong\ntiantia68683346\ntiantian5210\nTim453102085\ntimslovic\nTincZhao56778\ntinycocha\ntinyjun34855\ntoday_happy_li\ntohka0x01\nTommy_zhi\nTOOYAMATOSHIO\ntoufu3738\ntrader0618\nTraderHonnour\nTrenchpvp\nTresmort\ntrtaile\nTsic8\ntudoupi\ntuichuqu\nturbo1118_\nUKH1106\nunixecho\nunnamelessl\nUsers_Ad\nvalarzhang\nvickervolet\nvicshen77\nVidaXBT\nVincentcharming\nWaliWaliCrazy\nWalker23333333\nWalter79052425\nwalthinker\nWandalWaylon\nWashing1113\nwaterbang1\nWaterfallOp\nwcqs18168\nWeb3Chonglang\nwengwell\nWenYaqun79084\nWhatUwwant\nWhite8693\nWhiteA10n3\nWilliamchen0520\nwindymeee\nWinzhv\nwl1it3r1\nwo_lai_ye\nwoaizhudabao\nWok_Wook\nWoshishuiTw\nwoyaofanshen\nwswch19941012\nWuChunming\nwulongcomputer\nwuyooshan\nwyhai1015\nx_czyt\nXadillaX\nXBTDNA\nxddn132793\nxiaofengcrypto\nxiaohaqiancat\nxiaomu89\nxiaoyierle\nXiming0927\nxingkaixin\nxjnuno\nxngjn674427\nxp1159483\nxqjcoolove\nxubai_01\nxv44586\nxxoxxsxx_\nxxxx_shakira\nxylect2025\ny_0th\nyaboshouwangzhe\nYamada_Ryoooo\nYangBoredHacker\nyboker\nYDDNBA\nyht0616\nyiyezhiqiuev\nYizhuangYang\nYmc3Ymty\nYnewtime\nyou2032zhu\nyouming_li\nyozuha15\nytlmlv\nYueMaoo\nYuushimo2333\nzaincheungx\nzcvxcv1\nzdyxry\nzerodotzero\nzevthyr\nZfffpy\nzhangxianh0725\nzhangzenger2\nZhaoG80287\nZhaokuangying\nzhaols123252\nzhichiyiwan\nzhorui\nzhuo1022\nZianTT_Official\nzjshouji\nZsxlZsxl199929\nzzytiger"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978370199855518085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖倒计时3小时！！！！\n\n欢迎大佬们参与活动\n\n目前的名单统计\n\n_ablackbird\n_Albert_Bob\n_Genshin_Ganyu_\n_Mark24_\n_rainbowatcher\n0x00593\n0x00vip\n0x2ERO\n0xDaNana\n0xDiy\n0xexx\n0xFeee\n0xff22\n0xMeowwww\n0xopc\n0xRichardH\n0xSnu\n0xVvVvVvVv\n0xXJC\n0xYellow_Ben\n123olp\n154cd2b\n1KXXXXXXXX https://t.co/fjMvv8qsiN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 693,
+          "like_count": 13408,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7806
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 65,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 42,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 99,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 76,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1968998079623041134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36305,
+          "following_count": 200,
+          "like_count": 10649,
+          "listed_count": 273,
+          "media_count": 2789,
+          "tweet_count": 21418
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

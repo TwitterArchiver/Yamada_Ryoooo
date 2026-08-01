@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1979914820632654127",
+    "created_at": "2025-10-19T14:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T15:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979914820632654127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "本文档为骂人宝典（祖安bot）最终版词库，词库内容来源于网络与网友投稿，骂人终归是不对的，请各位克制不要主动攻击别人，请勿使用本文档用作违法行为。 骂人宝典网站已开源：https://github.com/cndiandian/zuanbot.com 词库如下 请让我先捅烂你亲妈臭逼为敬 杂种东西玩不起别瞎bb亲娘性命难保还要瞎鸡巴装逼 你爹我用核弹轰击你妈子宫并产生巨大能量为城市发电 你的词汇量也是让我不想与你纠缠毕竟你100个爹并没有给你快乐的童年 我也是一脚踢碎你婊子妈的子宫生怕你婊子妈在生出来和你一样的弱智 你这土狗只能看着老子无情说出你家的悲惨身世不敢讲话，只能在家默默吃...",
+          "display_url": "docs.google.com/document/d/14Y…",
+          "end": 47,
+          "expanded_url": "https://docs.google.com/document/d/14YG9qaNDZk275av-Iss6B6YY-eDTdkS5w_my3f7349A/edit?usp=sharing",
+          "start": 24,
+          "status": 200,
+          "title": "骂人宝典-火力全开",
+          "unwound_url": "https://docs.google.com/document/d/14YG9qaNDZk275av-Iss6B6YY-eDTdkS5w_my3f7349A/edit?usp=sharing",
+          "url": "https://t.co/k2mTNNsasj"
+        },
+        {
+          "display_url": "x.com/lidangzzz/stat…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/lidangzzz/status/1979885983631020356",
+          "start": 48,
+          "url": "https://t.co/3ET89SxtcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979914820632654127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979885983631020356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原作者的2022年停更了…\n这是他的开源词库\n\nhttps://t.co/k2mTNNsasj https://t.co/3ET89SxtcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_1979885981164527616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3n3z1sWYAAxgEi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1979914820632654127",
+        "created_at": "2025-10-19T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979914820632654127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本文档为骂人宝典（祖安bot）最终版词库，词库内容来源于网络与网友投稿，骂人终归是不对的，请各位克制不要主动攻击别人，请勿使用本文档用作违法行为。 骂人宝典网站已开源：https://github.com/cndiandian/zuanbot.com 词库如下 请让我先捅烂你亲妈臭逼为敬 杂种东西玩不起别瞎bb亲娘性命难保还要瞎鸡巴装逼 你爹我用核弹轰击你妈子宫并产生巨大能量为城市发电 你的词汇量也是让我不想与你纠缠毕竟你100个爹并没有给你快乐的童年 我也是一脚踢碎你婊子妈的子宫生怕你婊子妈在生出来和你一样的弱智 你这土狗只能看着老子无情说出你家的悲惨身世不敢讲话，只能在家默默吃...",
+              "display_url": "docs.google.com/document/d/14Y…",
+              "end": 47,
+              "expanded_url": "https://docs.google.com/document/d/14YG9qaNDZk275av-Iss6B6YY-eDTdkS5w_my3f7349A/edit?usp=sharing",
+              "start": 24,
+              "status": 200,
+              "title": "骂人宝典-火力全开",
+              "unwound_url": "https://docs.google.com/document/d/14YG9qaNDZk275av-Iss6B6YY-eDTdkS5w_my3f7349A/edit?usp=sharing",
+              "url": "https://t.co/k2mTNNsasj"
+            },
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/lidangzzz/status/1979885983631020356",
+              "start": 48,
+              "url": "https://t.co/3ET89SxtcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979914820632654127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979885983631020356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原作者的2022年停更了…\n这是他的开源词库\n\nhttps://t.co/k2mTNNsasj https://t.co/3ET89SxtcJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979885981164527616"
+          ]
+        },
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979885983631020356",
+        "created_at": "2025-10-19T12:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979885983631020356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3TIEL2Ib3",
+              "end": 33,
+              "expanded_url": "https://x.com/lidangzzz/status/1979885983631020356/photo/1",
+              "media_key": "3_1979885981164527616",
+              "start": 10,
+              "url": "https://t.co/W3TIEL2Ib3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979885983631020356",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 24238,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🥰🥰🥰🥰🥰🥰🥰🥰🥰 https://t.co/W3TIEL2Ib3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 692,
+          "like_count": 13422,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7812
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596747,
+          "following_count": 2695,
+          "like_count": 27477,
+          "listed_count": 3679,
+          "media_count": 8660,
+          "tweet_count": 41721
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

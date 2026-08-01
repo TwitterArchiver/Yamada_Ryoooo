@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1974401232883339697",
+    "created_at": "2025-10-04T16:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974506745256202438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974506745256202438",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974401232883339697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether9008 这我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1974401230089957376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Z7dTubMAALCZZ.jpg",
+        "width": 728
+      },
+      {
+        "height": 443,
+        "media_key": "3_1974401229787951104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Z7dSma8AAFNyt.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1974401232883339697",
+        "created_at": "2025-10-04T16:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974506745256202438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974506745256202438",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974401232883339697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 这我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974401230089957376",
+            "3_1974401229787951104"
+          ]
+        },
+        "author_id": "1743651797087277056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974401232883339697",
+        "created_at": "2025-10-04T09:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974401232883339697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj7GTYo9la",
+              "end": 23,
+              "expanded_url": "https://x.com/Aether9008/status/1974401232883339697/photo/1",
+              "media_key": "3_1974401230089957376",
+              "start": 0,
+              "url": "https://t.co/Sj7GTYo9la"
+            },
+            {
+              "display_url": "pic.x.com/Sj7GTYo9la",
+              "end": 23,
+              "expanded_url": "https://x.com/Aether9008/status/1974401232883339697/photo/1",
+              "media_key": "3_1974401229787951104",
+              "start": 0,
+              "url": "https://t.co/Sj7GTYo9la"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "28b9063fdce43645"
+        },
+        "id": "1974401232883339697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Sj7GTYo9la"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4473,
+          "following_count": 693,
+          "like_count": 13405,
+          "listed_count": 20,
+          "media_count": 1359,
+          "tweet_count": 7758
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "Telegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 32,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 9,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1972873546688008478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974315793514115072/NvsuMALt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 2213,
+          "like_count": 23432,
+          "listed_count": 14,
+          "media_count": 1391,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether9008",
+        "verified": false
+      }
+    ]
+  }
+}

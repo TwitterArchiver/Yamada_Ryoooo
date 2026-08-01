@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012091735787393069",
+    "created_at": "2026-01-18T03:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012722592910581775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1525486882926211073",
+          "start": 0,
+          "username": "Haitang_crypto"
+        },
+        {
+          "end": 27,
+          "id": "1499605740394192901",
+          "start": 16,
+          "username": "jingjiebtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012722592910581775",
+    "in_reply_to_user_id": "1525486882926211073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012543952994660545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haitang_crypto @jingjiebtc 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012091735787393069",
+        "created_at": "2026-01-18T03:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012722592910581775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1525486882926211073",
+              "start": 0,
+              "username": "Haitang_crypto"
+            },
+            {
+              "end": 27,
+              "id": "1499605740394192901",
+              "start": 16,
+              "username": "jingjiebtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012722592910581775",
+        "in_reply_to_user_id": "1525486882926211073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012543952994660545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haitang_crypto @jingjiebtc 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525486882926211073",
+        "conversation_id": "2012091735787393069",
+        "created_at": "2026-01-17T15:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012543952994660545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499605740394192901",
+              "start": 0,
+              "username": "jingjiebtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012543952994660545",
+        "in_reply_to_user_id": "1499605740394192901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012091735787393069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjiebtc 蓝v互关  在线秒回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5261,
+          "following_count": 770,
+          "like_count": 14429,
+          "listed_count": 21,
+          "media_count": 1449,
+          "tweet_count": 8443
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-14T14:43:26.000Z",
+        "description": "交易是一场对认知的兑现",
+        "id": "1525486882926211073",
+        "name": "海棠",
+        "pinned_tweet_id": "1777718835573076243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963867086008258560/DGZ-H9jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8950,
+          "following_count": 871,
+          "like_count": 1704,
+          "listed_count": 9,
+          "media_count": 1506,
+          "tweet_count": 10542
+        },
+        "username": "Haitang_crypto",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-04T04:41:44.000Z",
+        "description": "专注 Web3 与加密行业探索。视频号/小红书同名：静姐聊Web3。\n\n在这里分享个人观察与学习心得，不作投资建议。 欢迎交流，共同成长。🤝",
+        "id": "1499605740394192901",
+        "location": "香港",
+        "name": "静姐聊Web3",
+        "pinned_tweet_id": "2012393867795145174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007314302039142400/o6kyMZxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 790,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 321
+        },
+        "username": "jingjiebtc",
+        "verified": true
+      }
+    ]
+  }
+}

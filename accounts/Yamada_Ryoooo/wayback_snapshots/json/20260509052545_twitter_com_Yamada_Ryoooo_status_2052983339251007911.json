@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2052920476671041737",
+    "created_at": "2026-05-09T05:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052983339251007911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3016619443",
+          "start": 0,
+          "username": "EvanWritesX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052983339251007911",
+    "in_reply_to_user_id": "3016619443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052920476671041737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvanWritesX 实际上直接用iPhone注册你都不需要没绑定的手机号\n我绑过id的还是直接自己绑上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2052920476671041737",
+        "created_at": "2026-05-09T05:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052983339251007911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3016619443",
+              "start": 0,
+              "username": "EvanWritesX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052983339251007911",
+        "in_reply_to_user_id": "3016619443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920476671041737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvanWritesX 实际上直接用iPhone注册你都不需要没绑定的手机号\n我绑过id的还是直接自己绑上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3016619443",
+        "conversation_id": "2052920476671041737",
+        "created_at": "2026-05-09T01:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052920476671041737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052920476671041737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/evanwritesx/st…",
+                "end": 441,
+                "expanded_url": "https://x.com/evanwritesx/status/2003691900239511985?s=46",
+                "start": 418,
+                "url": "https://t.co/1JuvDOp5TZ"
+              },
+              {
+                "display_url": "x.com/evanwritesx/st…",
+                "end": 510,
+                "expanded_url": "https://x.com/evanwritesx/status/2003974062327120250?s=46",
+                "start": 487,
+                "url": "https://t.co/4ORzVPYWZx"
+              },
+              {
+                "display_url": "x.com/evanwritesx/st…",
+                "end": 578,
+                "expanded_url": "https://x.com/evanwritesx/status/2002997973765300293?s=46",
+                "start": 555,
+                "url": "https://t.co/aCfyypy79d"
+              }
+            ]
+          },
+          "text": "为什么很多人注册不成外区 Apple ID？\n\n我手搓注册过中、美、台、港、土、尼、印、德 8 区 ID，帮粉丝注册过 1000+，告诉你真相：注册本身极简单，绝大多数人卡在”听说”上。\n\n听说美区要美区手机号。\n听说尼区要尼区银行卡。\n听说香港要香港地址。\n\n❶所有外区 ID，都可以用 +86 手机号注册\n❷所有外区 ID，都可以先不绑卡注册完\n❸注册完之后再解决支付，每个区路径不一样，问 AI 找礼品卡通道即可\n\n支付环节确实要属地化，但方式比你想的多：美区可以 PayPal + 国内 Visa，香港可以绑八达通，其他区基本都有对应的礼品卡或第三方方案。\n\n注册时三个细节：\n\n新邮箱、没绑过 Apple ID 的 +86 号码、注册完立\n\n刻换绑回自己常用号——常用号哪怕已经绑过别的 ID 也没关系。\n\n卡住你的从来不是技术，是道听途说。\n\n实操教程：没有 Visa 卡？用支付宝给美区 Apple ID 充值实操指南\n\nhttps://t.co/1JuvDOp5TZ\n\n实操教程：99% 的教程没告诉你的细节：为什么你注册美区 Apple ID 总失败？\n\nhttps://t.co/4ORzVPYWZx\n\n实操教程：美区 App Store 有余额却无法订阅？不绑卡也能解决的 3 种方案\n\nhttps://t.co/aCfyypy79d"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 18240,
+          "like_count": 162,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "为什么很多人注册不成外区 Apple ID？\n\n我手搓注册过中、美、台、港、土、尼、印、德 8 区 ID，帮粉丝注册过 1000+，告诉你真相：注册本身极简单，绝大多数人卡在”听说”上。\n\n听说美区要美区手机号。\n听说尼区要尼区银行卡。\n听说香港要香港地址。\n\n❶所有外区 ID，都可以用 +86 手机号注册\n❷所有外区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 1096,
+          "like_count": 17352,
+          "listed_count": 24,
+          "media_count": 1765,
+          "tweet_count": 9673
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-10T15:36:40.000Z",
+        "description": "前媒体人 \n联系方式：｜WeChat ID：EvanCreates｜https://t.co/2wytvRWjfN \n读书频道：https://t.co/0fTLS0w8Eq \n魔法推荐：https://t.co/YCKVPDNhPW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 57,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 34,
+                "url": "https://t.co/2wytvRWjfN"
+              },
+              {
+                "display_url": "t.me/Book_Scape",
+                "end": 87,
+                "expanded_url": "https://t.me/Book_Scape",
+                "start": 64,
+                "url": "https://t.co/0fTLS0w8Eq"
+              },
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 117,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=1696",
+                "start": 94,
+                "url": "https://t.co/YCKVPDNhPW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/EvanCreates",
+                "end": 23,
+                "expanded_url": "https://t.me/EvanCreates",
+                "start": 0,
+                "url": "https://t.co/2wytvRWjfN"
+              }
+            ]
+          }
+        },
+        "id": "3016619443",
+        "location": "WeChat ID：EvanCreates",
+        "name": "Jason",
+        "pinned_tweet_id": "2049394780686475294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049313362732032000/vVC4jj-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18996,
+          "following_count": 813,
+          "like_count": 8755,
+          "listed_count": 90,
+          "media_count": 1435,
+          "tweet_count": 7290
+        },
+        "url": "https://t.co/2wytvRWjfN",
+        "username": "EvanWritesX",
+        "verified": true
+      }
+    ]
+  }
+}

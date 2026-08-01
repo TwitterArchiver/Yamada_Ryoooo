@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1986040374167744738",
+    "created_at": "2025-11-05T11:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986040374167744738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Discover MiniMax Agent, your AI supercompanion, enhancing creativity and productivity with tools for meditation, podcast, coding, analysis, and more!",
+          "display_url": "agent.minimax.io",
+          "end": 80,
+          "expanded_url": "http://agent.minimax.io",
+          "images": [
+            {
+              "height": 230,
+              "url": "https://pbs.twimg.com/news_img/1984279021564448771/zrxVum7Y?format=png&name=orig",
+              "width": 230
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1984279021564448771/zrxVum7Y?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 57,
+          "status": 200,
+          "title": "MiniMax Agent: Minimize Effort, Maximize Intelligence",
+          "unwound_url": "https://agent.minimax.io/",
+          "url": "https://t.co/FFXMMfik5G"
+        },
+        {
+          "display_url": "agent.minimaxi.com",
+          "end": 108,
+          "expanded_url": "http://agent.minimaxi.com",
+          "start": 85,
+          "url": "https://t.co/19uHpfhD2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986040374167744738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "minimax异常的好用，我个人感受可以称之国产最强了，不过要用国际站才好用，国内站感觉降智了，还有审查\n国际站是https://t.co/FFXMMfik5G\n国内站是https://t.co/19uHpfhD2M\n要注意区分一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1986040374167744738",
+        "created_at": "2025-11-05T11:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986040374167744738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover MiniMax Agent, your AI supercompanion, enhancing creativity and productivity with tools for meditation, podcast, coding, analysis, and more!",
+              "display_url": "agent.minimax.io",
+              "end": 80,
+              "expanded_url": "http://agent.minimax.io",
+              "images": [
+                {
+                  "height": 230,
+                  "url": "https://pbs.twimg.com/news_img/1984279021564448771/zrxVum7Y?format=png&name=orig",
+                  "width": 230
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984279021564448771/zrxVum7Y?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "MiniMax Agent: Minimize Effort, Maximize Intelligence",
+              "unwound_url": "https://agent.minimax.io/",
+              "url": "https://t.co/FFXMMfik5G"
+            },
+            {
+              "display_url": "agent.minimaxi.com",
+              "end": 108,
+              "expanded_url": "http://agent.minimaxi.com",
+              "start": 85,
+              "url": "https://t.co/19uHpfhD2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986040374167744738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "minimax异常的好用，我个人感受可以称之国产最强了，不过要用国际站才好用，国内站感觉降智了，还有审查\n国际站是https://t.co/FFXMMfik5G\n国内站是https://t.co/19uHpfhD2M\n要注意区分一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 666,
+          "like_count": 13478,
+          "listed_count": 20,
+          "media_count": 1374,
+          "tweet_count": 7889
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2025162118438502846",
+    "created_at": "2026-02-22T03:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025412728962384029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "328313049",
+          "start": 0,
+          "username": "lai_jia_wei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025412728962384029",
+    "in_reply_to_user_id": "328313049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025162118438502846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lai_jia_wei 没啥用，旧的小参数模型全是幻觉和垃圾语料"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2025160474262994947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrQuLmbgAMiV4k.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2025162118438502846",
+        "created_at": "2026-02-22T03:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025412728962384029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "328313049",
+              "start": 0,
+              "username": "lai_jia_wei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025412728962384029",
+        "in_reply_to_user_id": "328313049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025162118438502846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lai_jia_wei 没啥用，旧的小参数模型全是幻觉和垃圾语料"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025160474262994947"
+          ]
+        },
+        "author_id": "328313049",
+        "conversation_id": "2025162118438502846",
+        "created_at": "2026-02-21T10:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025162118438502846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "chatjimmy.ai",
+              "end": 73,
+              "expanded_url": "http://chatjimmy.ai",
+              "start": 50,
+              "unwound_url": "http://chatjimmy.ai",
+              "url": "https://t.co/QNX4sOfkq0"
+            },
+            {
+              "display_url": "pic.x.com/mz1bDQIIuG",
+              "end": 146,
+              "expanded_url": "https://x.com/lai_jia_wei/status/2025162118438502846/photo/1",
+              "media_key": "3_2025160474262994947",
+              "start": 123,
+              "url": "https://t.co/mz1bDQIIuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025162118438502846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 79695,
+          "like_count": 447,
+          "quote_count": 12,
+          "reply_count": 51,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "Taalas 把 Llama 8B 直接写进芯片里了，实现了惊人的每秒 1.7 万 token，去 https://t.co/QNX4sOfkq0 感受了一下，回复快得像是复制粘贴的……唯一瓶颈是人脑的处理速度了。\n\nAI 发展的又一个里程碑。 https://t.co/mz1bDQIIuG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 1056,
+          "like_count": 16093,
+          "listed_count": 21,
+          "media_count": 1530,
+          "tweet_count": 8953
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-03T04:06:57.000Z",
+        "description": "小应用生意，依靠平台赏饭，监管开恩，同行放过\n全栈｜产品｜出海｜SEO｜SaaS｜AI｜web3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/paicha",
+                "end": 23,
+                "expanded_url": "https://github.com/paicha",
+                "start": 0,
+                "url": "https://t.co/7e8SSvp8AR"
+              }
+            ]
+          }
+        },
+        "id": "328313049",
+        "location": "Guangzhou",
+        "name": "赖嘉伟Gary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739668608345899008/y0um1sKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8543,
+          "following_count": 2112,
+          "like_count": 1554,
+          "listed_count": 135,
+          "media_count": 97,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/7e8SSvp8AR",
+        "username": "lai_jia_wei",
+        "verified": true
+      }
+    ]
+  }
+}

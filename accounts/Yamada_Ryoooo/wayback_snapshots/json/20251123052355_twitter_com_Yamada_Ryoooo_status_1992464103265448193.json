@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992464096894324736",
+        "3_1992464096890081280"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992464103265448193",
+    "created_at": "2025-11-23T05:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992464103265448193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKgVfdBkSc",
+          "end": 83,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992464103265448193/photo/1",
+          "media_key": "3_1992464096894324736",
+          "start": 60,
+          "url": "https://t.co/HKgVfdBkSc"
+        },
+        {
+          "display_url": "pic.x.com/HKgVfdBkSc",
+          "end": 83,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992464103265448193/photo/1",
+          "media_key": "3_1992464096890081280",
+          "start": 60,
+          "url": "https://t.co/HKgVfdBkSc"
+        },
+        {
+          "display_url": "x.com/jiang_ruan520/…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/jiang_ruan520/status/1992462318136144162",
+          "start": 84,
+          "url": "https://t.co/f1OY8nqKDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992464103265448193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992462318136144162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人怎么这么急🤗\n你野爹我用虎式坦克击落然后后空翻落地之后子宫炸裂一堆蛆虫看你妈的血逼很银荡便在你妈的血逼里筑了个巢 https://t.co/HKgVfdBkSc https://t.co/f1OY8nqKDu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_1992464096894324736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aniiMbEAArdZU.jpg",
+        "width": 1024
+      },
+      {
+        "height": 280,
+        "media_key": "3_1992464096890081280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aniiLaUAAY_zx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992464096894324736",
+            "3_1992464096890081280"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992464103265448193",
+        "created_at": "2025-11-23T05:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992464103265448193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKgVfdBkSc",
+              "end": 83,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992464103265448193/photo/1",
+              "media_key": "3_1992464096894324736",
+              "start": 60,
+              "url": "https://t.co/HKgVfdBkSc"
+            },
+            {
+              "display_url": "pic.x.com/HKgVfdBkSc",
+              "end": 83,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1992464103265448193/photo/1",
+              "media_key": "3_1992464096890081280",
+              "start": 60,
+              "url": "https://t.co/HKgVfdBkSc"
+            },
+            {
+              "display_url": "x.com/jiang_ruan520/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/jiang_ruan520/status/1992462318136144162",
+              "start": 84,
+              "url": "https://t.co/f1OY8nqKDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992464103265448193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992462318136144162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人怎么这么急🤗\n你野爹我用虎式坦克击落然后后空翻落地之后子宫炸裂一堆蛆虫看你妈的血逼很银荡便在你妈的血逼里筑了个巢 https://t.co/HKgVfdBkSc https://t.co/f1OY8nqKDu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962862026101080064",
+        "conversation_id": "1992194057163231444",
+        "created_at": "2025-11-23T05:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992462318136144162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 15,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992462318136144162",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992275251171061958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @BaoZheFanQie 眉目的洞悉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 671,
+          "like_count": 13652,
+          "listed_count": 21,
+          "media_count": 1398,
+          "tweet_count": 8002
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T12:56:11.000Z",
+        "description": "那咋了那咋了那咋了那咋了那咋了",
+        "id": "1962862026101080064",
+        "name": "兔兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992394363473981440/DEoZVP_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "username": "jiang_ruan520",
+        "verified": false
+      }
+    ]
+  }
+}

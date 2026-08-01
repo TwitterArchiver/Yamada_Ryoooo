@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1929802435016773997",
+    "created_at": "2025-10-03T23:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T00:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974253919476875723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286969156772872192",
+          "start": 0,
+          "username": "ningguang8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974253919476875723",
+    "in_reply_to_user_id": "1286969156772872192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974166915192099118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningguang8848 去cf官网注册一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974166909081038852",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WmWB8bMAQlDSC.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1929802435016773997",
+        "created_at": "2025-10-03T23:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974253919476875723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286969156772872192",
+              "start": 0,
+              "username": "ningguang8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974253919476875723",
+        "in_reply_to_user_id": "1286969156772872192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974166915192099118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningguang8848 去cf官网注册一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974166909081038852"
+          ]
+        },
+        "author_id": "1286969156772872192",
+        "conversation_id": "1929802435016773997",
+        "created_at": "2025-10-03T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974166915192099118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUBIoYAzTH",
+              "end": 38,
+              "expanded_url": "https://x.com/ningguang8848/status/1974166915192099118/photo/1",
+              "media_key": "3_1974166909081038852",
+              "start": 15,
+              "url": "https://t.co/LUBIoYAzTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974166915192099118",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929802435016773997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo https://t.co/LUBIoYAzTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 690,
+          "like_count": 13379,
+          "listed_count": 20,
+          "media_count": 1358,
+          "tweet_count": 7749
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T10:19:13.000Z",
+        "description": "istp-a/屁民shitizen",
+        "id": "1286969156772872192",
+        "name": "凝光归来，看群玉阁土崩瓦解",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606653382567100417/wGT5E9tI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 334,
+          "like_count": 18651,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 730
+        },
+        "username": "ningguang8848",
+        "verified": false
+      }
+    ]
+  }
+}

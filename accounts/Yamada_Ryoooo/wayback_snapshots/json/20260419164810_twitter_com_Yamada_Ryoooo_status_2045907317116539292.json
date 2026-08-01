@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2045901021193666938",
+    "created_at": "2026-04-19T16:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045907317116539292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550446805287968768",
+          "start": 0,
+          "username": "duoxichuan"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045907317116539292",
+    "in_reply_to_user_id": "1550446805287968768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045907173293924804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoxichuan @grok 🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2045901021193666938",
+        "created_at": "2026-04-19T16:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045907317116539292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550446805287968768",
+              "start": 0,
+              "username": "duoxichuan"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045907317116539292",
+        "in_reply_to_user_id": "1550446805287968768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045907173293924804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoxichuan @grok 🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550446805287968768",
+        "conversation_id": "2045901021193666938",
+        "created_at": "2026-04-19T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045907173293924804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045907173293924804",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045901021193666938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @grok 修改图片，在图片中生成一双脚，双脚夹住图片中的热狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6441,
+          "following_count": 1093,
+          "like_count": 17189,
+          "listed_count": 24,
+          "media_count": 1745,
+          "tweet_count": 9577
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-22T11:45:13.000Z",
+        "description": "🍰 足控 | 穿搭 | 抽象 | 佛系主啵，推上只发清水，无🚪，你们私信找我的话，有话直说就好，不怕叨扰，但请礼貌，蟹蟹\n🍉 关于我：https://t.co/lL510G1vy4\n🍧 日常推：@chuanxiduo\n🍯 防走丢：https://t.co/M6Wd6E2NTW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "chuanxiduo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bio.site/chuanxiduo",
+                "end": 90,
+                "expanded_url": "https://bio.site/chuanxiduo",
+                "start": 67,
+                "url": "https://t.co/lL510G1vy4"
+              },
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 138,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 115,
+                "url": "https://t.co/M6Wd6E2NTW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanssyu",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanssyu",
+                "start": 0,
+                "url": "https://t.co/3vaSfLHGNo"
+              }
+            ]
+          }
+        },
+        "id": "1550446805287968768",
+        "location": "🍻摸鱼聊天：",
+        "name": "多喜川",
+        "pinned_tweet_id": "2001320739807359458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984519618401353728/NB3O5J0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31315,
+          "following_count": 200,
+          "like_count": 1592,
+          "listed_count": 72,
+          "media_count": 96,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/3vaSfLHGNo",
+        "username": "duoxichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8550904,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6656,
+          "media_count": 8842501,
+          "tweet_count": 123164969
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

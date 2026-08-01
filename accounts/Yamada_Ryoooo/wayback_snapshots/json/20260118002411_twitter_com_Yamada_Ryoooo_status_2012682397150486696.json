@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012326386456011094",
+    "created_at": "2026-01-18T00:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012682397150486696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1001864623",
+          "start": 0,
+          "username": "akokoi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012682397150486696",
+    "in_reply_to_user_id": "1001864623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012326386456011094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akokoi1 大佬可以互关一下嘛🥺\n我也想领马斯克的低保"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2012326374774611968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-04LRSXIAAteXr.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1541,
+        "media_key": "3_2012326374715854849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-04LREWkAEDeWq.jpg",
+        "width": 1289
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2012326374757773312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-04LROWMAAydbB.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1633,
+        "media_key": "3_2012326374762024960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-04LRPXEAAZesk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012326386456011094",
+        "created_at": "2026-01-18T00:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012682397150486696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1001864623",
+              "start": 0,
+              "username": "akokoi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012682397150486696",
+        "in_reply_to_user_id": "1001864623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012326386456011094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akokoi1 大佬可以互关一下嘛🥺\n我也想领马斯克的低保"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012326374774611968",
+            "3_2012326374715854849",
+            "3_2012326374757773312",
+            "3_2012326374762024960"
+          ]
+        },
+        "author_id": "1001864623",
+        "conversation_id": "2012326386456011094",
+        "created_at": "2026-01-17T00:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012326386456011094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfEZA8KzDh",
+              "end": 165,
+              "expanded_url": "https://x.com/akokoi1/status/2012326386456011094/photo/1",
+              "media_key": "3_2012326374774611968",
+              "start": 142,
+              "url": "https://t.co/JfEZA8KzDh"
+            },
+            {
+              "display_url": "pic.x.com/JfEZA8KzDh",
+              "end": 165,
+              "expanded_url": "https://x.com/akokoi1/status/2012326386456011094/photo/1",
+              "media_key": "3_2012326374715854849",
+              "start": 142,
+              "url": "https://t.co/JfEZA8KzDh"
+            },
+            {
+              "display_url": "pic.x.com/JfEZA8KzDh",
+              "end": 165,
+              "expanded_url": "https://x.com/akokoi1/status/2012326386456011094/photo/1",
+              "media_key": "3_2012326374757773312",
+              "start": 142,
+              "url": "https://t.co/JfEZA8KzDh"
+            },
+            {
+              "display_url": "pic.x.com/JfEZA8KzDh",
+              "end": 165,
+              "expanded_url": "https://x.com/akokoi1/status/2012326386456011094/photo/1",
+              "media_key": "3_2012326374762024960",
+              "start": 142,
+              "url": "https://t.co/JfEZA8KzDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012326386456011094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一觉醒来X收益计算方式发生了重大改革！\n\n主要的变化：\n1️⃣从原来基于整体互动，改为基于”已验证的首页时间线展示次数”\n2️⃣收益来源于Premium付费用户在首页动态中真实看到你帖子的次数\n3️⃣内容形式权重调整，长文章（Articles）等需要更多精力创作的内容将获得更高权重\n相比短帖子，深度内容会得到更多收益\n\n保持不变的部分：\n高级Premium会员的浏览价值仍高于低级会员；继续打击欺诈和虚假互动\n\n目标是奖励真正有影响力、能持续出现在用户时间线并引发讨论的内容\n\n同时收益池扩大，2025年收益分成池增加了一倍以上，之后还会继续增加\n\n大家要适当调整发帖策略了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 6025,
+          "like_count": 28,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一觉醒来X收益计算方式发生了重大改革！\n\n主要的变化：\n1️⃣从原来基于整体互动，改为基于”已验证的首页时间线展示次数”\n2️⃣收益来源于Premium付费用户在首页动态中真实看到你帖子的次数\n3️⃣内容形式权重调整，长文章（Articles）等需要更多精力创作的内容将获得更高权重 https://t.co/JfEZA8KzDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5211,
+          "following_count": 711,
+          "like_count": 14372,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8412
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-10T15:12:32.000Z",
+        "description": "二线城市大龄程序员，Golang、PHP、JavaScript、Dart、Swift开发，专注国际外包，全干工程师，独立开发者，全面拥抱AI。",
+        "id": "1001864623",
+        "name": "WY",
+        "pinned_tweet_id": "2012495020839018619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007497606604177409/pDwzEINH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 1063,
+          "like_count": 427,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 853
+        },
+        "username": "akokoi1",
+        "verified": true
+      }
+    ]
+  }
+}

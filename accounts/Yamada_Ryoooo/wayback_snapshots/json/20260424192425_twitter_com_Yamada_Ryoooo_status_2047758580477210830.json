@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2047538252861902936",
+    "created_at": "2026-04-24T19:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047758580477210830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1829677182609997826",
+          "start": 0,
+          "username": "twsdah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047758580477210830",
+    "in_reply_to_user_id": "1829677182609997826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047697431484416278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twsdah 我是gpt4o教😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2047538252861902936",
+        "created_at": "2026-04-24T19:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047758580477210830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829677182609997826",
+              "start": 0,
+              "username": "twsdah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047758580477210830",
+        "in_reply_to_user_id": "1829677182609997826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047697431484416278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twsdah 我是gpt4o教😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829677182609997826",
+        "conversation_id": "2047538252861902936",
+        "created_at": "2026-04-24T15:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047697431484416278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047697431484416278",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047538252861902936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 山田凉老师快加入窝们gpt教吧😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6445,
+          "following_count": 1093,
+          "like_count": 17237,
+          "listed_count": 24,
+          "media_count": 1757,
+          "tweet_count": 9609
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:27:15.000Z",
+        "description": "26岁，是浓度极高的米学长（社畜ver.）粤🐒｜Aza&TAFFY推荐！｜雅思7.0｜天津大学智能与计算学部本科生/港大电机与电子工程msc毕业（水硕认证版）｜现华为海思芯片综合及后端工程师（练习时长两年半版）｜米门！散兵激推（散解退散警告⚠️）｜米家三件套重度中毒患者（原崩铁全图鉴の屑）｜",
+        "id": "1829677182609997826",
+        "location": "Amersfoort, Nederland",
+        "name": "米笑梓-永雏塔菲的主人",
+        "pinned_tweet_id": "1857457117466419382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997940839474135040/LBVL0CAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 921,
+          "like_count": 3424,
+          "listed_count": 5,
+          "media_count": 986,
+          "tweet_count": 5183
+        },
+        "username": "twsdah",
+        "verified": true
+      }
+    ]
+  }
+}

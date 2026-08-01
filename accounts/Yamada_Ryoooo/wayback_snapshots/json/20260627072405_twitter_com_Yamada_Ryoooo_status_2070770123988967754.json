@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2070719616167690312",
+    "created_at": "2026-06-27T07:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070770123988967754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070770123988967754",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070719616167690312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat ai的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070719347354750977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLysRnib0AESgpu.jpg",
+        "width": 538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2070719616167690312",
+        "created_at": "2026-06-27T07:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070770123988967754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070770123988967754",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070719616167690312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat ai的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070719347354750977"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2070719616167690312",
+        "created_at": "2026-06-27T04:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:02:22.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070719360151547939",
+          "2070719455441871145",
+          "2070719616167690312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXtlVFU5tJ",
+              "end": 102,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2070719616167690312/photo/1",
+              "media_key": "3_2070719347354750977",
+              "start": 79,
+              "url": "https://t.co/MXtlVFU5tJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070719616167690312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "还没进入社会，双胞胎闺女通过高考就贡献了40万给家里。\n\n虽然现在上大学很卷，学生压力普遍很大。但是不能否认，考上好大学，依然是普通家庭逆天改命的最佳捷径。\n\n我们有时候总是会嘲笑有些学霸学傻了，不管结果如何，她们努力的样子是值得敬佩的，虽然可能过程是痛苦的，但是普通农村家庭出身的寒门学子，真的没有更多其他的选择。\n\n努力学习是很痛苦，可是进入社会当一个底层牛马就不痛苦了嘛。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2151,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没进入社会，双胞胎闺女通过高考就贡献了40万给家里。\n\n虽然现在上大学很卷，学生压力普遍很大。但是不能否认，考上好大学，依然是普通家庭逆天改命的最佳捷径。 https://t.co/MXtlVFU5tJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6529,
+          "following_count": 975,
+          "like_count": 17794,
+          "listed_count": 22,
+          "media_count": 1816,
+          "tweet_count": 9983
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、社会观察家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71542,
+          "following_count": 18731,
+          "like_count": 28183,
+          "listed_count": 119,
+          "media_count": 3540,
+          "tweet_count": 24675
+        },
+        "url": "",
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

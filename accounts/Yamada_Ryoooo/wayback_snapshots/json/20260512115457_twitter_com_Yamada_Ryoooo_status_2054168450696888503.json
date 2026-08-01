@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2053860359534993712",
+    "created_at": "2026-05-12T11:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054168450696888503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612297441218555904",
+          "start": 0,
+          "username": "MenglinZhao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054168450696888503",
+    "in_reply_to_user_id": "1612297441218555904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053860359534993712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MenglinZhao3 Gemini比豆包强多了吧…最简单的数学题豆包都能做错然后Gemini可以全对…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2053860221773127680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDG_WkXoAADZ4G.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2053860359534993712",
+        "created_at": "2026-05-12T11:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054168450696888503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612297441218555904",
+              "start": 0,
+              "username": "MenglinZhao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054168450696888503",
+        "in_reply_to_user_id": "1612297441218555904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053860359534993712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MenglinZhao3 Gemini比豆包强多了吧…最简单的数学题豆包都能做错然后Gemini可以全对…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053860221773127680"
+          ]
+        },
+        "author_id": "1612297441218555904",
+        "conversation_id": "2053860359534993712",
+        "created_at": "2026-05-11T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053860359534993712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USACRH27ap",
+              "end": 62,
+              "expanded_url": "https://x.com/MenglinZhao3/status/2053860359534993712/photo/1",
+              "media_key": "3_2053860221773127680",
+              "start": 39,
+              "url": "https://t.co/USACRH27ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053860359534993712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17027,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两个我同意\n\n最后那个是哪来的？\n\nGemini现在的水平还不如豆包... https://t.co/USACRH27ap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1039,
+          "like_count": 17354,
+          "listed_count": 24,
+          "media_count": 1771,
+          "tweet_count": 9688
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T03:57:37.000Z",
+        "description": "书中寻路，脑中构建，指尖输出\n📦 跨境电商8年牛马\n🤖 记录自己AI学习+落地的全过程\n📝 分享普通人也可以落地的「AI提效 ×自媒体增长」方法论\n利他｜长期主义｜永远保持一颗学徒的心",
+        "id": "1612297441218555904",
+        "name": "Lin.",
+        "pinned_tweet_id": "2052768024906657827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028550789258747904/68-s7taW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 418,
+          "like_count": 4256,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 3722
+        },
+        "username": "MenglinZhao3",
+        "verified": true
+      }
+    ]
+  }
+}

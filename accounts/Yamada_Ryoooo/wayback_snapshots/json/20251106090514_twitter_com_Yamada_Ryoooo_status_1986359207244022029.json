@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1986045819192246780",
+    "created_at": "2025-11-06T09:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986359207244022029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Wormhole lets you share files with end-to-end encryption and a link that automatically expires.",
+          "display_url": "wormhole.app/PprxdL#Q8KuSRF…",
+          "end": 31,
+          "expanded_url": "https://wormhole.app/PprxdL#Q8KuSRFdA4KKW9t_jHSpJQ",
+          "images": [
+            {
+              "height": 500,
+              "url": "https://pbs.twimg.com/news_img/1986359208158371842/IFjMM7ka?format=jpg&name=orig",
+              "width": 1000
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1986359208158371842/IFjMM7ka?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 8,
+          "status": 200,
+          "title": "Wormhole - Simple, private file sharing",
+          "unwound_url": "https://wormhole.app/PprxdL#Q8KuSRFdA4KKW9t_jHSpJQ",
+          "url": "https://t.co/0dwAjgaAsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986359207244022029",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986045819192246780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb https://t.co/0dwAjgaAsd\n这个还有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_1986045782894817280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_aHfUbsAAn5c2.jpg",
+        "width": 1866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1986045819192246780",
+        "created_at": "2025-11-06T09:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986359207244022029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Wormhole lets you share files with end-to-end encryption and a link that automatically expires.",
+              "display_url": "wormhole.app/PprxdL#Q8KuSRF…",
+              "end": 31,
+              "expanded_url": "https://wormhole.app/PprxdL#Q8KuSRFdA4KKW9t_jHSpJQ",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/1986359208158371842/IFjMM7ka?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986359208158371842/IFjMM7ka?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Wormhole - Simple, private file sharing",
+              "unwound_url": "https://wormhole.app/PprxdL#Q8KuSRFdA4KKW9t_jHSpJQ",
+              "url": "https://t.co/0dwAjgaAsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986359207244022029",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986045819192246780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb https://t.co/0dwAjgaAsd\n这个还有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986045782894817280"
+          ]
+        },
+        "author_id": "168139512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1986045819192246780",
+        "created_at": "2025-11-05T12:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986045819192246780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "App Store web version. Contribute to rxliuli/apps.apple.com development by creating an account on GitHub.",
+              "display_url": "github.com/rxliuli/apps.a…",
+              "end": 49,
+              "expanded_url": "https://github.com/rxliuli/apps.apple.com",
+              "start": 26,
+              "status": 200,
+              "title": "GitHub - rxliuli/apps.apple.com: App Store web version",
+              "unwound_url": "https://github.com/rxliuli/apps.apple.com",
+              "url": "https://t.co/xlPDYwMmfC"
+            },
+            {
+              "display_url": "pic.x.com/2z4Fha4Ejj",
+              "end": 73,
+              "expanded_url": "https://x.com/geekbb/status/1986045819192246780/photo/1",
+              "media_key": "3_1986045782894817280",
+              "start": 50,
+              "url": "https://t.co/2z4Fha4Ejj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986045819192246780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 8878,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Apple App Store 前端源码存档\n\n📦 https://t.co/xlPDYwMmfC https://t.co/2z4Fha4Ejj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4425,
+          "following_count": 665,
+          "like_count": 13499,
+          "listed_count": 20,
+          "media_count": 1375,
+          "tweet_count": 7898
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99115,
+          "following_count": 391,
+          "like_count": 16289,
+          "listed_count": 1016,
+          "media_count": 6104,
+          "tweet_count": 23667
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": false
+      }
+    ]
+  }
+}

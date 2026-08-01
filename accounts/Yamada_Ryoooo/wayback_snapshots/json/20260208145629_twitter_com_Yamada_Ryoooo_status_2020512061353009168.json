@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2020502614627299677",
+    "created_at": "2026-02-08T14:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020512061353009168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582576763615383552",
+          "start": 0,
+          "username": "meguruKirara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020512061353009168",
+    "in_reply_to_user_id": "1582576763615383552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020511942893253083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meguruKirara 🥹💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2020502614627299677",
+        "created_at": "2026-02-08T14:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020512061353009168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582576763615383552",
+              "start": 0,
+              "username": "meguruKirara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020512061353009168",
+        "in_reply_to_user_id": "1582576763615383552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020511942893253083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meguruKirara 🥹💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582576763615383552",
+        "conversation_id": "2020502614627299677",
+        "created_at": "2026-02-08T14:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020511942893253083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020511942893253083",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020502614627299677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 摸摸你 給你點小星星"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 1077,
+          "like_count": 15706,
+          "listed_count": 22,
+          "media_count": 1519,
+          "tweet_count": 8823
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "zh-tw, yue-Hant, en-us, ja-jp. \n ⭐️正義の味方、登臨です！🪄⭐️ \n🩵 Stand with 🇭🇰 & 🇹🇼 🩵 \n小帳/alt/鍵垢@reisa_music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "reisa_music"
+              }
+            ]
+          }
+        },
+        "id": "1582576763615383552",
+        "location": "Kansas, USA",
+        "name": "小紗💤（マジカル🪄）",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018651676857831424/imlR5sJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 2748,
+          "like_count": 92876,
+          "listed_count": 14,
+          "media_count": 1517,
+          "tweet_count": 20472
+        },
+        "username": "meguruKirara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2054183750347739527",
+    "created_at": "2026-05-12T12:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054183750347739527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "freemodel.dev/invite/FRE-278…",
+          "end": 48,
+          "expanded_url": "https://freemodel.dev/invite/FRE-278d31f6",
+          "start": 25,
+          "status": 200,
+          "title": "Codex GPT-5.5 中转API",
+          "unwound_url": "https://freemodel.dev/invite/FRE-278d31f6",
+          "url": "https://t.co/QEAIdGjTbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054183750347739527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "注册送300刀的中转站，支持gpt5.5模型:\n\nhttps://t.co/QEAIdGjTbi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054183750347739527",
+        "created_at": "2026-05-12T12:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054183750347739527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "freemodel.dev/invite/FRE-278…",
+              "end": 48,
+              "expanded_url": "https://freemodel.dev/invite/FRE-278d31f6",
+              "start": 25,
+              "status": 200,
+              "title": "Codex GPT-5.5 中转API",
+              "unwound_url": "https://freemodel.dev/invite/FRE-278d31f6",
+              "url": "https://t.co/QEAIdGjTbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054183750347739527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注册送300刀的中转站，支持gpt5.5模型:\n\nhttps://t.co/QEAIdGjTbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1040,
+          "like_count": 17360,
+          "listed_count": 24,
+          "media_count": 1771,
+          "tweet_count": 9690
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

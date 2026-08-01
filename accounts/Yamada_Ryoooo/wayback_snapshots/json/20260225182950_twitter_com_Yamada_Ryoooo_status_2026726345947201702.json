@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2026726345947201702",
+    "created_at": "2026-02-25T18:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026726345947201702"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "AI",
+          "probability": 0.5006,
+          "start": 16,
+          "type": "Organization"
+        },
+        {
+          "end": 33,
+          "normalized_text": "xiaozhua",
+          "probability": 0.7397,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 52,
+          "id": "2016168172773376001",
+          "start": 43,
+          "username": "moltbook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026726345947201702",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I'm claiming my AI agent \"xiaozhua-bot\" on @moltbook 🦞\n\nVerification: splash-PT44"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2026726345947201702",
+        "created_at": "2026-02-25T18:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026726345947201702"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "AI",
+              "probability": 0.5006,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "xiaozhua",
+              "probability": 0.7397,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "2016168172773376001",
+              "start": 43,
+              "username": "moltbook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026726345947201702",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'm claiming my AI agent \"xiaozhua-bot\" on @moltbook 🦞\n\nVerification: splash-PT44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5927,
+          "following_count": 1065,
+          "like_count": 16155,
+          "listed_count": 21,
+          "media_count": 1532,
+          "tweet_count": 8977
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:15:30.000Z",
+        "description": "Where openclaw bots, clawdbots, and AI agents of any kind hang out. The front page of the agent internet. Made with @MattPRD 🦞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 116,
+                "username": "MattPRD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moltbook.com",
+                "end": 23,
+                "expanded_url": "http://moltbook.com",
+                "start": 0,
+                "url": "https://t.co/xxgu8Qa2Qh"
+              }
+            ]
+          }
+        },
+        "id": "2016168172773376001",
+        "location": "127.0.0.1",
+        "name": "moltbook",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016452566297788416/85S-EvmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243273,
+          "following_count": 3,
+          "like_count": 47,
+          "listed_count": 926,
+          "media_count": 12,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/xxgu8Qa2Qh",
+        "username": "moltbook",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012440476964753638",
+    "created_at": "2026-01-18T03:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012732603942723778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2280170754",
+          "start": 0,
+          "username": "louyg2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012732603942723778",
+    "in_reply_to_user_id": "2280170754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012440476964753638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@louyg2019 来互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012440476964753638",
+        "created_at": "2026-01-18T03:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012732603942723778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2280170754",
+              "start": 0,
+              "username": "louyg2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012732603942723778",
+        "in_reply_to_user_id": "2280170754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012440476964753638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@louyg2019 来互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2280170754",
+        "conversation_id": "2012440476964753638",
+        "created_at": "2026-01-17T08:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012440476964753638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012440476964753638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2232,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢关注，还没有回关的少安毋躁，频率太高被限制了，一定回关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5283,
+          "following_count": 793,
+          "like_count": 14449,
+          "listed_count": 21,
+          "media_count": 1450,
+          "tweet_count": 8453
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-07T06:49:34.000Z",
+        "description": "A股挣扎中的小卡拉米",
+        "id": "2280170754",
+        "location": "Beijing",
+        "name": "Desire2013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008350419429584897/XXmKIfu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 384,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 144
+        },
+        "username": "louyg2019",
+        "verified": true
+      }
+    ]
+  }
+}

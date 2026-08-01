@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1990984581781086255",
+    "created_at": "2025-11-19T09:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991073607695339968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1335973070",
+          "start": 0,
+          "username": "ilovek8s"
+        },
+        {
+          "end": 21,
+          "id": "587095114",
+          "start": 10,
+          "username": "idealities"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991073607695339968",
+    "in_reply_to_user_id": "1335973070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991023147269914625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovek8s @idealities tun模式开了，换了节点这个是能登录上了，只是说好几个节点都被Gemini封了不让用了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1990984581781086255",
+        "created_at": "2025-11-19T09:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991073607695339968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1335973070",
+              "start": 0,
+              "username": "ilovek8s"
+            },
+            {
+              "end": 21,
+              "id": "587095114",
+              "start": 10,
+              "username": "idealities"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991073607695339968",
+        "in_reply_to_user_id": "1335973070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991023147269914625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovek8s @idealities tun模式开了，换了节点这个是能登录上了，只是说好几个节点都被Gemini封了不让用了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1335973070",
+        "conversation_id": "1990984581781086255",
+        "created_at": "2025-11-19T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991023147269914625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 26,
+              "id": "587095114",
+              "start": 15,
+              "username": "idealities"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991023147269914625",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991019074554638449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @idealities tun模式打开了么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 664,
+          "like_count": 13566,
+          "listed_count": 19,
+          "media_count": 1381,
+          "tweet_count": 7956
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-08T07:19:51.000Z",
+        "description": "资深全干工程师 | 尊贵的SRE(重启工程师)｜TG: https://t.co/yakXjFGFmu｜ 小报童甄选：https://t.co/xRn5j3Lu9f 独立开发者出海技术栈：https://t.co/av5jVVXXou 🌟欢迎私信自荐产品🌟",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/indiehackertoo…",
+                "end": 51,
+                "expanded_url": "https://t.me/indiehackertools",
+                "start": 28,
+                "url": "https://t.co/yakXjFGFmu"
+              },
+              {
+                "display_url": "xiaobaot.best",
+                "end": 82,
+                "expanded_url": "https://xiaobaot.best/",
+                "start": 59,
+                "url": "https://t.co/xRn5j3Lu9f"
+              },
+              {
+                "display_url": "chuhai.tools",
+                "end": 117,
+                "expanded_url": "https://chuhai.tools",
+                "start": 94,
+                "url": "https://t.co/av5jVVXXou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuhai.tools",
+                "end": 23,
+                "expanded_url": "https://chuhai.tools",
+                "start": 0,
+                "url": "https://t.co/av5jVVXXou"
+              }
+            ]
+          }
+        },
+        "id": "1335973070",
+        "location": "Hong Kong",
+        "name": "ilovelife",
+        "pinned_tweet_id": "1932334411040849977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767739942283980800/iJUzgOtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18097,
+          "following_count": 2217,
+          "like_count": 13129,
+          "listed_count": 182,
+          "media_count": 456,
+          "tweet_count": 18094
+        },
+        "url": "https://t.co/av5jVVXXou",
+        "username": "ilovek8s",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-22T03:02:56.000Z",
+        "description": "always remember that we only live once.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ideal.github.io",
+                "end": 23,
+                "expanded_url": "http://ideal.github.io",
+                "start": 0,
+                "url": "https://t.co/sCrPnKjPzD"
+              }
+            ]
+          }
+        },
+        "id": "587095114",
+        "location": "Hangzhou, China",
+        "name": "ideal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1055402386028548097/lfWXhXM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 485,
+          "like_count": 4162,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/sCrPnKjPzD",
+        "username": "idealities",
+        "verified": false
+      }
+    ]
+  }
+}

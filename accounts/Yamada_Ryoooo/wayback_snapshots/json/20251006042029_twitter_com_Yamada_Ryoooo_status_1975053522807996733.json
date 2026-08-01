@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1975053522807996733",
+    "created_at": "2025-10-06T04:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975053522807996733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "身份证号码解析与生成器 (Liquid Glass UI). Contribute to Yamada-Ryo4/ID-Verify development by creating an account on GitHub.",
+          "display_url": "github.com/Yamada-Ryo4/ID…",
+          "end": 58,
+          "expanded_url": "https://github.com/Yamada-Ryo4/ID-Verify",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1975053529401487360/P-RyErFC?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1975053529401487360/P-RyErFC?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "GitHub - Yamada-Ryo4/ID-Verify: 身份证号码解析与生成器 (Liquid Glass UI)",
+          "unwound_url": "https://github.com/Yamada-Ryo4/ID-Verify",
+          "url": "https://t.co/MQTIDeokQY"
+        },
+        {
+          "display_url": "x.com/Yamada_Ryoooo/…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/Yamada_Ryoooo/status/1972900718530154600",
+          "start": 99,
+          "url": "https://t.co/bz7Rhx99VT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975053522807996733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972900718530154600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像很多推友都对这个身份证校验很好奇，于是又搓了一个新版本开源如下：\nhttps://t.co/MQTIDeokQY\n加入了身份证生成-定向地区/生日生成\n使用了liquidglass效果制作ui https://t.co/bz7Rhx99VT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_1972900709504073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Emvg8bQAA_fAx.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1975053522807996733",
+        "created_at": "2025-10-06T04:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975053522807996733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "身份证号码解析与生成器 (Liquid Glass UI). Contribute to Yamada-Ryo4/ID-Verify development by creating an account on GitHub.",
+              "display_url": "github.com/Yamada-Ryo4/ID…",
+              "end": 58,
+              "expanded_url": "https://github.com/Yamada-Ryo4/ID-Verify",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1975053529401487360/P-RyErFC?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1975053529401487360/P-RyErFC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/ID-Verify: 身份证号码解析与生成器 (Liquid Glass UI)",
+              "unwound_url": "https://github.com/Yamada-Ryo4/ID-Verify",
+              "url": "https://t.co/MQTIDeokQY"
+            },
+            {
+              "display_url": "x.com/Yamada_Ryoooo/…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Yamada_Ryoooo/status/1972900718530154600",
+              "start": 99,
+              "url": "https://t.co/bz7Rhx99VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975053522807996733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972900718530154600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像很多推友都对这个身份证校验很好奇，于是又搓了一个新版本开源如下：\nhttps://t.co/MQTIDeokQY\n加入了身份证生成-定向地区/生日生成\n使用了liquidglass效果制作ui https://t.co/bz7Rhx99VT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972900709504073728"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972898928552284222",
+        "created_at": "2025-09-30T05:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972900718530154600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQTcHxW2pk",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1972900718530154600/photo/1",
+              "media_key": "3_1972900709504073728",
+              "start": 12,
+              "url": "https://t.co/aQTcHxW2pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972900718530154600",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7654,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972898928552284222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 https://t.co/aQTcHxW2pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 693,
+          "like_count": 13410,
+          "listed_count": 20,
+          "media_count": 1359,
+          "tweet_count": 7760
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

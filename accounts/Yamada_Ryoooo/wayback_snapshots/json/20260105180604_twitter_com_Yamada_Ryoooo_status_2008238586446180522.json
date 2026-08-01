@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008056341542433067",
+    "created_at": "2026-01-05T18:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T19:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008238586446180522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "6782882",
+          "start": 0,
+          "username": "oran_ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008238586446180522",
+    "in_reply_to_user_id": "6782882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008056341542433067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oran_ge 《帮助我们确认您是人类》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008056341542433067",
+        "created_at": "2026-01-05T18:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008238586446180522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "6782882",
+              "start": 0,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008238586446180522",
+        "in_reply_to_user_id": "6782882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008056341542433067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oran_ge 《帮助我们确认您是人类》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "6782882",
+        "conversation_id": "2008056341542433067",
+        "created_at": "2026-01-05T06:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008056341542433067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008056341542433067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25638,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现用 AI 回复 X 的，见一个 B 一个。\nPrompt 都调不好在这里丢人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 675,
+          "like_count": 14130,
+          "listed_count": 21,
+          "media_count": 1436,
+          "tweet_count": 8251
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "聊硅基 AI，看有机大橘子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "listenhub.ai",
+                "end": 23,
+                "expanded_url": "https://listenhub.ai",
+                "start": 0,
+                "url": "https://t.co/vbXB95311n"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "Mars",
+        "name": "Orange AI",
+        "pinned_tweet_id": "2007664950186274900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149440,
+          "following_count": 796,
+          "like_count": 2158,
+          "listed_count": 1939,
+          "media_count": 6176,
+          "tweet_count": 134592
+        },
+        "url": "https://t.co/vbXB95311n",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

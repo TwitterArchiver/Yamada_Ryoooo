@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1974255150534463762",
+    "created_at": "2025-10-03T23:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T00:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974255150534463762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1974108440609124498",
+          "start": 22,
+          "url": "https://t.co/XplMssLh1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974255150534463762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974108440609124498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李老师不用停更，因为李币爆的金币还没用完😋 https://t.co/XplMssLh1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2096,
+        "media_key": "3_1974106064686587904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VvAa6WoAAUjJk.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1974255150534463762",
+        "created_at": "2025-10-03T23:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974255150534463762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1974108440609124498",
+              "start": 22,
+              "url": "https://t.co/XplMssLh1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974255150534463762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974108440609124498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李老师不用停更，因为李币爆的金币还没用完😋 https://t.co/XplMssLh1T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974106064686587904"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1974108440609124498",
+        "created_at": "2025-10-03T13:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974108440609124498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cq8RPlZ8qm",
+              "end": 105,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1974108440609124498/photo/1",
+              "media_key": "3_1974106064686587904",
+              "start": 82,
+              "url": "https://t.co/Cq8RPlZ8qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974108440609124498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 158100,
+          "like_count": 437,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "10月3日下午1时23分，美国驻华使领馆在美国社交平台X上的官方账号上宣布，由于拨款问题未解决，除紧急的安全和安保信息外，此账户将不会定期更新，直至恢复全面运作。 https://t.co/Cq8RPlZ8qm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 691,
+          "like_count": 13387,
+          "listed_count": 20,
+          "media_count": 1358,
+          "tweet_count": 7751
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1972250722088473025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115354,
+          "following_count": 989,
+          "like_count": 8245,
+          "listed_count": 8359,
+          "media_count": 35721,
+          "tweet_count": 42534
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

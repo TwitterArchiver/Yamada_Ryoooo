@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012402056360026490",
+    "created_at": "2026-01-18T16:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012924906317500925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724715280205836288",
+          "start": 0,
+          "username": "guomin184935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012924906317500925",
+    "in_reply_to_user_id": "1724715280205836288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012402056360026490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guomin184935 请问一下，有了wise，但是stripe该怎么搞呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012402056360026490",
+        "created_at": "2026-01-18T16:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012924906317500925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724715280205836288",
+              "start": 0,
+              "username": "guomin184935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012924906317500925",
+        "in_reply_to_user_id": "1724715280205836288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012402056360026490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guomin184935 请问一下，有了wise，但是stripe该怎么搞呢？"
+      },
+      {
+        "article": {
+          "title": "infofi 或将终结？如何利用 X 进行变现？全网最全 X 创作者认证教程！国人必看（不去香港也可以开通）"
+        },
+        "attachments": {},
+        "author_id": "1724715280205836288",
+        "conversation_id": "2012402056360026490",
+        "created_at": "2026-01-17T05:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012402056360026490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2012…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2012367743669153792",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2012367743669153792",
+              "url": "https://t.co/nBYBpCeBr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012402056360026490",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 26555,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 94,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nBYBpCeBr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5548,
+          "following_count": 1019,
+          "like_count": 14672,
+          "listed_count": 23,
+          "media_count": 1456,
+          "tweet_count": 8535
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T09:05:49.000Z",
+        "description": "Core @Flywheel_DAO  中文区 @Arbitrum & @SonicLabs 链上画师🌸 合作请联系 TG： @Futakocui008",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Flywheel_DAO"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Arbitrum"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "SonicLabs"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Futakocui008"
+              }
+            ]
+          }
+        },
+        "id": "1724715280205836288",
+        "name": "Akiii | 🧠SENT",
+        "pinned_tweet_id": "1915971261924278653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989977868777226241/8uzL4sOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14368,
+          "following_count": 6566,
+          "like_count": 78495,
+          "listed_count": 355,
+          "media_count": 2027,
+          "tweet_count": 63524
+        },
+        "username": "guomin184935",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054473541362626560",
+        "3_2054473541706514432",
+        "3_2054473541362569216"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2054473715916951592",
+    "created_at": "2026-05-13T08:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:07:23.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054473568692662486",
+      "2054473715916951592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8I7SmeqM6",
+          "end": 28,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+          "media_key": "3_2054473541362626560",
+          "start": 5,
+          "url": "https://t.co/r8I7SmeqM6"
+        },
+        {
+          "display_url": "pic.x.com/r8I7SmeqM6",
+          "end": 28,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+          "media_key": "3_2054473541706514432",
+          "start": 5,
+          "url": "https://t.co/r8I7SmeqM6"
+        },
+        {
+          "display_url": "pic.x.com/r8I7SmeqM6",
+          "end": 28,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+          "media_key": "3_2054473541362569216",
+          "start": 5,
+          "url": "https://t.co/r8I7SmeqM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054473715916951592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味？ https://t.co/r8I7SmeqM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054473541362626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIL0zQFbsAAML2l.jpg",
+        "width": 528
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2054473541706514432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIL0zRXbAAAz9J0.jpg",
+        "width": 526
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2054473541362569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIL0zQFa0AAQfZe.jpg",
+        "width": 528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054473541362569216",
+            "3_2054473541706514432",
+            "3_2054473541362626560"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054473568692662486",
+        "created_at": "2026-05-13T08:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:07:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054473568692662486",
+          "2054473715916951592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgYtGGCDjq",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473568692662486/photo/1",
+              "media_key": "3_2054473541362569216",
+              "start": 5,
+              "url": "https://t.co/KgYtGGCDjq"
+            },
+            {
+              "display_url": "pic.x.com/KgYtGGCDjq",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473568692662486/photo/1",
+              "media_key": "3_2054473541706514432",
+              "start": 5,
+              "url": "https://t.co/KgYtGGCDjq"
+            },
+            {
+              "display_url": "pic.x.com/KgYtGGCDjq",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473568692662486/photo/1",
+              "media_key": "3_2054473541362626560",
+              "start": 5,
+              "url": "https://t.co/KgYtGGCDjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054473568692662486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？ https://t.co/KgYtGGCDjq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054473541362626560",
+            "3_2054473541706514432",
+            "3_2054473541362569216"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2054473715916951592",
+        "created_at": "2026-05-13T08:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:07:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054473568692662486",
+          "2054473715916951592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8I7SmeqM6",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+              "media_key": "3_2054473541362626560",
+              "start": 5,
+              "url": "https://t.co/r8I7SmeqM6"
+            },
+            {
+              "display_url": "pic.x.com/r8I7SmeqM6",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+              "media_key": "3_2054473541706514432",
+              "start": 5,
+              "url": "https://t.co/r8I7SmeqM6"
+            },
+            {
+              "display_url": "pic.x.com/r8I7SmeqM6",
+              "end": 28,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2054473715916951592/photo/1",
+              "media_key": "3_2054473541362569216",
+              "start": 5,
+              "url": "https://t.co/r8I7SmeqM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054473715916951592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味？ https://t.co/r8I7SmeqM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6579,
+          "following_count": 991,
+          "like_count": 17371,
+          "listed_count": 24,
+          "media_count": 1775,
+          "tweet_count": 9706
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

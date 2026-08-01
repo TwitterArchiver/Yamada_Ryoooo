@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2056224727082147901",
+    "created_at": "2026-05-18T06:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056255995320631636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4876267985",
+          "start": 0,
+          "username": "OVGNFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056255995320631636",
+    "in_reply_to_user_id": "4876267985",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056245244862276025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OVGNFT bro😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 76,
+        "media_key": "3_2056245126859726848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlADGWaIAAirXR.png",
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2056224727082147901",
+        "created_at": "2026-05-18T06:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056255995320631636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4876267985",
+              "start": 0,
+              "username": "OVGNFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056255995320631636",
+        "in_reply_to_user_id": "4876267985",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056245244862276025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OVGNFT bro😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056245126859726848"
+          ]
+        },
+        "author_id": "4876267985",
+        "conversation_id": "2056224727082147901",
+        "created_at": "2026-05-18T05:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056245244862276025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJb27n1fTW",
+              "end": 75,
+              "expanded_url": "https://x.com/OVGNFT/status/2056245244862276025/photo/1",
+              "media_key": "3_2056245126859726848",
+              "start": 52,
+              "url": "https://t.co/DJb27n1fTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056245244862276025",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056244309398269976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo dudeee we got lost in translation 😭😭 https://t.co/DJb27n1fTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6566,
+          "following_count": 995,
+          "like_count": 17462,
+          "listed_count": 24,
+          "media_count": 1780,
+          "tweet_count": 9748
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-04T12:53:30.000Z",
+        "description": "Angel Investor \n\nInner Circle\n\nFounder @DrAlphaweb3 | @ordinalcarrots | \n\nAmbassador | Advisor",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "DrAlphaweb3"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "ordinalcarrots"
+              }
+            ]
+          }
+        },
+        "id": "4876267985",
+        "name": "Dr.OVG",
+        "pinned_tweet_id": "1975063470908621093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754479182162042880/G9cs8iHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45248,
+          "following_count": 16681,
+          "like_count": 174226,
+          "listed_count": 516,
+          "media_count": 2824,
+          "tweet_count": 166585
+        },
+        "username": "OVGNFT",
+        "verified": true
+      }
+    ]
+  }
+}

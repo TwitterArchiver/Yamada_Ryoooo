@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987341509658836992"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987153881646965000",
+    "created_at": "2025-11-09T02:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987341517489651994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Teamfj3d6",
+          "end": 38,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1987341517489651994/photo/1",
+          "media_key": "3_1987341509658836992",
+          "start": 15,
+          "url": "https://t.co/0Teamfj3d6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987341517489651994",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987153881646965000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 e！5！ https://t.co/0Teamfj3d6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_1987341509658836992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5R0ktqagAAX1Hn.jpg",
+        "width": 1118
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987153876261478407",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PJ7AybIAc26jH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987153876970315781",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PJ7DbbIAUhGvj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987341509658836992"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987153881646965000",
+        "created_at": "2025-11-09T02:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987341517489651994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Teamfj3d6",
+              "end": 38,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1987341517489651994/photo/1",
+              "media_key": "3_1987341509658836992",
+              "start": 15,
+              "url": "https://t.co/0Teamfj3d6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987341517489651994",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987153881646965000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 e！5！ https://t.co/0Teamfj3d6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987153876261478407",
+            "3_1987153876970315781"
+          ]
+        },
+        "author_id": "1254442404410621958",
+        "conversation_id": "1987153881646965000",
+        "created_at": "2025-11-08T13:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987153881646965000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0pKT92kkO",
+              "end": 30,
+              "expanded_url": "https://x.com/zwh20081/status/1987153881646965000/photo/1",
+              "media_key": "3_1987153876261478407",
+              "start": 7,
+              "url": "https://t.co/J0pKT92kkO"
+            },
+            {
+              "display_url": "pic.x.com/J0pKT92kkO",
+              "end": 30,
+              "expanded_url": "https://x.com/zwh20081/status/1987153881646965000/photo/1",
+              "media_key": "3_1987153876970315781",
+              "start": 7,
+              "url": "https://t.co/J0pKT92kkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987153881646965000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妹的电脑。 https://t.co/J0pKT92kkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 667,
+          "like_count": 13529,
+          "listed_count": 20,
+          "media_count": 1377,
+          "tweet_count": 7913
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEO\n北京素鳞科技产业有限公司 AIGC Lab技术开发总监\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务",
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976944068505878529/FfNVRc4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 86,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1279
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

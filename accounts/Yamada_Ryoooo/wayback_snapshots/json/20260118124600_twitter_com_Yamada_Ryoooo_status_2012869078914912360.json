@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012789261573992663",
+    "created_at": "2026-01-18T12:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012869078914912360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1033181639352827904",
+          "start": 0,
+          "username": "Wildwood2025"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2012869078914912360",
+    "in_reply_to_user_id": "1033181639352827904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012789261573992663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wildwood2025 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2012789048872456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7c-cnW0AAqxMp.jpg",
+        "width": 680
+      },
+      {
+        "height": 558,
+        "media_key": "3_2012789077704101888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7dAIBW0AAX3Fb.jpg",
+        "width": 1024
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012789261573992663",
+        "created_at": "2026-01-18T12:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012869078914912360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1033181639352827904",
+              "start": 0,
+              "username": "Wildwood2025"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2012869078914912360",
+        "in_reply_to_user_id": "1033181639352827904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012789261573992663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wildwood2025 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012789048872456192",
+            "3_2012789077704101888"
+          ]
+        },
+        "author_id": "1033181639352827904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012789261573992663",
+        "created_at": "2026-01-18T07:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:24:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012788062946746726",
+          "2012789261573992663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdWIyuNRdN",
+              "end": 62,
+              "expanded_url": "https://x.com/Wildwood2025/status/2012789261573992663/photo/1",
+              "media_key": "3_2012789048872456192",
+              "start": 39,
+              "url": "https://t.co/hdWIyuNRdN"
+            },
+            {
+              "display_url": "pic.x.com/hdWIyuNRdN",
+              "end": 62,
+              "expanded_url": "https://x.com/Wildwood2025/status/2012789261573992663/photo/1",
+              "media_key": "3_2012789077704101888",
+              "start": 39,
+              "url": "https://t.co/hdWIyuNRdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012789261573992663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝V诚信互关，永不取关\n关注有数量限制，我会陆续回关\n请朋友们不要着急🫶🫶🫶 https://t.co/hdWIyuNRdN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5414,
+          "following_count": 902,
+          "like_count": 14592,
+          "listed_count": 21,
+          "media_count": 1455,
+          "tweet_count": 8483
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-25T02:37:53.000Z",
+        "description": "蓝V诚信互关，永不取关\n每天枯坐10小时,目标成为P将军!\n最好用的打狗工具GMGN\n注册链接：https://t.co/bYk0hjTOUB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmgn.ai/r/amumu?chain=…",
+                "end": 71,
+                "expanded_url": "https://gmgn.ai/r/amumu?chain=bsc",
+                "start": 48,
+                "url": "https://t.co/bYk0hjTOUB"
+              }
+            ]
+          }
+        },
+        "id": "1033181639352827904",
+        "location": "SZ",
+        "name": "阿木木🌲（枯坐打狗版）",
+        "pinned_tweet_id": "2012789261573992663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992598994720317441/RwiEb25P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 1003,
+          "like_count": 392,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 216
+        },
+        "username": "Wildwood2025",
+        "verified": true
+      }
+    ]
+  }
+}

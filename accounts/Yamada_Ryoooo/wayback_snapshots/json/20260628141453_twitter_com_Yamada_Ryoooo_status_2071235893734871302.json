@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2071214931673031051",
+    "created_at": "2026-06-28T14:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071235893734871302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730594072535207936",
+          "start": 0,
+          "username": "zaoyudexiaowu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071235893734871302",
+    "in_reply_to_user_id": "1730594072535207936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071235134536434074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaoyudexiaowu 没用过这种备皮刀，用的还是ulike的那个小的刮毛刀，刮的挺干净的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2071214931673031051",
+        "created_at": "2026-06-28T14:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071235893734871302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730594072535207936",
+              "start": 0,
+              "username": "zaoyudexiaowu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071235893734871302",
+        "in_reply_to_user_id": "1730594072535207936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071235134536434074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaoyudexiaowu 没用过这种备皮刀，用的还是ulike的那个小的刮毛刀，刮的挺干净的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730594072535207936",
+        "conversation_id": "2071214931673031051",
+        "created_at": "2026-06-28T14:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071235134536434074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071235134536434074",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071233441946103948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 用过好的了就知道这玩意很拉垮的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6526,
+          "following_count": 975,
+          "like_count": 17769,
+          "listed_count": 22,
+          "media_count": 1818,
+          "tweet_count": 9988
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-01T14:26:03.000Z",
+        "description": "我为龟男流过血，我为龟男出过力，你们不能这样对我，中推唱反调第一人🐮☝️，混眼熟了回跟，为防止黄推非关注能不评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/zaoyuyouc",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/zaoyuyouc",
+                "start": 0,
+                "url": "https://t.co/7uSGmVhANf"
+              }
+            ]
+          }
+        },
+        "id": "1730594072535207936",
+        "location": "上海商学院",
+        "name": "藻鱼的小屋（亡命天涯投顶会）",
+        "pinned_tweet_id": "2056976436238692773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046904176962392064/NByznFr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 249,
+          "like_count": 48,
+          "listed_count": 7,
+          "media_count": 552,
+          "tweet_count": 13069
+        },
+        "url": "https://t.co/7uSGmVhANf",
+        "username": "zaoyudexiaowu",
+        "verified": false
+      }
+    ]
+  }
+}

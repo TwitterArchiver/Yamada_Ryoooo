@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012906703814312166",
+    "created_at": "2026-01-18T16:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012926835408187615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1360084437086609409",
+          "start": 0,
+          "username": "CandyDAO_leaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012926835408187615",
+    "in_reply_to_user_id": "1360084437086609409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012906703814312166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CandyDAO_leaf 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2012906694523650048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9H-U0WgAADF16.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012906703814312166",
+        "created_at": "2026-01-18T16:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012926835408187615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1360084437086609409",
+              "start": 0,
+              "username": "CandyDAO_leaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012926835408187615",
+        "in_reply_to_user_id": "1360084437086609409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012906703814312166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CandyDAO_leaf 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012906694523650048"
+          ]
+        },
+        "author_id": "1360084437086609409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012906703814312166",
+        "created_at": "2026-01-18T15:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012906703814312166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ags5fkJ7RM",
+              "end": 161,
+              "expanded_url": "https://x.com/CandyDAO_leaf/status/2012906703814312166/photo/1",
+              "media_key": "3_2012906694523650048",
+              "start": 138,
+              "url": "https://t.co/Ags5fkJ7RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012906703814312166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 391,
+                "start": 381,
+                "tag": "TermMaxFi"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 239,
+                "id": "1597057363697360897",
+                "start": 229,
+                "username": "TermMaxFi"
+              },
+              {
+                "end": 380,
+                "id": "1597057363697360897",
+                "start": 370,
+                "username": "TermMaxFi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.termmax.ts.finance/alpha/call-put…",
+                "end": 216,
+                "expanded_url": "https://app.termmax.ts.finance/alpha/call-put?ref=3VT548&chain=bnb",
+                "start": 193,
+                "url": "https://t.co/1tLq6CIOm0"
+              }
+            ]
+          },
+          "text": "家人们：真诚蓝V互关🥰\n\n只要你在评论区留言即可👇\n\n我会挨个关注（给我的粉丝涨粉）\n\n每个人都有机会可以做博主起号\n\n普通人也有机会通过推特拿到更多收益\n甚至是自己直接掌握生产资料\n但是过程肯定不是一帆风顺的\n不管是撸毛还是博主都要坚持\n\n没有回关到的请直接私信提醒我⚠️\n\n这次有多少人我就会关注多少人\n\n现在还有一个嘴撸活着 😂\n\n那就是TermMaxfi大家可以去试试👇\n链接：https://t.co/1tLq6CIOm0\n\n保持经常发帖注意艾特 @TermMaxFi \n保持每天 Check-in 签到一次花点汽油费\n分享其他内容的时候带上项目标签\n\n官方说是不受推特的影响而且积分还在加\n\n项目融资是700多万美金还算可以，大家都希望是下一个河流，河流是超级大毛可惜没重视就撸到几百美金\n\n所以撸毛真的还得把每个项目做好啊\n\n@TermMaxFi #TermMaxFi"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 833,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们：真诚蓝V互关🥰\n\n只要你在评论区留言即可👇\n\n我会挨个关注（给我的粉丝涨粉）\n\n每个人都有机会可以做博主起号\n\n普通人也有机会通过推特拿到更多收益\n甚至是自己直接掌握生产资料\n但是过程肯定不是一帆风顺的\n不管是撸毛还是博主都要坚持\n\n没有回关到的请直接私信提醒我⚠️ https://t.co/Ags5fkJ7RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5555,
+          "following_count": 1024,
+          "like_count": 14679,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8538
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-12T04:33:01.000Z",
+        "description": "空投日记 | 寻找Alpha | bd | 合作DM【直接私信】 建设社区：@Airdrop_leaf @Lighthouse_Glow Arbitrum | ZetaChain 大使实习生 @ZircuitL2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Airdrop_leaf"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "Lighthouse_Glow"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "ZircuitL2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fuFES8ez8M",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fuFES8ez8M",
+                "start": 0,
+                "url": "https://t.co/feLWvGgY0D"
+              }
+            ]
+          }
+        },
+        "id": "1360084437086609409",
+        "location": "加入leaf社区",
+        "name": "leaf🎒",
+        "pinned_tweet_id": "1882387265005166883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968147838719889409/KhkCA-nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50309,
+          "following_count": 4881,
+          "like_count": 27601,
+          "listed_count": 765,
+          "media_count": 2242,
+          "tweet_count": 25567
+        },
+        "url": "https://t.co/feLWvGgY0D",
+        "username": "CandyDAO_leaf",
+        "verified": true
+      }
+    ]
+  }
+}

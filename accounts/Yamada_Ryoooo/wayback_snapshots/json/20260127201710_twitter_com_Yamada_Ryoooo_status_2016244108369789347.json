@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2016207110783320065",
+    "created_at": "2026-01-27T20:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016244108369789347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558317924800430081",
+          "start": 0,
+          "username": "LaoYao_crypto"
+        },
+        {
+          "end": 24,
+          "id": "215939847",
+          "start": 15,
+          "username": "bboczeng"
+        },
+        {
+          "end": 38,
+          "id": "1390560341227020291",
+          "start": 25,
+          "username": "hongkongdoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016244108369789347",
+    "in_reply_to_user_id": "1558317924800430081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016230193996951606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaoYao_crypto @bboczeng @hongkongdoll 公开问的，之前我还看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2016207110783320065",
+        "created_at": "2026-01-27T20:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016244108369789347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558317924800430081",
+              "start": 0,
+              "username": "LaoYao_crypto"
+            },
+            {
+              "end": 24,
+              "id": "215939847",
+              "start": 15,
+              "username": "bboczeng"
+            },
+            {
+              "end": 38,
+              "id": "1390560341227020291",
+              "start": 25,
+              "username": "hongkongdoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016244108369789347",
+        "in_reply_to_user_id": "1558317924800430081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016230193996951606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaoYao_crypto @bboczeng @hongkongdoll 公开问的，之前我还看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558317924800430081",
+        "conversation_id": "2016207110783320065",
+        "created_at": "2026-01-27T19:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016230193996951606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            },
+            {
+              "end": 23,
+              "id": "1390560341227020291",
+              "start": 10,
+              "username": "hongkongdoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016230193996951606",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016229389718237694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng @hongkongdoll 私信问的？\n只是看她的推文，具有连续性，公开推文中没有相关说法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 1079,
+          "like_count": 15467,
+          "listed_count": 21,
+          "media_count": 1507,
+          "tweet_count": 8705
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-13T05:02:12.000Z",
+        "description": "旅日数字游民/财经老兵/All in币圈；践行价值投资，财经视角看币圈； ♂€＞ 币圈&数字游民 ✈️群： https://t.co/YfuB4boY83",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/web3_crypto_cn",
+                "end": 77,
+                "expanded_url": "http://t.me/web3_crypto_cn",
+                "start": 54,
+                "url": "https://t.co/YfuB4boY83"
+              }
+            ]
+          }
+        },
+        "id": "1558317924800430081",
+        "location": "日本东京",
+        "name": "LaoYao",
+        "pinned_tweet_id": "1984379445722169521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009660390528196608/l27Y7CR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7798,
+          "following_count": 383,
+          "like_count": 3142,
+          "listed_count": 23,
+          "media_count": 499,
+          "tweet_count": 3880
+        },
+        "username": "LaoYao_crypto",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "2015723705499033751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190487,
+          "following_count": 709,
+          "like_count": 127506,
+          "listed_count": 1105,
+          "media_count": 18549,
+          "tweet_count": 111260
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T06:53:28.000Z",
+        "description": "NOT A KOL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hongkongdoll.io",
+                "end": 23,
+                "expanded_url": "http://hongkongdoll.io",
+                "start": 0,
+                "url": "https://t.co/6jdgs04ep8"
+              }
+            ]
+          }
+        },
+        "id": "1390560341227020291",
+        "location": "频道 & Links",
+        "name": "HongKongDoll",
+        "pinned_tweet_id": "1978332242230325301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997302369361780736/e0pP2M3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643465,
+          "following_count": 401,
+          "like_count": 2941,
+          "listed_count": 2259,
+          "media_count": 534,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/6jdgs04ep8",
+        "username": "hongkongdoll",
+        "verified": true
+      }
+    ]
+  }
+}

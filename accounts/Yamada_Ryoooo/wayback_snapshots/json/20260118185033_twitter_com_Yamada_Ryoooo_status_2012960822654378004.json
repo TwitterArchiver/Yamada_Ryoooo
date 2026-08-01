@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012960542059585537",
+        "3_2012960687706832896"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012960822654378004",
+    "created_at": "2026-01-18T18:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T19:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012960822654378004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VpATj0Wr1Z",
+          "end": 29,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012960822654378004/photo/1",
+          "media_key": "3_2012960542059585537",
+          "start": 6,
+          "url": "https://t.co/VpATj0Wr1Z"
+        },
+        {
+          "display_url": "pic.x.com/VpATj0Wr1Z",
+          "end": 29,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012960822654378004/photo/1",
+          "media_key": "3_2012960687706832896",
+          "start": 6,
+          "url": "https://t.co/VpATj0Wr1Z"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2012960822654378004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雑魚雑魚～ https://t.co/VpATj0Wr1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_2012960542059585537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-948qhW4AEfF3v.jpg",
+        "width": 2160
+      },
+      {
+        "height": 3840,
+        "media_key": "3_2012960687706832896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-95FJGXgAARwkI.jpg",
+        "width": 2160
+      }
+    ],
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012960542059585537",
+            "3_2012960687706832896"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012960822654378004",
+        "created_at": "2026-01-18T18:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T19:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012960822654378004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpATj0Wr1Z",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012960822654378004/photo/1",
+              "media_key": "3_2012960542059585537",
+              "start": 6,
+              "url": "https://t.co/VpATj0Wr1Z"
+            },
+            {
+              "display_url": "pic.x.com/VpATj0Wr1Z",
+              "end": 29,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2012960822654378004/photo/1",
+              "media_key": "3_2012960687706832896",
+              "start": 6,
+              "url": "https://t.co/VpATj0Wr1Z"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2012960822654378004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雑魚雑魚～ https://t.co/VpATj0Wr1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5591,
+          "following_count": 1053,
+          "like_count": 14721,
+          "listed_count": 21,
+          "media_count": 1461,
+          "tweet_count": 8555
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

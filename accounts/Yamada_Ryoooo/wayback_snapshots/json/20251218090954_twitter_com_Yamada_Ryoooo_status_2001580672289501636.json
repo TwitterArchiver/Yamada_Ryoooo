@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2001580672289501636",
+    "created_at": "2025-12-18T09:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T10:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001580672289501636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/autumnredleaf/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/autumnredleaf/status/2001395353908649999",
+          "start": 19,
+          "url": "https://t.co/dedBM9xPFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001580672289501636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001395353908649999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这听不出来是ai的可以把自己加进去了 https://t.co/dedBM9xPFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48274,
+        "height": 1280,
+        "media_key": "13_2001394782552092672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001394782552092672/img/LuJ7WvFHgkjwQNfY.jpg",
+        "public_metrics": {
+          "view_count": 33839
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001394782552092672/vid/avc1/320x710/EoFuCXV8sE6BUSVt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001394782552092672/vid/avc1/480x1066/rjeWryMFtntesiEr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001394782552092672/vid/avc1/576x1280/BaU6vmMgUgk5R36c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001394782552092672/pl/T23YpYHk_ONYLrs5.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2001580672289501636",
+        "created_at": "2025-12-18T09:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001580672289501636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/autumnredleaf/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/autumnredleaf/status/2001395353908649999",
+              "start": 19,
+              "url": "https://t.co/dedBM9xPFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001580672289501636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001395353908649999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这听不出来是ai的可以把自己加进去了 https://t.co/dedBM9xPFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001394782552092672"
+          ]
+        },
+        "author_id": "101445099",
+        "conversation_id": "2001395353908649999",
+        "created_at": "2025-12-17T20:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001395353908649999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqMj3erS1s",
+              "end": 167,
+              "expanded_url": "https://x.com/autumnredleaf/status/2001395353908649999/video/1",
+              "media_key": "13_2001394782552092672",
+              "start": 144,
+              "url": "https://t.co/JqMj3erS1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001395353908649999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1980年審判四人幫，12月24日最後庭審階段\n江青在法庭發言，“我的一點看法”，兩個鐘頭，其中七次被打斷，有部分最後沒公佈與衆\n其中，她説到：毛主席早就對我説過，要警惕劉少奇鄧小平陸定一楊尚昆以及周揚田漢和廖沫沙等人的翻案活動\n他們肯定是要翻案的\n這是一條客觀規律，不以人們意志為轉移\n這條意見，由於華國鋒這個壞家夥和叛徒的出賣，而成爲了現實\n你們暫時得逞了\n但是，有一點我要告訴你們，你們不要高興得太早了\n中國是經過無產階級文化大革命和毛澤東思想熏陶的\n人民是經過鍛煉的\n你們這些修正主義分子\n人民將來是不會放過你們的\n\n----毛媳婦江青同志兼旗手這番話，那是鏗鏘有力，擲地有聲：）\n讓我想起了那誰說的那句：人們啊，你們要警惕啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 64822,
+          "like_count": 127,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "1980年審判四人幫，12月24日最後庭審階段\n江青在法庭發言，“我的一點看法”，兩個鐘頭，其中七次被打斷，有部分最後沒公佈與衆\n其中，她説到：毛主席早就對我説過，要警惕劉少奇鄧小平陸定一楊尚昆以及周揚田漢和廖沫沙等人的翻案活動\n他們肯定是要翻案的\n這是一條客觀規律，不以人們意志為轉移 https://t.co/JqMj3erS1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5305,
+          "following_count": 681,
+          "like_count": 13990,
+          "listed_count": 21,
+          "media_count": 1421,
+          "tweet_count": 8172
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-03T09:50:19.000Z",
+        "description": "一三五不洗，二四六乾擦，星期天休息",
+        "id": "101445099",
+        "name": "zhang haitao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836521508195229696/jjvyiFR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15535,
+          "following_count": 3510,
+          "like_count": 37750,
+          "listed_count": 66,
+          "media_count": 3741,
+          "tweet_count": 44288
+        },
+        "username": "autumnredleaf",
+        "verified": true
+      }
+    ]
+  }
+}

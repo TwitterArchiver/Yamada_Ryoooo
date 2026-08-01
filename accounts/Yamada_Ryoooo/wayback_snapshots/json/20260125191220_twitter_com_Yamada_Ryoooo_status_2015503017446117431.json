@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2015503017446117431",
+    "created_at": "2026-01-25T19:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T20:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015503017446117431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/humansnocontex…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/humansnocontext/status/2015039422354309166",
+          "start": 13,
+          "url": "https://t.co/3h7tUIsTL0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015503017446117431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015039422354309166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被他们发现另一个暗网了💀 https://t.co/3h7tUIsTL0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59266,
+        "height": 722,
+        "media_key": "7_2015039395946954752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015039395946954752/pu/img/9Q47T4G_jREPzmME.jpg",
+        "public_metrics": {
+          "view_count": 938692
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015039395946954752/pu/vid/avc1/320x400/CSVeM19iuF9COX-f.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015039395946954752/pu/vid/avc1/480x600/_XO8nOzLexmdrsrS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015039395946954752/pu/vid/avc1/576x722/hTFjYcPmYer0PBXn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015039395946954752/pu/pl/el-93hL2CVD4ZM0f.m3u8?tag=12&v=4bb"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2015503017446117431",
+        "created_at": "2026-01-25T19:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015503017446117431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/humansnocontex…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/humansnocontext/status/2015039422354309166",
+              "start": 13,
+              "url": "https://t.co/3h7tUIsTL0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015503017446117431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015039422354309166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被他们发现另一个暗网了💀 https://t.co/3h7tUIsTL0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015039395946954752"
+          ]
+        },
+        "author_id": "855300206086168576",
+        "conversation_id": "2015039422354309166",
+        "created_at": "2026-01-24T12:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T13:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015039422354309166"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "TikTok",
+              "probability": 0.9866,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/86IMq4tW3O",
+              "end": 67,
+              "expanded_url": "https://x.com/HumansNoContext/status/2015039422354309166/video/1",
+              "media_key": "7_2015039395946954752",
+              "start": 44,
+              "url": "https://t.co/86IMq4tW3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015039422354309166",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5537,
+          "impression_count": 1337604,
+          "like_count": 30632,
+          "quote_count": 211,
+          "reply_count": 275,
+          "retweet_count": 3166
+        },
+        "reply_settings": "everyone",
+        "text": "Chinese TikTok is literally a fever dream 😭 https://t.co/86IMq4tW3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5934,
+          "following_count": 1080,
+          "like_count": 15400,
+          "listed_count": 21,
+          "media_count": 1501,
+          "tweet_count": 8673
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T06:00:34.000Z",
+        "description": "humans being humans",
+        "id": "855300206086168576",
+        "name": "NO CONTEXT HUMANS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833050358479826944/A2qj0e6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6327643,
+          "following_count": 0,
+          "like_count": 908,
+          "listed_count": 13094,
+          "media_count": 45933,
+          "tweet_count": 47961
+        },
+        "username": "HumansNoContext",
+        "verified": true
+      }
+    ]
+  }
+}

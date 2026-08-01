@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2056020298072527110",
+    "created_at": "2026-05-18T00:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056172080442540308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925425906291822592",
+          "start": 0,
+          "username": "JIANIAO2587"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056172080442540308",
+    "in_reply_to_user_id": "1925425906291822592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056020298072527110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIANIAO2587 真的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2056020298072527110",
+        "created_at": "2026-05-18T00:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056172080442540308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925425906291822592",
+              "start": 0,
+              "username": "JIANIAO2587"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056172080442540308",
+        "in_reply_to_user_id": "1925425906291822592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056020298072527110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIANIAO2587 真的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925425906291822592",
+        "conversation_id": "2056020298072527110",
+        "created_at": "2026-05-17T14:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056020298072527110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056020298072527110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 65068,
+          "like_count": 201,
+          "quote_count": 6,
+          "reply_count": 68,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "假几把是真难玩，洗半天屁股捅半天捅不进去，捅进去了还拱不对位置一点都不爽，浪费三个小时还累得要死，以后🦌得了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6561,
+          "following_count": 992,
+          "like_count": 17438,
+          "listed_count": 24,
+          "media_count": 1780,
+          "tweet_count": 9739
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-22T05:38:20.000Z",
+        "description": "阳痿/风湿/前列腺炎/腰椎间盘\n提问链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianiao25871",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianiao25871",
+                "start": 0,
+                "url": "https://t.co/vPF54Ob1hW"
+              }
+            ]
+          }
+        },
+        "id": "1925425906291822592",
+        "name": "bot",
+        "pinned_tweet_id": "1953405403968270384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003403088317857792/QoBLu4OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1177,
+          "like_count": 23775,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/vPF54Ob1hW",
+        "username": "JIANIAO2587",
+        "verified": false
+      }
+    ]
+  }
+}

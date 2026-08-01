@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2014163502441877701",
+    "created_at": "2026-01-22T02:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014163502441877701"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014163502441877701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你跟叔说实话，你到底是不是只想玩弄一下叔的感情?叔也一把年纪了，背着家里老婆子和你在一起，觉得你才是叔的真爱，刚认识的时候你觉得叔有男人味，叔帅，昨晚上让叔帮你洗衣服洗内衣叔也给你洗了，后面你又想出去玩，叔觉得你还小，没有同意，怎么你一回家就把叔拉黑了？给你打电话你也不接，对叔有什么不满意的你可以跟叔说，不要这样对叔，我也一把年纪了，受不了这样的刺激，乖乖不要对这样好不，回到叔的身边，叔什么都依你，如果你看到了，记得给叔回个信息，叔等你。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你跟叔说实话，你到底是不是只想玩弄一下叔的感情?叔也一把年纪了，背着家里老婆子和你在一起，觉得你才是叔的真爱，刚认识的时候你觉得叔有男人味，叔帅，昨晚上让叔帮你洗衣服洗内衣叔也给你洗了，后面你又想出去玩，叔觉得你还小，没有同意，怎么你一回家就把叔拉黑了？给你打电话你也不接，对叔有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2014163502441877701",
+        "created_at": "2026-01-22T02:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014163502441877701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014163502441877701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你跟叔说实话，你到底是不是只想玩弄一下叔的感情?叔也一把年纪了，背着家里老婆子和你在一起，觉得你才是叔的真爱，刚认识的时候你觉得叔有男人味，叔帅，昨晚上让叔帮你洗衣服洗内衣叔也给你洗了，后面你又想出去玩，叔觉得你还小，没有同意，怎么你一回家就把叔拉黑了？给你打电话你也不接，对叔有什么不满意的你可以跟叔说，不要这样对叔，我也一把年纪了，受不了这样的刺激，乖乖不要对这样好不，回到叔的身边，叔什么都依你，如果你看到了，记得给叔回个信息，叔等你。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你跟叔说实话，你到底是不是只想玩弄一下叔的感情?叔也一把年纪了，背着家里老婆子和你在一起，觉得你才是叔的真爱，刚认识的时候你觉得叔有男人味，叔帅，昨晚上让叔帮你洗衣服洗内衣叔也给你洗了，后面你又想出去玩，叔觉得你还小，没有同意，怎么你一回家就把叔拉黑了？给你打电话你也不接，对叔有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5897,
+          "following_count": 1086,
+          "like_count": 15189,
+          "listed_count": 21,
+          "media_count": 1488,
+          "tweet_count": 8600
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

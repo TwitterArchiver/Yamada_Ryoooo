@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2011743935560106162",
+    "created_at": "2026-01-15T10:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T11:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011743935560106162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/robbinfan/stat…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/robbinfan/status/2011687146332307868",
+          "start": 136,
+          "url": "https://t.co/5aXhux3twL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011743935560106162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011687146332307868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人是不是脑子有问题🤣\n只有国内id才能下的app还有什么必要保存到icloud还大费周章的加密？人家想要干你直接去调不就好了🤡\n还有，用国内id下载的app数据也可以在切换id以后存在别的区的id上🤡🤡🤡\n纯纯小丑一个\n别反驳我，因为我有7个不同地区的Apple ID https://t.co/5aXhux3twL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3893,
+        "media_key": "3_2011686895873638403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ryksvbQAM5yee.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2011686895882027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ryksxbQAAjJPd.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2011686901259079680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-rylAzakAAaE7V.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2011743935560106162",
+        "created_at": "2026-01-15T10:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011743935560106162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/robbinfan/stat…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/robbinfan/status/2011687146332307868",
+              "start": 136,
+              "url": "https://t.co/5aXhux3twL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011743935560106162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011687146332307868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人是不是脑子有问题🤣\n只有国内id才能下的app还有什么必要保存到icloud还大费周章的加密？人家想要干你直接去调不就好了🤡\n还有，用国内id下载的app数据也可以在切换id以后存在别的区的id上🤡🤡🤡\n纯纯小丑一个\n别反驳我，因为我有7个不同地区的Apple ID https://t.co/5aXhux3twL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011686895873638403",
+            "3_2011686895882027008",
+            "3_2011686901259079680"
+          ]
+        },
+        "author_id": "7124672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2011687146332307868",
+        "created_at": "2026-01-15T06:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T07:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011687146332307868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJeInf75bJ",
+              "end": 165,
+              "expanded_url": "https://x.com/robbinfan/status/2011687146332307868/photo/1",
+              "media_key": "3_2011686895873638403",
+              "start": 142,
+              "url": "https://t.co/lJeInf75bJ"
+            },
+            {
+              "display_url": "pic.x.com/lJeInf75bJ",
+              "end": 165,
+              "expanded_url": "https://x.com/robbinfan/status/2011687146332307868/photo/1",
+              "media_key": "3_2011686895882027008",
+              "start": 142,
+              "url": "https://t.co/lJeInf75bJ"
+            },
+            {
+              "display_url": "pic.x.com/lJeInf75bJ",
+              "end": 165,
+              "expanded_url": "https://x.com/robbinfan/status/2011687146332307868/photo/1",
+              "media_key": "3_2011686901259079680",
+              "start": 142,
+              "url": "https://t.co/lJeInf75bJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011687146332307868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 24363,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "国内的苹果账号，iCloud数据是放在云上贵州的。如果你担心数据隐私问题，我教你几步搞定：1.  打开iCloud设置最下面的高级数据保护，并且关闭网页访问iCloud；2. 在高级数据保护页面打开保护功能；3. 把私钥打印出来保存。没有私钥，云上贵州也看不了你的数据了。切记打开！ https://t.co/lJeInf75bJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5198,
+          "following_count": 687,
+          "like_count": 14301,
+          "listed_count": 21,
+          "media_count": 1444,
+          "tweet_count": 8370
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-28T04:13:08.000Z",
+        "description": "👴 范凯 robbin 💻 老登程序员（仍在写代码） 🤖 AI 自媒体，独立开发者 🌱 2003：年少轻狂，创办 JavaEye，推广开源 🩺 2016：认真做过，千万用户的在线问诊产品 🗺️ 2022：一不小心，做了个上亿人用的疫情地图 🧠 现在：认真研究 AI，也顺便吐槽时代",
+        "id": "7124672",
+        "location": "Hong Kong ",
+        "name": "范凯说 AI | AI Insights",
+        "pinned_tweet_id": "2004610556398109058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1026079626676690944/6u4yyl92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27963,
+          "following_count": 262,
+          "like_count": 28,
+          "listed_count": 455,
+          "media_count": 139,
+          "tweet_count": 1958
+        },
+        "username": "robbinfan",
+        "verified": true
+      }
+    ]
+  }
+}

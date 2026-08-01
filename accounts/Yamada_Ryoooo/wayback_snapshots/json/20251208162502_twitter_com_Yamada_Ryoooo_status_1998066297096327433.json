@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1997892206695489990",
+    "created_at": "2025-12-08T16:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998066297096327433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943532006723457026",
+          "start": 0,
+          "username": "zhi96886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998066297096327433",
+    "in_reply_to_user_id": "1943532006723457026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998065312395407423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi96886 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1997892206695489990",
+        "created_at": "2025-12-08T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998066297096327433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943532006723457026",
+              "start": 0,
+              "username": "zhi96886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998066297096327433",
+        "in_reply_to_user_id": "1943532006723457026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998065312395407423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi96886 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943532006723457026",
+        "conversation_id": "1997892206695489990",
+        "created_at": "2025-12-08T16:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998065312395407423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998065312395407423",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998064571903525116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 互fo喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 678,
+          "like_count": 13875,
+          "listed_count": 20,
+          "media_count": 1415,
+          "tweet_count": 8109
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T04:45:24.000Z",
+        "description": "acgn爱好者/支持社会民主主义/反独裁，反共/不理解支黑为什么用“支文”黑支/汉民族主义倾向/不喜欢骂人/粉红支黑滚/对历史感兴趣/反分裂\n\n/新号，老号去年被反中魔怔人举报封了😭我基本上会回关\n\n如果你友好我就会友好🥰\n🚪:1145141919810😄",
+        "id": "1943532006723457026",
+        "location": "永远不会变支黑也不会变成粉红",
+        "name": "知雲",
+        "pinned_tweet_id": "1992992984158163104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943532103057932288/nOmFq8AD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 425,
+          "like_count": 4628,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 2264
+        },
+        "username": "zhi96886",
+        "verified": false
+      }
+    ]
+  }
+}

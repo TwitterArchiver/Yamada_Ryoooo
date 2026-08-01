@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013825275054956923",
+    "created_at": "2026-01-22T03:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T04:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014173728570318872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2725328653",
+          "start": 0,
+          "username": "louis117228"
+        },
+        {
+          "end": 22,
+          "id": "1646875412449079298",
+          "start": 13,
+          "username": "nipppii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014173728570318872",
+    "in_reply_to_user_id": "2725328653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013826153191219452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@louis117228 @nipppii_ 在台灣我們不說「自助」，我們說「吃到饱」\n：走我們去吃和屌吃到飽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013825275054956923",
+        "created_at": "2026-01-22T03:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014173728570318872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2725328653",
+              "start": 0,
+              "username": "louis117228"
+            },
+            {
+              "end": 22,
+              "id": "1646875412449079298",
+              "start": 13,
+              "username": "nipppii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014173728570318872",
+        "in_reply_to_user_id": "2725328653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013826153191219452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@louis117228 @nipppii_ 在台灣我們不說「自助」，我們說「吃到饱」\n：走我們去吃和屌吃到飽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725328653",
+        "conversation_id": "2013825275054956923",
+        "created_at": "2026-01-21T04:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013826153191219452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1646875412449079298",
+              "start": 0,
+              "username": "nipppii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013826153191219452",
+        "in_reply_to_user_id": "1646875412449079298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2855,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013825275054956923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nipppii_ 好喜歡這個系列\n\n在台灣我們不說「牛」，我們說「屌」\n：欸這間老闆我熟的啦，他的屌超好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5897,
+          "following_count": 1086,
+          "like_count": 15193,
+          "listed_count": 21,
+          "media_count": 1488,
+          "tweet_count": 8602
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-12T03:18:06.000Z",
+        "description": "๑ 喜歡看百合的宅宅工程師\n๑ 日麻雀歷 2020.9 ~ now\n๑ 興趣使然的剪輯人 ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@rottensubtitl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@rottensubtitles5402/",
+                "start": 0,
+                "url": "https://t.co/hEwWqpSqxv"
+              }
+            ]
+          }
+        },
+        "id": "2725328653",
+        "name": "湯圓桑（団子ちゃん）",
+        "pinned_tweet_id": "1910265067632816217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000242603787526144/FQY8Cob1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 3561,
+          "like_count": 120934,
+          "listed_count": 4,
+          "media_count": 1195,
+          "tweet_count": 10288
+        },
+        "url": "https://t.co/hEwWqpSqxv",
+        "username": "louis117228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T13:58:04.000Z",
+        "description": "✖🔴✖. 小丑竟是我自己❗ \n\n♥建模把拔 ⋄ @NoraDobutsu_S \n♥繪師馬麻 ⋄ Tiyuu \n\n♦Fn ⋄ 趴控🍿\n♦Live ⋄ #尼皮雜耍中\n♦ART ⋄ #尼好繪\n♦R18 ⋄ #尼好色喔\n♦See ⋄ #尼看他在皮",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "尼皮雜耍中"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "尼好繪"
+              },
+              {
+                "end": 105,
+                "start": 100,
+                "tag": "尼好色喔"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "尼看他在皮"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "NoraDobutsu_S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/nipi1225",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/nipi1225",
+                "start": 0,
+                "url": "https://t.co/r47tATgUYm"
+              }
+            ]
+          }
+        },
+        "id": "1646875412449079298",
+        "location": "✉️aglaea.nipi@gmail.com 歡迎合作邀約",
+        "name": "尼皮 NiPi 🤡【 新 Cover × 革命道中❤️‍🔥 】",
+        "pinned_tweet_id": "2013151060748075237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997636826274938880/aiU1n4Y5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5207,
+          "following_count": 883,
+          "like_count": 18648,
+          "listed_count": 15,
+          "media_count": 1901,
+          "tweet_count": 10686
+        },
+        "url": "https://t.co/r47tATgUYm",
+        "username": "nipppii_",
+        "verified": true
+      }
+    ]
+  }
+}

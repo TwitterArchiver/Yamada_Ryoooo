@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1978436359439163828",
+    "created_at": "2025-10-15T23:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T00:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978608727176733153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "28530405",
+          "start": 0,
+          "username": "manateelazycat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978608727176733153",
+    "in_reply_to_user_id": "28530405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978436359439163828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manateelazycat 呜呜，没进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1978436359439163828",
+        "created_at": "2025-10-15T23:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T00:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978608727176733153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "28530405",
+              "start": 0,
+              "username": "manateelazycat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978608727176733153",
+        "in_reply_to_user_id": "28530405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978436359439163828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manateelazycat 呜呜，没进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1978436359439163828",
+        "created_at": "2025-10-15T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978436359439163828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 270,
+              "expanded_url": "https://twitter.com/manateelazycat/status/1978370199855518085",
+              "start": 247,
+              "url": "https://t.co/fjMvv8pUtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978436359439163828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "免费送懒猫！！！！\n活动详情可以看我引用的活动贴\n\n20:15之前的名单统计\n\n_Albert_Bob\n_Genshin_Ganyu_\n0x00593\n0x00vip\n0xff22\n0xRichardH\n154cd2b\nactoone\nafkk1000\nAlan_66666\nalexxuwow\nAmadeus_Julian\nAmmo27238506\nAnRedPassNow\nanyonebutmetro\nAshleyP16926806\nasmallbaixiong\nawhiteshark\nayingott319\nAYuT0000\nbear_dust\nBeijing_Hot\nbestmrlee\nBetraySmile\nbluesky13145\nbluesky86747679\nbmfy272\nboao000\nBoboXiuxiu\nbtcisgolden\nbujianshi\nBytePoetry\nC5H8N1NaO4\ncaborge\ncalsys456\ncanotfindme\ncaoyangi\nCaptainVIIX\ncatYueYue\nCerWatch\nChenUniYY\nChishSAMA\nchouj0\nCLee5087\ncocofee2016\nCoderPawn\nCurtisCClark\ncyj228\ndaweiba007\ndayonejin\ndevbins\nDggwall\nDl4tDQklyu90AHT\nDView9577\nEaslo_eth\nEmyorii\nen_wanting\nENZO0000000\nEnzoArcher\netoeasy\nexixia\nfittinb\nfloatUp567\nFLT_wei\nfokia6\nFreeNetizen\nFsaascobbNOJBbF\nFstymdy\ngeorgelqy0519\ngjfjkfy\ngkcgkv137430\nGradyPark86\nhbzanclub\nhello_123_321_1\nHilda74790083\nhinkerliu\nHK0503HK\nhoho32585150\nhuaite_bulang\nhuniuniu290386\nhunkguo\nhupisha\nhzyj772\nimdaniel829\nImmerse_code\nisiah_lin\niWildChild\njAAoOS5rqt96741\nJacobZ44312623\njacobzh78934745\njames_chenerge\njean16018602\njiarenlu\njiawei322\njsma___\nJyTechn\nkevin__2012\nKevin75365243\nkevinsunchn\nking1821661\nkkdy_1\nKratosWei\nkulong995\nKxsg79bEYFP4\nlalafang001\nlaniakea_lee\nlaoshaoping_an\nLau_amoe\nleochen_code\nLeoskie_L\nLiliStation7931\nlinks_marvel\nLinksysWRT3200\nlinpika7\nlinux_okk\nliruifengv\nLituriby\nLiureneth\nLonely__MH\nLongZ2020\nLucasHuang0722\nlungta2012\nlvweifu1024\nM_Nlin\nMagicalPhoenix3\nmalongan\nmark_web666\nMatthewUpbeat\nmcqjcbx\nMengXi969\nmengzhongrenabc\nMeow1149220Meow\nmiaogu_qian\nMinitanghulu\nminzi003\nMMcx158\nmngguqng219172\nmngychn11\nmoon_5199\nMoonlight550636\nmurezsy\nNaiveShiki\nninomonitor\nniuniu_8964\nNonametoregist\nOceant1238\nogg42440127\nohblue\nold_garfield\nop14e\nopen0slo\noscar4325\noutstripmyself\nPage59155608\npeekthesekai\nPengpengpengly\nPeterpa67742830\nPeterPig231991\nPlansToy\nProject_Luo\nProsperousAnts\npupushaui\nqsw745\nrainly\nrealllkk520\nRuneInTheMist\nRZLHongKong\nscarletsky1025\nSensenfish\nshaoxun66\nshellwalker8\nShinetsu09\nshyskysora\nsir_CBD\nsjzerchou\nsmallzhan\nSmarita_K\nSmithskyboy\nSonitliy\nss31603L\nStarWindv9\nsyl_0735\ntaihao1628\nteloei\nterrytao85\ntiantia68683346\nTim453102085\nTincZhao56778\ntoday_happy_li\nTommy_zhi\ntoufu3738\ntrader0618\ntuichuqu\nunixecho\nvalarzhang\nWaliWaliCrazy\nWalter79052425\nWandalWaylon\nWashing1113\nwaterbang1\nwcqs18168\nWhiteA10n3\nWilliamchen0520\nwindymeee\nWok_Wook\nWoshishuiTw\nwswch19941012\nWuChunming\nwulongcomputer\nwuyooshan\nwyhai1015\nx_czyt\nxiaohaqiancat\nxubai_01\nxv44586\nxxoxxsxx_\nyaboshouwangzhe\nYangBoredHacker\nyht0616\nyiyezhiqiuev\nYizhuangYang\nyouming_li\nYuushimo2333\nzaincheungx\nzdyxry\nZfffpy\nzhangzenger2\nZhaoG80287\nZhaokuangying\nzhaols123252\nzhichiyiwan\nZianTT_Official\nZsxlZsxl199929"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4261,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978370199855518085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "免费送懒猫！！！！\n活动详情可以看我引用的活动贴\n\n20:15之前的名单统计\n\n_Albert_Bob\n_Genshin_Ganyu_\n0x00593\n0x00vip\n0xff22\n0xRichardH\n154cd2b\nactoone\nafkk1000\nAlan_66666\nalexxuwow\nAmadeus_Julian\nAmmo27238506\nAnRedPassNow\nanyonebutmetro\nAshleyP16926806\nasmallbaixiong\nawhiteshark https://t.co/fjMvv8pUtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4465,
+          "following_count": 693,
+          "like_count": 13392,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7799
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服 全球包邮 https://t.co/KVqgWHE3yR \n\n懒猫微服到底有啥用？https://t.co/SF9p24C2IS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 65,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 42,
+                "url": "https://t.co/KVqgWHE3yR"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 101,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 78,
+                "url": "https://t.co/SF9p24C2IS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1tx1YW"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1968998079623041134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36063,
+          "following_count": 200,
+          "like_count": 10447,
+          "listed_count": 272,
+          "media_count": 2753,
+          "tweet_count": 20890
+        },
+        "url": "https://t.co/twDx1tx1YW",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012667499305914420",
+    "created_at": "2026-01-18T00:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012690464822976728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704715066061594624",
+          "start": 0,
+          "username": "YRULwqdeaa9632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012690464822976728",
+    "in_reply_to_user_id": "1704715066061594624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012690403225395499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YRULwqdeaa9632 点点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012667499305914420",
+        "created_at": "2026-01-18T00:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012690464822976728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704715066061594624",
+              "start": 0,
+              "username": "YRULwqdeaa9632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012690464822976728",
+        "in_reply_to_user_id": "1704715066061594624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012690403225395499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YRULwqdeaa9632 点点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704715066061594624",
+        "conversation_id": "2012667499305914420",
+        "created_at": "2026-01-18T00:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012690403225395499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012690403225395499",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012667499305914420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 互粉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5229,
+          "following_count": 742,
+          "like_count": 14398,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8423
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-21T04:32:25.000Z",
+        "description": "ネム(Nemu）☾誰もが安心して眠れる世界が願いです/ ｼﾞｬﾝﾙ問わず優しい繋がりをPremium＋/先に相互は外しません🚫 怪垢＆spam #ﾌﾞﾙﾊﾞ100 #相互ﾌｫﾛｰ #Verified💯🔄Let's grow together🌱 新たな趣味+1 #AIart🌱🔰ﾊｲﾗｲﾄもﾖｶｯﾀﾗ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "ﾌﾞﾙﾊﾞ100"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "tag": "相互ﾌｫﾛｰ"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "tag": "Verified"
+              },
+              {
+                "end": 136,
+                "start": 130,
+                "tag": "AIart"
+              }
+            ]
+          }
+        },
+        "id": "1704715066061594624",
+        "location": "🇯🇵JAPAN",
+        "name": "ネム",
+        "pinned_tweet_id": "1994286177021530569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704991409319878656/IRc2e4pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40638,
+          "following_count": 40423,
+          "like_count": 550917,
+          "listed_count": 35,
+          "media_count": 14413,
+          "tweet_count": 74711
+        },
+        "username": "YRULwqdeaa9632",
+        "verified": true
+      }
+    ]
+  }
+}

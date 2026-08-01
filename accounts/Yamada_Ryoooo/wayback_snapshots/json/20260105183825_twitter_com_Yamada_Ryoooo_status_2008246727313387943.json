@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008246721932091392"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2007998680956338603",
+    "created_at": "2026-01-05T18:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T19:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008246727313387943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mI9cPTxTlc",
+          "end": 35,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2008246727313387943/photo/1",
+          "media_key": "3_2008246721932091392",
+          "start": 12,
+          "url": "https://t.co/mI9cPTxTlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008246727313387943",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007998680956338603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 https://t.co/mI9cPTxTlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_2008246721932091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G965wOIa4AAhj3D.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008246721932091392"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2007998680956338603",
+        "created_at": "2026-01-05T18:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008246727313387943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mI9cPTxTlc",
+              "end": 35,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2008246727313387943/photo/1",
+              "media_key": "3_2008246721932091392",
+              "start": 12,
+              "url": "https://t.co/mI9cPTxTlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008246727313387943",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007998680956338603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 https://t.co/mI9cPTxTlc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2007998680956338603",
+        "created_at": "2026-01-05T02:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T03:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007998680956338603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007998680956338603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 47071,
+          "like_count": 919,
+          "quote_count": 4,
+          "reply_count": 48,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "您的期末成绩出来了\n辱华+150\n辱女+150\n辱男+150\n地域歧视+100\n嫌贫爱富+100\n崇洋媚外+100\n总分750\n恭喜您考入我的英雄学院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5210,
+          "following_count": 675,
+          "like_count": 14133,
+          "listed_count": 21,
+          "media_count": 1437,
+          "tweet_count": 8254
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包",
+        "id": "1663516164306382852",
+        "location": "置顶推为广告，请注意！！！",
+        "name": "豆包",
+        "pinned_tweet_id": "2007422051926323355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10503,
+          "following_count": 85,
+          "like_count": 13941,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 5991
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

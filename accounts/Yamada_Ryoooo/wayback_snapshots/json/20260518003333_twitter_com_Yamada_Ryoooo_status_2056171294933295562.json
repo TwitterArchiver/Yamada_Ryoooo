@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2055932475483074990",
+    "created_at": "2026-05-18T00:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T01:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056171294933295562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "202930555",
+          "start": 0,
+          "username": "Sattakom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056171294933295562",
+    "in_reply_to_user_id": "202930555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055932475483074990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sattakom 是啊，吃什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2055932472349872128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgjsNia0AA_Rf0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2055932475483074990",
+        "created_at": "2026-05-18T00:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056171294933295562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "202930555",
+              "start": 0,
+              "username": "Sattakom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056171294933295562",
+        "in_reply_to_user_id": "202930555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055932475483074990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sattakom 是啊，吃什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055932472349872128"
+          ]
+        },
+        "author_id": "202930555",
+        "conversation_id": "2055932475483074990",
+        "created_at": "2026-05-17T08:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055932475483074990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/psPq2PDCF9",
+              "end": 35,
+              "expanded_url": "https://x.com/Sattakom/status/2055932475483074990/photo/1",
+              "media_key": "3_2055932472349872128",
+              "start": 12,
+              "url": "https://t.co/psPq2PDCF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055932475483074990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 872,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你禁售了，我们吃什么？ https://t.co/psPq2PDCF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6561,
+          "following_count": 992,
+          "like_count": 17437,
+          "listed_count": 24,
+          "media_count": 1780,
+          "tweet_count": 9738
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-15T03:53:21.000Z",
+        "description": "叫我xiaosong",
+        "id": "202930555",
+        "name": "Librium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043410568820973568/N_9Ii6h6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 125,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 126
+        },
+        "username": "Sattakom",
+        "verified": false
+      }
+    ]
+  }
+}

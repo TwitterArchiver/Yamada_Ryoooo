@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2010557345986666595",
+    "created_at": "2026-01-12T09:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010648355823927385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        },
+        {
+          "end": 28,
+          "id": "935785877841645568",
+          "start": 13,
+          "username": "rijingzhongwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010648355823927385",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010580818629099817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 @rijingzhongwen 中国人怎么这么坏啊😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2010557345986666595",
+        "created_at": "2026-01-12T09:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010648355823927385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            },
+            {
+              "end": 28,
+              "id": "935785877841645568",
+              "start": 13,
+              "username": "rijingzhongwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010648355823927385",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010580818629099817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 @rijingzhongwen 中国人怎么这么坏啊😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714894056986460160",
+        "conversation_id": "2010557345986666595",
+        "created_at": "2026-01-12T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010580818629099817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "935785877841645568",
+              "start": 0,
+              "username": "rijingzhongwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010580818629099817",
+        "in_reply_to_user_id": "935785877841645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1435,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010557345986666595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rijingzhongwen 中国人炒完日本的房价，现在转头开始炒日本的鸡蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 686,
+          "like_count": 14271,
+          "listed_count": 21,
+          "media_count": 1443,
+          "tweet_count": 8352
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6717,
+          "following_count": 1426,
+          "like_count": 101462,
+          "listed_count": 43,
+          "media_count": 1215,
+          "tweet_count": 23684
+        },
+        "username": "89JinPing64",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:21:54.000Z",
+        "description": "編制日經指數的《日本經濟新聞》的中文版。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nikkei.com",
+                "end": 23,
+                "expanded_url": "http://cn.nikkei.com",
+                "start": 0,
+                "url": "https://t.co/YInzHCyqTR"
+              }
+            ]
+          }
+        },
+        "id": "935785877841645568",
+        "location": "日本 東京",
+        "name": "日經中文網",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/936152865067827200/IZwOyNDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633751,
+          "following_count": 31,
+          "like_count": 9,
+          "listed_count": 3287,
+          "media_count": 15521,
+          "tweet_count": 41124
+        },
+        "url": "https://t.co/YInzHCyqTR",
+        "username": "rijingzhongwen",
+        "verified": true
+      }
+    ]
+  }
+}

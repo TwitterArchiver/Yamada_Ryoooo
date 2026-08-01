@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2065810644860060048",
+    "created_at": "2026-06-13T15:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065811683336151163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1615975837542809601",
+          "start": 0,
+          "username": "gg84886384"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065811683336151163",
+    "in_reply_to_user_id": "1615975837542809601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065810644860060048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gg84886384 我喜欢你💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6594,
+        "height": 1280,
+        "media_key": "7_2065810612534513664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065810612534513664/pu/img/bdM2mDIHCiLB1R6k.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065810612534513664/pu/vid/avc1/320x568/4QbrS4e9vu5haAEq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065810612534513664/pu/vid/avc1/480x852/SlSM4Zjg8Zestd6r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065810612534513664/pu/vid/avc1/720x1280/dWNQO2gpcgzaW4D7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065810612534513664/pu/pl/aiSPkSjk4L66yPAX.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2065810644860060048",
+        "created_at": "2026-06-13T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065811683336151163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1615975837542809601",
+              "start": 0,
+              "username": "gg84886384"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065811683336151163",
+        "in_reply_to_user_id": "1615975837542809601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065810644860060048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gg84886384 我喜欢你💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065810612534513664"
+          ]
+        },
+        "author_id": "1615975837542809601",
+        "conversation_id": "2065810644860060048",
+        "created_at": "2026-06-13T14:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065810644860060048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rKjhraiVB",
+              "end": 42,
+              "expanded_url": "https://x.com/gg84886384/status/2065810644860060048/video/1",
+              "media_key": "7_2065810612534513664",
+              "start": 19,
+              "url": "https://t.co/3rKjhraiVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065810644860060048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖个萌 有喜欢咕咪的吗 直接私我就好 https://t.co/3rKjhraiVB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6552,
+          "following_count": 1017,
+          "like_count": 17902,
+          "listed_count": 22,
+          "media_count": 1808,
+          "tweet_count": 9947
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-19T07:34:06.000Z",
+        "description": "坐标江浙沪\n药娘，谢谢关注( *ˊᵕˋ）\n接cos定制\n支付宝口令红包🚪99 加好友 过了发线下课表",
+        "id": "1615975837542809601",
+        "location": "上海",
+        "name": "咕咪",
+        "pinned_tweet_id": "2061706961528516832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028779609677066240/yyBJeV8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16755,
+          "following_count": 399,
+          "like_count": 1916,
+          "listed_count": 62,
+          "media_count": 106,
+          "tweet_count": 787
+        },
+        "username": "gg84886384",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2039673842373927393",
+    "created_at": "2026-04-02T15:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039720989307949176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        },
+        {
+          "end": 23,
+          "id": "973118976728453122",
+          "start": 8,
+          "username": "DoesXiStepDown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039720989307949176",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039673842373927393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB @DoesXiStepDown"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2039673681895727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5gaDMboAAGB15.jpg",
+        "width": 830
+      },
+      {
+        "height": 752,
+        "media_key": "3_2039673826288750592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5gidGaUAA1o23.png",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2039673842373927393",
+        "created_at": "2026-04-02T15:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039720989307949176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            },
+            {
+              "end": 23,
+              "id": "973118976728453122",
+              "start": 8,
+              "username": "DoesXiStepDown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039720989307949176",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039673842373927393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB @DoesXiStepDown"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039673681895727104",
+            "3_2039673826288750592"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2039673842373927393",
+        "created_at": "2026-04-02T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039673842373927393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPKgM3vjYt",
+              "end": 140,
+              "expanded_url": "https://x.com/_FORAB/status/2039673842373927393/photo/1",
+              "media_key": "3_2039673681895727104",
+              "start": 117,
+              "url": "https://t.co/YPKgM3vjYt"
+            },
+            {
+              "display_url": "pic.x.com/YPKgM3vjYt",
+              "end": 140,
+              "expanded_url": "https://x.com/_FORAB/status/2039673842373927393/photo/1",
+              "media_key": "3_2039673826288750592",
+              "start": 117,
+              "url": "https://t.co/YPKgM3vjYt"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4ad3383e25ac98d9"
+        },
+        "id": "2039673842373927393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 38918,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 63,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这个 x 账号没被封，也是神奇。\n\n推特上有位老哥名字叫 Did Donald Trump Die Today? 意思是特朗普今天去世了么？\n\n然后每天都在发推记录，今天特朗普到底有没有去世。已经连续更新了 500 多天，始终如一。 https://t.co/YPKgM3vjYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6243,
+          "following_count": 1078,
+          "like_count": 16936,
+          "listed_count": 22,
+          "media_count": 1671,
+          "tweet_count": 9408
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114619,
+          "following_count": 593,
+          "like_count": 9933,
+          "listed_count": 1901,
+          "media_count": 2982,
+          "tweet_count": 13778
+        },
+        "username": "_FORAB",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-12T08:50:18.000Z",
+        "description": "",
+        "id": "973118976728453122",
+        "name": "习近平今天下台了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790711645611667456/wIDwdes__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17074,
+          "following_count": 8,
+          "like_count": 16,
+          "listed_count": 20,
+          "media_count": 2,
+          "tweet_count": 2879
+        },
+        "username": "DoesXiStepDown",
+        "verified": false
+      }
+    ]
+  }
+}

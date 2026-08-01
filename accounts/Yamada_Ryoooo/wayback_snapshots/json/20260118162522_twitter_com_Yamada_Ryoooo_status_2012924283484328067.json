@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012667499305914420",
+    "created_at": "2026-01-18T16:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012924283484328067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519352275843825666",
+          "start": 0,
+          "username": "fuzishushu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012924283484328067",
+    "in_reply_to_user_id": "1519352275843825666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012924148612538536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzishushu 是要500蓝v的粉丝🤣\n所以大家都在要蓝v互关呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012667499305914420",
+        "created_at": "2026-01-18T16:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012924283484328067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519352275843825666",
+              "start": 0,
+              "username": "fuzishushu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012924283484328067",
+        "in_reply_to_user_id": "1519352275843825666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012924148612538536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzishushu 是要500蓝v的粉丝🤣\n所以大家都在要蓝v互关呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519352275843825666",
+        "conversation_id": "2012667499305914420",
+        "created_at": "2026-01-18T16:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012924148612538536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012924148612538536",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012923564672913545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 500粉丝就行？那我可就有动力了啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5548,
+          "following_count": 1019,
+          "like_count": 14671,
+          "listed_count": 23,
+          "media_count": 1456,
+          "tweet_count": 8533
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-27T16:26:35.000Z",
+        "description": "",
+        "id": "1519352275843825666",
+        "location": "月球",
+        "name": "夫子 znet.btc",
+        "pinned_tweet_id": "1962405449015464001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943933081255100416/0nHfp0Xq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 597,
+          "like_count": 22,
+          "listed_count": 9,
+          "media_count": 160,
+          "tweet_count": 1648
+        },
+        "username": "fuzishushu",
+        "verified": true
+      }
+    ]
+  }
+}

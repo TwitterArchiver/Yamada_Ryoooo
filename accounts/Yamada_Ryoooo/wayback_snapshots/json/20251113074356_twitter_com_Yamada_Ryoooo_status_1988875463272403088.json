@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1988834324183949507",
+    "created_at": "2025-11-13T07:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T08:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988875463272403088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1340532883975327747",
+          "start": 0,
+          "username": "VladiIenaMilize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988875463272403088",
+    "in_reply_to_user_id": "1340532883975327747",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988864042723692954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VladiIenaMilize 😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1988834324183949507",
+        "created_at": "2025-11-13T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988875463272403088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1340532883975327747",
+              "start": 0,
+              "username": "VladiIenaMilize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988875463272403088",
+        "in_reply_to_user_id": "1340532883975327747",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988864042723692954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VladiIenaMilize 😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340532883975327747",
+        "conversation_id": "1988834324183949507",
+        "created_at": "2025-11-13T06:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988864042723692954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988864042723692954",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988834324183949507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 害得我再也无法直视肯德基疯狂星期四😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4422,
+          "following_count": 668,
+          "like_count": 13546,
+          "listed_count": 20,
+          "media_count": 1379,
+          "tweet_count": 7926
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-20T05:42:13.000Z",
+        "description": "MyGO乐队的贝斯手，业余军迷，交通迷，军航飞友，对多数人友善，岁月静好中，逢fo基本上都会回，三无账号和黄推除外",
+        "id": "1340532883975327747",
+        "name": "✠🇩🇪𝓥𝓵𝓪𝓭𝓲𝓵𝓮𝓷𝓪 𝓜𝓲𝓵𝓲𝔃𝓮́✙🇦🇹🇯🇵🇮🇹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984051917086191618/xe5p7o9P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1444,
+          "like_count": 4759,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 2682
+        },
+        "username": "VladiIenaMilize",
+        "verified": false
+      }
+    ]
+  }
+}

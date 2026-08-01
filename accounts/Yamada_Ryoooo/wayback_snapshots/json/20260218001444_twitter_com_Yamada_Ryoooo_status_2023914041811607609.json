@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2023912595800158264",
+    "created_at": "2026-02-18T00:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023914041811607609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634559545975664640",
+          "start": 0,
+          "username": "MisterYang88137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023914041811607609",
+    "in_reply_to_user_id": "1634559545975664640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023913933258854842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisterYang88137 😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2023912595800158264",
+        "created_at": "2026-02-18T00:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023914041811607609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634559545975664640",
+              "start": 0,
+              "username": "MisterYang88137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023914041811607609",
+        "in_reply_to_user_id": "1634559545975664640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023913933258854842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisterYang88137 😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634559545975664640",
+        "conversation_id": "2023912595800158264",
+        "created_at": "2026-02-18T00:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023913933258854842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023913933258854842",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023912595800158264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 是我 我就长这样☝️🐴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 1077,
+          "like_count": 15901,
+          "listed_count": 22,
+          "media_count": 1523,
+          "tweet_count": 8893
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-11T14:19:14.000Z",
+        "description": "Tôi là Tiểu Mã, người gốc Hoa tại Nhật Bản. Yêu văn hoá Việt và đang học tiếng Việt. Tôi là nghệ sĩ, một nghệ sĩ trình diễn.",
+        "id": "1634559545975664640",
+        "location": "Nhật Bản",
+        "name": "大仲马",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007262928815435777/5O7CObbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16308,
+          "following_count": 995,
+          "like_count": 106379,
+          "listed_count": 48,
+          "media_count": 7738,
+          "tweet_count": 32047
+        },
+        "username": "MisterYang88137",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1998078970982728020",
+    "created_at": "2025-12-08T17:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T18:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998078970982728020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akema90507587/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/akema90507587/status/1997901834791608416",
+          "start": 5,
+          "url": "https://t.co/1vDVqyP2Vz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998078970982728020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997901834791608416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦咩跌多 https://t.co/1vDVqyP2Vz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19600,
+        "height": 556,
+        "media_key": "13_1997901689110880256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997901689110880256/img/MTZD--4cQq0mmLUr.jpg",
+        "public_metrics": {
+          "view_count": 379759
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997901689110880256/vid/avc1/320x270/2uEDpn9rLzhBoZL3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997901689110880256/vid/avc1/426x360/gmyyYoP9Yi2DbhMZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997901689110880256/vid/avc1/660x556/mO6SY10nmCW3PJ0O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997901689110880256/pl/V51VRlomq7P17vWj.m3u8?v=cfc"
+          }
+        ],
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1998078970982728020",
+        "created_at": "2025-12-08T17:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T18:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998078970982728020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akema90507587/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/akema90507587/status/1997901834791608416",
+              "start": 5,
+              "url": "https://t.co/1vDVqyP2Vz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998078970982728020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997901834791608416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦咩跌多 https://t.co/1vDVqyP2Vz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997901689110880256"
+          ]
+        },
+        "author_id": "1377961773840523270",
+        "conversation_id": "1997901834791608416",
+        "created_at": "2025-12-08T05:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T06:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997901834791608416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLHVsHbN7T",
+              "end": 45,
+              "expanded_url": "https://x.com/Akema90507587/status/1997901834791608416/video/1",
+              "media_key": "13_1997901689110880256",
+              "start": 22,
+              "url": "https://t.co/HLHVsHbN7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997901834791608416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 618702,
+          "like_count": 1182,
+          "quote_count": 5,
+          "reply_count": 66,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣能忍住看栗战书这段握手不笑的是这个👍 https://t.co/HLHVsHbN7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5377,
+          "following_count": 679,
+          "like_count": 13880,
+          "listed_count": 20,
+          "media_count": 1416,
+          "tweet_count": 8111
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T12:31:12.000Z",
+        "description": "乳追人格随心情上线 直fo就是暗恋 共济会核心成员 外宣和法轮功外包人员 犹太人 主页的画不允许搬运 贴脸狗叫的有福了我也擅长训狗",
+        "id": "1377961773840523270",
+        "name": "yogurt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706688223626571776/-gbz4qZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 267,
+          "like_count": 2952,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1578
+        },
+        "username": "Akema90507587",
+        "verified": false
+      }
+    ]
+  }
+}

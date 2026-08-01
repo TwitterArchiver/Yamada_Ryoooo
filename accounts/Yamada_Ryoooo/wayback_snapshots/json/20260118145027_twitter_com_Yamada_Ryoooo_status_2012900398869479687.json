@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012319193421508988",
+    "created_at": "2026-01-18T14:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012900398869479687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967324670224408576",
+          "start": 0,
+          "username": "TheKrispyMan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012900398869479687",
+    "in_reply_to_user_id": "1967324670224408576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012319193421508988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheKrispyMan Let’s goo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 372,
+        "media_key": "16_2012319183443288064",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-0xorfXYAARuST.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-0xorfXYAARuST.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012319193421508988",
+        "created_at": "2026-01-18T14:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012900398869479687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967324670224408576",
+              "start": 0,
+              "username": "TheKrispyMan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012900398869479687",
+        "in_reply_to_user_id": "1967324670224408576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012319193421508988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheKrispyMan Let’s goo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2012319183443288064"
+          ]
+        },
+        "author_id": "1967324670224408576",
+        "conversation_id": "2012319193421508988",
+        "created_at": "2026-01-17T00:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012319193421508988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUriuD8BjV",
+              "end": 92,
+              "expanded_url": "https://x.com/TheKrispyMan/status/2012319193421508988/photo/1",
+              "media_key": "16_2012319183443288064",
+              "start": 69,
+              "url": "https://t.co/TUriuD8BjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012319193421508988",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I’m almost there. Another 500 to followback…..again. Keep em coming! https://t.co/TUriuD8BjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 973,
+          "like_count": 14591,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8502
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-14T20:29:09.000Z",
+        "description": "The truth always prevails 🇺🇸 Off script commentator/MAGA! PayPal @krispyman13 Disabled but unstoppable! 🚫DM’s please",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "krispyman13"
+              }
+            ]
+          }
+        },
+        "id": "1967324670224408576",
+        "location": "Nashville, TN",
+        "name": "Krispy",
+        "pinned_tweet_id": "2005400982382121143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002130580117315584/CTiFH0_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1904,
+          "like_count": 22853,
+          "listed_count": 1,
+          "media_count": 604,
+          "tweet_count": 5389
+        },
+        "username": "TheKrispyMan",
+        "verified": true
+      }
+    ]
+  }
+}

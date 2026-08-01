@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2043026119780360575",
+    "created_at": "2026-04-11T17:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043026119780360575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syhily/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/syhily/status/2042593838263603665",
+          "start": 6,
+          "url": "https://t.co/uK8K4lnl2O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043026119780360575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042593838263603665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是废的 https://t.co/uK8K4lnl2O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2043026119780360575",
+        "created_at": "2026-04-11T17:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043026119780360575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syhily/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/syhily/status/2042593838263603665",
+              "start": 6,
+              "url": "https://t.co/uK8K4lnl2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043026119780360575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042593838263603665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是废的 https://t.co/uK8K4lnl2O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573206509625876481",
+        "conversation_id": "2042593838263603665",
+        "created_at": "2026-04-10T13:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042593838263603665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syhily/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/syhily/status/2041205065948823682",
+              "start": 6,
+              "url": "https://t.co/BD5cD4RnSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042593838263603665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 35463,
+          "like_count": 40,
+          "quote_count": 13,
+          "reply_count": 45,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041205065948823682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大号已废。 https://t.co/BD5cD4RnSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6124,
+          "following_count": 1083,
+          "like_count": 17088,
+          "listed_count": 23,
+          "media_count": 1704,
+          "tweet_count": 9509
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-23T07:04:02.000Z",
+        "description": "#INTP-T @ApacheFlink の貢献者。Java、Go、Scala、Kotlin、ECMAScript、Python、Lua その他 6 つのプログラム言語でコーディング。読書が唯一の娯楽。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "INTP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/GxDZqZtWFB"
+              }
+            ]
+          }
+        },
+        "id": "1573206509625876481",
+        "location": "テイワット",
+        "name": "Yufan Sheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011084413967482887/Kx4wh-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28867,
+          "following_count": 896,
+          "like_count": 5705,
+          "listed_count": 177,
+          "media_count": 2366,
+          "tweet_count": 10225
+        },
+        "url": "https://t.co/GxDZqZtWFB",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

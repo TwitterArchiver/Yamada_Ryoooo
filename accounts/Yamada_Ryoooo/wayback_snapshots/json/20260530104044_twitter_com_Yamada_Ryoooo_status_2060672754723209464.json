@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060668748043026746",
+    "created_at": "2026-05-30T10:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060672754723209464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060672754723209464",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060668748043026746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanxiduo 你家的宽带给的很大方了上传给100mbps\n我的才50😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060668741936119808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj3TYragAA70tP.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060668741936128000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJj3TYraoAA-UFJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060668748043026746",
+        "created_at": "2026-05-30T10:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060672754723209464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060672754723209464",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060668748043026746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanxiduo 你家的宽带给的很大方了上传给100mbps\n我的才50😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060668741936119808",
+            "3_2060668741936128000"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060668748043026746",
+        "created_at": "2026-05-30T10:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060668748043026746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "jujiasu.com/register?code=…",
+              "end": 70,
+              "expanded_url": "http://jujiasu.com/register?code=swBSp5Fj",
+              "start": 47,
+              "status": 403,
+              "unwound_url": "http://jujiasu.com/FL/CC/VALIDATOR?key=468f68da9e6fd37a2ec7b6aeb28c18ae.767c8d90cfe2596a2d1efb45b1ce674f.1780136689&url=http%3A%2F%2Fjujiasu.com%2Fregister%3Fcode%3DswBSp5Fj",
+              "url": "https://t.co/GfOkUG8BHh"
+            },
+            {
+              "description": "拨测 (boce.com) 免费提供专业网速测试、网络质量检测、宽带测速、Wi‑Fi 测速、5G 测速、IPv6 测速、带宽检测、路由器测速、网关测速、内网测速、专网测速，同时支持、网络加速、网络诊断、物联网监测、网站监测、等全方位网络服务，覆盖国内外海量高性能节点，测速精准、稳定、快速，助力用户全面了解网络状态，优化上网体验。",
+              "display_url": "boce.com/speed",
+              "end": 121,
+              "expanded_url": "https://www.boce.com/speed",
+              "start": 98,
+              "status": 200,
+              "title": "网速测试_宽带测速 - 拨测",
+              "unwound_url": "https://www.boce.com/speed",
+              "url": "https://t.co/sKOKuNdKGZ"
+            },
+            {
+              "display_url": "pic.x.com/ZaR1b7HLvE",
+              "end": 166,
+              "expanded_url": "https://x.com/chuanxiduo/status/2060668748043026746/photo/1",
+              "media_key": "3_2060668741936119808",
+              "start": 143,
+              "url": "https://t.co/ZaR1b7HLvE"
+            },
+            {
+              "display_url": "pic.x.com/ZaR1b7HLvE",
+              "end": 166,
+              "expanded_url": "https://x.com/chuanxiduo/status/2060668748043026746/photo/1",
+              "media_key": "3_2060668741936128000",
+              "start": 143,
+              "url": "https://t.co/ZaR1b7HLvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060668748043026746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在知道了，上次发的不叫网速，叫网络延迟😂,  我找了个测速平台，测了一下我用的这个VPN https://t.co/GfOkUG8BHh 的网速，应该还可以吧，你们也测测看看？😈\n\n测速平台 https://t.co/sKOKuNdKGZ\n\n（删了重发，刚刚ip暴露了，打个码🤡） https://t.co/ZaR1b7HLvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6560,
+          "following_count": 1014,
+          "like_count": 17692,
+          "listed_count": 24,
+          "media_count": 1794,
+          "tweet_count": 9844
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n暗黑人格💌@duoxichuan\n谢谢关注我的小世界！祝您天天开心~~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "duoxichuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiduochuanss",
+                "end": 23,
+                "expanded_url": "http://t.me/xiduochuanss",
+                "start": 0,
+                "url": "https://t.co/kXKI71lrLW"
+              }
+            ]
+          }
+        },
+        "id": "1666329123223121922",
+        "location": "粉丝频道:",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2058098471065010388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105311,
+          "following_count": 1620,
+          "like_count": 8457,
+          "listed_count": 320,
+          "media_count": 492,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/kXKI71lrLW",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

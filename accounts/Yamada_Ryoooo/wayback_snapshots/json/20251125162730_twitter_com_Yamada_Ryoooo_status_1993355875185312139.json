@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1993264624662130707",
+    "created_at": "2025-11-25T16:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993355875185312139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993355875185312139",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993264624662130707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 好看💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7233,
+        "height": 1280,
+        "media_key": "13_1993264561403969536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993264561403969536/img/-Vhw9-urB8fNAI8B.jpg",
+        "public_metrics": {
+          "view_count": 71
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993264561403969536/vid/avc1/320x568/zYBiq_-SnGuRCVfy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993264561403969536/vid/avc1/480x852/AXi_uMZVR-MfEN98.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993264561403969536/vid/avc1/720x1280/eSvrascuNj8DfObg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993264561403969536/pl/Di5MU2zwozUcN-cF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1993264624662130707",
+        "created_at": "2025-11-25T16:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993355875185312139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993355875185312139",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993264624662130707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 好看💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993264561403969536"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "1993264624662130707",
+        "created_at": "2025-11-25T10:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993264624662130707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WLyH5PN984",
+              "end": 23,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/1993264624662130707/video/1",
+              "media_key": "13_1993264561403969536",
+              "start": 0,
+              "url": "https://t.co/WLyH5PN984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993264624662130707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WLyH5PN984"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 671,
+          "like_count": 13727,
+          "listed_count": 19,
+          "media_count": 1401,
+          "tweet_count": 8040
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 intp/中文/🚪58、288、520 /BS、ff14/saob @ohyeahcomeonnow 🐻❤️～@Lmao_Quien /🐖@tanbara_ririka 妈妈@mantou0618 🎸@D_D_ovO_ /@ninarich1991 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "ohyeahcomeonnow"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "tanbara_ririka"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "mantou0618"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "username": "sanitf1"
+              },
+              {
+                "end": 148,
+                "start": 140,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "idk",
+        "name": "vicoOci",
+        "pinned_tweet_id": "1974751195156939092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943523513643732995/2kx3p2bv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 293,
+          "like_count": 22549,
+          "listed_count": 13,
+          "media_count": 863,
+          "tweet_count": 12818
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2015775229168251309",
+    "created_at": "2026-01-26T18:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T19:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015853303788404793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "414E4E4F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015853303788404793",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015775229168251309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@414E4E4F 手机：我要燃起来了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015775211472424960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l43_LaEAAYw10.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2015775229168251309",
+        "created_at": "2026-01-26T18:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T19:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015853303788404793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "414E4E4F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015853303788404793",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015775229168251309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@414E4E4F 手机：我要燃起来了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015775211472424960"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2015775229168251309",
+        "created_at": "2026-01-26T13:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015775229168251309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLZBP1dnmF",
+              "end": 42,
+              "expanded_url": "https://x.com/414E4E4F/status/2015775229168251309/photo/1",
+              "media_key": "3_2015775211472424960",
+              "start": 19,
+              "url": "https://t.co/dLZBP1dnmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015775229168251309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1562,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着还没起飞赶紧下一个模型陪我聊天😋 https://t.co/dLZBP1dnmF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 1078,
+          "like_count": 15399,
+          "listed_count": 21,
+          "media_count": 1504,
+          "tweet_count": 8690
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ﾅﾁｮ､fbk推し | ガジェット | アークナイツ(大陸情報あり)/音ゲー/チュウマイ | AI返信、政治内容 NG",
+        "id": "1426015810472972298",
+        "name": "アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014995870539010048/Wx_2GVJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 880,
+          "like_count": 171051,
+          "listed_count": 4,
+          "media_count": 4379,
+          "tweet_count": 18524
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

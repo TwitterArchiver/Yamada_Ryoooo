@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2024181304170824005",
+    "created_at": "2026-02-19T00:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024282314168254668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1795809659237879808",
+          "start": 0,
+          "username": "x1aoyu_TvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024282314168254668",
+    "in_reply_to_user_id": "1795809659237879808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024181304170824005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1aoyu_TvT 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024181292326088704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdWKSoWcAABpyo.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024181292321935360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdWKSnXEAApkNi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024181292351279104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdWKSuW0AAO0lp.jpg",
+        "width": 476
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024181292321980416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdWKSnXwAArCnj.jpg",
+        "width": 584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2024181304170824005",
+        "created_at": "2026-02-19T00:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024282314168254668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1795809659237879808",
+              "start": 0,
+              "username": "x1aoyu_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024282314168254668",
+        "in_reply_to_user_id": "1795809659237879808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024181304170824005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1aoyu_TvT 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024181292326088704",
+            "3_2024181292321935360",
+            "3_2024181292351279104",
+            "3_2024181292321980416"
+          ]
+        },
+        "author_id": "1795809659237879808",
+        "conversation_id": "2024181304170824005",
+        "created_at": "2026-02-18T17:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024181304170824005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziZ0ICPGPl",
+              "end": 170,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2024181304170824005/photo/1",
+              "media_key": "3_2024181292326088704",
+              "start": 147,
+              "url": "https://t.co/ziZ0ICPGPl"
+            },
+            {
+              "display_url": "pic.x.com/ziZ0ICPGPl",
+              "end": 170,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2024181304170824005/photo/1",
+              "media_key": "3_2024181292321935360",
+              "start": 147,
+              "url": "https://t.co/ziZ0ICPGPl"
+            },
+            {
+              "display_url": "pic.x.com/ziZ0ICPGPl",
+              "end": 170,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2024181304170824005/photo/1",
+              "media_key": "3_2024181292351279104",
+              "start": 147,
+              "url": "https://t.co/ziZ0ICPGPl"
+            },
+            {
+              "display_url": "pic.x.com/ziZ0ICPGPl",
+              "end": 170,
+              "expanded_url": "https://x.com/x1aoyu_TvT/status/2024181304170824005/photo/1",
+              "media_key": "3_2024181292321980416",
+              "start": 147,
+              "url": "https://t.co/ziZ0ICPGPl"
+            },
+            {
+              "display_url": "x.com/x1aoyu_tvt/sta…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/x1aoyu_tvt/status/2023869199278633332",
+              "start": 171,
+              "url": "https://t.co/r52ctfJTHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024181304170824005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4750,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023869199278633332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续来了 看到p3p4这些我真的发自内心的可怜他怜悯他…我觉得这种用意淫别人掩盖内心贫瘠的nolifer很惨 所以我真的找了一些这段时间拍的照片发出来 也给大家看看希望你们看了我拍的风景会开开心心的！🥰p2真的懒得截图ip了基本是挪威日本捷克德国奥地利这些还有好多国家不想找了也放不下了^ ^ https://t.co/ziZ0ICPGPl https://t.co/r52ctfJTHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 1064,
+          "like_count": 15993,
+          "listed_count": 22,
+          "media_count": 1526,
+          "tweet_count": 8915
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T13:35:46.000Z",
+        "description": "EN/DE/FR/CN｜📍德國 ｜叫我xiaoyu｜台獨精日支黑 pink往左激女男权出门左拐｜和@AceTaffy812 @AzumaSeren 絕贊戀愛中｜歡迎互fo^^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "AceTaffy812"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "AzumaSeren"
+              }
+            ]
+          }
+        },
+        "id": "1795809659237879808",
+        "location": "下北沢",
+        "name": "你抱著我掉眼淚說這世界太複雜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952848575194353664/t7Ku58Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 129,
+          "like_count": 651,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 533
+        },
+        "username": "x1aoyu_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

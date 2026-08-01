@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2037813766109417557",
+    "created_at": "2026-03-29T23:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038392521232175534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1614233964146987010",
+          "start": 0,
+          "username": "hinatako1132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038392521232175534",
+    "in_reply_to_user_id": "1614233964146987010",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037813766109417557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hinatako1132 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2037813766109417557",
+        "created_at": "2026-03-29T23:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038392521232175534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614233964146987010",
+              "start": 0,
+              "username": "hinatako1132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038392521232175534",
+        "in_reply_to_user_id": "1614233964146987010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037813766109417557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hinatako1132 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614233964146987010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hair Care",
+              "id": "854761964874088448",
+              "name": "Hair care"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Shampoo",
+              "id": "854762499299614720",
+              "name": "Shampoo"
+            }
+          }
+        ],
+        "conversation_id": "2037813766109417557",
+        "created_at": "2026-03-28T08:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037813766109417557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037813766109417557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 245598,
+          "like_count": 4539,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "VRCでそこそこ怖かったこと\n\n髪の毛乾かしたら会いに行くねって言って乾かし終わってフレンドさんに会いに行ったら、こひなたからはちみつのいい匂いがするって言われてその時ぼくが使ってたシャンプーが&amp;honeyだったこと…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 1076,
+          "like_count": 16815,
+          "listed_count": 21,
+          "media_count": 1647,
+          "tweet_count": 9339
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-14T12:12:50.000Z",
+        "description": "基本空リプ送りあって楽しんでるサブ垢ごく稀にえっちなことがあるかも？→@mugitya_1132",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "mugitya_1132"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_6738274c-cb11-4e56-bdba-25e8326ab44f",
+                "start": 0,
+                "url": "https://t.co/o2cTEDH2Ic"
+              }
+            ]
+          }
+        },
+        "id": "1614233964146987010",
+        "name": "こひなた❄️.*˚",
+        "pinned_tweet_id": "1969890592604987414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899461282065240064/9SJCJWtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 135,
+          "like_count": 10940,
+          "listed_count": 1,
+          "media_count": 563,
+          "tweet_count": 6399
+        },
+        "url": "https://t.co/o2cTEDH2Ic",
+        "username": "hinatako1132",
+        "verified": false
+      }
+    ]
+  }
+}

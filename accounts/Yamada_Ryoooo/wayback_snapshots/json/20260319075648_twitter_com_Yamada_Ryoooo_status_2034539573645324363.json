@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1952506355933470720"
+      ],
+      "media_source_tweet_id": [
+        "1952507956060393936"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034539573645324363",
+    "created_at": "2026-03-19T07:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034539573645324363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1768487038645678080",
+          "start": 3,
+          "username": "Yamada_Ryoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMnP8xuucn",
+          "end": 82,
+          "expanded_url": "https://x.com/Yamada_Ryo4/status/1952507956060393936/video/1",
+          "media_key": "13_1952506355933470720",
+          "start": 59,
+          "url": "https://t.co/PMnP8xuucn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034539573645324363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952507956060393936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamada_Ryoooo: 欢迎观看最新力作：江油无限制格斗大赛\n11111！5！拳头有温度，执法有力量！ https://t.co/PMnP8xuucn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 209366,
+        "height": 2160,
+        "media_key": "13_1952506355933470720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1952506355933470720/img/iVO1mMTh_aLf94o1.jpg",
+        "public_metrics": {
+          "view_count": 53240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/vid/avc1/1920x1080/NbJxNARsxSnQ_DvK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/vid/avc1/1280x720/wPaw3uDJqi_oB58U.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/vid/avc1/480x270/H1JOhslhF6dEwG37.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/vid/avc1/3840x2160/3XKp6BYV23jIrdI8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/vid/avc1/640x360/KRRUbffFJT_uLtDv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1952506355933470720/pl/sSU-YhiEMQBFkVs-.m3u8"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952506355933470720"
+          ],
+          "media_source_tweet_id": [
+            "1952507956060393936"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034539573645324363",
+        "created_at": "2026-03-19T07:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034539573645324363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1768487038645678080",
+              "start": 3,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMnP8xuucn",
+              "end": 82,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1952507956060393936/video/1",
+              "media_key": "13_1952506355933470720",
+              "start": 59,
+              "url": "https://t.co/PMnP8xuucn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034539573645324363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952507956060393936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamada_Ryoooo: 欢迎观看最新力作：江油无限制格斗大赛\n11111！5！拳头有温度，执法有力量！ https://t.co/PMnP8xuucn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1952506355933470720"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1952507956060393936",
+        "created_at": "2025-08-04T23:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T00:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952507956060393936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMnP8xuucn",
+              "end": 63,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1952507956060393936/video/1",
+              "media_key": "13_1952506355933470720",
+              "start": 40,
+              "url": "https://t.co/PMnP8xuucn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1952507956060393936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 121397,
+          "like_count": 1035,
+          "quote_count": 14,
+          "reply_count": 56,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎观看最新力作：江油无限制格斗大赛\n11111！5！拳头有温度，执法有力量！ https://t.co/PMnP8xuucn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 1068,
+          "like_count": 16600,
+          "listed_count": 21,
+          "media_count": 1595,
+          "tweet_count": 9203
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

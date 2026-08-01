@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1992265007657275586",
+    "created_at": "2025-11-23T22:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T23:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992725312908783740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1734203116713832449",
+          "start": 0,
+          "username": "cynazor12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992725312908783740",
+    "in_reply_to_user_id": "1734203116713832449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992634602125705723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cynazor12138 可以用2.5flash或者flashlite，还报错的话截个图看看吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1992634598883532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dCnDmbIAASUlg.jpg",
+        "width": 465
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1992634599370084352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dCnFabUAAkGbV.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1992265007657275586",
+        "created_at": "2025-11-23T22:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T23:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992725312908783740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1734203116713832449",
+              "start": 0,
+              "username": "cynazor12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992725312908783740",
+        "in_reply_to_user_id": "1734203116713832449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992634602125705723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cynazor12138 可以用2.5flash或者flashlite，还报错的话截个图看看吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992634598883532800",
+            "3_1992634599370084352"
+          ]
+        },
+        "author_id": "1734203116713832449",
+        "conversation_id": "1992265007657275586",
+        "created_at": "2025-11-23T16:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992634602125705723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONKpdMEaE9",
+              "end": 100,
+              "expanded_url": "https://x.com/cynazor12138/status/1992634602125705723/photo/1",
+              "media_key": "3_1992634598883532800",
+              "start": 77,
+              "url": "https://t.co/ONKpdMEaE9"
+            },
+            {
+              "display_url": "pic.x.com/ONKpdMEaE9",
+              "end": 100,
+              "expanded_url": "https://x.com/cynazor12138/status/1992634602125705723/photo/1",
+              "media_key": "3_1992634599370084352",
+              "start": 77,
+              "url": "https://t.co/ONKpdMEaE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992634602125705723",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992265007657275586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 我用了自己的api还是不行，大佬能帮忙看看吗🥺，或者切换到下面那个low一点地ai模型他倒是不显示额度耗尽但是也分析不出来 https://t.co/ONKpdMEaE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 670,
+          "like_count": 13699,
+          "listed_count": 19,
+          "media_count": 1399,
+          "tweet_count": 8021
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T13:27:38.000Z",
+        "description": "",
+        "id": "1734203116713832449",
+        "name": "cynazor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766554412322091009/i2ejKKeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 50,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "cynazor12138",
+        "verified": false
+      }
+    ]
+  }
+}

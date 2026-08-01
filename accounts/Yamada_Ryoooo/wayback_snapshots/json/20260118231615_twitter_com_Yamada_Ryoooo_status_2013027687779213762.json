@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012652653755392272",
+    "created_at": "2026-01-18T23:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013027687779213762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1743872352843345920",
+          "start": 0,
+          "username": "cocolele105897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013027687779213762",
+    "in_reply_to_user_id": "1743872352843345920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012652653755392272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cocolele105897 互关吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012652653755392272",
+        "created_at": "2026-01-18T23:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013027687779213762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1743872352843345920",
+              "start": 0,
+              "username": "cocolele105897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013027687779213762",
+        "in_reply_to_user_id": "1743872352843345920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012652653755392272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cocolele105897 互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743872352843345920",
+        "conversation_id": "2012652653755392272",
+        "created_at": "2026-01-17T22:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T23:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012652653755392272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012652653755392272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今年暑假打算去大叻住一段\n法国人当年的避暑山庄\n长年温度二十度左右\n相当于海南现在的冬天\n\n大叻属于悠闲小镇\n慢节奏我很喜欢\n\n加上建筑属于法式浪漫\n实在是符合我矫情的心态\n\n每个阶段人需要的东西不一样\n我现在能吃能喝能跑能动\n所以对于我来说\n哪个地方让我舒服就是我的住宿\n喜欢在哪里了\n就租一段时间\n\n长期呆在一个地方\n对于我这种人来说\n是做不到的\n\n等我老了如果万一身体不好\n我需要的是有人护理我有人时刻关注我有人给我擦身体有人给我弄饭菜有人每天组织我搞活动\n那我就去租康养酒店\n\n我每个阶段需要的东西不一样\n我不会说人家要做什么我就做什么\n我从小非常有自主意识\n\n昨天有个朋友说也想过冬天海南旅居的生活\n但觉得太贵\n\n贵是自己的信息茧房所造成的\n哪怕即使是三亚的半山半海富人区\n也有自建房\n有渔村\n即使是过年旺季\n也能八百一个月\n\n你也能享受到好空气好景色好配套"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年暑假打算去大叻住一段\n法国人当年的避暑山庄\n长年温度二十度左右\n相当于海南现在的冬天\n\n大叻属于悠闲小镇\n慢节奏我很喜欢\n\n加上建筑属于法式浪漫\n实在是符合我矫情的心态\n\n每个阶段人需要的东西不一样\n我现在能吃能喝能跑能动\n所以对于我来说\n哪个地方让我舒服就是我的住宿\n喜欢在哪里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5617,
+          "following_count": 1113,
+          "like_count": 14844,
+          "listed_count": 21,
+          "media_count": 1466,
+          "tweet_count": 8588
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-07T05:49:12.000Z",
+        "description": "早睡早起不熬夜你就可以跑赢百分之99的人",
+        "id": "1743872352843345920",
+        "name": "再见 理想",
+        "pinned_tweet_id": "2012388725586850156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747432906925182976/XWX2_OsA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 1397,
+          "like_count": 518,
+          "listed_count": 2,
+          "media_count": 1129,
+          "tweet_count": 2873
+        },
+        "username": "cocolele105897",
+        "verified": true
+      }
+    ]
+  }
+}

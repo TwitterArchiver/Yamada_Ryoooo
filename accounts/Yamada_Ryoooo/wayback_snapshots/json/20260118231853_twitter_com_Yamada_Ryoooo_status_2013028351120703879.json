@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1713977469194182656"
+      ],
+      "media_source_tweet_id": [
+        "1713977489993642326"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013028351120703879",
+    "created_at": "2026-01-18T23:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013028351120703879"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXg2uAinT5",
+          "end": 23,
+          "expanded_url": "https://x.com/Catsillyness/status/1713977489993642326/video/1",
+          "media_key": "7_1713977469194182656",
+          "start": 0,
+          "url": "https://t.co/YXg2uAinT5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013028351120703879",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/YXg2uAinT5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13884,
+        "height": 768,
+        "media_key": "7_1713977469194182656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1713977469194182656/pu/img/f3eH6YQc_Mvizq_B.jpg",
+        "public_metrics": {
+          "view_count": 5915345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1713977469194182656/pu/vid/avc1/320x426/RGy6ED2VuKjrjdXJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1713977469194182656/pu/vid/avc1/480x640/XPb_Ep_sf9ZGOYzB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1713977469194182656/pu/vid/avc1/576x768/ttM0YfdDCjXx2-LV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1713977469194182656/pu/pl/MNhDcSnTlx9nnJiq.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1713977469194182656"
+          ],
+          "media_source_tweet_id": [
+            "1713977489993642326"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013028351120703879",
+        "created_at": "2026-01-18T23:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013028351120703879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXg2uAinT5",
+              "end": 23,
+              "expanded_url": "https://x.com/Catsillyness/status/1713977489993642326/video/1",
+              "media_key": "7_1713977469194182656",
+              "start": 0,
+              "url": "https://t.co/YXg2uAinT5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013028351120703879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YXg2uAinT5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 1114,
+          "like_count": 14849,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8593
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

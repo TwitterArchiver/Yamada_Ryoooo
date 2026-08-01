@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2038433657661342060",
+    "created_at": "2026-03-30T01:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T02:50:20.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038433614028022269",
+      "2038433657661342060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kjckikyo/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kjckikyo/status/2038201490058154281",
+          "start": 9,
+          "url": "https://t.co/lvHm3btf59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038433657661342060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038201490058154281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就是神，，， https://t.co/lvHm3btf59"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2038201481409818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEklctAbcAAffRD.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2038433614028022269",
+        "created_at": "2026-03-30T01:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:50:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038433614028022269",
+          "2038433657661342060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kjckikyo/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kjckikyo/status/2038201490058154281",
+              "start": 8,
+              "url": "https://t.co/lvHm3btf59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038433614028022269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038201490058154281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是，，， https://t.co/lvHm3btf59"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2038433657661342060",
+        "created_at": "2026-03-30T01:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T02:50:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038433614028022269",
+          "2038433657661342060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kjckikyo/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kjckikyo/status/2038201490058154281",
+              "start": 9,
+              "url": "https://t.co/lvHm3btf59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038433657661342060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038201490058154281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是神，，， https://t.co/lvHm3btf59"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038201481409818624"
+          ]
+        },
+        "author_id": "2007306348581851136",
+        "conversation_id": "2038201490058154281",
+        "created_at": "2026-03-29T10:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038201490058154281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnWP8n33Ew",
+              "end": 23,
+              "expanded_url": "https://x.com/kjckikyo/status/2038201490058154281/photo/1",
+              "media_key": "3_2038201481409818624",
+              "start": 0,
+              "url": "https://t.co/UnWP8n33Ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038201490058154281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8603,
+          "impression_count": 7309996,
+          "like_count": 46298,
+          "quote_count": 214,
+          "reply_count": 556,
+          "retweet_count": 1832
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UnWP8n33Ew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 1077,
+          "like_count": 16821,
+          "listed_count": 21,
+          "media_count": 1647,
+          "tweet_count": 9344
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T04:22:14.000Z",
+        "description": "桔梗",
+        "id": "2007306348581851136",
+        "name": "Ｋｉｋｙō",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007313173494317056/iBagXwAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47418,
+          "following_count": 442,
+          "like_count": 1137,
+          "listed_count": 92,
+          "media_count": 532,
+          "tweet_count": 884
+        },
+        "username": "kjckikyo",
+        "verified": true
+      }
+    ]
+  }
+}

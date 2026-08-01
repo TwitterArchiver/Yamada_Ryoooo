@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2078655775195439295",
+    "created_at": "2026-07-19T10:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078786132326981735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924212425332813824",
+          "start": 0,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078786132326981735",
+    "in_reply_to_user_id": "1924212425332813824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078655775195439295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phoenixyin13 怀念3flash和3pro，那时候我感觉他特别聪明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078655730752651264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjeX7nXgAAkdw9.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078655730752614400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjeX7nW8AAnLOC.jpg",
+        "width": 945
+      },
+      {
+        "height": 1964,
+        "media_key": "3_2078655730752585728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNjeX7nWgAAWew1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2078655775195439295",
+        "created_at": "2026-07-19T10:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078786132326981735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924212425332813824",
+              "start": 0,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078786132326981735",
+        "in_reply_to_user_id": "1924212425332813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078655775195439295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenixyin13 怀念3flash和3pro，那时候我感觉他特别聪明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078655730752651264",
+            "3_2078655730752614400",
+            "3_2078655730752585728"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1580690567905693696",
+              "name": "Amtrak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2078655775195439295",
+        "created_at": "2026-07-19T01:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078655775195439295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8maA7Came",
+              "end": 190,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2078655775195439295/photo/1",
+              "media_key": "3_2078655730752651264",
+              "start": 167,
+              "url": "https://t.co/I8maA7Came"
+            },
+            {
+              "display_url": "pic.x.com/I8maA7Came",
+              "end": 190,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2078655775195439295/photo/1",
+              "media_key": "3_2078655730752614400",
+              "start": 167,
+              "url": "https://t.co/I8maA7Came"
+            },
+            {
+              "display_url": "pic.x.com/I8maA7Came",
+              "end": 190,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2078655775195439295/photo/1",
+              "media_key": "3_2078655730752585728",
+              "start": 167,
+              "url": "https://t.co/I8maA7Came"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078655775195439295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 393,
+                "id": "20536157",
+                "start": 386,
+                "username": "Google"
+              },
+              {
+                "end": 404,
+                "id": "1806359170830172162",
+                "start": 394,
+                "username": "GeminiApp"
+              }
+            ]
+          },
+          "text": "Gemini 3.5 Flash 刚刚把我卖到了宾夕法尼亚的深山老林里。\n\n在费城 30 街车站遭遇 Amtrak 大延误，本想让 AI 帮我看一眼大屏幕状态，结果引发了一场多模态视觉与时空推理的灾难连环翻车。\n\n1. 幻觉污染\n模型直接把我的车票信息（Gate 3）硬套给车站大屏幕，把当时 Gate 3 处于 Last Call 状态的另一趟车，言之凿凿地识别成了我那趟还要等二十分钟的 158 次列车。\n\n2. 时空错乱\n静态文本匹配完全压倒了对实时系统时间与地理位置的逻辑推理，催促我立刻进闸登车。\n\n3. 逆天结局\n我选择相信Gemini 3.5 Flash，听信了指令后，结果肉身盲登了一辆完全相反方向的 SEPTA 通勤车。直到深夜在偏僻小站被司机赶下来，看着地图上代表自己定位的蓝色光点一路向西北狂飙，直奔宾州深山老林，才发现全盘被指路到了另一个世界。\n\n@Google @GeminiApp 你们的多模态团队真应该把我深夜跨州的 Uber 打车费给报销了。我现在得肉身打车去普林斯顿了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 21215,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini 3.5 Flash 刚刚把我卖到了宾夕法尼亚的深山老林里。\n\n在费城 30 街车站遭遇 Amtrak 大延误，本想让 AI 帮我看一眼大屏幕状态，结果引发了一场多模态视觉与时空推理的灾难连环翻车。\n\n1. 幻觉污染\n模型直接把我的车票信息（Gate 3）硬套给车站大屏幕，把当时 Gate 3 处于 Last Call https://t.co/I8maA7Came"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6483,
+          "following_count": 965,
+          "like_count": 17826,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10040
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Columbus, OH",
+        "name": "Phoenix Yin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13913,
+          "following_count": 1067,
+          "like_count": 11368,
+          "listed_count": 97,
+          "media_count": 1149,
+          "tweet_count": 8340
+        },
+        "url": "",
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

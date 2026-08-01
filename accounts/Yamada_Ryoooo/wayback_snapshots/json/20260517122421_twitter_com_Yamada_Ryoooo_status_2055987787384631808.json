@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2055951093763637357",
+    "created_at": "2026-05-17T12:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055987787384631808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1809867221184966658",
+          "start": 0,
+          "username": "olivia0926x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055987787384631808",
+    "in_reply_to_user_id": "1809867221184966658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055987347377053819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@olivia0926x 不知道，先追一下看看吧，拿久一点应该也没有大问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2055951093763637357",
+        "created_at": "2026-05-17T12:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055987787384631808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1809867221184966658",
+              "start": 0,
+              "username": "olivia0926x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055987787384631808",
+        "in_reply_to_user_id": "1809867221184966658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055987347377053819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@olivia0926x 不知道，先追一下看看吧，拿久一点应该也没有大问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809867221184966658",
+        "conversation_id": "2055951093763637357",
+        "created_at": "2026-05-17T12:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055987347377053819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055987347377053819",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055951093763637357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 现在不了吧，感觉有点高高的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6561,
+          "following_count": 994,
+          "like_count": 17414,
+          "listed_count": 24,
+          "media_count": 1779,
+          "tweet_count": 9732
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T08:29:15.000Z",
+        "description": "注册可乐品鉴师，四大会所简历投递者，喜欢星空，吃可颂面包，看老照片。价值投资练习生，厨艺提升中……",
+        "id": "1809867221184966658",
+        "name": "景怡（雨天版）",
+        "pinned_tweet_id": "1862142334689034428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894520329411670016/OQA3m9iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 104,
+          "like_count": 3611,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 2030
+        },
+        "username": "olivia0926x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2066716748217286998",
+    "created_at": "2026-06-16T07:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066786703277482198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066786703277482198",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066716748217286998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 Shang🫵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2066716746166284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5z7kKXsAAgS9E.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2066716748217286998",
+        "created_at": "2026-06-16T07:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066786703277482198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066786703277482198",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066716748217286998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 Shang🫵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066716746166284288"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "conversation_id": "2066716748217286998",
+        "created_at": "2026-06-16T02:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066716748217286998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Aw17qawpw",
+              "end": 39,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2066716748217286998/photo/1",
+              "media_key": "3_2066716746166284288",
+              "start": 16,
+              "url": "https://t.co/8Aw17qawpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066716748217286998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7787,
+          "like_count": 276,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Pov:最近我与印度网友对线后 https://t.co/8Aw17qawpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6549,
+          "following_count": 1018,
+          "like_count": 17926,
+          "listed_count": 22,
+          "media_count": 1810,
+          "tweet_count": 9957
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "小蓝(Alan) NE美留一枚\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇺🇦🇵🇸🇻🇪☮️↙️\n#中推名人评分 DemSoc, MLM\n\n欢迎友好交流(8964=勿转内网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "Boston Metropolitan Area ",
+        "name": "蓝蓝🫐然然浪浪(🏳️‍🌈🐻🤚🏻 Di Alan Chan)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062898467513532416/hKPNkjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 731,
+          "like_count": 9413,
+          "listed_count": 8,
+          "media_count": 1065,
+          "tweet_count": 4487
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

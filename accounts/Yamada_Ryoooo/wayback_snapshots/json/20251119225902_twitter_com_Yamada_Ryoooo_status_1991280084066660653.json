@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991280074109382656"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "1991014923351306503",
+    "created_at": "2025-11-19T22:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T23:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991280084066660653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496762836889976835",
+          "start": 0,
+          "username": "Heliocentric_0"
+        },
+        {
+          "end": 26,
+          "id": "1683553774487601154",
+          "start": 16,
+          "username": "MAR3_Snow"
+        },
+        {
+          "end": 36,
+          "id": "215939847",
+          "start": 27,
+          "username": "bboczeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vT22KgBrDQ",
+          "end": 121,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1991280084066660653/photo/1",
+          "media_key": "3_1991280074109382656",
+          "start": 98,
+          "url": "https://t.co/vT22KgBrDQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991280084066660653",
+    "in_reply_to_user_id": "1496762836889976835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991190559978086865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heliocentric_0 @MAR3_Snow @bboczeng 要不你看一下App Store里面有没有更新？我的昨天上午就变成这样了，所有的号都能正常看到3Pro，应该和账号是无关的 https://t.co/vT22KgBrDQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_1991280074109382656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6JyrVmacAAX8nV.jpg",
+        "width": 1179
+      },
+      {
+        "height": 801,
+        "media_key": "3_1991190554911326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6IhQomaQAAD32p.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991280074109382656"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "1991014923351306503",
+        "created_at": "2025-11-19T22:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T23:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991280084066660653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496762836889976835",
+              "start": 0,
+              "username": "Heliocentric_0"
+            },
+            {
+              "end": 26,
+              "id": "1683553774487601154",
+              "start": 16,
+              "username": "MAR3_Snow"
+            },
+            {
+              "end": 36,
+              "id": "215939847",
+              "start": 27,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vT22KgBrDQ",
+              "end": 121,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1991280084066660653/photo/1",
+              "media_key": "3_1991280074109382656",
+              "start": 98,
+              "url": "https://t.co/vT22KgBrDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991280084066660653",
+        "in_reply_to_user_id": "1496762836889976835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991190559978086865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heliocentric_0 @MAR3_Snow @bboczeng 要不你看一下App Store里面有没有更新？我的昨天上午就变成这样了，所有的号都能正常看到3Pro，应该和账号是无关的 https://t.co/vT22KgBrDQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991190554911326208"
+          ]
+        },
+        "author_id": "1496762836889976835",
+        "conversation_id": "1991014923351306503",
+        "created_at": "2025-11-19T17:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991190559978086865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 25,
+              "id": "1683553774487601154",
+              "start": 15,
+              "username": "MAR3_Snow"
+            },
+            {
+              "end": 35,
+              "id": "215939847",
+              "start": 26,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/901cQf8Nsj",
+              "end": 69,
+              "expanded_url": "https://x.com/Heliocentric_0/status/1991190559978086865/photo/1",
+              "media_key": "3_1991190554911326208",
+              "start": 46,
+              "url": "https://t.co/901cQf8Nsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991190559978086865",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991180041162719581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @MAR3_Snow @bboczeng 我这边还是老界面🥺 https://t.co/901cQf8Nsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 665,
+          "like_count": 13566,
+          "listed_count": 19,
+          "media_count": 1383,
+          "tweet_count": 7964
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T08:24:16.000Z",
+        "description": "见闻",
+        "id": "1496762836889976835",
+        "location": "Earth",
+        "name": "Heliocentric",
+        "pinned_tweet_id": "1856512240821973044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943229652337856513/pGkrviyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 370,
+          "like_count": 3611,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 1914
+        },
+        "username": "Heliocentric_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T19:04:41.000Z",
+        "description": "留恋富士山的樱雨雪光，却又畏惧随时喷薄而出的炽热岩浆。",
+        "id": "1683553774487601154",
+        "name": "三月梨花雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692062376185806848/jqEDzxnX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 12,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 246
+        },
+        "username": "MAR3_Snow",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1987582493642670590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185138,
+          "following_count": 700,
+          "like_count": 115411,
+          "listed_count": 1056,
+          "media_count": 17045,
+          "tweet_count": 102848
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

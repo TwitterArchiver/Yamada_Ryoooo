@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013037760370680269",
+    "created_at": "2026-01-20T00:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T01:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013403157813166562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2362283473",
+          "start": 0,
+          "username": "Leslieyu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013403157813166562",
+    "in_reply_to_user_id": "2362283473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013402974480146645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leslieyu0 说是要用身份证开中国区账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013037760370680269",
+        "created_at": "2026-01-20T00:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T01:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013403157813166562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2362283473",
+              "start": 0,
+              "username": "Leslieyu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013403157813166562",
+        "in_reply_to_user_id": "2362283473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013402974480146645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leslieyu0 说是要用身份证开中国区账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2362283473",
+        "conversation_id": "2013037760370680269",
+        "created_at": "2026-01-20T00:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T01:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013402974480146645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013402974480146645",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013402620564853234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 没有港卡关键。为什么我的 Wise 里面只有一个跨币种的人民币主账号？暂时绑不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 1086,
+          "like_count": 15030,
+          "listed_count": 21,
+          "media_count": 1474,
+          "tweet_count": 8552
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-26T07:00:26.000Z",
+        "description": "Product Manager ➡️ AI Creator. \n📝 Sharing: Prompts | Tools | Insights \n❤️ Love (A.I) is Unstoppable.\nVX: yom0328",
+        "id": "2362283473",
+        "name": "Mr Leslie.AI",
+        "pinned_tweet_id": "2013049112900551052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001951190964453376/BUJW4D0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 1775,
+          "like_count": 756,
+          "listed_count": 12,
+          "media_count": 443,
+          "tweet_count": 1886
+        },
+        "username": "Leslieyu0",
+        "verified": true
+      }
+    ]
+  }
+}

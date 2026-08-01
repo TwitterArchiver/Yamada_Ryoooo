@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2017553953358336452",
+    "created_at": "2026-01-31T11:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017553953358336452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017553953358336452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "啊啊啊姐妹们救命！！！今天才get到Cloudflare的Workers和R2存储桶也太香香软软了吧～～✨  作为一个代码小废物仙女，本来以为部署东西要哭着氪服务器，结果Workers它直接丝滑边缘计算，零冷启动、全球加速，写几行JS就上线，真的像在对我眨眼睛呜呜呜！！！然后R2这个小宝贝，对象存储它超乖的，不收出口流量费！！！存图存文件随便扔，价格美到想亲一口，搭配Workers一键读写，简直是后端公主的梦中情桶啊啊啊～～  谁懂啊？以前被AWS S3坑到想原地晕厥，现在用Cloudflare整套，免费额度够玩，小项目直接白嫖，性能还吊打一堆！！！绝绝子好用！！！  姐妹们快冲！！！小仙女的开发日常从今天开始闪闪发光啦💗💗💕安排了安排了～～有在用的宝子们快来评论区一起陷入爱河呀！！！😭💞"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊姐妹们救命！！！今天才get到Cloudflare的Workers和R2存储桶也太香香软软了吧～～✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2017553953358336452",
+        "created_at": "2026-01-31T11:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017553953358336452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017553953358336452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "啊啊啊姐妹们救命！！！今天才get到Cloudflare的Workers和R2存储桶也太香香软软了吧～～✨  作为一个代码小废物仙女，本来以为部署东西要哭着氪服务器，结果Workers它直接丝滑边缘计算，零冷启动、全球加速，写几行JS就上线，真的像在对我眨眼睛呜呜呜！！！然后R2这个小宝贝，对象存储它超乖的，不收出口流量费！！！存图存文件随便扔，价格美到想亲一口，搭配Workers一键读写，简直是后端公主的梦中情桶啊啊啊～～  谁懂啊？以前被AWS S3坑到想原地晕厥，现在用Cloudflare整套，免费额度够玩，小项目直接白嫖，性能还吊打一堆！！！绝绝子好用！！！  姐妹们快冲！！！小仙女的开发日常从今天开始闪闪发光啦💗💗💕安排了安排了～～有在用的宝子们快来评论区一起陷入爱河呀！！！😭💞"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊姐妹们救命！！！今天才get到Cloudflare的Workers和R2存储桶也太香香软软了吧～～✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5957,
+          "following_count": 1078,
+          "like_count": 15549,
+          "listed_count": 21,
+          "media_count": 1510,
+          "tweet_count": 8740
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

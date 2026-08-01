@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2059889302612640147",
+    "created_at": "2026-05-28T12:17:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:17:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059972296849424611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "kukukumik0"
+        },
+        {
+          "end": 19,
+          "id": "2015213345847300096",
+          "start": 12,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059972296849424611",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059959507862888524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukukumik0 @XynUnk 我没意见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2059959490431344640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZyPg7a4AAHqPj.jpg",
+        "width": 689
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059889302612640147",
+        "created_at": "2026-05-28T12:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059972296849424611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "kukukumik0"
+            },
+            {
+              "end": 19,
+              "id": "2015213345847300096",
+              "start": 12,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059972296849424611",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059959507862888524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukukumik0 @XynUnk 我没意见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059959490431344640"
+          ]
+        },
+        "author_id": "1554692587151593472",
+        "conversation_id": "2059889302612640147",
+        "created_at": "2026-05-28T11:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059959507862888524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 22,
+              "id": "2015213345847300096",
+              "start": 15,
+              "username": "XynUnk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7ke54rMF3",
+              "end": 56,
+              "expanded_url": "https://x.com/kukukumik0/status/2059959507862888524/photo/1",
+              "media_key": "3_2059959490431344640",
+              "start": 33,
+              "url": "https://t.co/j7ke54rMF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059959507862888524",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059896903303921831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @XynUnk 笑死了这个自动翻译 https://t.co/j7ke54rMF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1013,
+          "like_count": 17665,
+          "listed_count": 24,
+          "media_count": 1792,
+          "tweet_count": 9821
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "宝宝在说什么小猪话呀！",
+        "pinned_tweet_id": "2015122127389950277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009230113897107457/u-PvlGQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1477,
+          "like_count": 54191,
+          "listed_count": 11,
+          "media_count": 530,
+          "tweet_count": 18750
+        },
+        "username": "kukukumik0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "永远怀念@Unkxyn，我的2699fo啊😭|MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|she/her|年龄党+家长不管党|对象@Lvmaosamaqwq\n|生产日期11.13.2011|159cm50kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "2.✟Unk✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 622,
+          "like_count": 812,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 120
+        },
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

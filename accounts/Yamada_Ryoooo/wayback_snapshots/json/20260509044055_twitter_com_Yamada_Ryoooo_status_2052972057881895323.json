@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052972046460788737"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2052972057881895323",
+    "created_at": "2026-05-09T04:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052972057881895323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nC72Fn52q3",
+          "end": 27,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2052972057881895323/photo/1",
+          "media_key": "3_2052972046460788737",
+          "start": 4,
+          "url": "https://t.co/nC72Fn52q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052972057881895323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/nC72Fn52q3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2354,
+        "media_key": "3_2052972046460788737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2fMvsaIAEmBq0.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052972046460788737"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2052972057881895323",
+        "created_at": "2026-05-09T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052972057881895323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nC72Fn52q3",
+              "end": 27,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2052972057881895323/photo/1",
+              "media_key": "3_2052972046460788737",
+              "start": 4,
+              "url": "https://t.co/nC72Fn52q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052972057881895323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/nC72Fn52q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 1095,
+          "like_count": 17350,
+          "listed_count": 24,
+          "media_count": 1765,
+          "tweet_count": 9671
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

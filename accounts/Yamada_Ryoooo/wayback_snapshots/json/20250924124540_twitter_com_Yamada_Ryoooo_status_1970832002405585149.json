@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1970753337739092465",
+    "created_at": "2025-09-24T12:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T13:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970832002405585149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "846062688090243072",
+          "start": 0,
+          "username": "tutulifestyle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970832002405585149",
+    "in_reply_to_user_id": "846062688090243072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970753337739092465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutulifestyle 这次港版不也是带一个esim了嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970753331091120128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mFto-aoAABTmw.jpg",
+        "width": 1213
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970753331036647424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mFtoxbcAA-e8V.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1970753337739092465",
+        "created_at": "2025-09-24T12:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970832002405585149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "846062688090243072",
+              "start": 0,
+              "username": "tutulifestyle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970832002405585149",
+        "in_reply_to_user_id": "846062688090243072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970753337739092465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutulifestyle 这次港版不也是带一个esim了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970753331091120128",
+            "3_1970753331036647424"
+          ]
+        },
+        "author_id": "846062688090243072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1970753337739092465",
+        "created_at": "2025-09-24T07:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970753337739092465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gk60ypBxC4",
+              "end": 148,
+              "expanded_url": "https://x.com/tutulifestyle/status/1970753337739092465/photo/1",
+              "media_key": "3_1970753331091120128",
+              "start": 125,
+              "url": "https://t.co/Gk60ypBxC4"
+            },
+            {
+              "display_url": "pic.x.com/Gk60ypBxC4",
+              "end": 148,
+              "expanded_url": "https://x.com/tutulifestyle/status/1970753337739092465/photo/1",
+              "media_key": "3_1970753331036647424",
+              "start": 125,
+              "url": "https://t.co/Gk60ypBxC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970753337739092465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "youtu.be/_YxqVr26-7Q",
+                "end": 241,
+                "expanded_url": "https://youtu.be/_YxqVr26-7Q",
+                "start": 218,
+                "url": "https://t.co/87gMQ1tzFa"
+              }
+            ]
+          },
+          "text": "现在一开国内视频网站就是各种“你该买/不该买iPhone的几大理由”，然后是各种超细致测评，告诉你有什么高级功能，真的是把技术分析做到极致了，让人眼花缭乱。\n\n可比较迷的是，国内的苹果同时有最挑剔的用户和最烂的版本，不支持esim、不支持apple Intelligence、没有facetime语音是国行苹果非常大的功能缺陷（其他方面也有差异）。“房间中的大象”已到了不得不谈的地步。\n\n我在年初的一期视频中就分享了泰版的诸多差异：\nhttps://t.co/87gMQ1tzFa  如果今年我还是要买新iPhone，当然也是买泰版。相比国行，也属于是“特产”了。\n\n像泰版这类同时有实体sim和esim的手机暂属“完美版”。（因为并不影响用双esim）\n\n现在国内的手机卡还没办法转esim来使用，所以不管是在国内使用还是在海外漫游，仍带实体sim卡槽的手机，多少还是有一些方便的。\n\n当然，如果是长期在海外，已经没有直接接听中国电话的需要了。也可以考虑放备机里面设置短信转发，甚至把卡就留在国内。（已有一些很成熟的24小时待机的短信转发设备了，前段时间我就买了一台）\n\n最近一两年已经有很多厂家提供esim转实体sim的服务了，这种服务可以让无esim的手机用上esim服务。\n\n所以也有网友用这种方式在中国境内直接激活海外esim卡，实现了翻墙效果，成本虽然高出不少，但体验很好。原生支持esim的手机不但能存很多卡，切换也不担心掉卡，从这点来说也比实体sim卡的手机好用。\n\n至于apple Intelligence、facetime语音这些，不能说有多强大，可一旦体验过就回不去了.....  其他方面，国行也还有不少阉割，比如没有apple news、apple card、部分emoji之类的。\n\n所以，在有选择的情况下，不仅是国行安卓，国行苹果也是最好别买。🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 24053,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "现在一开国内视频网站就是各种“你该买/不该买iPhone的几大理由”，然后是各种超细致测评，告诉你有什么高级功能，真的是把技术分析做到极致了，让人眼花缭乱。\n\n可比较迷的是，国内的苹果同时有最挑剔的用户和最烂的版本，不支持esim、不支持apple https://t.co/Gk60ypBxC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 682,
+          "like_count": 13181,
+          "listed_count": 19,
+          "media_count": 1340,
+          "tweet_count": 7615
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-26T18:13:58.000Z",
+        "description": "YouTuber (2018.4 - )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tutulifestyle.com",
+                "end": 23,
+                "expanded_url": "https://tutulifestyle.com",
+                "start": 0,
+                "url": "https://t.co/1WL5VjzVbX"
+              }
+            ]
+          }
+        },
+        "id": "846062688090243072",
+        "name": "TuTu生活志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641781157644881921/xS9Is_9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17467,
+          "following_count": 398,
+          "like_count": 153,
+          "listed_count": 67,
+          "media_count": 671,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/1WL5VjzVbX",
+        "username": "tutulifestyle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2039140334244974712",
+    "created_at": "2026-04-01T04:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039191233109823602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "100399047",
+          "start": 0,
+          "username": "Tz_2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039191233109823602",
+    "in_reply_to_user_id": "100399047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039178369971994676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tz_2022 ai投毒😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2145,
+        "media_key": "3_2039178364687171584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyd6yzXQAADwDs.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2145,
+        "media_key": "3_2039178364783882240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyd6zKa8AAM0qB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2039140334244974712",
+        "created_at": "2026-04-01T04:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039191233109823602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "100399047",
+              "start": 0,
+              "username": "Tz_2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039191233109823602",
+        "in_reply_to_user_id": "100399047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039178369971994676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tz_2022 ai投毒😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039178364687171584",
+            "3_2039178364783882240"
+          ]
+        },
+        "author_id": "100399047",
+        "conversation_id": "2039140334244974712",
+        "created_at": "2026-04-01T03:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039178369971994676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0pln9wNSh",
+              "end": 74,
+              "expanded_url": "https://x.com/Tz_2022/status/2039178369971994676/photo/1",
+              "media_key": "3_2039178364687171584",
+              "start": 51,
+              "url": "https://t.co/E0pln9wNSh"
+            },
+            {
+              "display_url": "pic.x.com/E0pln9wNSh",
+              "end": 74,
+              "expanded_url": "https://x.com/Tz_2022/status/2039178369971994676/photo/1",
+              "media_key": "3_2039178364783882240",
+              "start": 51,
+              "url": "https://t.co/E0pln9wNSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039178369971994676",
+        "in_reply_to_user_id": "100399047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3546,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039140334244974712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了。。。\n现在在各大引擎搜「词元跳动」，\n我这条消息已经是排名第一的结果，\n被正式收录了。。。😂 https://t.co/E0pln9wNSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6182,
+          "following_count": 1075,
+          "like_count": 16898,
+          "listed_count": 22,
+          "media_count": 1664,
+          "tweet_count": 9380
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "1989145573434474625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16999,
+          "following_count": 1516,
+          "like_count": 10789,
+          "listed_count": 231,
+          "media_count": 1606,
+          "tweet_count": 8112
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

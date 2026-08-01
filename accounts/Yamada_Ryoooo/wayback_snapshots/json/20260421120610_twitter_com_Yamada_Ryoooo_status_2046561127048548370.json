@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2046561127048548370",
+    "created_at": "2026-04-21T12:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046561127048548370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/btc99m/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/btc99m/status/2046242592636145761",
+          "start": 14,
+          "url": "https://t.co/CYGxfRVCkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046561127048548370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046242592636145761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这也是计划的一部分☝️🕶️ https://t.co/CYGxfRVCkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046242583161262081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW2ybWa0AEBLGH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046242583148744704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW2ybTb0AAIKeA.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046242583148662784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW2ybTakAAevLL.jpg",
+        "width": 1862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2046561127048548370",
+        "created_at": "2026-04-21T12:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046561127048548370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/btc99m/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/btc99m/status/2046242592636145761",
+              "start": 14,
+              "url": "https://t.co/CYGxfRVCkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046561127048548370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046242592636145761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也是计划的一部分☝️🕶️ https://t.co/CYGxfRVCkk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046242583161262081",
+            "3_2046242583148744704",
+            "3_2046242583148662784"
+          ]
+        },
+        "author_id": "1585275680010301441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046242592636145761",
+        "created_at": "2026-04-20T15:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046242592636145761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Y4zb6hp5Z",
+              "end": 60,
+              "expanded_url": "https://x.com/BTC99M/status/2046242592636145761/photo/1",
+              "media_key": "3_2046242583161262081",
+              "start": 37,
+              "url": "https://t.co/0Y4zb6hp5Z"
+            },
+            {
+              "display_url": "pic.x.com/0Y4zb6hp5Z",
+              "end": 60,
+              "expanded_url": "https://x.com/BTC99M/status/2046242592636145761/photo/1",
+              "media_key": "3_2046242583148744704",
+              "start": 37,
+              "url": "https://t.co/0Y4zb6hp5Z"
+            },
+            {
+              "display_url": "pic.x.com/0Y4zb6hp5Z",
+              "end": 60,
+              "expanded_url": "https://x.com/BTC99M/status/2046242592636145761/photo/1",
+              "media_key": "3_2046242583148662784",
+              "start": 37,
+              "url": "https://t.co/0Y4zb6hp5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046242592636145761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22079,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "群友在Soul上面，约到生化母体了。\n\n各位吊毛要洁身自好，看着好吓人。 https://t.co/0Y4zb6hp5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6446,
+          "following_count": 1092,
+          "like_count": 17212,
+          "listed_count": 24,
+          "media_count": 1750,
+          "tweet_count": 9594
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T14:22:39.000Z",
+        "description": "#Binance 2017入圈 | 最高战绩 链游单项目 A8 \n#OKX🏁 Boost 加密淘金群：https://t.co/paSaK9KES0\n🦞AI (Lobster) Token 90% Off： https://t.co/G6aPRSI1P6\n📍专注方向: AI Token | 加密投研 | 脚本策略  | 空投猎人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              },
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/btc9991",
+                "end": 74,
+                "expanded_url": "http://t.me/btc9991",
+                "start": 51,
+                "url": "https://t.co/paSaK9KES0"
+              },
+              {
+                "display_url": "dataeyes.vip",
+                "end": 127,
+                "expanded_url": "http://dataeyes.vip",
+                "start": 104,
+                "url": "https://t.co/G6aPRSI1P6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BTC99M",
+                "end": 23,
+                "expanded_url": "https://t.me/BTC99M",
+                "start": 0,
+                "url": "https://t.co/yVYlqeF4Jp"
+              }
+            ]
+          }
+        },
+        "id": "1585275680010301441",
+        "location": "商务合作Telegram➡",
+        "name": "Dylan.迪伦丨🌊RIVER🐬TermMax",
+        "pinned_tweet_id": "2033111249391886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984920869735702528/kPRbIQZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73151,
+          "following_count": 1901,
+          "like_count": 67639,
+          "listed_count": 127,
+          "media_count": 1745,
+          "tweet_count": 80796
+        },
+        "url": "https://t.co/yVYlqeF4Jp",
+        "username": "BTC99M",
+        "verified": true
+      }
+    ]
+  }
+}

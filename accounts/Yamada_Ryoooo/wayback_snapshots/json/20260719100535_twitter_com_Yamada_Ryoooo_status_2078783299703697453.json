@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2078489397834743808"
+      ],
+      "media_source_tweet_id": [
+        "2078489430848163996"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078783299703697453",
+    "created_at": "2026-07-19T10:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078783299703697453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7x21Exc9c",
+          "end": 44,
+          "expanded_url": "https://x.com/anblk984/status/2078489430848163996/video/1",
+          "media_key": "7_2078489397834743808",
+          "start": 21,
+          "url": "https://t.co/d7x21Exc9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078783299703697453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078489430848163996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 我的电话铃声 https://t.co/d7x21Exc9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14397,
+        "height": 1440,
+        "media_key": "7_2078489397834743808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078489397834743808/pu/img/aZiUKH4nMyYPY-Lb.jpg",
+        "public_metrics": {
+          "view_count": 3944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078489397834743808/pu/vid/avc1/720x960/uAufKyihoNInNNpH.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078489397834743808/pu/vid/avc1/320x426/Klybjuw8u5KW30pj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078489397834743808/pu/vid/avc1/1080x1440/Lt8MXrQ9dX9kfjrZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078489397834743808/pu/pl/iOqpfxQtlBmT9gUc.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078489397834743808/pu/vid/avc1/480x640/Ud4StSv7sYvAYCo9.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078489397834743808"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2078489430848163996",
+        "created_at": "2026-07-18T14:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078489430848163996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7x21Exc9c",
+              "end": 30,
+              "expanded_url": "https://x.com/anblk984/status/2078489430848163996/video/1",
+              "media_key": "7_2078489397834743808",
+              "start": 7,
+              "url": "https://t.co/d7x21Exc9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078489430848163996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 9267,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我的电话铃声 https://t.co/d7x21Exc9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078489397834743808"
+          ],
+          "media_source_tweet_id": [
+            "2078489430848163996"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078783299703697453",
+        "created_at": "2026-07-19T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078783299703697453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7x21Exc9c",
+              "end": 44,
+              "expanded_url": "https://x.com/anblk984/status/2078489430848163996/video/1",
+              "media_key": "7_2078489397834743808",
+              "start": 21,
+              "url": "https://t.co/d7x21Exc9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078783299703697453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078489430848163996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 我的电话铃声 https://t.co/d7x21Exc9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6483,
+          "following_count": 965,
+          "like_count": 17824,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10037
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15847,
+          "following_count": 1051,
+          "like_count": 126189,
+          "listed_count": 75,
+          "media_count": 3295,
+          "tweet_count": 30490
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

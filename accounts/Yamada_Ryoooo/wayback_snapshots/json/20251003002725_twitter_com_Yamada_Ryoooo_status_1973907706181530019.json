@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1973630739121107364",
+    "created_at": "2025-10-03T00:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T01:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973907706181530019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492081792664637440",
+          "start": 0,
+          "username": "PaladinMisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973907706181530019",
+    "in_reply_to_user_id": "1492081792664637440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973903235087004075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaladinMisaki 😁☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1973630739121107364",
+        "created_at": "2025-10-03T00:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T01:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973907706181530019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492081792664637440",
+              "start": 0,
+              "username": "PaladinMisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973907706181530019",
+        "in_reply_to_user_id": "1492081792664637440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973903235087004075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaladinMisaki 😁☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492081792664637440",
+        "conversation_id": "1973630739121107364",
+        "created_at": "2025-10-03T00:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T01:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973903235087004075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973903235087004075",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973630739121107364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 4k分我一半就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 689,
+          "like_count": 13346,
+          "listed_count": 20,
+          "media_count": 1356,
+          "tweet_count": 7715
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T10:23:41.000Z",
+        "description": "好萌的Misaki🥰｜我乃始终面带微笑潜伏到你身边的混沌🎵｜需要互fo请来私信罢，需要点时间有时候广告信息太多没注意看🌃｜可以在「回复」观看我的平日发言，这可以反映我的实时观点",
+        "id": "1492081792664637440",
+        "location": "天鹅座α、牵牛星、织女星组成的夏季大三角🌠",
+        "name": "見崎Misakiちゃん✝️",
+        "pinned_tweet_id": "1904485307829174757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934455701923106816/FPGVQs3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3469,
+          "following_count": 602,
+          "like_count": 58754,
+          "listed_count": 11,
+          "media_count": 3162,
+          "tweet_count": 21022
+        },
+        "username": "PaladinMisaki",
+        "verified": false
+      }
+    ]
+  }
+}

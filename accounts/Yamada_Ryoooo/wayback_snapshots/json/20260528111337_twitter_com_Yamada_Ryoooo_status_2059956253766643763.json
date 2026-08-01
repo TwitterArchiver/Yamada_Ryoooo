@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2059947821965697391",
+    "created_at": "2026-05-28T11:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059956253766643763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1631173823528841217",
+          "start": 0,
+          "username": "hit23155979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059956253766643763",
+    "in_reply_to_user_id": "1631173823528841217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059947821965697391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hit23155979 扫🖊️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059947819440709632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZnoLGaoAA9wjb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059947821965697391",
+        "created_at": "2026-05-28T11:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059956253766643763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631173823528841217",
+              "start": 0,
+              "username": "hit23155979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059956253766643763",
+        "in_reply_to_user_id": "1631173823528841217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059947821965697391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hit23155979 扫🖊️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059947819440709632"
+          ]
+        },
+        "author_id": "1631173823528841217",
+        "conversation_id": "2059947821965697391",
+        "created_at": "2026-05-28T10:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059947821965697391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "简杜"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "男娘"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMhDq7q8X8",
+              "end": 39,
+              "expanded_url": "https://x.com/hit23155979/status/2059947821965697391/photo/1",
+              "media_key": "3_2059947819440709632",
+              "start": 16,
+              "url": "https://t.co/EMhDq7q8X8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059947821965697391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "干嘛\n#简杜 #男娘  #线下 https://t.co/EMhDq7q8X8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 1013,
+          "like_count": 17663,
+          "listed_count": 24,
+          "media_count": 1792,
+          "tweet_count": 9819
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-02T06:05:27.000Z",
+        "description": "大号@haitu223被冻结了，被迫转生\n私信口令40/88/288获取菜单\n坐标四川",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "haitu223"
+              }
+            ]
+          }
+        },
+        "id": "1631173823528841217",
+        "name": "板鸭（转生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656704309525086208/pIrCcX2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7487,
+          "following_count": 358,
+          "like_count": 49,
+          "listed_count": 21,
+          "media_count": 23,
+          "tweet_count": 65
+        },
+        "username": "hit23155979",
+        "verified": false
+      }
+    ]
+  }
+}

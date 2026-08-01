@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012711660713042127",
+    "created_at": "2026-01-18T21:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T22:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013008298191282310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "869740016263602177",
+          "start": 0,
+          "username": "Bitcoin2033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013008298191282310",
+    "in_reply_to_user_id": "869740016263602177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012711660713042127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitcoin2033 其实比以前好多了，24年我开蓝勾的时候还要2天验证才有蓝勾，现在基本上半天不到就能过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2012711590273970176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6Whw2XcAAhYEW.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012711660713042127",
+        "created_at": "2026-01-18T21:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T22:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013008298191282310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "869740016263602177",
+              "start": 0,
+              "username": "Bitcoin2033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013008298191282310",
+        "in_reply_to_user_id": "869740016263602177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012711660713042127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitcoin2033 其实比以前好多了，24年我开蓝勾的时候还要2天验证才有蓝勾，现在基本上半天不到就能过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012711590273970176"
+          ]
+        },
+        "author_id": "869740016263602177",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2012711660713042127",
+        "created_at": "2026-01-18T02:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012711660713042127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Axjhr6GoaW",
+              "end": 169,
+              "expanded_url": "https://x.com/Bitcoin2033/status/2012711660713042127/photo/1",
+              "media_key": "3_2012711590273970176",
+              "start": 146,
+              "url": "https://t.co/Axjhr6GoaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012711660713042127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1572,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人的名字里直接就带上“蓝v互关”别人一看就懂了，感觉比我们这些一个个内容去找的更简单，只要内容健康，没有擦边，正常的都可以，所以我也想把名字改成比如“币币兔-蓝v互关”但是我去改名字，发现x意思是，改了名字蓝v就掉了，而且要很多天，这哪行啊，你们有没有谁操作过的，这么做了以后蓝v掉多久 https://t.co/Axjhr6GoaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5597,
+          "following_count": 1058,
+          "like_count": 14737,
+          "listed_count": 21,
+          "media_count": 1464,
+          "tweet_count": 8564
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-31T02:19:13.000Z",
+        "description": "记录币圈里的喜与怒、得与失\n那些涨跌背后的人生起伏与悲欢离合",
+        "id": "869740016263602177",
+        "location": "Melbourne, Victoria",
+        "name": "币币兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977154951559495682/EI2rqerV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 333,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 768
+        },
+        "username": "Bitcoin2033",
+        "verified": true
+      }
+    ]
+  }
+}

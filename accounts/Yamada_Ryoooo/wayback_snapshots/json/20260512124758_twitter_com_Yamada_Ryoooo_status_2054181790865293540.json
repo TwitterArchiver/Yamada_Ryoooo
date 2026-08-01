@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2053860359534993712",
+    "created_at": "2026-05-12T12:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054181790865293540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878193431165472768",
+          "start": 0,
+          "username": "Curline1222"
+        },
+        {
+          "end": 26,
+          "id": "1612297441218555904",
+          "start": 13,
+          "username": "MenglinZhao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054181790865293540",
+    "in_reply_to_user_id": "1878193431165472768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054181296847442369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Curline1222 @MenglinZhao3 对的，多模态Gemini做的是最好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2053860359534993712",
+        "created_at": "2026-05-12T12:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054181790865293540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878193431165472768",
+              "start": 0,
+              "username": "Curline1222"
+            },
+            {
+              "end": 26,
+              "id": "1612297441218555904",
+              "start": 13,
+              "username": "MenglinZhao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054181790865293540",
+        "in_reply_to_user_id": "1878193431165472768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054181296847442369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Curline1222 @MenglinZhao3 对的，多模态Gemini做的是最好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878193431165472768",
+        "conversation_id": "2053860359534993712",
+        "created_at": "2026-05-12T12:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054181296847442369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 28,
+              "id": "1612297441218555904",
+              "start": 15,
+              "username": "MenglinZhao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054181296847442369",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054168450696888503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @MenglinZhao3 gemini 数学还是 gpt 5.2 级别的\n多模态估计是 gpt 6 级别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1040,
+          "like_count": 17359,
+          "listed_count": 24,
+          "media_count": 1771,
+          "tweet_count": 9689
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-11T21:33:37.000Z",
+        "description": "",
+        "id": "1878193431165472768",
+        "name": "Curline Zephirin",
+        "pinned_tweet_id": "2037235157367771547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878193574832947200/lQyh71K1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 63,
+          "like_count": 5381,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1637
+        },
+        "username": "Curline1222",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T03:57:37.000Z",
+        "description": "书中寻路，脑中构建，指尖输出\n📦 跨境电商8年牛马\n🤖 记录自己AI学习+落地的全过程\n📝 分享普通人也可以落地的「AI提效 ×自媒体增长」方法论\n利他｜长期主义｜永远保持一颗学徒的心",
+        "id": "1612297441218555904",
+        "name": "Lin.",
+        "pinned_tweet_id": "2051990141774803290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028550789258747904/68-s7taW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 419,
+          "like_count": 4262,
+          "listed_count": 12,
+          "media_count": 340,
+          "tweet_count": 3727
+        },
+        "username": "MenglinZhao3",
+        "verified": true
+      }
+    ]
+  }
+}

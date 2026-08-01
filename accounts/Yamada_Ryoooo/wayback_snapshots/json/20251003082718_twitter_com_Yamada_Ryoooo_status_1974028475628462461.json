@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1974016694055014446",
+    "created_at": "2025-10-03T08:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T09:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974028475628462461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974028475628462461",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974028073072013724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 绷不住\n那个人还问我是哪的，还夸我长得帅，想和我套近乎🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1974016694055014446",
+        "created_at": "2025-10-03T08:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974028475628462461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974028475628462461",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974028073072013724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 绷不住\n那个人还问我是哪的，还夸我长得帅，想和我套近乎🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397924779219292167",
+        "conversation_id": "1974016694055014446",
+        "created_at": "2025-10-03T08:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974028073072013724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974028073072013724",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974016694055014446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 还有经典校内卖高价不好用的圆珠笔的“学姐”，悄悄绕你身后跟你贴老近用柔弱的声音跟你套近乎“帮帮学姐完成任务”，支付QR码差不多贴我脸上想让我心软付钱，然后被我一套钢铁直男“不需要的东西我买它干啥”的理论整麻了，再看我死活不为所动就瞬间翻脸脱离去找下一个受害者了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 690,
+          "like_count": 13370,
+          "listed_count": 20,
+          "media_count": 1356,
+          "tweet_count": 7737
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机&资深洛批\n日本語⭕、English⭕、蜀语⭕\n学畜\n拉面仙人🍜\n一般厌蠢\n弱智吧搬石工自觉爬\nJapanglish NG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6LaCqX"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1799806305026384261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948685372185346049/5mS9oMuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12849,
+          "following_count": 2013,
+          "like_count": 50835,
+          "listed_count": 65,
+          "media_count": 1133,
+          "tweet_count": 7091
+        },
+        "url": "https://t.co/hLiv6LaCqX",
+        "username": "KawawaShota",
+        "verified": false
+      }
+    ]
+  }
+}

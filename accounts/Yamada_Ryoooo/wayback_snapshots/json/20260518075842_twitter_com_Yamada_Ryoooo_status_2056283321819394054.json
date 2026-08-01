@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2056281415596306795",
+    "created_at": "2026-05-18T07:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056283321819394054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1152935210813677569",
+          "start": 0,
+          "username": "iamfreebox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056283321819394054",
+    "in_reply_to_user_id": "1152935210813677569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056281415596306795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamfreebox 用爱思助手下载中国app"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2056281415596306795",
+        "created_at": "2026-05-18T07:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056283321819394054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1152935210813677569",
+              "start": 0,
+              "username": "iamfreebox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056283321819394054",
+        "in_reply_to_user_id": "1152935210813677569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056281415596306795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamfreebox 用爱思助手下载中国app"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152935210813677569",
+        "conversation_id": "2056281415596306795",
+        "created_at": "2026-05-18T07:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056281415596306795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056281415596306795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "问你们个事\n\n用美国 Apple ID，玩推特以后，连抖音都下载不了，你们还玩不玩抖音？还会上小红书吗？\n\n我现在没有国区 ID，连网易云都下不了。抖音也上不去。\n\n彻底跟国内的媒体隔绝了。\n\n但是在推特上我还是看到国内的很多东西，国内做自媒体的思维在推特里也有很多体现，依然是卷的思维，制造焦虑感，好像又没有翻出来一样。\n\n空气还是一样，不轻松，不自然。\n\n这难道就是内地人的宿命吗？\n\n我为什么刷不到新加坡人和台湾人的推特呢？真的是非常奇怪。\n\n你们翻出来上推特是为了什么？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问你们个事\n\n用美国 Apple ID，玩推特以后，连抖音都下载不了，你们还玩不玩抖音？还会上小红书吗？\n\n我现在没有国区 ID，连网易云都下不了。抖音也上不去。\n\n彻底跟国内的媒体隔绝了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6571,
+          "following_count": 997,
+          "like_count": 17469,
+          "listed_count": 24,
+          "media_count": 1780,
+          "tweet_count": 9751
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-21T13:35:49.000Z",
+        "description": "清醒｜独立｜自由｜长期主义者",
+        "id": "1152935210813677569",
+        "name": "Freebox",
+        "pinned_tweet_id": "2051854503717319137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019292839310684167/_L4nOkdt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 703,
+          "like_count": 1165,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 878
+        },
+        "username": "iamfreebox",
+        "verified": true
+      }
+    ]
+  }
+}

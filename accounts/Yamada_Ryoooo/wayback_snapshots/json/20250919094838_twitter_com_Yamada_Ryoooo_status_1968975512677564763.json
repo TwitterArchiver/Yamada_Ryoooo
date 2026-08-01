@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1968903134224261367",
+    "created_at": "2025-09-19T09:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T10:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968975512677564763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3886921",
+          "start": 0,
+          "username": "Shinabuta_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968975512677564763",
+    "in_reply_to_user_id": "3886921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968912531134525908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinabuta_8964 笑嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1968903134224261367",
+        "created_at": "2025-09-19T09:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968975512677564763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3886921",
+              "start": 0,
+              "username": "Shinabuta_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968975512677564763",
+        "in_reply_to_user_id": "3886921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968912531134525908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinabuta_8964 笑嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3886921",
+        "conversation_id": "1968903134224261367",
+        "created_at": "2025-09-19T05:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968912531134525908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968912531134525908",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968903134224261367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo VRC可以乳包辱华😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 686,
+          "like_count": 13132,
+          "listed_count": 20,
+          "media_count": 1336,
+          "tweet_count": 7598
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-09T10:47:08.000Z",
+        "description": "⭐键政英雄⭐辱华大师⭐反共义士⭐自由斗士⭐  |#FreeTibet|#FreeHongKong|#FreeChina|专业屠宰🔪各种粉红🐷，五毛🐶，狱友，腊畜，支猪🐷，共产🐷，芭乐支坦🐷。喜欢吃炭烤邱少云和腊肉蛋炒饭😋",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 24,
+                "tag": "FreeTibet"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "tag": "FreeHongKong"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "tag": "FreeChina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8964museum.com",
+                "end": 23,
+                "expanded_url": "https://8964museum.com/",
+                "start": 0,
+                "url": "https://t.co/5s8ydZtWSW"
+              }
+            ]
+          }
+        },
+        "id": "3886921",
+        "location": "Nanking🇹🇼",
+        "name": "枫糖大白A梦🍁🍬🏳️‍⚧️🍥🏳️‍🌈🏴🇭🇰🇹🇼",
+        "pinned_tweet_id": "1965301721594560735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940057221032734720/9M1k4KQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 1293,
+          "like_count": 6928,
+          "listed_count": 18,
+          "media_count": 65,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/5s8ydZtWSW",
+        "username": "Shinabuta_8964",
+        "verified": false
+      }
+    ]
+  }
+}

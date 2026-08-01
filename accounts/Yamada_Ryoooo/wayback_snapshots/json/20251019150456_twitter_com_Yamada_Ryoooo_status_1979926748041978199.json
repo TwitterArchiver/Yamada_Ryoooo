@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1979774044586340422",
+    "created_at": "2025-10-19T15:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979926748041978199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979926748041978199",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979774044586340422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 何意味？何意味！何意味！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_1979774034708475904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mR_spXMAA1Bcw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1979774044586340422",
+        "created_at": "2025-10-19T15:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979926748041978199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979926748041978199",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979774044586340422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 何意味？何意味！何意味！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979774034708475904"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1979774044586340422",
+        "created_at": "2025-10-19T04:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979774044586340422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fqlm23h6k",
+              "end": 23,
+              "expanded_url": "https://x.com/whyuounot/status/1979774044586340422/photo/1",
+              "media_key": "3_1979774034708475904",
+              "start": 0,
+              "url": "https://t.co/2fqlm23h6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979774044586340422",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 365,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2fqlm23h6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 692,
+          "like_count": 13423,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7813
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960145987307286528/cDwEnK1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7534,
+          "following_count": 1153,
+          "like_count": 7903,
+          "listed_count": 17,
+          "media_count": 2075,
+          "tweet_count": 14174
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

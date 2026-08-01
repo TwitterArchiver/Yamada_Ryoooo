@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997527905723940864"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1997527914477429216",
+    "created_at": "2025-12-07T04:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T05:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997527914477429216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/18FbEXxUmC",
+          "end": 34,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1997527914477429216/photo/1",
+          "media_key": "3_1997527905723940864",
+          "start": 11,
+          "url": "https://t.co/18FbEXxUmC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997527914477429216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "罗技你是不是有什么病 https://t.co/18FbEXxUmC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "3_1997527905723940864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ilDAGbAAAbDki.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997527905723940864"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1997527914477429216",
+        "created_at": "2025-12-07T04:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997527914477429216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18FbEXxUmC",
+              "end": 34,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1997527914477429216/photo/1",
+              "media_key": "3_1997527905723940864",
+              "start": 11,
+              "url": "https://t.co/18FbEXxUmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997527914477429216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罗技你是不是有什么病 https://t.co/18FbEXxUmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5395,
+          "following_count": 675,
+          "like_count": 13831,
+          "listed_count": 20,
+          "media_count": 1410,
+          "tweet_count": 8091
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

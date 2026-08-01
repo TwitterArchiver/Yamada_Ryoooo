@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1971459937554612567",
+    "created_at": "2025-09-26T06:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T07:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971459937554612567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "215939847",
+          "start": 0,
+          "username": "bboczeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lzndon/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lzndon/status/1971247249582920117",
+          "start": 15,
+          "url": "https://t.co/dqCA6zMig4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971459937554612567",
+    "in_reply_to_user_id": "215939847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971247249582920117",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bboczeng 这是你吗 https://t.co/dqCA6zMig4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1971247245329633280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tG7O5XEAAM5FO.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1971459937554612567",
+        "created_at": "2025-09-26T06:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971459937554612567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lzndon/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lzndon/status/1971247249582920117",
+              "start": 15,
+              "url": "https://t.co/dqCA6zMig4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971459937554612567",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971247249582920117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 这是你吗 https://t.co/dqCA6zMig4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971247245329633280"
+          ]
+        },
+        "author_id": "1781063490293100544",
+        "conversation_id": "1971247249582920117",
+        "created_at": "2025-09-25T16:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971247249582920117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Walt",
+              "probability": 0.5997,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzBPlNxzue",
+              "end": 60,
+              "expanded_url": "https://x.com/lzndon/status/1971247249582920117/photo/1",
+              "media_key": "3_1971247245329633280",
+              "start": 37,
+              "url": "https://t.co/LzBPlNxzue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971247249582920117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4074,
+          "impression_count": 1460403,
+          "like_count": 118961,
+          "quote_count": 782,
+          "reply_count": 11380,
+          "retweet_count": 5314
+        },
+        "reply_settings": "everyone",
+        "text": "︎You have 24 hours to say hi to Walt https://t.co/LzBPlNxzue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4435,
+          "following_count": 681,
+          "like_count": 13182,
+          "listed_count": 19,
+          "media_count": 1340,
+          "tweet_count": 7619
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1967464703686533623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177392,
+          "following_count": 686,
+          "like_count": 107293,
+          "listed_count": 1005,
+          "media_count": 16276,
+          "tweet_count": 96588
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-18T20:53:36.000Z",
+        "description": "4.5 million across Socials • @theworstofxp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "theworstofxp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "precisiongripsco.com",
+                "end": 23,
+                "expanded_url": "https://precisiongripsco.com",
+                "start": 0,
+                "url": "https://t.co/pqkVzjASkB"
+              }
+            ]
+          }
+        },
+        "id": "1781063490293100544",
+        "location": "DM for business",
+        "name": "ˡᶻⁿᵈᵒⁿ",
+        "pinned_tweet_id": "1971247249582920117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969581877934669824/GPWEkkJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13179,
+          "following_count": 8066,
+          "like_count": 18255,
+          "listed_count": 10,
+          "media_count": 1574,
+          "tweet_count": 12387
+        },
+        "url": "https://t.co/pqkVzjASkB",
+        "username": "lzndon",
+        "verified": true
+      }
+    ]
+  }
+}

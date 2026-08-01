@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007834795909513216"
+      ],
+      "media_source_tweet_id": [
+        "2008000749570011161"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2008348056765559085",
+    "created_at": "2026-01-06T01:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008348056765559085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWT97mhte3",
+          "end": 30,
+          "expanded_url": "https://x.com/leenaccy/status/2008000749570011161/video/1",
+          "media_key": "13_2007834795909513216",
+          "start": 7,
+          "url": "https://t.co/KWT97mhte3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008348056765559085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是在干什么 https://t.co/KWT97mhte3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40170,
+        "height": 1280,
+        "media_key": "13_2007834795909513216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007834795909513216/img/FGd8IZAjRS8xuadw.jpg",
+        "public_metrics": {
+          "view_count": 2008805
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007834795909513216/vid/avc1/320x568/Hg9RcciprjRHf_Fm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007834795909513216/vid/avc1/480x852/Z7BjW40t5heAQEuu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007834795909513216/vid/avc1/720x1280/KTyQqgHwID840OQM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007834795909513216/pl/BLkIRXx5GoFl6rGb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007834795909513216"
+          ],
+          "media_source_tweet_id": [
+            "2008000749570011161"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008348056765559085",
+        "created_at": "2026-01-06T01:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008348056765559085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWT97mhte3",
+              "end": 30,
+              "expanded_url": "https://x.com/leenaccy/status/2008000749570011161/video/1",
+              "media_key": "13_2007834795909513216",
+              "start": 7,
+              "url": "https://t.co/KWT97mhte3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008348056765559085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是在干什么 https://t.co/KWT97mhte3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 675,
+          "like_count": 14142,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8259
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

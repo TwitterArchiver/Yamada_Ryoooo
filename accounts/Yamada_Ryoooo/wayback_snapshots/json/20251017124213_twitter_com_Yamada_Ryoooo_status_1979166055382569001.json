@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1979166055382569001",
+    "created_at": "2025-10-17T12:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979166055382569001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1979098807519310034",
+          "start": 23,
+          "url": "https://t.co/egEVut3rN4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979166055382569001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979098807519310034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震惊！中国茶饮品牌沪上阿姨居然公开售卖器官！ https://t.co/egEVut3rN4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7801,
+        "height": 1920,
+        "media_key": "13_1979097291903393792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1979097291903393792/img/y7iWUIavqr3cibkS.jpg",
+        "public_metrics": {
+          "view_count": 27060
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979097291903393792/vid/avc1/320x568/RRcsWwhQ4Xvsj8Bg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979097291903393792/vid/avc1/480x852/rA_9hyXyTS_XUAss.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979097291903393792/vid/avc1/720x1280/FQKMiwJNATyQNP2J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1979097291903393792/pl/-Jld-TuuxuBfM7gp.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1979097291903393792/vid/avc1/1080x1920/-9iO1-7qnVWOSmg4.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1979166055382569001",
+        "created_at": "2025-10-17T12:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979166055382569001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1979098807519310034",
+              "start": 23,
+              "url": "https://t.co/egEVut3rN4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979166055382569001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979098807519310034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震惊！中国茶饮品牌沪上阿姨居然公开售卖器官！ https://t.co/egEVut3rN4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1979097291903393792"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1979098807519310034",
+        "created_at": "2025-10-17T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979098807519310034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGY1ReJpYS",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1979098807519310034/video/1",
+              "media_key": "13_1979097291903393792",
+              "start": 144,
+              "url": "https://t.co/ZGY1ReJpYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979098807519310034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，沪上阿姨茶饮品牌推出一款双杯饮品套餐，内含一个子宫造型的玩偶。该玩偶命名为“小宫举毛绒玩偶”，从外形看，与子宫相似，倒梨形，还有“输卵管”和“卵巢”等。分为粉色和红色两款，页面介绍中写道，两种颜色是对应每个月的不同时期。有网友认为，这种类似人体器官的玩偶放在饮品店售卖，给人感觉不适，“不知道意义在哪里”，还有人认为是过于“猎奇”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 70309,
+          "like_count": 168,
+          "quote_count": 5,
+          "reply_count": 77,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "近日，沪上阿姨茶饮品牌推出一款双杯饮品套餐，内含一个子宫造型的玩偶。该玩偶命名为“小宫举毛绒玩偶”，从外形看，与子宫相似，倒梨形，还有“输卵管”和“卵巢”等。分为粉色和红色两款，页面介绍中写道，两种颜色是对应每个月的不同时期。有网友认为，这种类似人体器官的玩偶放在饮品店售卖，给人感觉不 https://t.co/ZGY1ReJpYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 693,
+          "like_count": 13416,
+          "listed_count": 20,
+          "media_count": 1362,
+          "tweet_count": 7807
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123648,
+          "following_count": 983,
+          "like_count": 8267,
+          "listed_count": 8369,
+          "media_count": 36230,
+          "tweet_count": 43059
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

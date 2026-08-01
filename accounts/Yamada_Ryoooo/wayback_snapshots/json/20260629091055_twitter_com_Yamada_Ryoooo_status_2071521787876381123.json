@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071476450603958272"
+      ],
+      "media_source_tweet_id": [
+        "2071480056619163699"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071521787876381123",
+    "created_at": "2026-06-29T09:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071521787876381123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040565175514779648",
+          "start": 3,
+          "username": "amber_digit"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lNg3sAFOwu",
+          "end": 92,
+          "expanded_url": "https://x.com/amber_digit/status/2071480056619163699/video/1",
+          "media_key": "13_2071476450603958272",
+          "start": 69,
+          "url": "https://t.co/lNg3sAFOwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071521787876381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071480056619163699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit: 之前有小朋友找我服侍肉棒的口交教程，所以在这里录个深喉的小视频稍微说明一下，也算是展示一下业务能力哼哼 https://t.co/lNg3sAFOwu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 101763,
+        "height": 1920,
+        "media_key": "13_2071476450603958272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071476450603958272/img/VzWSCP-R7ZhSyfFa.jpg",
+        "public_metrics": {
+          "view_count": 448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/720x1280/WIoaQWe69dVjne40.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/pl/pc_RbkE5zQzFOZhE.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/480x852/FfC2FnFjeZFVgqxo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/320x568/P3zyK5BuPBMWEWWL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071476450603958272/vid/avc1/1080x1920/-YnMJWLW8gAMtFnT.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071476450603958272"
+          ],
+          "media_source_tweet_id": [
+            "2071480056619163699"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071521787876381123",
+        "created_at": "2026-06-29T09:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071521787876381123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040565175514779648",
+              "start": 3,
+              "username": "amber_digit"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNg3sAFOwu",
+              "end": 92,
+              "expanded_url": "https://x.com/amber_digit/status/2071480056619163699/video/1",
+              "media_key": "13_2071476450603958272",
+              "start": 69,
+              "url": "https://t.co/lNg3sAFOwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071521787876381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071480056619163699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit: 之前有小朋友找我服侍肉棒的口交教程，所以在这里录个深喉的小视频稍微说明一下，也算是展示一下业务能力哼哼 https://t.co/lNg3sAFOwu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071476450603958272"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071480056619163699",
+        "created_at": "2026-06-29T06:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:11:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071476573849416142",
+          "2071480056619163699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNg3sAFOwu",
+              "end": 75,
+              "expanded_url": "https://x.com/amber_digit/status/2071480056619163699/video/1",
+              "media_key": "13_2071476450603958272",
+              "start": 52,
+              "url": "https://t.co/lNg3sAFOwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071480056619163699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 1186,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "之前有小朋友找我服侍肉棒的口交教程，所以在这里录个深喉的小视频稍微说明一下，也算是展示一下业务能力哼哼 https://t.co/lNg3sAFOwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 974,
+          "like_count": 17772,
+          "listed_count": 22,
+          "media_count": 1818,
+          "tweet_count": 9993
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "🇨🇦 多伦多 #TS \n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "TS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2052291257251123405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 298,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

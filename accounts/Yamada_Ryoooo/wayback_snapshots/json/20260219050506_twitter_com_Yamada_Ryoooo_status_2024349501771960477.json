@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2024347724188193201",
+    "created_at": "2026-02-19T05:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024349501771960477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024349501771960477",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024347724188193201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH stripe我的搞错了然后申诉也改绑不了\n放弃了😭😭😭\nwise港币账户一个多月了也没有开下来😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 249,
+        "media_key": "3_2024345757869076481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfrvcha8AEksa3.png",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2024347724188193201",
+        "created_at": "2026-02-19T05:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024349501771960477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024349501771960477",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024347724188193201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH stripe我的搞错了然后申诉也改绑不了\n放弃了😭😭😭\nwise港币账户一个多月了也没有开下来😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024345757869076481"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2024347724188193201",
+        "created_at": "2026-02-19T04:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024347724188193201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2w60DJ8X6",
+              "end": 168,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2024347724188193201/photo/1",
+              "media_key": "3_2024345757869076481",
+              "start": 145,
+              "url": "https://t.co/X2w60DJ8X6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024347724188193201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "也是正式爆上了马一龙的金币，接下来不再无条件回fo了，当然只要你是活人主页有自己的内容互动两次我肯定会点回关，以前会一个一个点开看谁fo了我，要不要回fo，但是后来人数增长以后完全看不过来，所以就直接从评论区互动里回fo，当然也有一部分原因是打开主页查户口的那段时期品鉴了太多根形形色色的OO，留下了至今难以磨灭的心理阴影，还有个问题想问各位蓝标狗，这个收益化只能绑定stripe吗，我想绑wise为啥绑不了，那我要是将来不住日本了想换地域的话是不是得去开个港卡重新开通stripe账户？stripe账户可以改地区吗，叉叉空间的地域和stripe的地域是绑死的吗，填了一大堆东西搞得我晕头转向的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是正式爆上了马一龙的金币，接下来不再无条件回fo了，当然只要你是活人主页有自己的内容互动两次我肯定会点回关，以前会一个一个点开看谁fo了我，要不要回fo，但是后来人数增长以后完全看不过来，所以就直接从评论区互动里回fo，当然也有一部分原因是打开主页查户口的那段时期品鉴了太多根形形色色的 https://t.co/X2w60DJ8X6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 1066,
+          "like_count": 16017,
+          "listed_count": 21,
+          "media_count": 1527,
+          "tweet_count": 8922
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5250,
+          "following_count": 636,
+          "like_count": 24541,
+          "listed_count": 23,
+          "media_count": 1384,
+          "tweet_count": 17785
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

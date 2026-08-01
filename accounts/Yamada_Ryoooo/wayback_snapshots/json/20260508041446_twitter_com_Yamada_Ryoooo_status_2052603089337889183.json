@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2052576860253643090",
+    "created_at": "2026-05-08T04:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T05:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052603089337889183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660637215335014402",
+          "start": 0,
+          "username": "cngcngyngy38992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052603089337889183",
+    "in_reply_to_user_id": "1660637215335014402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052576860253643090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cngcngyngy38992 我：X\n我的朋友们：IG\n就很… 🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2052576842469752833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw3w2GaQAETUsw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2052576860253643090",
+        "created_at": "2026-05-08T04:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052603089337889183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660637215335014402",
+              "start": 0,
+              "username": "cngcngyngy38992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052603089337889183",
+        "in_reply_to_user_id": "1660637215335014402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052576860253643090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cngcngyngy38992 我：X\n我的朋友们：IG\n就很… 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052576842469752833"
+          ]
+        },
+        "author_id": "1660637215335014402",
+        "conversation_id": "2052576860253643090",
+        "created_at": "2026-05-08T02:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052576860253643090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1aydFQGTb",
+              "end": 60,
+              "expanded_url": "https://x.com/cngcngyngy38992/status/2052576860253643090/photo/1",
+              "media_key": "3_2052576842469752833",
+              "start": 37,
+              "url": "https://t.co/n1aydFQGTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052576860253643090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：                            我的朋友们： https://t.co/n1aydFQGTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6585,
+          "following_count": 1094,
+          "like_count": 17345,
+          "listed_count": 24,
+          "media_count": 1762,
+          "tweet_count": 9665
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T13:23:04.000Z",
+        "description": "07｜二次元｜喜歡拿推上畫師的圖｜沾點精日但不支黑｜不定時發評分系列｜互fo私信",
+        "id": "1660637215335014402",
+        "location": "SIDE 6",
+        "name": "瓜子Online_瑪秋Mode 🇹🇼",
+        "pinned_tweet_id": "1960011339298156743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036995723485646848/o86XMGv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4260,
+          "following_count": 4390,
+          "like_count": 15121,
+          "listed_count": 19,
+          "media_count": 1228,
+          "tweet_count": 6359
+        },
+        "username": "cngcngyngy38992",
+        "verified": false
+      }
+    ]
+  }
+}

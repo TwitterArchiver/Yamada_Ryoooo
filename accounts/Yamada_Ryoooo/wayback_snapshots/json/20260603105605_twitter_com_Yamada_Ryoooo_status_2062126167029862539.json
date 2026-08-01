@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2062124052123402330",
+    "created_at": "2026-06-03T10:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062126167029862539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1829677182609997826",
+          "start": 0,
+          "username": "twsdah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062126167029862539",
+    "in_reply_to_user_id": "1829677182609997826",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062125903745024325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twsdah 😶‍🌫️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-03T10:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062126167029862539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829677182609997826",
+              "start": 0,
+              "username": "twsdah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062126167029862539",
+        "in_reply_to_user_id": "1829677182609997826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062125903745024325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twsdah 😶‍🌫️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829677182609997826",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-03T10:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062125903745024325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062125903745024325",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062124052123402330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6539,
+          "following_count": 1013,
+          "like_count": 17752,
+          "listed_count": 23,
+          "media_count": 1798,
+          "tweet_count": 9871
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:27:15.000Z",
+        "description": "26岁，是米学长 每天的工作就像便乘一样，让人想要逃跑，但是不行啊，还要在这个残酷的世界里生存。请尽情地把KPI射在我的脸上吧！｜天大智能与计算学部本科生/港大电机与电子工程msc毕业（水硕认证版）｜现华为海思芯片综合及后端工程师（练习时长两年半版）｜米门！散兵单推人｜老大：阿萨 宠物：Taffy CP：aza塔",
+        "id": "1829677182609997826",
+        "location": "Amersfoort, Nederland",
+        "name": "米笑梓",
+        "pinned_tweet_id": "1857457117466419382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997940839474135040/LBVL0CAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 940,
+          "like_count": 3658,
+          "listed_count": 6,
+          "media_count": 1020,
+          "tweet_count": 5466
+        },
+        "username": "twsdah",
+        "verified": true
+      }
+    ]
+  }
+}

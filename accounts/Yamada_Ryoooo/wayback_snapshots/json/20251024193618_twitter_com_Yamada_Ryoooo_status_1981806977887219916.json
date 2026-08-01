@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981806874652520448"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "1981746971108089874",
+    "created_at": "2025-10-24T19:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T20:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981806977887219916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/16jSnc7usu",
+          "end": 42,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/1981806977887219916/photo/1",
+          "media_key": "3_1981806874652520448",
+          "start": 19,
+          "url": "https://t.co/16jSnc7usu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981806977887219916",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981746971108089874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 😢提示邀请码不存在欸 https://t.co/16jSnc7usu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1981806874652520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4DK2jkXMAAoe9r.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1668,
+        "media_key": "3_1981745576665346049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CTGixW8AENRjT.jpg",
+        "width": 2060
+      },
+      {
+        "height": 1622,
+        "media_key": "3_1981745201484865536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CSwtHXIAAe1u5.jpg",
+        "width": 1864
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1981746692589256704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CUHf6WgAAGyW0.jpg",
+        "width": 1874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981806874652520448"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1981746971108089874",
+        "created_at": "2025-10-24T19:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T20:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981806977887219916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/16jSnc7usu",
+              "end": 42,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/1981806977887219916/photo/1",
+              "media_key": "3_1981806874652520448",
+              "start": 19,
+              "url": "https://t.co/16jSnc7usu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981806977887219916",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981746971108089874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 😢提示邀请码不存在欸 https://t.co/16jSnc7usu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981745576665346049",
+            "3_1981745201484865536",
+            "3_1981746692589256704"
+          ]
+        },
+        "author_id": "168139512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981746971108089874",
+        "created_at": "2025-10-24T15:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981746971108089874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "智谱大模型开放平台-新一代国产自主通用AI大模型开放平台，是国内大模型排名前列的大模型网站，研发了多款LLM模型，多模态视觉模型产品，致力于将AI产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式和企业级解决方案，实现智谱大模型的产业化，将AI的好处带给每个人。",
+              "display_url": "bigmodel.cn/activity/glm-c…",
+              "end": 125,
+              "expanded_url": "https://bigmodel.cn/activity/glm-coding-1024",
+              "start": 102,
+              "status": 200,
+              "title": "智谱AI开放平台",
+              "unwound_url": "https://bigmodel.cn/activity/glm-coding-1024",
+              "url": "https://t.co/ftDexR7Cyw"
+            },
+            {
+              "display_url": "pic.x.com/LN2nP0wUmA",
+              "end": 149,
+              "expanded_url": "https://x.com/geekbb/status/1981746971108089874/photo/1",
+              "media_key": "3_1981745576665346049",
+              "start": 126,
+              "url": "https://t.co/LN2nP0wUmA"
+            },
+            {
+              "display_url": "pic.x.com/LN2nP0wUmA",
+              "end": 149,
+              "expanded_url": "https://x.com/geekbb/status/1981746971108089874/photo/1",
+              "media_key": "3_1981745201484865536",
+              "start": 126,
+              "url": "https://t.co/LN2nP0wUmA"
+            },
+            {
+              "display_url": "pic.x.com/LN2nP0wUmA",
+              "end": 149,
+              "expanded_url": "https://x.com/geekbb/status/1981746971108089874/photo/1",
+              "media_key": "3_1981746692589256704",
+              "start": 126,
+              "url": "https://t.co/LN2nP0wUmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981746971108089874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3707,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "1024 程序员节🎉\nGLM Coding 会员福利大放送\n- 先点上面的分享链接获取邀请码\n- 填入下面运行抽奖程序企业邀请码\n- 没中就换个号继续试\n* 支付时一定要记得在支付宝中关闭连续订阅！\n🎁 https://t.co/ftDexR7Cyw https://t.co/LN2nP0wUmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 662,
+          "like_count": 13467,
+          "listed_count": 20,
+          "media_count": 1365,
+          "tweet_count": 7834
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0RMY"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98100,
+          "following_count": 382,
+          "like_count": 16086,
+          "listed_count": 1011,
+          "media_count": 6025,
+          "tweet_count": 23488
+        },
+        "url": "https://t.co/lNbogZ0RMY",
+        "username": "geekbb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012711715666821312",
+    "created_at": "2026-01-18T23:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013028608944853248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909615979786805248",
+          "start": 0,
+          "username": "lumaouncle"
+        },
+        {
+          "end": 23,
+          "id": "1587819271408582656",
+          "start": 12,
+          "username": "btceth1818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013028608944853248",
+    "in_reply_to_user_id": "1909615979786805248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012928195620909139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumaouncle @btceth1818 互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012711715666821312",
+        "created_at": "2026-01-18T23:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013028608944853248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909615979786805248",
+              "start": 0,
+              "username": "lumaouncle"
+            },
+            {
+              "end": 23,
+              "id": "1587819271408582656",
+              "start": 12,
+              "username": "btceth1818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013028608944853248",
+        "in_reply_to_user_id": "1909615979786805248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012928195620909139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumaouncle @btceth1818 互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909615979786805248",
+        "conversation_id": "2012711715666821312",
+        "created_at": "2026-01-18T16:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012928195620909139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1587819271408582656",
+              "start": 0,
+              "username": "btceth1818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012928195620909139",
+        "in_reply_to_user_id": "1587819271408582656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012711715666821312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btceth1818 今天怎么这么火爆，全是蓝v互关的，我也要凑热闹，蓝v互关集合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5620,
+          "following_count": 1117,
+          "like_count": 14853,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8596
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T14:35:09.000Z",
+        "description": "敬畏市场，保持好奇",
+        "id": "1909615979786805248",
+        "name": "撸毛大叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909623821780602880/inyCMPA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 1965,
+          "like_count": 1758,
+          "listed_count": 18,
+          "media_count": 297,
+          "tweet_count": 3245
+        },
+        "username": "lumaouncle",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T14:49:56.000Z",
+        "description": "专注 Web3 实操与加密货币深度分享。\n💡 内地用户注册、App 下载及安全避坑指南，请看下方【置顶帖】👇\n共同交流，见置顶评论区。",
+        "id": "1587819271408582656",
+        "location": "Oregon, USA",
+        "name": "CryptoHong",
+        "pinned_tweet_id": "2012147173098418559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012289695305129984/ehS71d_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1739,
+          "like_count": 249,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 3149
+        },
+        "username": "btceth1818",
+        "verified": true
+      }
+    ]
+  }
+}

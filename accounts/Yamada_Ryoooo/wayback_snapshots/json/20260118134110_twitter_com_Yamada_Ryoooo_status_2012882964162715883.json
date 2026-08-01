@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012851348006715488",
+    "created_at": "2026-01-18T13:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012882964162715883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "496662314",
+          "start": 0,
+          "username": "macmicro1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012882964162715883",
+    "in_reply_to_user_id": "496662314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012851348006715488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@macmicro1 来互fo嘛\n500w我反而是已经有了，就差蓝勾fo了🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012851336685998080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8VoEzW0AAeSco.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012851336711180289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8VoE5XEAEzyol.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012851348006715488",
+        "created_at": "2026-01-18T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012882964162715883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "496662314",
+              "start": 0,
+              "username": "macmicro1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012882964162715883",
+        "in_reply_to_user_id": "496662314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012851348006715488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@macmicro1 来互fo嘛\n500w我反而是已经有了，就差蓝勾fo了🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012851336685998080",
+            "3_2012851336711180289"
+          ]
+        },
+        "author_id": "496662314",
+        "conversation_id": "2012851348006715488",
+        "created_at": "2026-01-18T11:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012851348006715488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "互动互评"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2sWOFGy4Dt",
+              "end": 155,
+              "expanded_url": "https://x.com/macmicro1/status/2012851348006715488/photo/1",
+              "media_key": "3_2012851336685998080",
+              "start": 132,
+              "url": "https://t.co/2sWOFGy4Dt"
+            },
+            {
+              "display_url": "pic.x.com/2sWOFGy4Dt",
+              "end": 155,
+              "expanded_url": "https://x.com/macmicro1/status/2012851348006715488/photo/1",
+              "media_key": "3_2012851336711180289",
+              "start": 132,
+              "url": "https://t.co/2sWOFGy4Dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012851348006715488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "互动互评"
+              }
+            ]
+          },
+          "text": "#互动互评  \n\n希望大家最后把握住X建立全球IP表达的机会！！\n\n接下来重心会在内容互动上了，500fo太容易了没啥邪修的。\n\n异常回关了优先按评论的慢慢回fo中。\n\n中文推确实内容慢慢趋同了，深度内容慢慢被浅层内容覆盖，有点像tiktok回到娱乐内容的属性。\n\n现在的热闹都是被马斯克吸引进来大部分人。等一些人发现搞不动了慢慢又沉寂了。\n\n人生是长跑，不是100米冲刺。\n\n希望大家最后把握住X建立全球IP表达的机会！！\n\n现在都是男性在推上居多，一些女 IP🦵或者假装女性的推会比较容易积累。\n\n社保媒体要的是差异化，不是趋同。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#互动互评  \n\n希望大家最后把握住X建立全球IP表达的机会！！\n\n接下来重心会在内容互动上了，500fo太容易了没啥邪修的。\n\n异常回关了优先按评论的慢慢回fo中。\n\n中文推确实内容慢慢趋同了，深度内容慢慢被浅层内容覆盖，有点像tiktok回到娱乐内容的属性。 https://t.co/2sWOFGy4Dt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5450,
+          "following_count": 952,
+          "like_count": 14648,
+          "listed_count": 21,
+          "media_count": 1456,
+          "tweet_count": 8492
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-19T05:32:15.000Z",
+        "description": "简单点，14年老推友，见过900的比特币，也见过很多平台的兴衰变化。这些年也错过很多机会，现在专注TikTok出海。",
+        "id": "496662314",
+        "location": "Bangkok, Thailand",
+        "name": "一叶知",
+        "pinned_tweet_id": "2011813174757245188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/717230917752864768/KDoR6u4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 1304,
+          "like_count": 114,
+          "listed_count": 13,
+          "media_count": 275,
+          "tweet_count": 3524
+        },
+        "username": "macmicro1",
+        "verified": true
+      }
+    ]
+  }
+}

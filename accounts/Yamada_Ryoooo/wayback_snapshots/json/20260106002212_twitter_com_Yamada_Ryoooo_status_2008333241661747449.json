@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008333241661747449",
+    "created_at": "2026-01-06T00:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T01:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008333241661747449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/interjc/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/interjc/status/2007990901910696222",
+          "start": 7,
+          "url": "https://t.co/mDh7DZKwAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008333241661747449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007990901910696222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是吓哭了吧 https://t.co/mDh7DZKwAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80689,
+        "height": 1280,
+        "media_key": "7_1918779783963430913",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918779783963430913/pu/img/EeT_94nWC5H_dSGQ.jpg",
+        "public_metrics": {
+          "view_count": 4868270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918779783963430913/pu/vid/avc1/320x568/6XpKpiwSGPCtGFnI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918779783963430913/pu/vid/avc1/480x852/drRiM_AO7Y-PH7mr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918779783963430913/pu/vid/avc1/720x1280/gcexowCOVlOldruA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918779783963430913/pu/pl/ejVaII4-xMj_jNwF.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008333241661747449",
+        "created_at": "2026-01-06T00:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008333241661747449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/interjc/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/interjc/status/2007990901910696222",
+              "start": 7,
+              "url": "https://t.co/mDh7DZKwAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008333241661747449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007990901910696222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是吓哭了吧 https://t.co/mDh7DZKwAB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918779783963430913"
+          ],
+          "media_source_tweet_id": [
+            "1918779850338312508"
+          ]
+        },
+        "author_id": "11765952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007990901910696222",
+        "created_at": "2026-01-05T01:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T02:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007990901910696222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Wys7YFZZC",
+              "end": 47,
+              "expanded_url": "https://x.com/CaviarMarolio/status/1918779850338312508/video/1",
+              "media_key": "7_1918779783963430913",
+              "start": 24,
+              "url": "https://t.co/9Wys7YFZZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007990901910696222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 77492,
+          "like_count": 429,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "孩子看到他的画成了真，眼泪像珠串一样掉了下来\n https://t.co/9Wys7YFZZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 675,
+          "like_count": 14141,
+          "listed_count": 21,
+          "media_count": 1437,
+          "tweet_count": 8257
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-02T18:38:17.000Z",
+        "description": "🥷🏼 ENTJ-A｜程序员\n🧑‍💻 @yokogaisha｜AIGC\n🎓 AI 课程：https://t.co/MNSqx9ncpS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "yokogaisha"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "justincourse.com",
+                "end": 66,
+                "expanded_url": "http://justincourse.com",
+                "start": 43,
+                "url": "https://t.co/MNSqx9ncpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "interjc.net",
+                "end": 23,
+                "expanded_url": "https://interjc.net",
+                "start": 0,
+                "url": "https://t.co/ZikItPAYVq"
+              }
+            ]
+          }
+        },
+        "id": "11765952",
+        "location": "Osaka, Japan",
+        "name": "Justin",
+        "pinned_tweet_id": "1992880550395380047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791761180610211840/JrLnAGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28547,
+          "following_count": 1685,
+          "like_count": 71831,
+          "listed_count": 236,
+          "media_count": 3618,
+          "tweet_count": 30725
+        },
+        "url": "https://t.co/ZikItPAYVq",
+        "username": "interjc",
+        "verified": true
+      }
+    ]
+  }
+}

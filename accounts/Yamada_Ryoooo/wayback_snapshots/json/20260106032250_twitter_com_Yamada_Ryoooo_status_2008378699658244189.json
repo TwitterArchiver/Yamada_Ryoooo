@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008216983628902879",
+    "created_at": "2026-01-06T03:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008378699658244189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "371296701",
+          "start": 0,
+          "username": "fkysly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008378699658244189",
+    "in_reply_to_user_id": "371296701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008372934784561329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fkysly 😆因为经常遇到软件不适配的，所以一般都是我去主动做适配，比如xcode里面的intelligence是只兼容claude格式的，所以就得用这个代理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008216983628902879",
+        "created_at": "2026-01-06T03:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008378699658244189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "371296701",
+              "start": 0,
+              "username": "fkysly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008378699658244189",
+        "in_reply_to_user_id": "371296701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008372934784561329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fkysly 😆因为经常遇到软件不适配的，所以一般都是我去主动做适配，比如xcode里面的intelligence是只兼容claude格式的，所以就得用这个代理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "371296701",
+        "conversation_id": "2008216983628902879",
+        "created_at": "2026-01-06T02:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008372934784561329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008372934784561329",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008371739479187652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 这个项目不错！那你这已经是自定义玩法了，opencode 好处就是直接支持协议，没有啥限制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 676,
+          "like_count": 14147,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8262
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-10T15:39:19.000Z",
+        "description": "Indie hacker & AI.",
+        "id": "371296701",
+        "location": "杭州",
+        "name": "马天翼",
+        "pinned_tweet_id": "2007671058770575461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7676,
+          "following_count": 458,
+          "like_count": 134,
+          "listed_count": 69,
+          "media_count": 191,
+          "tweet_count": 2069
+        },
+        "username": "fkysly",
+        "verified": true
+      }
+    ]
+  }
+}

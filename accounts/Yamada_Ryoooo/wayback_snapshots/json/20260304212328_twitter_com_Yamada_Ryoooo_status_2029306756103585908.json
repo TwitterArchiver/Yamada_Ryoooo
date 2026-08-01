@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2029035892376244704",
+    "created_at": "2026-03-04T21:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T22:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029306756103585908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841564916572151808",
+          "start": 0,
+          "username": "jiankong_jiang"
+        },
+        {
+          "end": 25,
+          "id": "1677211387968512000",
+          "start": 16,
+          "username": "edmicovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029306756103585908",
+    "in_reply_to_user_id": "1841564916572151808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029295229082452390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiankong_jiang @edmicovo 淘宝 地牢实验室"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2029035892376244704",
+        "created_at": "2026-03-04T21:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029306756103585908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841564916572151808",
+              "start": 0,
+              "username": "jiankong_jiang"
+            },
+            {
+              "end": 25,
+              "id": "1677211387968512000",
+              "start": 16,
+              "username": "edmicovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029306756103585908",
+        "in_reply_to_user_id": "1841564916572151808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029295229082452390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiankong_jiang @edmicovo 淘宝 地牢实验室"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841564916572151808",
+        "conversation_id": "2029035892376244704",
+        "created_at": "2026-03-04T20:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T21:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029295229082452390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1677211387968512000",
+              "start": 0,
+              "username": "edmicovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029295229082452390",
+        "in_reply_to_user_id": "1677211387968512000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029035892376244704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edmicovo 想问问是怎么买的😋\n想试试但不知道怎么购买🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5929,
+          "following_count": 1056,
+          "like_count": 16282,
+          "listed_count": 21,
+          "media_count": 1535,
+          "tweet_count": 9006
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T19:44:44.000Z",
+        "description": "09/高一/0.5/infp    湖北\n如果有认识的人发现了我的推，请千万别说出去，只要不说出去，让我干什么都行，我还要维持人设，求求了🥺",
+        "id": "1841564916572151808",
+        "name": "见空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841566986696065024/UF4d8osl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 952,
+          "like_count": 17463,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 622
+        },
+        "username": "jiankong_jiang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T07:02:18.000Z",
+        "description": "19岁，he/him   全身良好  身心健康，furry控   小说写手 摆烂剪辑师 本账号无H  会自己发泄欲望别约  里推自寻   Chines  English 愿我们友好相处  愿友谊长存，干杯",
+        "id": "1677211387968512000",
+        "location": "异界不夜城",
+        "name": "Edmic_EDMK",
+        "pinned_tweet_id": "1898773489844379904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977142963060064258/-8Puwl52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 929,
+          "like_count": 1645,
+          "listed_count": 1,
+          "media_count": 642,
+          "tweet_count": 7025
+        },
+        "username": "edmicovo",
+        "verified": false
+      }
+    ]
+  }
+}

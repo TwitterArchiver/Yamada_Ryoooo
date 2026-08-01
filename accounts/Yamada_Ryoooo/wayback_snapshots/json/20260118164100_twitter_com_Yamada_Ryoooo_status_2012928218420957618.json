@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012402056360026490",
+    "created_at": "2026-01-18T16:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012928218420957618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724715280205836288",
+          "start": 0,
+          "username": "guomin184935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012928218420957618",
+    "in_reply_to_user_id": "1724715280205836288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012928139778007275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guomin184935 好的，谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012402056360026490",
+        "created_at": "2026-01-18T16:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012928218420957618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724715280205836288",
+              "start": 0,
+              "username": "guomin184935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012928218420957618",
+        "in_reply_to_user_id": "1724715280205836288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012928139778007275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guomin184935 好的，谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724715280205836288",
+        "conversation_id": "2012402056360026490",
+        "created_at": "2026-01-18T16:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012928139778007275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012928139778007275",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012924906317500925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 进去正常设置就可以了 验证大陆身份证、然后你的港卡就好了，输入对应的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5560,
+          "following_count": 1027,
+          "like_count": 14686,
+          "listed_count": 22,
+          "media_count": 1456,
+          "tweet_count": 8541
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T09:05:49.000Z",
+        "description": "Core @Flywheel_DAO  中文区 @Arbitrum & @SonicLabs 链上画师🌸 合作请联系 TG： @Futakocui008",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Flywheel_DAO"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Arbitrum"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "SonicLabs"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Futakocui008"
+              }
+            ]
+          }
+        },
+        "id": "1724715280205836288",
+        "name": "Akiii | 🧠SENT",
+        "pinned_tweet_id": "1915971261924278653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989977868777226241/8uzL4sOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14378,
+          "following_count": 6567,
+          "like_count": 78497,
+          "listed_count": 355,
+          "media_count": 2027,
+          "tweet_count": 63525
+        },
+        "username": "guomin184935",
+        "verified": true
+      }
+    ]
+  }
+}

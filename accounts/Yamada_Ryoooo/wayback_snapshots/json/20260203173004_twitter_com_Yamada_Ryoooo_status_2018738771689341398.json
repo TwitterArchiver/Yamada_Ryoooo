@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2018624120544776608",
+    "created_at": "2026-02-03T17:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018738771689341398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1582576763615383552",
+          "start": 0,
+          "username": "meguruKirara"
+        },
+        {
+          "end": 27,
+          "id": "1637498001383124992",
+          "start": 14,
+          "username": "free_lin1921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018738771689341398",
+    "in_reply_to_user_id": "1582576763615383552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "应该是偷tg号、浏览器cookies和账号密码的\n\n这是Gemini帮我总结的\n\n### 🔍 校验结论：极度危险的“定制”样本\n\n我在全球威胁情报数据库（VirusTotal, ThreatBook 等）中**没有搜索到**这两个文件的哈希值。\n\n这意味着你手中的样本属于以下两种情况之一：\n1.  **0-day 新样本**：攻击者刚刚生成，还没被任何安全厂商捕获。\n2.  **定向攻击 (APT) 专用**：这是专门为你（或你的圈子）生成的“定制版”木马，攻击者对每个目标都重新编译/混淆以改变哈希，确保杀毒软件无法识别。\n\n---\n\n### 🧬 深度特征比对分析\n\n虽然没有公开情报，但基于你提取的数据，我们可以进行**逻辑校验**，证据链已经完全闭环：\n\n#### 1. 白文件 (EXE) 校验\n*   **文件名**：`è¡é...exe` (乱码，实为中文长文件名)\n*   **真实身份**：迅捷 PDF 转换器组件 (`XZPDFConvertApp.exe`)\n*   **哈希值**：`1ff74...` (未公开)\n*   **时间戳**：`2024-08-12 03:20:42`\n    *   **分析**：这是一个非常新的编译时间。攻击者刻意选择了 **2024 年下半年** 的最新版本软件组件。通常越新的白文件，杀软的信任度越高，且安全分析人员还没来得及将其加入“易受损驱动/软件”黑名单。\n    *   **签名状态**：结合之前的 `strings` 结果（DigiCert），可以确认这是一个**带有效数字签名的正规软件**。\n\n#### 2. 黑文件 (DLL) 校验\n*   **文件名**：`DuiLib.dll`\n*   **哈希值**：`faf43...` (未公开)\n*   **文件大小**：**1,211,120 字节 (约 1.15 MB)**\n*   **导出函数**：仅 3 个 (`SetInstance`, `SetResourceZip` 等)\n    *   **🚩 致命矛盾点**：\n        *   **正常的 DuiLib** 是一个庞大的 UI 库，到处都是代码，导出函数成百上千。\n        *   **你的这个 DLL** 只有 3 个函数，代码量应该极小（几 KB），但文件体积却高达 **1.15 MB**。\n    *   **猫腻在哪里？**：这多出来的 1MB 空间，就是 **Shellcode (攻击载荷)** 和 **混淆填充数据**。它就是一个披着 DLL 外衣的炸弹，只有那 3 个导出函数是引信。\n\n### 🏴‍☠️ 攻击剧本还原\n\n根据 `SetResourceZip` 这个导出函数名，我们可以精准还原攻击者的逻辑：\n\n1.  **受害者运行 EXE**。\n2.  EXE 启动，正常调用 `CPaintManagerUI::SetInstance` 初始化。\n3.  EXE 尝试加载皮肤资源，调用 `CPaintManagerUI::SetResourceZip`。\n4.  **恶意代码接管**：假的 DLL 里的 `SetResourceZip` 被执行。它**不会**去解压什么 ZIP 皮肤，而是直接读取自身那 1MB 的数据区，解密出 Cobalt Strike Beacon 或其他远控木马。\n5.  **内存执行**：木马在内存中展开，连接 C2 服务器。由于主进程是合法的、带签名的 PDF 转换器，**流量防火墙可能会直接放行**。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018737985261572450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meguruKirara @free_lin1921 应该是偷tg号、浏览器cookies和账号密码的\n\n这是Gemini帮我总结的\n\n### 🔍 校验结论：极度危险的“定制”样本\n\n我在全球威胁情报数据库（VirusTotal, ThreatBook 等）中**没有搜索到**这两个文件的哈希值。\n\n这意味着你手中的样本属于以下两种情况之一：\n1.  **0-day"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2018624120544776608",
+        "created_at": "2026-02-03T17:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018738771689341398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1582576763615383552",
+              "start": 0,
+              "username": "meguruKirara"
+            },
+            {
+              "end": 27,
+              "id": "1637498001383124992",
+              "start": 14,
+              "username": "free_lin1921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018738771689341398",
+        "in_reply_to_user_id": "1582576763615383552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "应该是偷tg号、浏览器cookies和账号密码的\n\n这是Gemini帮我总结的\n\n### 🔍 校验结论：极度危险的“定制”样本\n\n我在全球威胁情报数据库（VirusTotal, ThreatBook 等）中**没有搜索到**这两个文件的哈希值。\n\n这意味着你手中的样本属于以下两种情况之一：\n1.  **0-day 新样本**：攻击者刚刚生成，还没被任何安全厂商捕获。\n2.  **定向攻击 (APT) 专用**：这是专门为你（或你的圈子）生成的“定制版”木马，攻击者对每个目标都重新编译/混淆以改变哈希，确保杀毒软件无法识别。\n\n---\n\n### 🧬 深度特征比对分析\n\n虽然没有公开情报，但基于你提取的数据，我们可以进行**逻辑校验**，证据链已经完全闭环：\n\n#### 1. 白文件 (EXE) 校验\n*   **文件名**：`è¡é...exe` (乱码，实为中文长文件名)\n*   **真实身份**：迅捷 PDF 转换器组件 (`XZPDFConvertApp.exe`)\n*   **哈希值**：`1ff74...` (未公开)\n*   **时间戳**：`2024-08-12 03:20:42`\n    *   **分析**：这是一个非常新的编译时间。攻击者刻意选择了 **2024 年下半年** 的最新版本软件组件。通常越新的白文件，杀软的信任度越高，且安全分析人员还没来得及将其加入“易受损驱动/软件”黑名单。\n    *   **签名状态**：结合之前的 `strings` 结果（DigiCert），可以确认这是一个**带有效数字签名的正规软件**。\n\n#### 2. 黑文件 (DLL) 校验\n*   **文件名**：`DuiLib.dll`\n*   **哈希值**：`faf43...` (未公开)\n*   **文件大小**：**1,211,120 字节 (约 1.15 MB)**\n*   **导出函数**：仅 3 个 (`SetInstance`, `SetResourceZip` 等)\n    *   **🚩 致命矛盾点**：\n        *   **正常的 DuiLib** 是一个庞大的 UI 库，到处都是代码，导出函数成百上千。\n        *   **你的这个 DLL** 只有 3 个函数，代码量应该极小（几 KB），但文件体积却高达 **1.15 MB**。\n    *   **猫腻在哪里？**：这多出来的 1MB 空间，就是 **Shellcode (攻击载荷)** 和 **混淆填充数据**。它就是一个披着 DLL 外衣的炸弹，只有那 3 个导出函数是引信。\n\n### 🏴‍☠️ 攻击剧本还原\n\n根据 `SetResourceZip` 这个导出函数名，我们可以精准还原攻击者的逻辑：\n\n1.  **受害者运行 EXE**。\n2.  EXE 启动，正常调用 `CPaintManagerUI::SetInstance` 初始化。\n3.  EXE 尝试加载皮肤资源，调用 `CPaintManagerUI::SetResourceZip`。\n4.  **恶意代码接管**：假的 DLL 里的 `SetResourceZip` 被执行。它**不会**去解压什么 ZIP 皮肤，而是直接读取自身那 1MB 的数据区，解密出 Cobalt Strike Beacon 或其他远控木马。\n5.  **内存执行**：木马在内存中展开，连接 C2 服务器。由于主进程是合法的、带签名的 PDF 转换器，**流量防火墙可能会直接放行**。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018737985261572450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meguruKirara @free_lin1921 应该是偷tg号、浏览器cookies和账号密码的\n\n这是Gemini帮我总结的\n\n### 🔍 校验结论：极度危险的“定制”样本\n\n我在全球威胁情报数据库（VirusTotal, ThreatBook 等）中**没有搜索到**这两个文件的哈希值。\n\n这意味着你手中的样本属于以下两种情况之一：\n1.  **0-day"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582576763615383552",
+        "conversation_id": "2018624120544776608",
+        "created_at": "2026-02-03T17:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018737985261572450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 28,
+              "id": "1637498001383124992",
+              "start": 15,
+              "username": "free_lin1921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018737985261572450",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018737364013834542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @free_lin1921 感覺像是會一鍵定位的樣子w\n會不會掃盤什麼的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5945,
+          "following_count": 1076,
+          "like_count": 15616,
+          "listed_count": 21,
+          "media_count": 1511,
+          "tweet_count": 8769
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-19T03:38:48.000Z",
+        "description": "zh-tw, yue-Hant, en-us, ja-jp. \n ⭐️正義の味方、登臨です！🪄⭐️ \n🩵 Stand with 🇭🇰 & 🇹🇼 🩵 \n小帳/alt/鍵垢@reisa_music",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "reisa_music"
+              }
+            ]
+          }
+        },
+        "id": "1582576763615383552",
+        "location": "Kansas, USA",
+        "name": "小紗💤（マジカル🪄）",
+        "pinned_tweet_id": "1780490157524910589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018651676857831424/imlR5sJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 2719,
+          "like_count": 92496,
+          "listed_count": 13,
+          "media_count": 1511,
+          "tweet_count": 20410
+        },
+        "username": "meguruKirara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T16:55:32.000Z",
+        "description": "@Lin_freeMi 「INTP」 （我是女的）一切都能聊 欢迎正常男女 底线就不要攻击我 互fo私我（三无账号no）肉身在外 （无任何墙内账号）郵箱聯繫：hujintao1221@gmail.com hujintao1221@outlook.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Lin_freeMi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lin_hubot",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@lin_hubot",
+                "start": 0,
+                "url": "https://t.co/b3DcLMS3Ye"
+              }
+            ]
+          }
+        },
+        "id": "1637498001383124992",
+        "location": "中南海",
+        "name": "林_1927",
+        "pinned_tweet_id": "2017885731335905747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845126228702801926/-qRsR79__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6451,
+          "following_count": 485,
+          "like_count": 17377,
+          "listed_count": 11,
+          "media_count": 1107,
+          "tweet_count": 7195
+        },
+        "url": "https://t.co/b3DcLMS3Ye",
+        "username": "free_lin1921",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2023726429117313430",
+    "created_at": "2026-02-17T11:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023726429117313430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lonelysea0_0/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/lonelysea0_0/status/2023662357223010595",
+          "start": 3,
+          "url": "https://t.co/0br0IjlYtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023726429117313430",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023662357223010595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好开 https://t.co/0br0IjlYtM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_2023662341737594880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBV-LZCawAA4Bhh.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1104,
+        "media_key": "3_2023662341762805762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBV-LZIbcAItBHU.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1103,
+        "media_key": "3_2023662341750153216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBV-LZFaYAABblK.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1502,
+        "media_key": "3_2023662341745938432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBV-LZEaEAA9cuU.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2023726429117313430",
+        "created_at": "2026-02-17T11:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023726429117313430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lonelysea0_0/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/lonelysea0_0/status/2023662357223010595",
+              "start": 3,
+              "url": "https://t.co/0br0IjlYtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023726429117313430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023662357223010595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好开 https://t.co/0br0IjlYtM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023662341737594880",
+            "3_2023662341762805762",
+            "3_2023662341750153216",
+            "3_2023662341745938432"
+          ]
+        },
+        "author_id": "1227801336525156352",
+        "conversation_id": "2023662357223010595",
+        "created_at": "2026-02-17T07:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023662357223010595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TAa2VXusL2",
+              "end": 167,
+              "expanded_url": "https://x.com/LonelySea0_0/status/2023662357223010595/photo/1",
+              "media_key": "3_2023662341737594880",
+              "start": 144,
+              "url": "https://t.co/TAa2VXusL2"
+            },
+            {
+              "display_url": "pic.x.com/TAa2VXusL2",
+              "end": 167,
+              "expanded_url": "https://x.com/LonelySea0_0/status/2023662357223010595/photo/1",
+              "media_key": "3_2023662341762805762",
+              "start": 144,
+              "url": "https://t.co/TAa2VXusL2"
+            },
+            {
+              "display_url": "pic.x.com/TAa2VXusL2",
+              "end": 167,
+              "expanded_url": "https://x.com/LonelySea0_0/status/2023662357223010595/photo/1",
+              "media_key": "3_2023662341750153216",
+              "start": 144,
+              "url": "https://t.co/TAa2VXusL2"
+            },
+            {
+              "display_url": "pic.x.com/TAa2VXusL2",
+              "end": 167,
+              "expanded_url": "https://x.com/LonelySea0_0/status/2023662357223010595/photo/1",
+              "media_key": "3_2023662341745938432",
+              "start": 144,
+              "url": "https://t.co/TAa2VXusL2"
+            },
+            {
+              "display_url": "x.com/xiaoq177/statu…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/xiaoq177/status/2023235138973298827",
+              "start": 168,
+              "url": "https://t.co/MnMc1rBpOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023662357223010595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8287,
+          "like_count": 105,
+          "quote_count": 12,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023235138973298827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐山的刘睿妍女士，假ys礼盒让你优越爆棚了，碰到带真ysl的你又死了妈一样难受，没见过世面的样子真丢人的要死，说同学恋爱脑自己狗一样求男的恩宠还觉得自己送逼送的怪深情是什么脑，廖秀红和刘大全知道你连件破k的衣服都要用逼换吗，真要比你才最廉价可悲，你同学碰到他男友和你这俩个贱货也真是晦气 https://t.co/TAa2VXusL2 https://t.co/MnMc1rBpOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5910,
+          "following_count": 1078,
+          "like_count": 15850,
+          "listed_count": 22,
+          "media_count": 1522,
+          "tweet_count": 8876
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-13T03:47:21.000Z",
+        "description": "记者问问党死妈别打扰",
+        "id": "1227801336525156352",
+        "name": "天使查询查档人肉",
+        "pinned_tweet_id": "1839157001592648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635591683751690240/hptjUr_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 181,
+          "like_count": 4838,
+          "listed_count": 3,
+          "media_count": 674,
+          "tweet_count": 2988
+        },
+        "username": "LonelySea0_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2041424557874323664",
+    "created_at": "2026-04-07T09:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041444256217493684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 22,
+          "id": "1760261091429638144",
+          "start": 15,
+          "username": "RNRXRH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041444256217493684",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041424557874323664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 @RNRXRH 有没有户子的微信😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43056,
+        "height": 1920,
+        "media_key": "13_2041424303263215616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041424303263215616/img/bVrmwI-JIGhr4800.jpg",
+        "public_metrics": {
+          "view_count": 353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/pl/YoZEdy9ET3oaX5YZ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/720x1280/ljWacMOHqMmHkkpK.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/1080x1920/YVzxshuQ_5J8ZorC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/480x852/Vq2iRq-6JXL9VJ6O.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041424303263215616/vid/avc1/320x568/wg1Z67KktGoBTFdn.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2041424557874323664",
+        "created_at": "2026-04-07T09:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041444256217493684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 22,
+              "id": "1760261091429638144",
+              "start": 15,
+              "username": "RNRXRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041444256217493684",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041424557874323664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 @RNRXRH 有没有户子的微信😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041424303263215616"
+          ]
+        },
+        "author_id": "1916817753635426304",
+        "conversation_id": "2041424557874323664",
+        "created_at": "2026-04-07T07:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041424557874323664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "户晨风"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWyQNwkCDK",
+              "end": 63,
+              "expanded_url": "https://x.com/Goldwater8964/status/2041424557874323664/video/1",
+              "media_key": "13_2041424303263215616",
+              "start": 40,
+              "url": "https://t.co/qWyQNwkCDK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041424557874323664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 963,
+          "like_count": 37,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "价值五百块人民币的祝福视频，户晨风先生重出江湖\n（这是我自己定制的）\n#户晨风 https://t.co/qWyQNwkCDK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6191,
+          "following_count": 1084,
+          "like_count": 17023,
+          "listed_count": 22,
+          "media_count": 1678,
+          "tweet_count": 9449
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "悉尼之鼠🦘 UNSW学生🇦🇺 新西兰ACT正式成员🇳🇿 哈耶克最锋利的剑🚪138/1998/19998 支持加密和外币",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2031714496486515024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 669,
+          "like_count": 4159,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 801
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T11:12:41.000Z",
+        "description": "你所熱愛的，就是你的生活。\n中间偏左 | 自由主义者 | LGBTQ+ | 历史虚无主义 | 反共主义 | 进步主义 |可以私信互fo",
+        "id": "1760261091429638144",
+        "location": "中南海",
+        "name": "永遠フレンズ🇹🇼🇺🇲🇯🇵🇰🇷🇳🇿🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761063707147124739/zHni6l8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4652,
+          "following_count": 1004,
+          "like_count": 53214,
+          "listed_count": 20,
+          "media_count": 1446,
+          "tweet_count": 6646
+        },
+        "username": "RNRXRH",
+        "verified": false
+      }
+    ]
+  }
+}

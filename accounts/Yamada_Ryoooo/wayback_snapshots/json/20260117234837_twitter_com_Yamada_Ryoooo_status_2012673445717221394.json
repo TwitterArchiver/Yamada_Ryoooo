@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012391635376910598",
+    "created_at": "2026-01-17T23:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012673445717221394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1620192038598721541",
+          "start": 0,
+          "username": "ToniTan111"
+        },
+        {
+          "end": 25,
+          "id": "1453910242010406912",
+          "start": 12,
+          "username": "xiaodaige168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012673445717221394",
+    "in_reply_to_user_id": "1620192038598721541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012586192831717490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ToniTan111 @xiaodaige168 点点互关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012391635376910598",
+        "created_at": "2026-01-17T23:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012673445717221394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1620192038598721541",
+              "start": 0,
+              "username": "ToniTan111"
+            },
+            {
+              "end": 25,
+              "id": "1453910242010406912",
+              "start": 12,
+              "username": "xiaodaige168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012673445717221394",
+        "in_reply_to_user_id": "1620192038598721541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012586192831717490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ToniTan111 @xiaodaige168 点点互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620192038598721541",
+        "conversation_id": "2012391635376910598",
+        "created_at": "2026-01-17T18:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012586192831717490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1453910242010406912",
+              "start": 0,
+              "username": "xiaodaige168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012586192831717490",
+        "in_reply_to_user_id": "1453910242010406912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012391635376910598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaodaige168 借楼互关 有关必回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 699,
+          "like_count": 14352,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8397
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-30T22:47:47.000Z",
+        "description": "每一片落叶的弧度 每一次潮汐的呼吸 每一句不经意的对话 都是市场的低语 我只是个听众 顺着自然的节奏 专注美股",
+        "id": "1620192038598721541",
+        "location": "Madrid, España",
+        "name": "Toni Tio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012529280157110272/DwfHXxQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 76,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "ToniTan111",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-29T02:23:19.000Z",
+        "description": "#BTC Web3爱好者｜币圈老韭菜｜ 加密货币支持者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1453910242010406912",
+        "name": "小呆哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694452922271277056/cV8wgCbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 2673,
+          "like_count": 307,
+          "listed_count": 9,
+          "media_count": 137,
+          "tweet_count": 1254
+        },
+        "username": "xiaodaige168",
+        "verified": true
+      }
+    ]
+  }
+}

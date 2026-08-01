@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1972822368662725118",
+    "created_at": "2025-09-30T16:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T17:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973062063749476644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775864328887189504",
+          "start": 0,
+          "username": "MANISH1027512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973062063749476644",
+    "in_reply_to_user_id": "1775864328887189504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972822368662725118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MANISH1027512 .cn的域名不行啊，whois上面一查名字就出来了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972822368662725118",
+        "created_at": "2025-09-30T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973062063749476644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775864328887189504",
+              "start": 0,
+              "username": "MANISH1027512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973062063749476644",
+        "in_reply_to_user_id": "1775864328887189504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972822368662725118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MANISH1027512 .cn的域名不行啊，whois上面一查名字就出来了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775864328887189504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1972822368662725118",
+        "created_at": "2025-09-30T00:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972822368662725118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972822368662725118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 706,
+                "id": "452072245",
+                "start": 698,
+                "username": "lxfater"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "aomaker.cn",
+                "end": 843,
+                "expanded_url": "http://aomaker.cn",
+                "start": 820,
+                "url": "https://t.co/YRGZcYgyPL"
+              }
+            ]
+          },
+          "text": "SaaS订阅，就是现代人的数字水电费。\n\n盘了下目前自己订阅费用，一年8000+，月均665元，差不多就是一台iphone 17pro的价格。\n\n1.MONICA 200刀/年\n不值，现在基本都不怎么用，套壳的效果始终不如原厂。\n\n2.ChatGPT PLUS 100元/3个月\n巨巨他么值，主要还可以用codex\n\n3.GEMINI 9.9刀/月\n现在一般，直到gemini3出来之前，暂时不续订了，gemini2.5pro几个月前是我的主力，现在不如gpt5。\n\n4.Curosr 20刀/月\n之前用得多，但用了codex后，我觉得可有可无了🤡\n\n5.Canva 15元/月\n不贵，方便好用\n\n6.LightRoom 148元/年\n值，主力调色软件，不损画质。\n\n7.flomo 99元/年\n超值，今年的最大惊喜app之一。\n脑子里经常会迸发出一些灵感想法以及日常的思考总结，我需要立即记录下来，flomo不仅支持语音快速记录，还能AI转写，AI洞察，非常棒。\n\n很喜欢他们的slogan：持续不断记录，意义自然浮现。\n\n8.剪映专业版 59元/月\n偏贵，功能强大，但用到的功能可能只是冰山一角。\n\n9.微信读书 19元/月\n超值~就是国外的书尽量找原版导入看，原因你懂的\n\n10.88vip 88元/年\n超值，以前我还傻傻订阅网易云音乐，这个打包一大篮子会员，夸克、视频会员、外卖会员、网易云等等一堆，就光网易云和夸克就已经值会票价\n\n11.bilibili 大会员 148元/年\n还行，就是看会员内容比较少，但是想看的时候不能没有。\n\n12.DemoGet 50刀买断\n视频录制软件，锤哥@lxfater 出品录课神器，以前做视频一直不知道缩放聚焦的效果咋做，好家伙，demoget全自动的，太省事了！\n\n13.百度网盘 20元/月\n用了很多年了，主要用来看视频。最近开始用夸克后，发现百度网盘就是乐色🤡\n\n14.域名 42元/年\nhttps://t.co/YRGZcYgyPL\n\n15.🪜 120元/年\n没什么好说的，多端支持、稳定，必备。\n\n16.X蓝V 9.5刀/月\n推特掘金必备，冲就完了（虽然我买贵了😭）\n\n你的订阅费一年多少？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 17216,
+          "like_count": 63,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "SaaS订阅，就是现代人的数字水电费。\n\n盘了下目前自己订阅费用，一年8000+，月均665元，差不多就是一台iphone 17pro的价格。\n\n1.MONICA 200刀/年\n不值，现在基本都不怎么用，套壳的效果始终不如原厂。\n\n2.ChatGPT PLUS 100元/3个月\n巨巨他么值，主要还可以用codex\n\n3.GEMINI 9.9刀/月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4446,
+          "following_count": 683,
+          "like_count": 13241,
+          "listed_count": 20,
+          "media_count": 1351,
+          "tweet_count": 7649
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T12:33:54.000Z",
+        "description": "资深测试开发 | 非典型QA | AI Infra | 自动化工作流解决方案 | 开源自动化框架作者 | 投资新手 | 长期主义者 |  每天一杯冰震浓缩续命☕️\n\n以上只是标签，人生没有边界，探索从不设限。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aomaker.cn",
+                "end": 23,
+                "expanded_url": "https://aomaker.cn",
+                "start": 0,
+                "url": "https://t.co/Kpa5aKK0wd"
+              }
+            ]
+          }
+        },
+        "id": "1775864328887189504",
+        "name": "古一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972664969545293824/0WDZtCfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 149,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/Kpa5aKK0wd",
+        "username": "MANISH1027512",
+        "verified": true
+      }
+    ]
+  }
+}

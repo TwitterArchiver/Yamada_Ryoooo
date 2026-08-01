@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2031049096883257372",
+    "created_at": "2026-03-10T01:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T02:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031184050120175774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1302118861995536387",
+          "start": 0,
+          "username": "Jiaxi_Cui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031184050120175774",
+    "in_reply_to_user_id": "1302118861995536387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031049096883257372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaxi_Cui 我记得智谱的api endpoint是v4来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2031048991614595072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-8TAKacAAa3vm.jpg",
+        "width": 1968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2031049096883257372",
+        "created_at": "2026-03-10T01:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031184050120175774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1302118861995536387",
+              "start": 0,
+              "username": "Jiaxi_Cui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031184050120175774",
+        "in_reply_to_user_id": "1302118861995536387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031049096883257372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaxi_Cui 我记得智谱的api endpoint是v4来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031048991614595072"
+          ]
+        },
+        "author_id": "1302118861995536387",
+        "conversation_id": "2031049096883257372",
+        "created_at": "2026-03-09T16:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031049096883257372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFUTnA4qZQ",
+              "end": 51,
+              "expanded_url": "https://x.com/Jiaxi_Cui/status/2031049096883257372/photo/1",
+              "media_key": "3_2031048991614595072",
+              "start": 28,
+              "url": "https://t.co/OFUTnA4qZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031049096883257372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8642,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "原来大伙的API endpoint加v1是这么回事啊😂 https://t.co/OFUTnA4qZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6196,
+          "following_count": 1057,
+          "like_count": 16454,
+          "listed_count": 21,
+          "media_count": 1566,
+          "tweet_count": 9118
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T05:38:34.000Z",
+        "description": "Video AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=QRV7CjgAAAAJ",
+                "start": 0,
+                "url": "https://t.co/HnAKMxn4aS"
+              }
+            ]
+          }
+        },
+        "id": "1302118861995536387",
+        "location": "BeiJing",
+        "name": "Panda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677124881144770560/W6zZ-Zux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18970,
+          "following_count": 908,
+          "like_count": 3065,
+          "listed_count": 189,
+          "media_count": 501,
+          "tweet_count": 3003
+        },
+        "url": "https://t.co/HnAKMxn4aS",
+        "username": "Jiaxi_Cui",
+        "verified": true
+      }
+    ]
+  }
+}

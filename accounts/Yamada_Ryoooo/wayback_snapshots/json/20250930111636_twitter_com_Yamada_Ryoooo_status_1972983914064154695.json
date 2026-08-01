@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1972898928552284222",
+    "created_at": "2025-09-30T11:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972983914064154695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925524757250023428",
+          "start": 0,
+          "username": "Last_of_Jiu"
+        },
+        {
+          "end": 24,
+          "id": "1743651797087277056",
+          "start": 13,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972983914064154695",
+    "in_reply_to_user_id": "1925524757250023428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972979424103674100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Last_of_Jiu @Aether9008 校验码是有算法的呀，又不需要名字😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972898928552284222",
+        "created_at": "2025-09-30T11:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972983914064154695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925524757250023428",
+              "start": 0,
+              "username": "Last_of_Jiu"
+            },
+            {
+              "end": 24,
+              "id": "1743651797087277056",
+              "start": 13,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972983914064154695",
+        "in_reply_to_user_id": "1925524757250023428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972979424103674100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Last_of_Jiu @Aether9008 校验码是有算法的呀，又不需要名字😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925524757250023428",
+        "conversation_id": "1972898928552284222",
+        "created_at": "2025-09-30T10:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972979424103674100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 26,
+              "id": "1743651797087277056",
+              "start": 15,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972979424103674100",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972900718530154600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @Aether9008 这个不用API核对也能做到？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 683,
+          "like_count": 13235,
+          "listed_count": 20,
+          "media_count": 1350,
+          "tweet_count": 7646
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T12:11:10.000Z",
+        "description": "我们很幸运，活在最好的时代里，往后每年都是最好的一年",
+        "id": "1925524757250023428",
+        "location": "中共政权存续计划委员会",
+        "name": "漓九落.",
+        "pinned_tweet_id": "1965016178650439971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969586339055271936/R5JbdQf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 65,
+          "like_count": 2729,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 1611
+        },
+        "username": "Last_of_Jiu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "看見會回跟，如果漏了可以留言\n日常👉@sora_kunidaime\nTelegram：https://t.co/ngpTT2PiFN\nMail：aether9008@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "sora_kunidaime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008/",
+                "end": 66,
+                "expanded_url": "http://t.me/Aether_9008/",
+                "start": 43,
+                "url": "https://t.co/ngpTT2PiFN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aethernochannel",
+                "end": 23,
+                "expanded_url": "https://t.me/Aethernochannel",
+                "start": 0,
+                "url": "https://t.co/8Qm6arCeaX"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "Kingdom of Khaenri'ah",
+        "name": "空ちゃん",
+        "pinned_tweet_id": "1972873546688008478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952032323857534977/Eyvjc6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 2211,
+          "like_count": 23414,
+          "listed_count": 14,
+          "media_count": 1385,
+          "tweet_count": 4463
+        },
+        "url": "https://t.co/8Qm6arCeaX",
+        "username": "Aether9008",
+        "verified": false
+      }
+    ]
+  }
+}

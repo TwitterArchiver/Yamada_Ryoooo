@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2047132844666069363",
+    "created_at": "2026-04-23T01:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T02:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047132844666069363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/553078693meng/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/553078693meng/status/2046888948312768866",
+          "start": 12,
+          "url": "https://t.co/PRtlF3Tg9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047132844666069363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046888948312768866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还知道往床上砸，挺好的 https://t.co/PRtlF3Tg9o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22546,
+        "height": 3840,
+        "media_key": "13_2046887840991395840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046887840991395840/img/yjFDDGU-q0yQUUnH.jpg",
+        "public_metrics": {
+          "view_count": 1784119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/vid/avc1/320x568/bUR8KnPbWSiPFGQm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/pl/kQZg4YOJttq34M8i.m3u8?v=a5a"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/vid/avc1/480x852/KrIwGY8QG9HSxtYn.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/vid/avc1/1080x1920/jpcKHXWS7eLUEdwP.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/vid/avc1/2160x3840/lnlnKgKWqjf9egeP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046887840991395840/vid/avc1/720x1280/iCtgsXzat3an1p1n.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2047132844666069363",
+        "created_at": "2026-04-23T01:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T02:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047132844666069363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/553078693meng/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/553078693meng/status/2046888948312768866",
+              "start": 12,
+              "url": "https://t.co/PRtlF3Tg9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047132844666069363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046888948312768866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还知道往床上砸，挺好的 https://t.co/PRtlF3Tg9o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046887840991395840"
+          ]
+        },
+        "author_id": "1657693850700509185",
+        "conversation_id": "2046888948312768866",
+        "created_at": "2026-04-22T09:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046888948312768866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcXIQCaomW",
+              "end": 89,
+              "expanded_url": "https://x.com/553078693Meng/status/2046888948312768866/video/1",
+              "media_key": "13_2046887840991395840",
+              "start": 66,
+              "url": "https://t.co/UcXIQCaomW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046888948312768866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 718,
+          "impression_count": 5207757,
+          "like_count": 2407,
+          "quote_count": 15,
+          "reply_count": 601,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "游轮阳台上直接看傻了！  \n这哥们儿海上吹海风，交易比特币开了100倍杠杆\n结果一波直接爆仓\n亏了2000多万刀！ \n 手机都摔了 https://t.co/UcXIQCaomW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 1091,
+          "like_count": 17224,
+          "listed_count": 24,
+          "media_count": 1751,
+          "tweet_count": 9597
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-14T10:26:53.000Z",
+        "description": "做时间的朋友，而非波动的囚徒。",
+        "id": "1657693850700509185",
+        "name": "招财猫",
+        "pinned_tweet_id": "2046888948312768866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597079430742016/mCfSLsRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 4340,
+          "like_count": 1938,
+          "listed_count": 4,
+          "media_count": 541,
+          "tweet_count": 4370
+        },
+        "username": "553078693Meng",
+        "verified": true
+      }
+    ]
+  }
+}

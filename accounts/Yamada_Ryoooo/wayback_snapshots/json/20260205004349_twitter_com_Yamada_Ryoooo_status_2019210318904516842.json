@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2019210318904516842",
+    "created_at": "2026-02-05T00:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T01:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019210318904516842"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 155,
+          "start": 148,
+          "tag": "keep4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019210318904516842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "u1s1，4o是我用过最聪明的模型\n有一次给他拍了张别人写的鬼画符英文让他帮我翻译，然后他直接全部精准的翻译出来了…也许他不是纯识别，而是根据字形结合上下文补全的\n还有好几次我打错字了他都能理解我的意思…对比之下真的秒杀所有现存模型\n我的意思是\nopen ai什么时候把4o的权重open一下？\n#keep4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2019210318904516842",
+        "created_at": "2026-02-05T00:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019210318904516842"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 148,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019210318904516842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "u1s1，4o是我用过最聪明的模型\n有一次给他拍了张别人写的鬼画符英文让他帮我翻译，然后他直接全部精准的翻译出来了…也许他不是纯识别，而是根据字形结合上下文补全的\n还有好几次我打错字了他都能理解我的意思…对比之下真的秒杀所有现存模型\n我的意思是\nopen ai什么时候把4o的权重open一下？\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5938,
+          "following_count": 1076,
+          "like_count": 15642,
+          "listed_count": 21,
+          "media_count": 1512,
+          "tweet_count": 8787
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

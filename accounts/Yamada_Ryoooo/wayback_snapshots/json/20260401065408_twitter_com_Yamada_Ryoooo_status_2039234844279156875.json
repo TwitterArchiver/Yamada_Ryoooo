@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039234725207056384"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039234844279156875",
+    "created_at": "2026-04-01T06:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039234844279156875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogb8LnAqNp",
+          "end": 53,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2039234844279156875/photo/1",
+          "media_key": "3_2039234725207056384",
+          "start": 30,
+          "url": "https://t.co/ogb8LnAqNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039234844279156875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去，地平线6怎么降价了😭😭😭\n那我498买的算什么😭😭😭 https://t.co/ogb8LnAqNp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2039234725207056384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzRLaGboAAMp9Y.png",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039234725207056384"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039234844279156875",
+        "created_at": "2026-04-01T06:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039234844279156875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogb8LnAqNp",
+              "end": 53,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2039234844279156875/photo/1",
+              "media_key": "3_2039234725207056384",
+              "start": 30,
+              "url": "https://t.co/ogb8LnAqNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039234844279156875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去，地平线6怎么降价了😭😭😭\n那我498买的算什么😭😭😭 https://t.co/ogb8LnAqNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6186,
+          "following_count": 1075,
+          "like_count": 16904,
+          "listed_count": 22,
+          "media_count": 1666,
+          "tweet_count": 9386
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

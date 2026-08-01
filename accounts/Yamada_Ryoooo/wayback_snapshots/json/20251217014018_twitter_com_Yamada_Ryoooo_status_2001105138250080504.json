@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2000697402940866703",
+    "created_at": "2025-12-17T01:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T02:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001105138250080504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "813042372",
+          "start": 0,
+          "username": "RuoyuZhang111"
+        },
+        {
+          "end": 28,
+          "id": "1621709543750385664",
+          "start": 15,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001105138250080504",
+    "in_reply_to_user_id": "813042372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000709819531952298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuoyuZhang111 @quarktalksss 这就是轮子说的那块石头，只不过轮子在后面加了个亡字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2000697402940866703",
+        "created_at": "2025-12-17T01:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T02:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001105138250080504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "813042372",
+              "start": 0,
+              "username": "RuoyuZhang111"
+            },
+            {
+              "end": 28,
+              "id": "1621709543750385664",
+              "start": 15,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001105138250080504",
+        "in_reply_to_user_id": "813042372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000709819531952298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuoyuZhang111 @quarktalksss 这就是轮子说的那块石头，只不过轮子在后面加了个亡字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813042372",
+        "conversation_id": "2000697402940866703",
+        "created_at": "2025-12-15T23:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T00:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000709819531952298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621709543750385664",
+              "start": 0,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000709819531952298",
+        "in_reply_to_user_id": "1621709543750385664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15138,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000697402940866703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quarktalksss 怎么跟轮子当年说发现那个石头写着天灭中共一个套路。怎么国内越来越low了，文案都照抄轮子20年前的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5307,
+          "following_count": 678,
+          "like_count": 13972,
+          "listed_count": 21,
+          "media_count": 1419,
+          "tweet_count": 8162
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-09T12:36:48.000Z",
+        "description": "",
+        "id": "813042372",
+        "name": "Zhang",
+        "pinned_tweet_id": "1584726481510334464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582518658064175109/aGY0Rs0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 22,
+          "like_count": 937,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 3383
+        },
+        "username": "RuoyuZhang111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "1999488239212855321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10074,
+          "following_count": 15,
+          "like_count": 445,
+          "listed_count": 55,
+          "media_count": 252,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": false
+      }
+    ]
+  }
+}

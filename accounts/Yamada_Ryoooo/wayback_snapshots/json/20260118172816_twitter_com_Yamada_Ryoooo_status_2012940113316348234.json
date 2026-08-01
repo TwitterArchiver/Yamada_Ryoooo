@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012633161428008974",
+    "created_at": "2026-01-18T17:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T18:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012940113316348234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654457531123785728",
+          "start": 0,
+          "username": "BTC_daxiong888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012940113316348234",
+    "in_reply_to_user_id": "1654457531123785728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012940021540831653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC_daxiong888 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012633161428008974",
+        "created_at": "2026-01-18T17:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012940113316348234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654457531123785728",
+              "start": 0,
+              "username": "BTC_daxiong888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012940113316348234",
+        "in_reply_to_user_id": "1654457531123785728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012940021540831653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC_daxiong888 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654457531123785728",
+        "conversation_id": "2012633161428008974",
+        "created_at": "2026-01-18T17:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012940021540831653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012940021540831653",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012633161428008974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 说得好吓人 😟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5573,
+          "following_count": 1034,
+          "like_count": 14698,
+          "listed_count": 22,
+          "media_count": 1457,
+          "tweet_count": 8547
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-05T12:06:47.000Z",
+        "description": "农村90后穷二代，高中没毕业便闯社会，下过矿、修过车、洗过头、干过建筑工，底层苦活全尝遍。满心执念想翻身改命，一头扎进金融市场。起初凭运气两度大赚，后来靠实力亏空所有，全职在家兼顾带娃，负债26万，压力山大，仍未放弃，只求2026年能逆风翻盘，逆袭人生🙏大雄真心感谢大家｜Bitget｜Weex ｜Gate｜宣传大使｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Daxiongdejuexi…",
+                "end": 23,
+                "expanded_url": "https://t.me/Daxiongdejuexing",
+                "start": 0,
+                "url": "https://t.co/goT5wksH9s"
+              }
+            ]
+          }
+        },
+        "id": "1654457531123785728",
+        "location": "大雄电报的联系方式👉",
+        "name": "大雄的觉醒翻身之路",
+        "pinned_tweet_id": "2012813818108457156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012431335936471040/tePpxC1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 77,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/goT5wksH9s",
+        "username": "BTC_daxiong888",
+        "verified": true
+      }
+    ]
+  }
+}

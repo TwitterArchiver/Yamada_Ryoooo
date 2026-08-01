@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2065016415518880177",
+    "created_at": "2026-06-11T14:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065073465795969040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "136708294",
+          "start": 0,
+          "username": "ningmeng______"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065073465795969040",
+    "in_reply_to_user_id": "136708294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065071263148843373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmeng______ 开beta"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2065016415518880177",
+        "created_at": "2026-06-11T14:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065073465795969040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "136708294",
+              "start": 0,
+              "username": "ningmeng______"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065073465795969040",
+        "in_reply_to_user_id": "136708294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065071263148843373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmeng______ 开beta"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136708294",
+        "conversation_id": "2065016415518880177",
+        "created_at": "2026-06-11T13:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065071263148843373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065071263148843373",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065016415518880177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 怎么下载这个新系统？🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1019,
+          "like_count": 17864,
+          "listed_count": 22,
+          "media_count": 1806,
+          "tweet_count": 9932
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "听党话跟党走感党恩",
+        "id": "136708294",
+        "name": "柠檬不萌",
+        "pinned_tweet_id": "2054695482312773744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019396137086775300/cR1jmGP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 417,
+          "like_count": 4132,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1911
+        },
+        "username": "ningmeng______",
+        "verified": true
+      }
+    ]
+  }
+}

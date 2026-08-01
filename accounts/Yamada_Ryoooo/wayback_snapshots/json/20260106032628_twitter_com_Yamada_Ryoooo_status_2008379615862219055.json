@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008379615862219055",
+    "created_at": "2026-01-06T03:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008379615862219055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pear14525902/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/pear14525902/status/2008342134458642541",
+          "start": 41,
+          "url": "https://t.co/P0LfUh9rIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008379615862219055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008342134458642541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个晶哥水平也太差了…\n这不一眼钓王丹回国吗\n政府还用“ZF”来替代也是支的没边 https://t.co/P0LfUh9rIo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008379615862219055",
+        "created_at": "2026-01-06T03:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008379615862219055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pear14525902/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/pear14525902/status/2008342134458642541",
+              "start": 41,
+              "url": "https://t.co/P0LfUh9rIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008379615862219055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008342134458642541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个晶哥水平也太差了…\n这不一眼钓王丹回国吗\n政府还用“ZF”来替代也是支的没边 https://t.co/P0LfUh9rIo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381523094087507974",
+        "conversation_id": "2008342134458642541",
+        "created_at": "2026-01-06T00:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008342134458642541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "885321194823716864",
+              "start": 2,
+              "username": "chenjunnyc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chenjunnyc/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/chenjunnyc/status/2007646165920096458",
+              "start": 146,
+              "url": "https://t.co/GAQ37Szegu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008342134458642541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007646165920096458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同意@chenjunnyc的观点。任何一个国家的主权应得到尊重，一个国家的事务应当由他的人民来自决和处理，就像一个家庭一样，任何事情在任何时候外人都不能干预和插手。老美这行为属于典型的霸凌，以大欺小。而王丹让美国来解决中国.俄罗斯的事情的想法是极度愚蠢的，应该他自己回来领导我们与ZF抗争。 https://t.co/GAQ37Szegu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 676,
+          "like_count": 14147,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8263
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "location": "Florida, USA",
+        "name": "🍐老师🔮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45021,
+          "following_count": 1387,
+          "like_count": 133416,
+          "listed_count": 189,
+          "media_count": 2621,
+          "tweet_count": 120667
+        },
+        "username": "pear14525902",
+        "verified": false
+      }
+    ]
+  }
+}

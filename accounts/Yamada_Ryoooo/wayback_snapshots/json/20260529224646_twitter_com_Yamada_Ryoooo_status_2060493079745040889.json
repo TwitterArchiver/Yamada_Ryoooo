@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060307010378432818",
+    "created_at": "2026-05-29T22:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060493079745040889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662023918897758208",
+          "start": 0,
+          "username": "Now_10087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060493079745040889",
+    "in_reply_to_user_id": "1662023918897758208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060393033871634674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Now_10087 我用的ready 的u卡，里面没充钱，我专门用来过验证的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060307010378432818",
+        "created_at": "2026-05-29T22:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060493079745040889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662023918897758208",
+              "start": 0,
+              "username": "Now_10087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060493079745040889",
+        "in_reply_to_user_id": "1662023918897758208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060393033871634674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Now_10087 我用的ready 的u卡，里面没充钱，我专门用来过验证的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662023918897758208",
+        "conversation_id": "2060307010378432818",
+        "created_at": "2026-05-29T16:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060393033871634674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060393033871634674",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307010378432818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 连用了四个号把我银行卡给禁了，现在还有啥卡能开？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6558,
+          "following_count": 1014,
+          "like_count": 17684,
+          "listed_count": 24,
+          "media_count": 1793,
+          "tweet_count": 9836
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-26T09:14:11.000Z",
+        "description": "🕹曾经A99，可惜睡醒了\n⛩ 80年老韭菜 ｜ #B卫兵 #人机 #Binance \n⛩ 黄推鉴赏家｜走地鸡品鉴师｜永亏博主｜整天胡言乱语\n⛩ TG：https://t.co/hjkfukg0yw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "B卫兵"
+              },
+              {
+                "end": 32,
+                "start": 29,
+                "tag": "人机"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Now_10086",
+                "end": 98,
+                "expanded_url": "https://t.me/Now_10086",
+                "start": 75,
+                "url": "https://t.co/hjkfukg0yw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Crypto_Now10087",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Crypto_Now10087",
+                "start": 0,
+                "url": "https://t.co/abYsGCUsIu"
+              }
+            ]
+          }
+        },
+        "id": "1662023918897758208",
+        "location": "cc",
+        "name": "小狼人 (🧡,🧡)",
+        "pinned_tweet_id": "2053843573792211455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957282117735583745/V-9VG9tA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 1842,
+          "like_count": 1059,
+          "listed_count": 26,
+          "media_count": 598,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/abYsGCUsIu",
+        "username": "Now_10087",
+        "verified": true
+      }
+    ]
+  }
+}

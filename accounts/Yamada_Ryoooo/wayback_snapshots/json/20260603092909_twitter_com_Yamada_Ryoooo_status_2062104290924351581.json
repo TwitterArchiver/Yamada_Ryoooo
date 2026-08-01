@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2062104290924351581",
+    "created_at": "2026-06-03T09:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062104290924351581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062066757276246096",
+          "start": 35,
+          "url": "https://t.co/GdlZVMsPGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062104290924351581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062066757276246096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肯德基疯狂星期四，6️⃣4️⃣限定，v我50，一起去天安🚪广场吃鸡！ https://t.co/GdlZVMsPGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2062060267291201536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3o40lW0AAzG2v.jpg",
+        "width": 1249
+      },
+      {
+        "height": 1004,
+        "media_key": "3_2062060267303792643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3o40oW8AMGcG0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2062104290924351581",
+        "created_at": "2026-06-03T09:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062104290924351581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2062066757276246096",
+              "start": 35,
+              "url": "https://t.co/GdlZVMsPGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062104290924351581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062066757276246096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肯德基疯狂星期四，6️⃣4️⃣限定，v我50，一起去天安🚪广场吃鸡！ https://t.co/GdlZVMsPGN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062060267291201536",
+            "3_2062060267303792643"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2062066757276246096",
+        "created_at": "2026-06-03T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062066757276246096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Md8qN4U9By",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062066757276246096/photo/1",
+              "media_key": "3_2062060267291201536",
+              "start": 71,
+              "url": "https://t.co/Md8qN4U9By"
+            },
+            {
+              "display_url": "pic.x.com/Md8qN4U9By",
+              "end": 94,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062066757276246096/photo/1",
+              "media_key": "3_2062060267303792643",
+              "start": 71,
+              "url": "https://t.co/Md8qN4U9By"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062066757276246096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 81775,
+          "like_count": 708,
+          "quote_count": 9,
+          "reply_count": 93,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "随着1989天安门六四事件37周年的临近\n\n6月3日，多名网友发现，微博已经将「疯狂星期四」设置为违禁词，原因是今年的六四纪念日在“星期四” https://t.co/Md8qN4U9By"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6543,
+          "following_count": 1013,
+          "like_count": 17750,
+          "listed_count": 23,
+          "media_count": 1797,
+          "tweet_count": 9869
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234697,
+          "following_count": 1068,
+          "like_count": 9625,
+          "listed_count": 8784,
+          "media_count": 47835,
+          "tweet_count": 54981
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2035449494691893728",
+    "created_at": "2026-03-21T20:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T21:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035449494691893728"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "VRChat"
+        }
+      ],
+      "urls": [
+        {
+          "description": "由于 VRChat 的限制，.vrca 文件无法通过网页直接上传。 Due to VRChat restrictions, .vrca files cannot be uploaded directly via web. Click or drag .vrca files",
+          "display_url": "vrcam.yamadaryo.me",
+          "end": 135,
+          "expanded_url": "https://vrcam.yamadaryo.me/",
+          "start": 112,
+          "status": 200,
+          "title": "VRChat Avatar Manager",
+          "unwound_url": "https://vrcam.yamadaryo.me/",
+          "url": "https://t.co/KJJENXApyr"
+        },
+        {
+          "description": "VRChat-Avatar-Manager. Contribute to Yamada-Ryo4/VRCAM development by creating an account on GitHub.",
+          "display_url": "github.com/Yamada-Ryo4/VR…",
+          "end": 159,
+          "expanded_url": "https://github.com/Yamada-Ryo4/VRCAM",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2035449498651308032/aN3e2mO2?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2035449498651308032/aN3e2mO2?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 136,
+          "status": 200,
+          "title": "GitHub - Yamada-Ryo4/VRCAM: VRChat-Avatar-Manager",
+          "unwound_url": "https://github.com/Yamada-Ryo4/VRCAM",
+          "url": "https://t.co/LTQlAfovrB"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "35fd5bacecc4c6e5"
+    },
+    "id": "2035449494691893728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "New Project!  #VRChat\n\n可以部署在cloudflare上的VRChat模型管理器！可以下载自己账号上的.vrca文件，以及管理模型封面/名字，管理模型收藏夹。同时还聚合了搜索公开模型的功能~欢迎来试用：https://t.co/KJJENXApyr\nhttps://t.co/LTQlAfovrB"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "full_name": "Hong Kong",
+        "geo": {
+          "bbox": [
+            113.81813,
+            22.1465116,
+            114.502196,
+            22.614177
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "35fd5bacecc4c6e5",
+        "name": "Hong Kong",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2035449494691893728",
+        "created_at": "2026-03-21T20:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T21:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035449494691893728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "description": "由于 VRChat 的限制，.vrca 文件无法通过网页直接上传。 Due to VRChat restrictions, .vrca files cannot be uploaded directly via web. Click or drag .vrca files",
+              "display_url": "vrcam.yamadaryo.me",
+              "end": 135,
+              "expanded_url": "https://vrcam.yamadaryo.me/",
+              "start": 112,
+              "status": 200,
+              "title": "VRChat Avatar Manager",
+              "unwound_url": "https://vrcam.yamadaryo.me/",
+              "url": "https://t.co/KJJENXApyr"
+            },
+            {
+              "description": "VRChat-Avatar-Manager. Contribute to Yamada-Ryo4/VRCAM development by creating an account on GitHub.",
+              "display_url": "github.com/Yamada-Ryo4/VR…",
+              "end": 159,
+              "expanded_url": "https://github.com/Yamada-Ryo4/VRCAM",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2035449498651308032/aN3e2mO2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035449498651308032/aN3e2mO2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 136,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/VRCAM: VRChat-Avatar-Manager",
+              "unwound_url": "https://github.com/Yamada-Ryo4/VRCAM",
+              "url": "https://t.co/LTQlAfovrB"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2035449494691893728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "New Project!  #VRChat\n\n可以部署在cloudflare上的VRChat模型管理器！可以下载自己账号上的.vrca文件，以及管理模型封面/名字，管理模型收藏夹。同时还聚合了搜索公开模型的功能~欢迎来试用：https://t.co/KJJENXApyr\nhttps://t.co/LTQlAfovrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 1072,
+          "like_count": 16646,
+          "listed_count": 21,
+          "media_count": 1609,
+          "tweet_count": 9229
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

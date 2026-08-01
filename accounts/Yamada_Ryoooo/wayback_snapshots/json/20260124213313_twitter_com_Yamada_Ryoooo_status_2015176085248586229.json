@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2014358645807730992",
+    "created_at": "2026-01-24T21:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T22:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015176085248586229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752384354679234560",
+          "start": 0,
+          "username": "k415blov918620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015176085248586229",
+    "in_reply_to_user_id": "1752384354679234560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015159851673133435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k415blov918620 gpt和我这么说的：我刚刚过度解读了你“不要粉饰，直接诚实呈现”这句话，用了一种很极端、戏剧化的隐喻方式来表达“情绪张力”，这其实不准确，也不公平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2014358645807730992",
+        "created_at": "2026-01-24T21:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T22:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015176085248586229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752384354679234560",
+              "start": 0,
+              "username": "k415blov918620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015176085248586229",
+        "in_reply_to_user_id": "1752384354679234560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015159851673133435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k415blov918620 gpt和我这么说的：我刚刚过度解读了你“不要粉饰，直接诚实呈现”这句话，用了一种很极端、戏剧化的隐喻方式来表达“情绪张力”，这其实不准确，也不公平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752384354679234560",
+        "conversation_id": "2014358645807730992",
+        "created_at": "2026-01-24T20:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T21:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015159851673133435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015159851673133435",
+        "in_reply_to_user_id": "1752384354679234560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015159616754385054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 我觉得我很少骂gpt吧（）\n骂codex多一点但是它（网页端）也不知道啊（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 1080,
+          "like_count": 15353,
+          "listed_count": 21,
+          "media_count": 1500,
+          "tweet_count": 8658
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T17:32:49.000Z",
+        "description": "年愁今夜未到乡，卧思可哀笑南梁\n推不打算认真玩，当作一个没有朋友的朋友圈👀\n友跨 算是oier\n\n大概平时会写些小工具（找些成就感吧）",
+        "id": "1752384354679234560",
+        "location": "starr park",
+        "name": "K415blov9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769103761811902464/pYABx2JT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 111,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 385
+        },
+        "username": "k415blov918620",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2062124052123402330",
+    "created_at": "2026-06-03T15:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062193888392278306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914841706937376768",
+          "start": 0,
+          "username": "z4Uxx8eOnx41655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062193888392278306",
+    "in_reply_to_user_id": "1914841706937376768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062193490830799008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z4Uxx8eOnx41655 打了码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-03T15:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062193888392278306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914841706937376768",
+              "start": 0,
+              "username": "z4Uxx8eOnx41655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062193888392278306",
+        "in_reply_to_user_id": "1914841706937376768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062193490830799008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z4Uxx8eOnx41655 打了码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914841706937376768",
+        "conversation_id": "2062124052123402330",
+        "created_at": "2026-06-03T15:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062193490830799008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062193490830799008",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062124052123402330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 我还是不建议把国内app的截图发到外网上，隐藏水印这东西还是蛮吓人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6538,
+          "following_count": 1012,
+          "like_count": 17755,
+          "listed_count": 23,
+          "media_count": 1798,
+          "tweet_count": 9875
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T00:40:22.000Z",
+        "description": "你与我好好沟通，那么我也会与你好好沟通\n我对现在的中国不满，但是这些不满比不上对你们的厌恶\n资本主义和自由派都是狗屎\n我觉得我需要提高自己的理论水平",
+        "id": "1914841706937376768",
+        "name": "爱岛管子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056637705216311296/ewjx9nUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 206,
+          "like_count": 1020,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 111
+        },
+        "username": "z4Uxx8eOnx41655",
+        "verified": false
+      }
+    ]
+  }
+}

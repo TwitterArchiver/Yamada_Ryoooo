@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2059172517743616046",
+    "created_at": "2026-05-26T07:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059172517743616046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/er_mei74034/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/er_mei74034/status/2058957663262921070",
+          "start": 6,
+          "url": "https://t.co/QeO2pxjrSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059172517743616046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058957663262921070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想谈恋爱 https://t.co/QeO2pxjrSz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059172517743616046",
+        "created_at": "2026-05-26T07:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059172517743616046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/er_mei74034/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/er_mei74034/status/2058957663262921070",
+              "start": 6,
+              "url": "https://t.co/QeO2pxjrSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059172517743616046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058957663262921070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想谈恋爱 https://t.co/QeO2pxjrSz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684456606623571968",
+        "conversation_id": "2058957663262921070",
+        "created_at": "2026-05-25T17:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058957663262921070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058957663262921070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5814,
+          "like_count": 32,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6554,
+          "following_count": 1015,
+          "like_count": 17619,
+          "listed_count": 24,
+          "media_count": 1790,
+          "tweet_count": 9802
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T06:52:15.000Z",
+        "description": "攻击我的手机自动下载原神",
+        "id": "1684456606623571968",
+        "name": "梅尔菲亲",
+        "pinned_tweet_id": "1918917020923429118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841805022339989505/YoA0S0Nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 1178,
+          "like_count": 22857,
+          "listed_count": 9,
+          "media_count": 3244,
+          "tweet_count": 17587
+        },
+        "username": "er_mei74034",
+        "verified": false
+      }
+    ]
+  }
+}

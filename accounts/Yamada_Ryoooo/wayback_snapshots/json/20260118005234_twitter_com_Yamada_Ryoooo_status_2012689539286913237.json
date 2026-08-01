@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012526034701389907",
+    "created_at": "2026-01-18T00:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012689539286913237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930935329692991488",
+          "start": 0,
+          "username": "web_laowang"
+        },
+        {
+          "end": 21,
+          "id": "1641081790302650368",
+          "start": 13,
+          "username": "MaxLu3t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012689539286913237",
+    "in_reply_to_user_id": "1930935329692991488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012689300060831748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@web_laowang @MaxLu3t 点了～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012526034701389907",
+        "created_at": "2026-01-18T00:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012689539286913237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930935329692991488",
+              "start": 0,
+              "username": "web_laowang"
+            },
+            {
+              "end": 21,
+              "id": "1641081790302650368",
+              "start": 13,
+              "username": "MaxLu3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012689539286913237",
+        "in_reply_to_user_id": "1930935329692991488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012689300060831748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@web_laowang @MaxLu3t 点了～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930935329692991488",
+        "conversation_id": "2012526034701389907",
+        "created_at": "2026-01-18T00:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012689300060831748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 23,
+              "id": "1641081790302650368",
+              "start": 15,
+              "username": "MaxLu3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012689300060831748",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012681363044831375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @MaxLu3t 来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5227,
+          "following_count": 735,
+          "like_count": 14399,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8419
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-06T10:30:46.000Z",
+        "description": "第四个号了，这次实名了，重头再来。web3.0  打狗  撸毛  链上  空投 都不精通。欢迎一起来学习交流。无广告",
+        "id": "1930935329692991488",
+        "name": "web_老王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977604776553820161/xDguqzSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3142,
+          "following_count": 2531,
+          "like_count": 213,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 1253
+        },
+        "username": "web_laowang",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-29T14:16:20.000Z",
+        "description": "独立开发者 | Building small things, learning in public | 副业艰难收入中，争取超过主业收入All in | 互关fo",
+        "id": "1641081790302650368",
+        "name": "Max Lu",
+        "pinned_tweet_id": "2010505035587985410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649098804568948737/cUTwJj8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 1079,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 320
+        },
+        "username": "MaxLu3t",
+        "verified": true
+      }
+    ]
+  }
+}

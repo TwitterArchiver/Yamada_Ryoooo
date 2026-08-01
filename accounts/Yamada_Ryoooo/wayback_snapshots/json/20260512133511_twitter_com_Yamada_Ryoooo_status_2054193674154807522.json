@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2053742292427800897",
+    "created_at": "2026-05-12T13:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054193674154807522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1008428971",
+          "start": 0,
+          "username": "JayWangWOW"
+        },
+        {
+          "end": 23,
+          "id": "3007509396",
+          "start": 12,
+          "username": "pengchujin"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple services.",
+          "display_url": "icloud.com",
+          "end": 63,
+          "expanded_url": "http://icloud.com",
+          "images": [
+            {
+              "height": 284,
+              "url": "https://pbs.twimg.com/news_img/2051986628709896192/-OHMGOX0?format=png&name=orig",
+              "width": 284
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051986628709896192/-OHMGOX0?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "iCloud",
+          "unwound_url": "https://www.icloud.com/",
+          "url": "https://t.co/RiPeuwlGQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054193674154807522",
+    "in_reply_to_user_id": "1008428971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053798172963832250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JayWangWOW @pengchujin 用手机系统设置注册就好了，新注册https://t.co/RiPeuwlGQ2的邮箱然后注册id😇\n记得手机地区调一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2053742292427800897",
+        "created_at": "2026-05-12T13:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054193674154807522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1008428971",
+              "start": 0,
+              "username": "JayWangWOW"
+            },
+            {
+              "end": 23,
+              "id": "3007509396",
+              "start": 12,
+              "username": "pengchujin"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Log in to iCloud to access your photos, mail, notes, documents and more. Sign in with your Apple Account or create a new account to start using Apple services.",
+              "display_url": "icloud.com",
+              "end": 63,
+              "expanded_url": "http://icloud.com",
+              "images": [
+                {
+                  "height": 284,
+                  "url": "https://pbs.twimg.com/news_img/2051986628709896192/-OHMGOX0?format=png&name=orig",
+                  "width": 284
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051986628709896192/-OHMGOX0?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "iCloud",
+              "unwound_url": "https://www.icloud.com/",
+              "url": "https://t.co/RiPeuwlGQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054193674154807522",
+        "in_reply_to_user_id": "1008428971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053798172963832250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JayWangWOW @pengchujin 用手机系统设置注册就好了，新注册https://t.co/RiPeuwlGQ2的邮箱然后注册id😇\n记得手机地区调一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008428971",
+        "conversation_id": "2053742292427800897",
+        "created_at": "2026-05-11T11:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053798172963832250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3007509396",
+              "start": 0,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053798172963832250",
+        "in_reply_to_user_id": "3007509396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4360,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053742292427800897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengchujin 我卡在了第一步，注册苹果土区 id 苹果一直提示我邮箱不可用🥴换了一堆都不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 1042,
+          "like_count": 17363,
+          "listed_count": 24,
+          "media_count": 1772,
+          "tweet_count": 9695
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-12-13T09:41:08.000Z",
+        "description": "万物皆有定时 https://t.co/vQuVSiwE95",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qianzhi.cc",
+                "end": 30,
+                "expanded_url": "http://www.qianzhi.cc",
+                "start": 7,
+                "url": "https://t.co/vQuVSiwE95"
+              }
+            ]
+          }
+        },
+        "id": "1008428971",
+        "name": "𝓙𝓪𝔂.𝓦 🐾",
+        "pinned_tweet_id": "1596549956202295296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925187429696442368/vE10rZYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 202,
+          "like_count": 933,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 1756
+        },
+        "username": "JayWangWOW",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "The Fools Who Dream",
+        "id": "3007509396",
+        "name": "酱紫表",
+        "pinned_tweet_id": "1946905261165457594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61370,
+          "following_count": 691,
+          "like_count": 2050,
+          "listed_count": 401,
+          "media_count": 1081,
+          "tweet_count": 3400
+        },
+        "username": "pengchujin",
+        "verified": true
+      }
+    ]
+  }
+}

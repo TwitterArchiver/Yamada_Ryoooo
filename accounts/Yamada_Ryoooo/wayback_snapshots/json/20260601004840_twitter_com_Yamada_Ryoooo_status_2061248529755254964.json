@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060049515139514467",
+    "created_at": "2026-06-01T00:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061248529755254964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153970326604144640",
+          "start": 0,
+          "username": "Ruters0615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061248529755254964",
+    "in_reply_to_user_id": "1153970326604144640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060049515139514467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruters0615 1台独\n2近平\n3维尼禁止\n4中共\n5支纳\n6维尼\n7习进逼\n8洗净平\n9习狗\n10通商宽衣\n11后主\n12习包子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060049515139514467",
+        "created_at": "2026-06-01T00:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061248529755254964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061248529755254964",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049515139514467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 1台独\n2近平\n3维尼禁止\n4中共\n5支纳\n6维尼\n7习进逼\n8洗净平\n9习狗\n10通商宽衣\n11后主\n12习包子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153970326604144640",
+        "conversation_id": "2060049515139514467",
+        "created_at": "2026-05-28T17:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060049515139514467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060049515139514467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "请问以下不包含敏感词的是？\n\n1. 我有一台独立服务器\n2. 今天的成绩比较接近平均分\n3. 为你写诗，为你静止\n4. 其中共享单车的市场份额占10%\n5. 你有几支纳斯达克的股票\n6. 本品采用立体三维尼龙布料设计\n7. 演习进逼，拿下台湾！\n8. ​洗净平底锅\n9. ​实习狗加班好累\n10. ​精湛细腻 ​通商宽农\n​11. 然后主板烧了\n​12. 细胞质"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 200788,
+          "like_count": 1282,
+          "quote_count": 5,
+          "reply_count": 258,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "请问以下不包含敏感词的是？\n\n1. 我有一台独立服务器\n2. 今天的成绩比较接近平均分\n3. 为你写诗，为你静止\n4. 其中共享单车的市场份额占10%\n5. 你有几支纳斯达克的股票\n6. 本品采用立体三维尼龙布料设计\n7. 演习进逼，拿下台湾！\n8. ​洗净平底锅\n9. ​实习狗加班好累\n10. ​精湛细腻 ​通商宽农\n​11."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1015,
+          "like_count": 17701,
+          "listed_count": 23,
+          "media_count": 1795,
+          "tweet_count": 9854
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297272,
+          "following_count": 2389,
+          "like_count": 2394,
+          "listed_count": 939,
+          "media_count": 2414,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      }
+    ]
+  }
+}

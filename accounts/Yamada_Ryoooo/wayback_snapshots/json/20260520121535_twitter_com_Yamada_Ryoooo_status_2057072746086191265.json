@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057072330879479808"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2057072746086191265",
+    "created_at": "2026-05-20T12:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057072746086191265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806359170830172162",
+          "start": 3,
+          "username": "GeminiApp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pcs9goFMC7",
+          "end": 67,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2057072746086191265/photo/1",
+          "media_key": "3_2057072330879479808",
+          "start": 44,
+          "url": "https://t.co/pcs9goFMC7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057072746086191265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "操你妈@geminiapp 才问了两句flash Extended就limit了😂😂😂 https://t.co/pcs9goFMC7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2057072330879479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwwYtdbMAAgYkY.png",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057072330879479808"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2057072746086191265",
+        "created_at": "2026-05-20T12:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057072746086191265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806359170830172162",
+              "start": 3,
+              "username": "GeminiApp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcs9goFMC7",
+              "end": 67,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2057072746086191265/photo/1",
+              "media_key": "3_2057072330879479808",
+              "start": 44,
+              "url": "https://t.co/pcs9goFMC7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057072746086191265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈@geminiapp 才问了两句flash Extended就limit了😂😂😂 https://t.co/pcs9goFMC7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6567,
+          "following_count": 1002,
+          "like_count": 17502,
+          "listed_count": 24,
+          "media_count": 1785,
+          "tweet_count": 9765
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-27T16:10:25.000Z",
+        "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/lc7BAJqH5u"
+              }
+            ]
+          }
+        },
+        "id": "1806359170830172162",
+        "location": "Mountain View, CA",
+        "name": "Google Gemini",
+        "pinned_tweet_id": "2056805027394859137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501487,
+          "following_count": 47,
+          "like_count": 3763,
+          "listed_count": 4399,
+          "media_count": 466,
+          "tweet_count": 14960
+        },
+        "url": "https://t.co/lc7BAJqH5u",
+        "username": "GeminiApp",
+        "verified": true
+      }
+    ]
+  }
+}

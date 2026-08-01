@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1998241283429769630",
+    "created_at": "2025-12-09T04:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998241385636618390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Select Model: Gemini 2.5 Flash (Balanced) Gemini 2.5 Pro (Best Quality) Gemini 2.5 Flash Lite (Fastest) Gemini 2.0 Flash Gemini 2.0 Flash Lite (Preview) Gemini 2.0 Flash (001) Gemini 2.0 Flash Lite (001) Gemini Flash Latest Gemini Flash Lite Latest Gemini Pro Latest Gemma 3 12B IT Gemma 3 27B IT Gemini 2.5 Flash Preview Note: If you see \"Analysis Failed: Invalid Response\" or \"Blocked by Safety Policy\", it means the image triggered Google's safety filters. This is an API limitation, not a bug. Try a",
+          "display_url": "smash-or-pass-ai.pages.dev",
+          "end": 26,
+          "expanded_url": "https://smash-or-pass-ai.pages.dev/",
+          "start": 3,
+          "status": 200,
+          "title": "Smash or Pass AI",
+          "unwound_url": "https://smash-or-pass-ai.pages.dev/",
+          "url": "https://t.co/FGiY6YbkV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998241385636618390",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998241283429769630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "试玩 https://t.co/FGiY6YbkV6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1998241283429769630",
+        "created_at": "2025-12-09T04:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998241385636618390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Select Model: Gemini 2.5 Flash (Balanced) Gemini 2.5 Pro (Best Quality) Gemini 2.5 Flash Lite (Fastest) Gemini 2.0 Flash Gemini 2.0 Flash Lite (Preview) Gemini 2.0 Flash (001) Gemini 2.0 Flash Lite (001) Gemini Flash Latest Gemini Flash Lite Latest Gemini Pro Latest Gemma 3 12B IT Gemma 3 27B IT Gemini 2.5 Flash Preview Note: If you see \"Analysis Failed: Invalid Response\" or \"Blocked by Safety Policy\", it means the image triggered Google's safety filters. This is an API limitation, not a bug. Try a",
+              "display_url": "smash-or-pass-ai.pages.dev",
+              "end": 26,
+              "expanded_url": "https://smash-or-pass-ai.pages.dev/",
+              "start": 3,
+              "status": 200,
+              "title": "Smash or Pass AI",
+              "unwound_url": "https://smash-or-pass-ai.pages.dev/",
+              "url": "https://t.co/FGiY6YbkV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998241385636618390",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998241283429769630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "试玩 https://t.co/FGiY6YbkV6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1998241283429769630",
+        "created_at": "2025-12-09T04:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998241283429769630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Smash or Pass AI. Contribute to Yamada-Ryo4/Smash-or-Pass-AI development by creating an account on GitHub.",
+              "display_url": "github.com/Yamada-Ryo4/Sm…",
+              "end": 29,
+              "expanded_url": "https://github.com/Yamada-Ryo4/Smash-or-Pass-AI/",
+              "start": 6,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/Smash-or-Pass-AI: Smash or Pass AI",
+              "unwound_url": "https://github.com/Yamada-Ryo4/Smash-or-Pass-AI/",
+              "url": "https://t.co/DjuNiwhP2e"
+            },
+            {
+              "display_url": "x.com/yamada_ryoooo/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yamada_ryoooo/status/1992265007657275586",
+              "start": 30,
+              "url": "https://t.co/fMcMYw2x6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998241283429769630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992265007657275586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英文版出了\nhttps://t.co/DjuNiwhP2e https://t.co/fMcMYw2x6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5384,
+          "following_count": 680,
+          "like_count": 13902,
+          "listed_count": 20,
+          "media_count": 1417,
+          "tweet_count": 8118
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      }
+    ]
+  }
+}

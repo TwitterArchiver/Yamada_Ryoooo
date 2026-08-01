@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1991009208536609204",
+    "created_at": "2025-11-19T09:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T10:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991078908804886636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1098902673464520704",
+          "start": 0,
+          "username": "Y4nRNRTJCwchhS4"
+        },
+        {
+          "end": 28,
+          "id": "1750684739441446912",
+          "start": 17,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991078908804886636",
+    "in_reply_to_user_id": "1098902673464520704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991066612837777769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4nRNRTJCwchhS4 @wngy189327 把身份证p上去😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1991009208536609204",
+        "created_at": "2025-11-19T09:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T10:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991078908804886636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1098902673464520704",
+              "start": 0,
+              "username": "Y4nRNRTJCwchhS4"
+            },
+            {
+              "end": 28,
+              "id": "1750684739441446912",
+              "start": 17,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991078908804886636",
+        "in_reply_to_user_id": "1098902673464520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991066612837777769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4nRNRTJCwchhS4 @wngy189327 把身份证p上去😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098902673464520704",
+        "conversation_id": "1991009208536609204",
+        "created_at": "2025-11-19T08:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991066612837777769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991066612837777769",
+        "in_reply_to_user_id": "1098902673464520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991054617741046243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 好像不行他那得不是身分證我剛剛才發現"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4420,
+          "following_count": 664,
+          "like_count": 13568,
+          "listed_count": 19,
+          "media_count": 1381,
+          "tweet_count": 7959
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T11:09:48.000Z",
+        "description": "沒",
+        "id": "1098902673464520704",
+        "name": "杯子蛋糕麵",
+        "pinned_tweet_id": "1600177471571517440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324236409511661568/430SW5Ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 232,
+          "like_count": 3890,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1604
+        },
+        "username": "Y4nRNRTJCwchhS4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一段时间先不上推了（偶尔可能也会上，但是不会像以前那样频繁了）\n140斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n会割手但不od（偶尔也会o）\n同类互fo",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥（实名上网）",
+        "pinned_tweet_id": "1991009208536609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 391,
+          "like_count": 5780,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 832
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

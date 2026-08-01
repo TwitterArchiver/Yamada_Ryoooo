@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038206465702551552"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2037845364624289930",
+    "created_at": "2026-03-29T10:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038206472807678297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968187553695272960",
+          "start": 0,
+          "username": "EzraRan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o0ZjbhSPyU",
+          "end": 38,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2038206472807678297/photo/1",
+          "media_key": "3_2038206465702551552",
+          "start": 15,
+          "url": "https://t.co/o0ZjbhSPyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038206472807678297",
+    "in_reply_to_user_id": "1968187553695272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037845364624289930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzraRan_ 大国工匠 https://t.co/o0ZjbhSPyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 857,
+        "media_key": "3_2038206465702551552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkp-08a4AA2QCF.jpg",
+        "width": 1179
+      },
+      {
+        "height": 850,
+        "media_key": "3_2037845362481008640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfhj2nbkAAcilY.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038206465702551552"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2037845364624289930",
+        "created_at": "2026-03-29T10:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038206472807678297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0ZjbhSPyU",
+              "end": 38,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2038206472807678297/photo/1",
+              "media_key": "3_2038206465702551552",
+              "start": 15,
+              "url": "https://t.co/o0ZjbhSPyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038206472807678297",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037845364624289930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan_ 大国工匠 https://t.co/o0ZjbhSPyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037845362481008640"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2037845364624289930",
+        "created_at": "2026-03-28T10:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037845364624289930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wI4VQ9ebaI",
+              "end": 63,
+              "expanded_url": "https://x.com/EzraRan_/status/2037845364624289930/photo/1",
+              "media_key": "3_2037845362481008640",
+              "start": 40,
+              "url": "https://t.co/wI4VQ9ebaI"
+            },
+            {
+              "display_url": "x.com/EzraRan_/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/EzraRan_/status/2037777181603197437",
+              "start": 64,
+              "url": "https://t.co/bk5NGcG4mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037845364624289930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25317,
+          "like_count": 327,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037777181603197437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "趁还有热度再补一个，很多人说这不是官方号，是蓝标认证不是灰标认证，请看VCR： https://t.co/wI4VQ9ebaI https://t.co/bk5NGcG4mo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6164,
+          "following_count": 1075,
+          "like_count": 16785,
+          "listed_count": 21,
+          "media_count": 1643,
+          "tweet_count": 9327
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "Become who you are.\n社會自由。レン エジュラ\n「我希望我的生活與選擇，能夠由我本身來決定，而不取決於任何外界的力量。我希望成為我自己的意志，而不是別人意志的工具；希望成為主體，而不是他人行為的對象；我希望我的行為出於我自己的理性、有意識之目的，而不是出於外來的原因。」\n–以賽亞•柏林《兩種自由概念》",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 2267,
+          "like_count": 30408,
+          "listed_count": 5,
+          "media_count": 1285,
+          "tweet_count": 9602
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2009413228342935638",
+    "created_at": "2026-01-09T04:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T05:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009476486072553527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937086999548035072",
+          "start": 0,
+          "username": "Jaime_Rimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009476486072553527",
+    "in_reply_to_user_id": "1937086999548035072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009437775477789177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaime_Rimi 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2009413228342935638",
+        "created_at": "2026-01-09T04:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009476486072553527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937086999548035072",
+              "start": 0,
+              "username": "Jaime_Rimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009476486072553527",
+        "in_reply_to_user_id": "1937086999548035072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009437775477789177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaime_Rimi 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937086999548035072",
+        "conversation_id": "2009413228342935638",
+        "created_at": "2026-01-09T01:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009437775477789177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009437775477789177",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009413228342935638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 回个FO🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5200,
+          "following_count": 681,
+          "like_count": 14198,
+          "listed_count": 21,
+          "media_count": 1439,
+          "tweet_count": 8288
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "ACGN爱好者，温和右翼，支持🇮🇱&🇺🇦，友性少数群体，就这样。",
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo ⚜️",
+        "pinned_tweet_id": "1999371414390841634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937087218704625664/U7kY1Ply_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 624,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 867
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

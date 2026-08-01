@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2050927674936459492",
+    "created_at": "2026-05-03T16:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050973639261188544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1668810862948401153",
+          "start": 0,
+          "username": "0xMaxiOracle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050973639261188544",
+    "in_reply_to_user_id": "1668810862948401153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050927674936459492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xMaxiOracle 我之前是申诉界面然后今天变成你这个了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2050927674936459492",
+        "created_at": "2026-05-03T16:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050973639261188544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1668810862948401153",
+              "start": 0,
+              "username": "0xMaxiOracle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050973639261188544",
+        "in_reply_to_user_id": "1668810862948401153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050927674936459492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xMaxiOracle 我之前是申诉界面然后今天变成你这个了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668810862948401153",
+        "conversation_id": "2050927674936459492",
+        "created_at": "2026-05-03T13:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050927674936459492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xmaxioracle/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/0xmaxioracle/status/2049799413716128172",
+              "start": 34,
+              "url": "https://t.co/l4ljp25huL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050927674936459492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049799413716128172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有和我一样收益被暂停之后，重新认证界面一直加载不出来的推友吗？ https://t.co/l4ljp25huL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6590,
+          "following_count": 1095,
+          "like_count": 17248,
+          "listed_count": 24,
+          "media_count": 1759,
+          "tweet_count": 9619
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-14T02:41:50.000Z",
+        "description": "美利坚金融硕士🎓| 美股期权交易员📈| BTC 💎 Long-Term Conviction | 数字游民💰|分享美卡以及各大交易所撸毛方法 | 长期关注 Web3 与 AI, 拒绝噪音, 记录自己的生活 | 分享投资心得",
+        "id": "1668810862948401153",
+        "location": "BTC",
+        "name": "Kevin_Z 🟧",
+        "pinned_tweet_id": "2044290040763953262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668813875133960192/tCJ9mMtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 977,
+          "like_count": 17700,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 6414
+        },
+        "username": "0xMaxiOracle",
+        "verified": true
+      }
+    ]
+  }
+}

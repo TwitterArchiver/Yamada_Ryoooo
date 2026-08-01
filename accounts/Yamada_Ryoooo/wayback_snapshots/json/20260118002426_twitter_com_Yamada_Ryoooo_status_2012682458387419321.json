@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012383255807643923",
+    "created_at": "2026-01-18T00:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T01:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012682458387419321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720296579406667776",
+          "start": 0,
+          "username": "captain_kent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012682458387419321",
+    "in_reply_to_user_id": "1720296579406667776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012383255807643923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@captain_kent 大佬可以互关一下嘛🥺\n我也想领马斯克的低保"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2012379312805261312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1oUq0aMAAMZeQ.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012383255807643923",
+        "created_at": "2026-01-18T00:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012682458387419321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720296579406667776",
+              "start": 0,
+              "username": "captain_kent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012682458387419321",
+        "in_reply_to_user_id": "1720296579406667776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012383255807643923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@captain_kent 大佬可以互关一下嘛🥺\n我也想领马斯克的低保"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012379312805261312"
+          ]
+        },
+        "author_id": "1720296579406667776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2012383255807643923",
+        "created_at": "2026-01-17T04:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012383255807643923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWVZr72cFJ",
+              "end": 152,
+              "expanded_url": "https://x.com/captain_kent/status/2012383255807643923/photo/1",
+              "media_key": "3_2012379312805261312",
+              "start": 129,
+              "url": "https://t.co/ZWVZr72cFJ"
+            },
+            {
+              "display_url": "x.com/captain_kent/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/captain_kent/status/2012366592542376008",
+              "start": 153,
+              "url": "https://t.co/fTvPpV9ZvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012383255807643923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 513,
+                "id": "3282859598",
+                "start": 503,
+                "username": "XCreators"
+              }
+            ]
+          },
+          "text": "越来越兴奋，新嘴撸时代要来了！（创作者必看）\n\n基本实锤了，X 要搞自己的 KOL 经济体系，先是做了两个重大决策：\n\n1、X 创作者的奖励改成了仅限“时间线的展示量”。\n\n2、关闭了 Kaito、Cookie 等 InFoFi 嘴撸平台的 API 授权。\n\n此前是和蓝V评论有关，现在改成了纯时间线流量，那互动效果就没多大用了，只能增加一个初始的曝光量，飞轮能不能起来完全取决于你内容的可阅读性。\n\n然后，此前那些三方 InFoFi 平台利用推特的流量赚取自己的利益，应该是动了 X 的蛋糕，Kaito 从创业到现在也就1年多，应该已经赚了不下1亿美元。\n\n所以此次，X 是有打算认真做自己的 KOL 创作者经济，除了提到的要写有对话性、新闻性、文化性的内容，一定是会做加密特定内容的。\n\n船长大胆预测：\n\nX 最大的收入来源就是广告，所以它会把原来 Kaito 等加密项目方的广告投放纳入自己囊中，推出自己的 CT 空投版块！结合 SOL 的内嵌就是个动机证明。\n\n所以各位不用急，新嘴撸时代就要来了，只不过不同的是，这回它的奖励只看“时间线流量”，对于有能力的创作者，是最大的好事！\n\n给我狠狠关注 @XCreators ，以后它就是爸爸。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 23264,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 95,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012366592542376008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "越来越兴奋，新嘴撸时代要来了！（创作者必看）\n\n基本实锤了，X 要搞自己的 KOL 经济体系，先是做了两个重大决策：\n\n1、X 创作者的奖励改成了仅限“时间线的展示量”。\n\n2、关闭了 Kaito、Cookie 等 InFoFi 嘴撸平台的 API 授权。 https://t.co/ZWVZr72cFJ https://t.co/fTvPpV9ZvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5208,
+          "following_count": 711,
+          "like_count": 14368,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8413
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T04:27:30.000Z",
+        "description": "Amb - @arbitrum @JoinSapien @Maiga_AI @WeexCn @JupiterExchange\nCom - @mankunlaw @Solana_zh @xhunt_ai\n\n⚓️ 底层逻辑、花式撸毛、司法专案、两性情感，他们都叫我船长！\n📨 TG 合作：https://t.co/Ipv9a2Bug4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "arbitrum"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "JoinSapien"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Maiga_AI"
+              },
+              {
+                "end": 45,
+                "start": 38,
+                "username": "WeexCn"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "JupiterExchange"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "mankunlaw"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Solana_zh"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "xhunt_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/greatkent",
+                "end": 165,
+                "expanded_url": "http://t.me/greatkent",
+                "start": 142,
+                "url": "https://t.co/Ipv9a2Bug4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cOiw8R2ziFY3M…",
+                "end": 23,
+                "expanded_url": "http://t.me/+cOiw8R2ziFY3MzVl",
+                "start": 0,
+                "url": "https://t.co/2SSRpndPaC"
+              }
+            ]
+          }
+        },
+        "id": "1720296579406667776",
+        "location": "TG 社群：",
+        "name": "Captain Kent | 船长🪶",
+        "pinned_tweet_id": "2012383255807643923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010951245322932224/AFwCaoDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10694,
+          "following_count": 3399,
+          "like_count": 76974,
+          "listed_count": 155,
+          "media_count": 1988,
+          "tweet_count": 62813
+        },
+        "url": "https://t.co/2SSRpndPaC",
+        "username": "captain_kent",
+        "verified": true
+      }
+    ]
+  }
+}

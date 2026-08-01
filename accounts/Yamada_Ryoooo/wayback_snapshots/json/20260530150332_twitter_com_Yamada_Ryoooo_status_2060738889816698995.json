@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2060738889816698995",
+    "created_at": "2026-05-30T15:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060738889816698995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ximianqwq/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ximianqwq/status/2060639633667662048",
+          "start": 2,
+          "url": "https://t.co/SxmxgCDaUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060738889816698995",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060639633667662048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/SxmxgCDaUl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8424,
+        "height": 1280,
+        "media_key": "7_2060638583074258944",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060638583074258944/pu/img/hOBbFc9k-WPOOybv.jpg",
+        "public_metrics": {
+          "view_count": 2942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638583074258944/pu/vid/avc1/320x568/CM8hV9amAd8hhLcq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638583074258944/pu/vid/avc1/480x852/eulzFzSOsxXb4cWo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638583074258944/pu/vid/avc1/720x1280/dPp2oi0fXfPzEPDr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060638583074258944/pu/pl/rR2wNo5Q9Q_VuiP1.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27858,
+        "height": 1920,
+        "media_key": "7_2060638677194473472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060638677194473472/pu/img/4uKoBnJnA-1ZDa1U.jpg",
+        "public_metrics": {
+          "view_count": 944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060638677194473472/pu/pl/rrt3x3IMdKfGDE7d.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638677194473472/pu/vid/avc1/720x1280/0IzQJeIZhegJ-Gng.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638677194473472/pu/vid/avc1/480x852/CtUHd6bL19UqnetW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638677194473472/pu/vid/avc1/1080x1920/3xVraw6F10R1Vj9T.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060638677194473472/pu/vid/avc1/320x568/FdeCKjImNJg5jM4N.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2060738889816698995",
+        "created_at": "2026-05-30T15:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060738889816698995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ximianqwq/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ximianqwq/status/2060639633667662048",
+              "start": 2,
+              "url": "https://t.co/SxmxgCDaUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060738889816698995",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060639633667662048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/SxmxgCDaUl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060638583074258944",
+            "7_2060638677194473472"
+          ]
+        },
+        "author_id": "1902401708799750148",
+        "conversation_id": "2060639633667662048",
+        "created_at": "2026-05-30T08:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060639633667662048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "大喷菇"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZmsJmG6bF",
+              "end": 89,
+              "expanded_url": "https://x.com/ximianQwQ/status/2060639633667662048/video/1",
+              "media_key": "7_2060638583074258944",
+              "start": 66,
+              "url": "https://t.co/YZmsJmG6bF"
+            },
+            {
+              "display_url": "pic.x.com/YZmsJmG6bF",
+              "end": 89,
+              "expanded_url": "https://x.com/ximianQwQ/status/2060639633667662048/video/1",
+              "media_key": "7_2060638677194473472",
+              "start": 66,
+              "url": "https://t.co/YZmsJmG6bF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060639633667662048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 10946,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂大喷菇头交\n那根粗硬的假吊，带着冷硬的塑料质感，却被体温焐得滚烫，对准了大喷菇那微微张开的肥厚菇口，猛地顶了上去……\n#大喷菇 https://t.co/YZmsJmG6bF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1013,
+          "like_count": 17695,
+          "listed_count": 24,
+          "media_count": 1794,
+          "tweet_count": 9847
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T16:48:16.000Z",
+        "description": "为啥我的内裤一直在蹭我几把？\n                                纯良版@ximianSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "ximianSama"
+              }
+            ]
+          }
+        },
+        "id": "1902401708799750148",
+        "location": "🚪88/520",
+        "name": "下辈子给我一个短圆脸",
+        "pinned_tweet_id": "2057012008114164125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051674532898041856/AqKnWsEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55615,
+          "following_count": 864,
+          "like_count": 1620,
+          "listed_count": 238,
+          "media_count": 74,
+          "tweet_count": 433
+        },
+        "username": "ximianQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

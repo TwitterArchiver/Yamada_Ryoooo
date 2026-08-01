@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2077032800906326304",
+    "created_at": "2026-07-14T17:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077079770999963693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666329123223121922",
+          "start": 0,
+          "username": "chuanxiduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077079770999963693",
+    "in_reply_to_user_id": "1666329123223121922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077032800906326304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@chuanxiduo 实际上我没发涩涩他也这么回复我的🤡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2077032792861626368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMaUg1a0AAFT5B.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2077032800906326304",
+        "created_at": "2026-07-14T17:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077079770999963693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666329123223121922",
+              "start": 0,
+              "username": "chuanxiduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077079770999963693",
+        "in_reply_to_user_id": "1666329123223121922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077032800906326304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@chuanxiduo 实际上我没发涩涩他也这么回复我的🤡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077032792861626368"
+          ]
+        },
+        "author_id": "1666329123223121922",
+        "conversation_id": "2077032800906326304",
+        "created_at": "2026-07-14T14:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077032800906326304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNmW8qREf2",
+              "end": 109,
+              "expanded_url": "https://x.com/chuanxiduo/status/2077032800906326304/photo/1",
+              "media_key": "3_2077032792861626368",
+              "start": 86,
+              "url": "https://t.co/yNmW8qREf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077032800906326304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5572,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "放弃申诉了……  \n要想恢复创作者收入，我能想到的唯一办法，就是把之前所有擦边一点的推文全删掉，重新去审核。  \n可那样做，等于亲手抹除过去和现在的自己\n所以\n继续涩涩… https://t.co/yNmW8qREf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6487,
+          "following_count": 966,
+          "like_count": 17813,
+          "listed_count": 22,
+          "media_count": 1824,
+          "tweet_count": 10029
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T06:20:03.000Z",
+        "description": "日常清水推，偶尔抽象，碎碎念～喜欢收藏各种好看的衣服和鞋子，不定期po汉服/cos自拍\n谢谢关注我的小世界！祝您天天开心~~",
+        "id": "1666329123223121922",
+        "location": "神奈川",
+        "name": "喜多川💕",
+        "pinned_tweet_id": "2043743848103587861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763576092928192512/M8JQsMgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111892,
+          "following_count": 1681,
+          "like_count": 8870,
+          "listed_count": 345,
+          "media_count": 554,
+          "tweet_count": 2146
+        },
+        "url": "",
+        "username": "chuanxiduo",
+        "verified": true
+      }
+    ]
+  }
+}

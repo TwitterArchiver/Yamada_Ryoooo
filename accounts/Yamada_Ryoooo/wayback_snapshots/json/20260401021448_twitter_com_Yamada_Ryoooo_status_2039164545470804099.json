@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1997434284471406592"
+      ],
+      "media_source_tweet_id": [
+        "1997434750592847954"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039164545470804099",
+    "created_at": "2026-04-01T02:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039164545470804099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z6WeMmsezK",
+          "end": 25,
+          "expanded_url": "https://x.com/Xian_YuUwU/status/1997434750592847954/video/1",
+          "media_key": "13_1997434284471406592",
+          "start": 2,
+          "url": "https://t.co/Z6WeMmsezK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039164545470804099",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/Z6WeMmsezK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15046,
+        "height": 1080,
+        "media_key": "13_1997434284471406592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997434284471406592/img/7V_Wqcpoq7a2_i_U.jpg",
+        "public_metrics": {
+          "view_count": 159279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997434284471406592/vid/avc1/330x270/mmY-O2ibgovv-FWE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997434284471406592/vid/avc1/440x360/1WjmPbyxitcFawEV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997434284471406592/vid/avc1/880x720/duFVz1olW_cfNtpt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997434284471406592/pl/l2yv6NLnR_v2OP3V.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997434284471406592"
+          ],
+          "media_source_tweet_id": [
+            "1997434750592847954"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039164545470804099",
+        "created_at": "2026-04-01T02:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039164545470804099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6WeMmsezK",
+              "end": 25,
+              "expanded_url": "https://x.com/Xian_YuUwU/status/1997434750592847954/video/1",
+              "media_key": "13_1997434284471406592",
+              "start": 2,
+              "url": "https://t.co/Z6WeMmsezK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039164545470804099",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Z6WeMmsezK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6183,
+          "following_count": 1075,
+          "like_count": 16893,
+          "listed_count": 22,
+          "media_count": 1663,
+          "tweet_count": 9378
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

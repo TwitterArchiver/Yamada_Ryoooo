@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2080541179473772906",
+    "created_at": "2026-07-24T19:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080735169481507294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "FascinatingAnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080735169481507294",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080541179473772906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FascinatingAnon 这个是设置你能看懂的语言，app设置是跟随手机系统语言的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2080541168044306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-RK03bcAAoR2n.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_2080541174373490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-RLMcbIAA2cZ4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2080541179473772906",
+        "created_at": "2026-07-24T19:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080735169481507294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "FascinatingAnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080735169481507294",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080541179473772906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FascinatingAnon 这个是设置你能看懂的语言，app设置是跟随手机系统语言的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080541168044306432",
+            "3_2080541174373490688"
+          ]
+        },
+        "author_id": "1822380396497313792",
+        "conversation_id": "2080541179473772906",
+        "created_at": "2026-07-24T06:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080541179473772906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96CoXpcFFG",
+              "end": 64,
+              "expanded_url": "https://x.com/FascinatingAnon/status/2080541179473772906/photo/1",
+              "media_key": "3_2080541168044306432",
+              "start": 41,
+              "url": "https://t.co/96CoXpcFFG"
+            },
+            {
+              "display_url": "pic.x.com/96CoXpcFFG",
+              "end": 64,
+              "expanded_url": "https://x.com/FascinatingAnon/status/2080541179473772906/photo/1",
+              "media_key": "3_2080541174373490688",
+              "start": 41,
+              "url": "https://t.co/96CoXpcFFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080541179473772906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥比msk能不能把APP莫名其妙变成英语的bug修一修，APP内语言选项也没用😅 https://t.co/96CoXpcFFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6474,
+          "following_count": 961,
+          "like_count": 17800,
+          "listed_count": 22,
+          "media_count": 1826,
+          "tweet_count": 10047
+        },
+        "url": "",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "明かり | 备用账号：@Akari_Hana_25 | 裏@Minami_Hana_25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "Akari_Hana_25"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Minami_Hana_25"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "110m",
+        "name": "Akari.",
+        "pinned_tweet_id": "2075968811602415919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075144100282793984/36Su3b5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1015,
+          "like_count": 23035,
+          "listed_count": 3,
+          "media_count": 2391,
+          "tweet_count": 13285
+        },
+        "url": "",
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008878120779301023",
+    "created_at": "2026-01-08T10:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009205795318325388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854915067994841088",
+          "start": 0,
+          "username": "siquanjiale8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009205795318325388",
+    "in_reply_to_user_id": "1854915067994841088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008878120779301023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siquanjiale8964 品鉴中国人智商中，，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008878120779301023",
+        "created_at": "2026-01-08T10:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009205795318325388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854915067994841088",
+              "start": 0,
+              "username": "siquanjiale8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009205795318325388",
+        "in_reply_to_user_id": "1854915067994841088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008878120779301023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siquanjiale8964 品鉴中国人智商中，，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854915067994841088",
+        "conversation_id": "2008878120779301023",
+        "created_at": "2026-01-07T12:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008878120779301023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allen27410505/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/allen27410505/status/2008548594467696930",
+              "start": 21,
+              "url": "https://t.co/pqhKqyuxwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008878120779301023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18509,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008548594467696930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻福吧这是烟疤。吃这种黑心流量4000+ https://t.co/pqhKqyuxwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5197,
+          "following_count": 678,
+          "like_count": 14181,
+          "listed_count": 21,
+          "media_count": 1439,
+          "tweet_count": 8279
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜",
+        "id": "1854915067994841088",
+        "location": "不闲聊 52/188/520 没有线下不要问了",
+        "name": "泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988170632170008581/oFbmNtXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 155,
+          "like_count": 1319,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 2800
+        },
+        "username": "siquanjiale8964",
+        "verified": false
+      }
+    ]
+  }
+}

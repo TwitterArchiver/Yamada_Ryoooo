@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059884967292010496"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2059885863954534853",
+    "created_at": "2026-05-28T06:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059885863954534853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/StE9xyNpXB",
+          "end": 171,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059885863954534853/photo/1",
+          "media_key": "3_2059884967292010496",
+          "start": 148,
+          "url": "https://t.co/StE9xyNpXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059885863954534853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "把上传照片转化成一种可爱混乱的儿童蜡笔涂鸦插画风格。\n整体像是彩铅+蜡笔+手账贴纸+MS Paint涂鸦的结合。\n使用：粗糙线条、抖动边缘、不均匀上色、纸张纹理、彩铅叠色、蜡笔颗粒感、故意幼稚但很有灵气的画风。人物变成Q版萌系二次元风格，大眼睛，夸张表情，可爱活泼。\n背景加入大量doodle：\n爱心、星星、糖果、笑脸云朵、小花、贴纸、游戏U元素、乱涂乱画符号。\n颜色以：粉色、蓝色、紫色、黄色、薄荷色为主。整体氛围：可爱、混乱、梦幻、少女感、游戏宅手账风、互联网 kawaii, Kawaii aesthetic不要精致，不要高级商业插画感，不要真实渲染，不要干净线稿，保留“手绘失败感”和“乱涂鸦感”。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把上传照片转化成一种可爱混乱的儿童蜡笔涂鸦插画风格。\n整体像是彩铅+蜡笔+手账贴纸+MS Paint涂鸦的结合。\n使用：粗糙线条、抖动边缘、不均匀上色、纸张纹理、彩铅叠色、蜡笔颗粒感、故意幼稚但很有灵气的画风。人物变成Q版萌系二次元风格，大眼睛，夸张表情，可爱活泼。\n背景加入大量doodle： https://t.co/StE9xyNpXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2059884967292010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYudsmbgAAPFwQ.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059884967292010496"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059885863954534853",
+        "created_at": "2026-05-28T06:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059885863954534853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/StE9xyNpXB",
+              "end": 171,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2059885863954534853/photo/1",
+              "media_key": "3_2059884967292010496",
+              "start": 148,
+              "url": "https://t.co/StE9xyNpXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059885863954534853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "把上传照片转化成一种可爱混乱的儿童蜡笔涂鸦插画风格。\n整体像是彩铅+蜡笔+手账贴纸+MS Paint涂鸦的结合。\n使用：粗糙线条、抖动边缘、不均匀上色、纸张纹理、彩铅叠色、蜡笔颗粒感、故意幼稚但很有灵气的画风。人物变成Q版萌系二次元风格，大眼睛，夸张表情，可爱活泼。\n背景加入大量doodle：\n爱心、星星、糖果、笑脸云朵、小花、贴纸、游戏U元素、乱涂乱画符号。\n颜色以：粉色、蓝色、紫色、黄色、薄荷色为主。整体氛围：可爱、混乱、梦幻、少女感、游戏宅手账风、互联网 kawaii, Kawaii aesthetic不要精致，不要高级商业插画感，不要真实渲染，不要干净线稿，保留“手绘失败感”和“乱涂鸦感”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把上传照片转化成一种可爱混乱的儿童蜡笔涂鸦插画风格。\n整体像是彩铅+蜡笔+手账贴纸+MS Paint涂鸦的结合。\n使用：粗糙线条、抖动边缘、不均匀上色、纸张纹理、彩铅叠色、蜡笔颗粒感、故意幼稚但很有灵气的画风。人物变成Q版萌系二次元风格，大眼睛，夸张表情，可爱活泼。\n背景加入大量doodle： https://t.co/StE9xyNpXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6555,
+          "following_count": 1012,
+          "like_count": 17655,
+          "listed_count": 24,
+          "media_count": 1792,
+          "tweet_count": 9816
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

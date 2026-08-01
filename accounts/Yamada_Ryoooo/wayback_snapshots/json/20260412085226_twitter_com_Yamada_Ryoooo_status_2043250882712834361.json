@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2043250882712834361",
+    "created_at": "2026-04-12T08:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043250882712834361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/igeekbb/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/igeekbb/status/2042933355533209740",
+          "start": 11,
+          "url": "https://t.co/xe0GXSxXOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043250882712834361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042933355533209740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "激活 Windows https://t.co/xe0GXSxXOz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2042933182987931659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFn05-_akAs55KO.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2043250882712834361",
+        "created_at": "2026-04-12T08:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043250882712834361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/igeekbb/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/igeekbb/status/2042933355533209740",
+              "start": 11,
+              "url": "https://t.co/xe0GXSxXOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043250882712834361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042933355533209740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "激活 Windows https://t.co/xe0GXSxXOz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042933182987931659"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2042933355533209740",
+        "created_at": "2026-04-11T11:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042933355533209740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n90lsi57E",
+              "end": 139,
+              "expanded_url": "https://x.com/igeekbb/status/2042933355533209740/photo/1",
+              "media_key": "3_2042933182987931659",
+              "start": 116,
+              "url": "https://t.co/7n90lsi57E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042933355533209740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 85679,
+          "like_count": 292,
+          "quote_count": 7,
+          "reply_count": 92,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "今天特别适合祭出这张图，2025年11月22日，中共浙江省委宣传部官方微信公众号“浙江宣传”发表文章，严厉批评了网络上“国家大事与月薪3000元的我没关系”的论调 。官方将这种剥离个人与国家的观点斥为受外部势力煽动的“荒唐认知”。 https://t.co/7n90lsi57E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6400,
+          "following_count": 1085,
+          "like_count": 17094,
+          "listed_count": 24,
+          "media_count": 1709,
+          "tweet_count": 9516
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70034,
+          "following_count": 1,
+          "like_count": 13797,
+          "listed_count": 298,
+          "media_count": 7195,
+          "tweet_count": 11361
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

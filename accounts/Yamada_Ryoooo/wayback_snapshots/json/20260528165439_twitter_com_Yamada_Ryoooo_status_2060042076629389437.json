@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2059889302612640147",
+    "created_at": "2026-05-28T16:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060042076629389437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        },
+        {
+          "end": 18,
+          "id": "2015213345847300096",
+          "start": 11,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060042076629389437",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060017512277066005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz @XynUnk 所以何意味是什么意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2059889302612640147",
+        "created_at": "2026-05-28T16:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060042076629389437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            },
+            {
+              "end": 18,
+              "id": "2015213345847300096",
+              "start": 11,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060042076629389437",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060017512277066005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz @XynUnk 所以何意味是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2059889302612640147",
+        "created_at": "2026-05-28T15:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060017512277066005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            },
+            {
+              "end": 22,
+              "id": "2015213345847300096",
+              "start": 15,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060017512277066005",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059896903303921831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo @XynUnk 原来何意味的意思是什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6557,
+          "following_count": 1013,
+          "like_count": 17668,
+          "listed_count": 24,
+          "media_count": 1793,
+          "tweet_count": 9824
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "分享思考和个人生活",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "番茄🍅",
+        "pinned_tweet_id": "2049492483005116859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1353,
+          "like_count": 329,
+          "listed_count": 2,
+          "media_count": 746,
+          "tweet_count": 2100
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "永远怀念@Unkxyn，我的2699fo啊😭|MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|she/her|年龄党+家长不管党|对象@Lvmaosamaqwq\n|生产日期11.13.2011|159cm50kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "2.✟Unk✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 627,
+          "like_count": 832,
+          "listed_count": 5,
+          "media_count": 18,
+          "tweet_count": 124
+        },
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}

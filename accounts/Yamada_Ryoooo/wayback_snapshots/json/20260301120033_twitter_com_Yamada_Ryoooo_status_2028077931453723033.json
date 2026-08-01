@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2028035769164775628",
+    "created_at": "2026-03-01T12:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T13:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028077931453723033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2000617411247251456",
+          "start": 0,
+          "username": "yupi996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028077931453723033",
+    "in_reply_to_user_id": "2000617411247251456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028035769164775628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yupi996 oai终于把自己作死了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028035688457965568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUHtrJaEAA-DIo.jpg",
+        "width": 2752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2028035769164775628",
+        "created_at": "2026-03-01T12:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028077931453723033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2000617411247251456",
+              "start": 0,
+              "username": "yupi996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028077931453723033",
+        "in_reply_to_user_id": "2000617411247251456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028035769164775628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yupi996 oai终于把自己作死了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028035688457965568"
+          ]
+        },
+        "author_id": "2000617411247251456",
+        "conversation_id": "2028035769164775628",
+        "created_at": "2026-03-01T09:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028035769164775628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUXG3XIsnK",
+              "end": 195,
+              "expanded_url": "https://x.com/yupi996/status/2028035769164775628/photo/1",
+              "media_key": "3_2028035688457965568",
+              "start": 172,
+              "url": "https://t.co/cUXG3XIsnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028035769164775628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大快人心，白宫宣布封杀 Claude！😂\n\n上周五特朗普签了个令，全面封杀 Anthropic，联邦政府所有机构都不许再用 Claude。\n\n起因是五角大楼要求 Anthropic 把 Claude 的安全限制全部拆掉，让军方拿去搞大规模监控和全自动武器。但 Anthropic 的 CEO 达里奥死活不同意，坚守两条底线不让步：不能用 AI 大规模监控美国公民，不能让 AI 在没有人类监督的情况下自己决定开火。（言下之意是可以监控别的国家的公民？）\n\n这下五角大楼急眼了，骂达里奥是骗子、上帝情结，拿着 2 亿美元的军事合同下了最后通牒：周五下午 5 点半之前不答应，就把 Anthropic 列为「供应链风险」。这种 “待遇” 以前只给过外国敌对势力，比如华为、卡巴斯基这种级别的，现在居然拍在了自己国家的 AI 公司头上？？？\n\n达里奥倒是不怂，到点儿了也没松口。然后特朗普亲自下场发帖骂 Anthropic 是「左翼疯子」，紧接着国防部长 Hegseth 正式宣布封杀，所有跟军方做生意的企业都不许再碰 Anthropic 的任何东西。\n\n你以为事情到这里就结束了？后面的反转才是真正精彩的部分，小说都不敢这么写……\n\nAnthropic 被封杀还不到一个小时，OpenAI 就官宣拿下了五角大楼的军事 AI 合同。但打脸的是，超过 200 名 Google 和 OpenAI 的员工声援 Anthropic，高呼 “我们不会被分化！” 甚至有的 OpenAI 员工公开表示考虑离开。\n\n接下来，用户开始用脚投票。全网掀起了 QuitGPT 运动，大量用户取消了 ChatGPT 订阅转投 Claude，连美国歌手 Katy Perry 都发了 Claude Pro 订阅截图表示支持。导致 Anthropic 的免费用户暴涨了 60%，付费用户直接翻倍，Claude 的 App Store 排名一路从 100 名开外飙到全美第一，反超了 ChatGPT！\n\n你可能会好奇，为什么 Anthropic 敢跟五角大楼正面硬钢？被封杀了不心疼吗？\n\n其实 Anthropic 刚融完 300 亿美元，估值 3800 亿，那 2 亿美元的合同对它来说就是个零头。但五角大楼真正狠的不是取消这一单，而是「供应链风险」这个标签会让所有军方承包商都不敢再碰 Anthropic，连 Palantir、AWS 这些巨头都得跟着切割，要把你 Claude 从整个国防生态里连根拔掉！\n\n但即便如此，Anthropic 这回是真正赢了人心。我自己重度使用 Claude 写代码，它目前确实是 AI 编程领域最能打的，做出这个产品的公司，敢顶着白宫和五角大楼的压力说不，真的是有实力就无所畏惧。反观 OpenAI，CEO 奥特曼嘴上说 “我们跟 Anthropic 有相同的红线”，结果 Anthropic 刚被封杀，他转身就把军事合同签了，嘴上讲原则，身体却很诚实，难怪自己员工都看不下去了。\n\n让我细思极恐的是，就算 Anthropic 这次顶住了，可下一家 AI 公司敢说不吗？当所有 AI 公司都乖乖听话的时候，谁来决定 AI 能干什么、不能干什么？到时候被 AI 监控的可不只是美国人。目前 Anthropic 已经宣布要上法庭挑战这个封杀令了，这事还远没结束，后面会怎么发展呢？让我们敬请期待。。。\n\n这波儿你支持 Anthropic 还是 OpenAI？如果是你来当 Anthropic 的 CEO，你会坚持自己的底线么？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1342,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大快人心，白宫宣布封杀 Claude！😂\n\n上周五特朗普签了个令，全面封杀 Anthropic，联邦政府所有机构都不许再用 Claude。\n\n起因是五角大楼要求 Anthropic 把 Claude 的安全限制全部拆掉，让军方拿去搞大规模监控和全自动武器。但 Anthropic 的 CEO 达里奥死活不同意，坚守两条底线不让步：不能用 AI https://t.co/cUXG3XIsnK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5944,
+          "following_count": 1067,
+          "like_count": 16218,
+          "listed_count": 21,
+          "media_count": 1534,
+          "tweet_count": 8990
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T17:22:30.000Z",
+        "description": "专注 AI + 编程教育 | 编程导航站长 https://t.co/89dNxo4a3J\n⭐️ 全网 200w 关注，独立开发→腾讯全栈→创业中\n😈 项目狂魔，10+上线产品，GitHub 20k+ followers\n❤️ 感谢关注，目标 2w 粉！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "codefather.cn",
+                "end": 45,
+                "expanded_url": "http://codefather.cn",
+                "start": 22,
+                "url": "https://t.co/89dNxo4a3J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/liyupi",
+                "end": 23,
+                "expanded_url": "https://github.com/liyupi",
+                "start": 0,
+                "url": "https://t.co/zfKcqO4pft"
+              }
+            ]
+          }
+        },
+        "id": "2000617411247251456",
+        "location": "China",
+        "name": "程序员鱼皮",
+        "pinned_tweet_id": "2000880272112542163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000617981035044864/5pXwSkUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16686,
+          "following_count": 221,
+          "like_count": 181,
+          "listed_count": 92,
+          "media_count": 123,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/zfKcqO4pft",
+        "username": "yupi996",
+        "verified": true
+      }
+    ]
+  }
+}

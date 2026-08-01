@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013106769174601900",
+    "created_at": "2026-01-20T06:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T07:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013493539871826099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "742295005",
+          "start": 0,
+          "username": "LaplaceTong"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在中国使用各种api的代理，采用workers部署，0成本. Contribute to Yamada-Ryo4/API-Proxy development by creating an account on GitHub.",
+          "display_url": "github.com/Yamada-Ryo4/AP…",
+          "end": 57,
+          "expanded_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+          "start": 34,
+          "status": 200,
+          "title": "GitHub - Yamada-Ryo4/API-Proxy: 在中国使用各种api的代理，采用workers部署，0成本",
+          "unwound_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+          "url": "https://t.co/74N4gEb85Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013493539871826099",
+    "in_reply_to_user_id": "742295005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013106769174601900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaplaceTong 搞个反代就好了\n可以参考一下我的这个项目\nhttps://t.co/74N4gEb85Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013106769174601900",
+        "created_at": "2026-01-20T06:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013493539871826099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "742295005",
+              "start": 0,
+              "username": "LaplaceTong"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在中国使用各种api的代理，采用workers部署，0成本. Contribute to Yamada-Ryo4/API-Proxy development by creating an account on GitHub.",
+              "display_url": "github.com/Yamada-Ryo4/AP…",
+              "end": 57,
+              "expanded_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+              "start": 34,
+              "status": 200,
+              "title": "GitHub - Yamada-Ryo4/API-Proxy: 在中国使用各种api的代理，采用workers部署，0成本",
+              "unwound_url": "https://github.com/Yamada-Ryo4/API-Proxy",
+              "url": "https://t.co/74N4gEb85Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013493539871826099",
+        "in_reply_to_user_id": "742295005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013106769174601900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaplaceTong 搞个反代就好了\n可以参考一下我的这个项目\nhttps://t.co/74N4gEb85Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742295005",
+        "conversation_id": "2013106769174601900",
+        "created_at": "2026-01-19T04:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013106769174601900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013106769174601900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19464,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了\n公司禁掉了 Gemini 的域名\n我的摸鱼搭子没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 1079,
+          "like_count": 15071,
+          "listed_count": 21,
+          "media_count": 1476,
+          "tweet_count": 8566
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-07T06:22:12.000Z",
+        "description": "🌈 NJ/HZ Enlightened | 高级拉群工程师 | SQLBOY | 工作是在草台班子装疯卖傻  | 前半生有故事后半生还有故事 | JRPG 爱好者｜探索生活的方向中｜会共情会无情",
+        "id": "742295005",
+        "name": "Laplace",
+        "pinned_tweet_id": "1876900140687950047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644335533093703683/km-p7srp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 298,
+          "like_count": 6732,
+          "listed_count": 5,
+          "media_count": 2016,
+          "tweet_count": 17605
+        },
+        "username": "LaplaceTong",
+        "verified": true
+      }
+    ]
+  }
+}

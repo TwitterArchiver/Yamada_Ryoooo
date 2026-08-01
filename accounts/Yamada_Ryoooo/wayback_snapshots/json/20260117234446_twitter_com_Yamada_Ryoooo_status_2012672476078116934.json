@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2012452100077494456",
+    "created_at": "2026-01-17T23:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012672476078116934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3007509396",
+          "start": 0,
+          "username": "pengchujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012672476078116934",
+    "in_reply_to_user_id": "3007509396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012452100077494456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pengchujin 可以点点互关嘛\n我才2%的premium follower，我也想领老马的低保🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2012452094251614208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2qhG1bwAA6xMl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2012452100077494456",
+        "created_at": "2026-01-17T23:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012672476078116934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3007509396",
+              "start": 0,
+              "username": "pengchujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012672476078116934",
+        "in_reply_to_user_id": "3007509396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012452100077494456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pengchujin 可以点点互关嘛\n我才2%的premium follower，我也想领老马的低保🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012452094251614208"
+          ]
+        },
+        "author_id": "3007509396",
+        "conversation_id": "2012452100077494456",
+        "created_at": "2026-01-17T09:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012452100077494456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSYBSdhCzs",
+              "end": 45,
+              "expanded_url": "https://x.com/pengchujin/status/2012452100077494456/photo/1",
+              "media_key": "3_2012452094251614208",
+              "start": 22,
+              "url": "https://t.co/bSYBSdhCzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012452100077494456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8269,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特收益好少，好难受(｡•́︿•̀｡) https://t.co/bSYBSdhCzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5206,
+          "following_count": 696,
+          "like_count": 14349,
+          "listed_count": 21,
+          "media_count": 1448,
+          "tweet_count": 8394
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-02T05:01:41.000Z",
+        "description": "ⓘ 该账号已封禁",
+        "id": "3007509396",
+        "name": "酱紫表",
+        "pinned_tweet_id": "1946905261165457594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772530812078239744/aPK5wde3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56710,
+          "following_count": 642,
+          "like_count": 1872,
+          "listed_count": 375,
+          "media_count": 884,
+          "tweet_count": 2953
+        },
+        "username": "pengchujin",
+        "verified": true
+      }
+    ]
+  }
+}

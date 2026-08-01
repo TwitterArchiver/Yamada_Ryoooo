@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024021917158760448"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2024001162693767552",
+    "created_at": "2026-02-18T07:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024021924360183809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/snbwpCTJCf",
+          "end": 31,
+          "expanded_url": "https://x.com/Yamada_Ryoooo/status/2024021924360183809/photo/1",
+          "media_key": "3_2024021917158760448",
+          "start": 8,
+          "url": "https://t.co/snbwpCTJCf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024021924360183809",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024020331204165690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG https://t.co/snbwpCTJCf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024021917158760448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbFNb3aYAAePJt.jpg",
+        "width": 1022
+      },
+      {
+        "height": 522,
+        "media_key": "3_2024020327110766594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbDw4ebcAILeX5.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024021917158760448"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2024001162693767552",
+        "created_at": "2026-02-18T07:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024021924360183809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snbwpCTJCf",
+              "end": 31,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2024021924360183809/photo/1",
+              "media_key": "3_2024021917158760448",
+              "start": 8,
+              "url": "https://t.co/snbwpCTJCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024021924360183809",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024020331204165690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG https://t.co/snbwpCTJCf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024020327110766594"
+          ]
+        },
+        "author_id": "1818315659673210880",
+        "conversation_id": "2024001162693767552",
+        "created_at": "2026-02-18T07:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024020331204165690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0iRiZHTUN",
+              "end": 38,
+              "expanded_url": "https://x.com/NeK1GG/status/2024020331204165690/photo/1",
+              "media_key": "3_2024020327110766594",
+              "start": 15,
+              "url": "https://t.co/c0iRiZHTUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024020331204165690",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024001162693767552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo https://t.co/c0iRiZHTUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 1077,
+          "like_count": 15937,
+          "listed_count": 22,
+          "media_count": 1525,
+          "tweet_count": 8901
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "我渺于一粒细尘，却又长于永恒。\nActive on TG：https://t.co/APvtJZ4EV0  DC：https://t.co/sUPqObKH22 新逃生舱@Nek1LvHuman 注意本账号可能出现负能量内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Nek1LvHuman"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Nek1A",
+                "end": 52,
+                "expanded_url": "http://t.me/Nek1A",
+                "start": 29,
+                "url": "https://t.co/APvtJZ4EV0"
+              },
+              {
+                "display_url": "discord.gg/VP4QFGnd",
+                "end": 80,
+                "expanded_url": "https://discord.gg/VP4QFGnd",
+                "start": 57,
+                "url": "https://t.co/sUPqObKH22"
+              }
+            ]
+          }
+        },
+        "id": "1818315659673210880",
+        "location": "Oslo, Norway",
+        "name": "Nek1🇳🇴🍎🍮✨",
+        "pinned_tweet_id": "2001283482765418994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999839513816776704/ErVtksyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 1259,
+          "like_count": 45410,
+          "listed_count": 5,
+          "media_count": 644,
+          "tweet_count": 9929
+        },
+        "username": "NeK1GG",
+        "verified": false
+      }
+    ]
+  }
+}

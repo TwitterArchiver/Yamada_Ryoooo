@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2008216983628902879",
+    "created_at": "2026-01-06T02:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T03:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008367739430183228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "371296701",
+          "start": 0,
+          "username": "fkysly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008367739430183228",
+    "in_reply_to_user_id": "371296701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008216983628902879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fkysly 开源平替\n那我为啥不用cc？都能用自己的api啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2008216983628902879",
+        "created_at": "2026-01-06T02:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T03:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008367739430183228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "371296701",
+              "start": 0,
+              "username": "fkysly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008367739430183228",
+        "in_reply_to_user_id": "371296701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008216983628902879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fkysly 开源平替\n那我为啥不用cc？都能用自己的api啊"
+      },
+      {
+        "article": {
+          "title": "OpenCode 和 oh-my-opencode 简单科普"
+        },
+        "attachments": {},
+        "author_id": "371296701",
+        "conversation_id": "2008216983628902879",
+        "created_at": "2026-01-05T16:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008216983628902879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2008…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2008214521350156289",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2008214521350156289",
+              "url": "https://t.co/4OKnV216Ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008216983628902879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 7920,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4OKnV216Ab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 675,
+          "like_count": 14143,
+          "listed_count": 21,
+          "media_count": 1438,
+          "tweet_count": 8260
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-10T15:39:19.000Z",
+        "description": "Indie hacker & AI.",
+        "id": "371296701",
+        "location": "杭州",
+        "name": "马天翼",
+        "pinned_tweet_id": "2007671058770575461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501005566378135553/YK4O_gYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7668,
+          "following_count": 458,
+          "like_count": 134,
+          "listed_count": 69,
+          "media_count": 189,
+          "tweet_count": 2062
+        },
+        "username": "fkysly",
+        "verified": true
+      }
+    ]
+  }
+}

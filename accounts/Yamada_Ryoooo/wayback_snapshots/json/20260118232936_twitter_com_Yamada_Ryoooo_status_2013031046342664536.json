@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2013027600353165725",
+    "created_at": "2026-01-18T23:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T00:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013031046342664536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1131081637423226880",
+          "start": 0,
+          "username": "Rogan1990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013031046342664536",
+    "in_reply_to_user_id": "1131081637423226880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013027600353165725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rogan1990 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2013027600353165725",
+        "created_at": "2026-01-18T23:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013031046342664536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1131081637423226880",
+              "start": 0,
+              "username": "Rogan1990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013031046342664536",
+        "in_reply_to_user_id": "1131081637423226880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013027600353165725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rogan1990 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1131081637423226880",
+        "conversation_id": "2013027600353165725",
+        "created_at": "2026-01-18T23:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T00:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013027600353165725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "蓝V互关"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013027600353165725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日打卡 互关、互赞、互评，也许你是刚刚开始，也许你已经过了基础门槛，也许你在想5M流量，也许你想提高奖赏率，总之我们一起维护中文超级社区的繁华吧。#蓝V互关  没有及时回关的小伙伴，等我哈都会一一回关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5619,
+          "following_count": 1118,
+          "like_count": 14872,
+          "listed_count": 21,
+          "media_count": 1467,
+          "tweet_count": 8603
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-22T06:17:31.000Z",
+        "description": "INFJ+天秤座+Rh(-) 诚信互关",
+        "id": "1131081637423226880",
+        "location": "亚洲动物园",
+        "name": "争议漫谈",
+        "pinned_tweet_id": "2012724920074285270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010196035524530176/4wue8iBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 378,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 337
+        },
+        "username": "Rogan1990",
+        "verified": true
+      }
+    ]
+  }
+}

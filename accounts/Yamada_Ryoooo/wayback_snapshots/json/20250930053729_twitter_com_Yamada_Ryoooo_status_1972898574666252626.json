@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1972868523497247178",
+    "created_at": "2025-09-30T05:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972898574666252626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792575947469975552",
+          "start": 0,
+          "username": "Chigine1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972898574666252626",
+    "in_reply_to_user_id": "1792575947469975552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972898456563011984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chigine1 哎小唐不乘哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1972868523497247178",
+        "created_at": "2025-09-30T05:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972898574666252626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792575947469975552",
+              "start": 0,
+              "username": "Chigine1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972898574666252626",
+        "in_reply_to_user_id": "1792575947469975552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972898456563011984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chigine1 哎小唐不乘哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1972868523497247178",
+        "created_at": "2025-09-30T05:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972898456563011984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972898456563011984",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972898121731703208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 他手机号瞎填的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927560801289715712/_E1ZAy5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4431,
+          "following_count": 682,
+          "like_count": 13212,
+          "listed_count": 20,
+          "media_count": 1343,
+          "tweet_count": 7628
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "“亮点”收集了我历年所有置顶帖 发疯文字和键政内容（正在减少键政） 看不懂哲学 一个漂浮在中国大陆的幽灵 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话/英语 CPMandarin/Mandarin/English 病娇控 永锁小号：@chigine0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 144,
+                "username": "chigine0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9biUK"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊보시라이、",
+        "pinned_tweet_id": "1963028334423769402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1118,
+          "like_count": 69697,
+          "listed_count": 10,
+          "media_count": 1283,
+          "tweet_count": 14517
+        },
+        "url": "https://t.co/Ii6gF9biUK",
+        "username": "Chigine1",
+        "verified": false
+      }
+    ]
+  }
+}

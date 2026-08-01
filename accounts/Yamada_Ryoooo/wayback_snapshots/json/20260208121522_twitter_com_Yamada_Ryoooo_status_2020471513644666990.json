@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2020388816591425716",
+    "created_at": "2026-02-08T12:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020471513644666990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4872683112",
+          "start": 0,
+          "username": "neko_0xFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020471513644666990",
+    "in_reply_to_user_id": "4872683112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020445371340661112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_0xFF 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2020388816591425716",
+        "created_at": "2026-02-08T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020471513644666990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4872683112",
+              "start": 0,
+              "username": "neko_0xFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020471513644666990",
+        "in_reply_to_user_id": "4872683112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020445371340661112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_0xFF 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4872683112",
+        "conversation_id": "2020388816591425716",
+        "created_at": "2026-02-08T10:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020445371340661112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020445371340661112",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020388816591425716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 主要是台灣公家單位的現有政策（尤其國防類的更敏感）： 能不採購就不採購（包含機器使用的晶片方案），且對現有已採購的馬上進行汱換／禁止使用\n* 且若抓到有問題，則該廠商就不能再＜競標＞其它的案子（算水較深的部分）且會賠很慘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5936,
+          "following_count": 1077,
+          "like_count": 15704,
+          "listed_count": 22,
+          "media_count": 1519,
+          "tweet_count": 8820
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-07T08:39:16.000Z",
+        "description": "Taiwanese | 學店仔(目前待在某間小間外包IT 的硬體SI) | They(中性+友跨) |《社交+口語障礙 +學渣》(unstable) | IN*J | Like : Linux(主力系統)+維護一些Windows的機器,百合,JK,貓娘,携帶,社會議題（弱勢優先）｜如有誤B請DM @neko_0x00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 149,
+                "username": "neko_0x00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko0xff",
+                "end": 23,
+                "expanded_url": "https://github.com/neko0xff",
+                "start": 0,
+                "url": "https://t.co/V0Q09JcFZY"
+              }
+            ]
+          }
+        },
+        "id": "4872683112",
+        "location": "Taiwan",
+        "name": "Neko ◣ 0xFF",
+        "pinned_tweet_id": "1436968737236652042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744513399898398720/Eapv7-O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 976,
+          "like_count": 144749,
+          "listed_count": 11,
+          "media_count": 4814,
+          "tweet_count": 20922
+        },
+        "url": "https://t.co/V0Q09JcFZY",
+        "username": "neko_0xFF",
+        "verified": false
+      }
+    ]
+  }
+}

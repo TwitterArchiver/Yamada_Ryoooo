@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2063615083209764952",
+    "created_at": "2026-06-07T13:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063615083209764952"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063615083209764952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭我没有大学上了！！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2063615083209764952",
+        "created_at": "2026-06-07T13:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063615083209764952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063615083209764952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭我没有大学上了！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊啊啊！！！！😭😭😭我没有大学上了！！！怎么这个点才醒啊啊啊啊啊？？？！😨为什么推友不叫我！😰错过高考了啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6552,
+          "following_count": 1011,
+          "like_count": 17798,
+          "listed_count": 23,
+          "media_count": 1803,
+          "tweet_count": 9893
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

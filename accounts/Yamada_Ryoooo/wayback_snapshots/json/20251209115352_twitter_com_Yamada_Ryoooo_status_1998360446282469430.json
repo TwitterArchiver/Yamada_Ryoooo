@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "1998360446282469430",
+    "created_at": "2025-12-09T11:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998360446282469430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/furinadf/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/furinadf/status/1998354494954873247",
+          "start": 11,
+          "url": "https://t.co/Qvedm75yTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998360446282469430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998354494954873247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到后面两张瞳孔地震 https://t.co/Qvedm75yTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "https://t.me/LangRenNews6324/11193",
+        "height": 1280,
+        "media_key": "3_1998354459773251584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uUyx4aMAAI9zG.jpg",
+        "width": 890
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1998354459202859008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uUyvwasAANRWC.jpg",
+        "width": 890
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1998354462583488512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uUy8WbAAAnVG0.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "1998360446282469430",
+        "created_at": "2025-12-09T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998360446282469430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furinadf/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/furinadf/status/1998354494954873247",
+              "start": 11,
+              "url": "https://t.co/Qvedm75yTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998360446282469430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998354494954873247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到后面两张瞳孔地震 https://t.co/Qvedm75yTs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998354459773251584",
+            "3_1998354459202859008",
+            "3_1998354462583488512"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1998354494954873247",
+        "created_at": "2025-12-09T11:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998354494954873247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T43VV3pS2V",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1998354494954873247/photo/1",
+              "media_key": "3_1998354459773251584",
+              "start": 20,
+              "url": "https://t.co/T43VV3pS2V"
+            },
+            {
+              "display_url": "pic.x.com/T43VV3pS2V",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1998354494954873247/photo/1",
+              "media_key": "3_1998354459202859008",
+              "start": 20,
+              "url": "https://t.co/T43VV3pS2V"
+            },
+            {
+              "display_url": "pic.x.com/T43VV3pS2V",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1998354494954873247/photo/1",
+              "media_key": "3_1998354462583488512",
+              "start": 20,
+              "url": "https://t.co/T43VV3pS2V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998354494954873247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1033,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国，爆发，福瑞控在公交车上泼尿革命！ https://t.co/T43VV3pS2V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜提問箱https://t.co/8bcsLpdjoq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 108,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 85,
+                "url": "https://t.co/8bcsLpdjoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCanGW"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "1992265007657275586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5382,
+          "following_count": 681,
+          "like_count": 13920,
+          "listed_count": 20,
+          "media_count": 1418,
+          "tweet_count": 8127
+        },
+        "url": "https://t.co/B7V9JCanGW",
+        "username": "Yamada_Ryoooo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "你好呀@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64225,
+          "following_count": 2374,
+          "like_count": 30033,
+          "listed_count": 186,
+          "media_count": 7937,
+          "tweet_count": 12599
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

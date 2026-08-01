@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2058751513376457168",
+    "created_at": "2026-05-25T09:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T10:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058839987983122887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1686801573132017664",
+          "start": 0,
+          "username": "0xFxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058839987983122887",
+    "in_reply_to_user_id": "1686801573132017664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058751513376457168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xFxF 卓越会员可以开联名卡返点4%"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2248,
+        "media_key": "3_2058750540725821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJImtYUbIAA1KLA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058750535935897600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJImtGeasAA1G4G.jpg",
+        "width": 1115
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058750540721659905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJImtYTboAE13Ae.jpg",
+        "width": 961
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058750540939767809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJImtZHbsAELBrd.jpg",
+        "width": 965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2058751513376457168",
+        "created_at": "2026-05-25T09:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058839987983122887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1686801573132017664",
+              "start": 0,
+              "username": "0xFxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058839987983122887",
+        "in_reply_to_user_id": "1686801573132017664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058751513376457168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xFxF 卓越会员可以开联名卡返点4%"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058750540725821440",
+            "3_2058750535935897600",
+            "3_2058750540721659905",
+            "3_2058750540939767809"
+          ]
+        },
+        "author_id": "1686801573132017664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058751513376457168",
+        "created_at": "2026-05-25T03:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:22:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058750543359770818",
+          "2058751513376457168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glmejfvoSd",
+              "end": 165,
+              "expanded_url": "https://x.com/0xFxF/status/2058751513376457168/photo/1",
+              "media_key": "3_2058750540725821440",
+              "start": 142,
+              "url": "https://t.co/glmejfvoSd"
+            },
+            {
+              "display_url": "pic.x.com/glmejfvoSd",
+              "end": 165,
+              "expanded_url": "https://x.com/0xFxF/status/2058751513376457168/photo/1",
+              "media_key": "3_2058750535935897600",
+              "start": 142,
+              "url": "https://t.co/glmejfvoSd"
+            },
+            {
+              "display_url": "pic.x.com/glmejfvoSd",
+              "end": 165,
+              "expanded_url": "https://x.com/0xFxF/status/2058751513376457168/photo/1",
+              "media_key": "3_2058750540721659905",
+              "start": 142,
+              "url": "https://t.co/glmejfvoSd"
+            },
+            {
+              "display_url": "pic.x.com/glmejfvoSd",
+              "end": 165,
+              "expanded_url": "https://x.com/0xFxF/status/2058751513376457168/photo/1",
+              "media_key": "3_2058750540939767809",
+              "start": 142,
+              "url": "https://t.co/glmejfvoSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058751513376457168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10669,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来没有去过山姆超市，但我有它的会员卡。\n\n山姆会员店其实十年前就上线了京东，\n\n翻出来我 2018 年还办过山姆会员卡，和线下一样是 260 会员费，但少了线下逛超市的体验。😂\n\n毕竟十年前山姆超市在全国只有 15 家店，全在大城市。\n\n会员卡后来也不续费了，因为根本回不了本🥹 https://t.co/glmejfvoSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Nishi-Tokyo-shi, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.5383,
+                  35.72526
+                ],
+                "type": "Point"
+              },
+              "locality": "Nishi-Tokyo-shi",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1012,
+          "like_count": 17597,
+          "listed_count": 24,
+          "media_count": 1789,
+          "tweet_count": 9797
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-02T18:10:28.000Z",
+        "description": "干中学",
+        "id": "1686801573132017664",
+        "name": "𝟎𝐱𝐅 🏴‍☠️",
+        "pinned_tweet_id": "2053001375597080679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044816403715518464/voEZjaAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 1434,
+          "like_count": 935,
+          "listed_count": 15,
+          "media_count": 131,
+          "tweet_count": 933
+        },
+        "username": "0xFxF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2018657135207567452",
+    "created_at": "2026-02-03T12:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018657135207567452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvtgw666/statu…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/lvtgw666/status/2018252159201288269",
+          "start": 69,
+          "url": "https://t.co/rfUKVgAmnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018657135207567452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018252159201288269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女儿说的对\n评论区里面的只看到最后一句话而没有想到女儿是经历了怎么样的痛苦以后才会说出身边一个人都靠不住这样的话\n这种父母真的不配生孩子 https://t.co/rfUKVgAmnR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2018252150217019392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJFozDakAAq2ZO.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2018657135207567452",
+        "created_at": "2026-02-03T12:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018657135207567452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvtgw666/statu…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/lvtgw666/status/2018252159201288269",
+              "start": 69,
+              "url": "https://t.co/rfUKVgAmnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018657135207567452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018252159201288269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女儿说的对\n评论区里面的只看到最后一句话而没有想到女儿是经历了怎么样的痛苦以后才会说出身边一个人都靠不住这样的话\n这种父母真的不配生孩子 https://t.co/rfUKVgAmnR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018252150217019392"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2018252159201288269",
+        "created_at": "2026-02-02T09:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T10:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018252159201288269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xPIUtIw12L",
+              "end": 29,
+              "expanded_url": "https://x.com/LVTGW666/status/2018252159201288269/photo/1",
+              "media_key": "3_2018252150217019392",
+              "start": 6,
+              "url": "https://t.co/xPIUtIw12L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018252159201288269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 128835,
+          "like_count": 281,
+          "quote_count": 4,
+          "reply_count": 55,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "太现代性了 https://t.co/xPIUtIw12L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5947,
+          "following_count": 1078,
+          "like_count": 15593,
+          "listed_count": 21,
+          "media_count": 1511,
+          "tweet_count": 8762
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2009674666114461914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64080,
+          "following_count": 890,
+          "like_count": 13788,
+          "listed_count": 274,
+          "media_count": 3231,
+          "tweet_count": 10295
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

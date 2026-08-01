@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2066148172146303109",
+    "created_at": "2026-06-14T13:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066154847100149907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "709787332254117888",
+          "start": 0,
+          "username": "howie_serious"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066154847100149907",
+    "in_reply_to_user_id": "709787332254117888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066148172146303109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@howie_serious 右下角那么大一个wan一看就是后期ai的啊…怎么可能实时生成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2066148172146303109",
+        "created_at": "2026-06-14T13:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066154847100149907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "709787332254117888",
+              "start": 0,
+              "username": "howie_serious"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066154847100149907",
+        "in_reply_to_user_id": "709787332254117888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066148172146303109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@howie_serious 右下角那么大一个wan一看就是后期ai的啊…怎么可能实时生成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "709787332254117888",
+        "conversation_id": "2066148172146303109",
+        "created_at": "2026-06-14T13:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066148172146303109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vincentlogic/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/vincentlogic/status/2065834789278449786",
+              "start": 63,
+              "url": "https://t.co/Npj0ZkE9vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066148172146303109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 949,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065834789278449786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种垃圾内容，为什么在推上流量这么大？\n\n胡编乱造，啥都往 claude fable 上扯，侮辱智商。\n\np.s. 已拉黑。 https://t.co/Npj0ZkE9vc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6553,
+          "following_count": 1019,
+          "like_count": 17908,
+          "listed_count": 22,
+          "media_count": 1808,
+          "tweet_count": 9951
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-15T17:04:22.000Z",
+        "description": "purity of thought. be exactly who you are : just a serious man. 思想纯净，做好自己：严肃对待自己的兴趣，不要浮皮潦草。\n\n公众号：howie和小能熊\nyoutube：https://t.co/J1aSMKnUFo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@howieserious",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@howieserious",
+                "start": 115,
+                "url": "https://t.co/J1aSMKnUFo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt.candobear.com",
+                "end": 23,
+                "expanded_url": "https://gpt.candobear.com",
+                "start": 0,
+                "url": "https://t.co/CpwBqd0mg1"
+              }
+            ]
+          }
+        },
+        "id": "709787332254117888",
+        "location": "beijing",
+        "name": "howie.serious",
+        "pinned_tweet_id": "2009058742776848520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/738174666309652480/UgeKnQOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53425,
+          "following_count": 384,
+          "like_count": 5018,
+          "listed_count": 742,
+          "media_count": 2552,
+          "tweet_count": 7928
+        },
+        "url": "https://t.co/CpwBqd0mg1",
+        "username": "howie_serious",
+        "verified": true
+      }
+    ]
+  }
+}

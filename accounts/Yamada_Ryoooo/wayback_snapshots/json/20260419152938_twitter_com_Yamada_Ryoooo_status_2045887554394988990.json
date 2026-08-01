@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2045887554394988990",
+    "created_at": "2026-04-19T15:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045887554394988990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1653260843323383808",
+          "start": 3,
+          "username": "skyJiLine"
+        },
+        {
+          "end": 30,
+          "id": "1879280309608554496",
+          "start": 15,
+          "username": "CherryStudioHQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "analytics.cherry-ai.com",
+          "end": 122,
+          "expanded_url": "http://analytics.cherry-ai.com",
+          "start": 99,
+          "status": 401,
+          "unwound_url": "http://analytics.cherry-ai.com",
+          "url": "https://t.co/PvDyTPVext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045887554394988990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045857393280778679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyJiLine: @CherryStudioHQ 貌似您家的 Cherry Studio 自从 2026 年 2 月 10 日开始无视 **匿名发送错误报告和数据统计** 功能，持续向 https://t.co/PvDyTPVext 发送个人隐私信息，我需要贵企 *…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045887554394988990].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045887554394988990",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045887554394988990"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1977,
+        "media_key": "3_2045857237713981442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRYUXsakAIPKM5.jpg",
+        "width": 2081
+      },
+      {
+        "height": 275,
+        "media_key": "3_2045857363564064769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRYbshacAEuwO9.jpg",
+        "width": 2022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045857237713981442",
+            "3_2045857363564064769"
+          ]
+        },
+        "author_id": "1653260843323383808",
+        "conversation_id": "2045857393280778679",
+        "created_at": "2026-04-19T13:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045857393280778679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879280309608554496",
+              "start": 0,
+              "username": "CherryStudioHQ"
+            },
+            {
+              "end": 189,
+              "id": "1602320477347000325",
+              "start": 177,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "analytics.cherry-ai.com",
+              "end": 107,
+              "expanded_url": "http://analytics.cherry-ai.com",
+              "start": 84,
+              "status": 401,
+              "unwound_url": "http://analytics.cherry-ai.com",
+              "url": "https://t.co/PvDyTPVext"
+            },
+            {
+              "description": "NoteThis issue was translated by Claude. Issue Checklist I understand that issues are meant for feedback and problem-solving, not for venting, and I will provide as much detail as possible to help ...",
+              "display_url": "github.com/CherryHQ/cherr…",
+              "end": 175,
+              "expanded_url": "https://github.com/CherryHQ/cherry-studio/issues/14387",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2045857400192974848/S0U2HHTr?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045857400192974848/S0U2HHTr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "[Discussion]: Suspicious telemetry connection to cherry-ai.com persists after disabling auto-updates/anonymous analytics · Issue #14387 · CherryHQ/cherry-studio",
+              "unwound_url": "https://github.com/CherryHQ/cherry-studio/issues/14387",
+              "url": "https://t.co/CuHi2cJ8P9"
+            },
+            {
+              "display_url": "pic.x.com/8QHyl38CZu",
+              "end": 213,
+              "expanded_url": "https://x.com/skyJiLine/status/2045857393280778679/photo/1",
+              "media_key": "3_2045857237713981442",
+              "start": 190,
+              "url": "https://t.co/8QHyl38CZu"
+            },
+            {
+              "display_url": "pic.x.com/8QHyl38CZu",
+              "end": 213,
+              "expanded_url": "https://x.com/skyJiLine/status/2045857393280778679/photo/1",
+              "media_key": "3_2045857363564064769",
+              "start": 190,
+              "url": "https://t.co/8QHyl38CZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045857393280778679",
+        "in_reply_to_user_id": "1879280309608554496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3521,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "@CherryStudioHQ 貌似您家的 Cherry Studio 自从 2026 年 2 月 10 日开始无视 **匿名发送错误报告和数据统计** 功能，持续向 https://t.co/PvDyTPVext 发送个人隐私信息，我需要贵企 **上海千彗科技有限公司** 给出一个合理的解释\n\n参见 https://t.co/CuHi2cJ8P9\n\n@landiantech https://t.co/8QHyl38CZu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6439,
+          "following_count": 1092,
+          "like_count": 17185,
+          "listed_count": 24,
+          "media_count": 1744,
+          "tweet_count": 9573
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T04:51:31.000Z",
+        "description": "Furry但浓度不高 | 🔞NSFW警告(♂/♀都可能有) | 🏳️‍🌈Asexual无性恋偏同 | ❤️ 爱人@foxerine_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "foxerine_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyjiline",
+                "end": 23,
+                "expanded_url": "https://ngl.link/skyjiline",
+                "start": 0,
+                "url": "https://t.co/jrmnKPs0tG"
+              }
+            ]
+          }
+        },
+        "id": "1653260843323383808",
+        "location": "127.0.0.1",
+        "name": "天迹线",
+        "pinned_tweet_id": "1957835868976345415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984975269481082881/Zt_DJFmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 486,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/jrmnKPs0tG",
+        "username": "skyJiLine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T21:32:12.000Z",
+        "description": "Cherry Studio is an open-source tool integrating 40+ LLM providers, offering enhanced chats, knowledge bases, full MCP support, and a simple UI. Try it !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CherryHQ/cherr…",
+                "end": 23,
+                "expanded_url": "https://github.com/CherryHQ/cherry-studio",
+                "start": 0,
+                "url": "https://t.co/K72CK1n0px"
+              }
+            ]
+          }
+        },
+        "id": "1879280309608554496",
+        "name": "Cherry Studio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879283934070259712/yGCEkFwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 420,
+          "like_count": 1,
+          "listed_count": 32,
+          "media_count": 41,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/K72CK1n0px",
+        "username": "CherryStudioHQ",
+        "verified": false
+      }
+    ]
+  }
+}

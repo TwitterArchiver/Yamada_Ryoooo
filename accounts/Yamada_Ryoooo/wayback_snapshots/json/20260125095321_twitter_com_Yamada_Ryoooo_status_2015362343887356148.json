@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1768487038645678080",
+    "conversation_id": "2015341695764942953",
+    "created_at": "2026-01-25T09:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015362343887356148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933059068144594944",
+          "start": 0,
+          "username": "Pont082179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015362343887356148",
+    "in_reply_to_user_id": "1933059068144594944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015341695764942953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pont082179 😿\n还有不知道docker的运维呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768487038645678080",
+        "conversation_id": "2015341695764942953",
+        "created_at": "2026-01-25T09:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015362343887356148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933059068144594944",
+              "start": 0,
+              "username": "Pont082179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015362343887356148",
+        "in_reply_to_user_id": "1933059068144594944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015341695764942953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pont082179 😿\n还有不知道docker的运维呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933059068144594944",
+        "conversation_id": "2015341695764942953",
+        "created_at": "2026-01-25T08:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015341695764942953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015341695764942953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1248,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "震惊居然这么多人不知道markdown，非工科生也就算了，计算机类的研究生居然也不知道，问我为什么复制AI的输出总是会有一些奇怪的符号🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5928,
+          "following_count": 1081,
+          "like_count": 15387,
+          "listed_count": 21,
+          "media_count": 1500,
+          "tweet_count": 8664
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-12T07:09:42.000Z",
+        "description": "A cyber drifter | 可以叫我庞特or小特 | 🌈 | 纸片人正态控 | 仅限交友 | 随缘互fo | 三无账号🚫 | 鉴证🚫 | 私信请注意边界感 | 当朋友圈发 | 如果认出我请不要说出去🤫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pont83280",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pont83280",
+                "start": 0,
+                "url": "https://t.co/ySY6nU3KY2"
+              }
+            ]
+          }
+        },
+        "id": "1933059068144594944",
+        "location": "绒宝的萨米雪景球",
+        "name": "P.T. 小特",
+        "pinned_tweet_id": "2003422016259653666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014060694917009408/2-3E1eQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 147,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/ySY6nU3KY2",
+        "username": "Pont082179",
+        "verified": false
+      }
+    ]
+  }
+}

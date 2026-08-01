@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2014638301035069441"
+      ],
+      "media_source_tweet_id": [
+        "2014638400477843576"
+      ]
+    },
+    "author_id": "1768487038645678080",
+    "conversation_id": "2014948429118738565",
+    "created_at": "2026-01-24T06:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T07:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014948429118738565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLJGXaHFVe",
+          "end": 27,
+          "expanded_url": "https://x.com/inkwakuzi_/status/2014638400477843576/video/1",
+          "media_key": "7_2014638301035069441",
+          "start": 4,
+          "url": "https://t.co/RLJGXaHFVe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014948429118738565",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？？？ https://t.co/RLJGXaHFVe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26282,
+        "height": 1280,
+        "media_key": "7_2014638301035069441",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014638301035069441/pu/img/HsITwudKPQEEA-qL.jpg",
+        "public_metrics": {
+          "view_count": 2171305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014638301035069441/pu/vid/avc1/320x568/gGMfVUEenoYp3Q6R.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014638301035069441/pu/vid/avc1/480x852/1aP9I1f9uYd0GfLc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014638301035069441/pu/vid/avc1/720x1280/CKXeLbc0TNRw_pjv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014638301035069441/pu/pl/N0HVzUO28xiWgcIO.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014638301035069441"
+          ],
+          "media_source_tweet_id": [
+            "2014638400477843576"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2014948429118738565",
+        "created_at": "2026-01-24T06:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014948429118738565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RLJGXaHFVe",
+              "end": 27,
+              "expanded_url": "https://x.com/inkwakuzi_/status/2014638400477843576/video/1",
+              "media_key": "7_2014638301035069441",
+              "start": 4,
+              "url": "https://t.co/RLJGXaHFVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014948429118738565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/RLJGXaHFVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜ADHD｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜情绪垃圾桶 @YamadaRyoooooo｜互fo私訊｜VRChat重度患者｜LLM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/B7V9JCaVwu"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "pinned_tweet_id": "2012707154097246392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997693328620720128/ShKO7vjT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5929,
+          "following_count": 1084,
+          "like_count": 15319,
+          "listed_count": 21,
+          "media_count": 1497,
+          "tweet_count": 8640
+        },
+        "url": "https://t.co/B7V9JCaVwu",
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}
